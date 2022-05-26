@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0101000 0 1110010
+0101000 0 0 0011000
+0 0 0 0110110
+0110000 0 0100000 0
+src.java.org.apache.cassandra.db.marshal.TypeParser_java
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.db.marshal.ReversedType_java
+src.java.org.apache.cassandra.db.marshal.AbstractType_java

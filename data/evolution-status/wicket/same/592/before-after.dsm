@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 10001
+11000 0
+wicket-examples.src.java.wicket.examples.cdapp.SearchCDPage_java
+wicket-examples.src.java.wicket.examples.cdapp.EditCDPage_java

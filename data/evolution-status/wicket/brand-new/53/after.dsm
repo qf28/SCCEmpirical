@@ -1,0 +1,8 @@
+[Call,Typed,Use,Create]
+3
+0 1000 0
+0010 0 1111
+1100 0 0
+wicket.src.main.java.wicket.util.lang.reflect.IMethodFilter_java
+wicket.src.main.java.wicket.util.lang.reflect.ReflectionUtils_java
+wicket.src.main.java.wicket.util.lang.reflect.ClassReflectionCache_java

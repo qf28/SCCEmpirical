@@ -1,0 +1,32 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+15
+0 0 0 0 0 0100000 0100000 0 0 0 0100000 0 0 0 0
+0 0 0 0 0 0 0100000 0 0 0 0 0 0 0 0
+0 0110010 0 0000010 0100000 0 0100000 0 0 0110000 0100000 0100010 0100110 0100010 0100001
+0 0 0110000 0 0 0 0 0100000 0 0 0 0 0 0 0
+0 0 0110000 0 0 0 0100100 0 0 0 0100000 0 0 0 0
+0 0 0 0 0 0 0100000 0 0 0 0 0 0100000 0 0
+0 0 0110000 0 0 0 0 0 0 0 0 0 0100000 0 0100001
+0 0 0110000 0 0100000 0 0100000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0100000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0100000 0 1110011 0 0100000 0 0 0 0
+0 0 0100000 0 0 0 0100000 0 0 0 0 0 0 0 0
+0 0 0110010 0 0 0 0 0 0 0 0100000 0 0 0 0
+0 0 0110000 0 0 0 0100000 0100000 0 0 0 0 0 0 0
+0 0 0110000 0 0 0 0100000 0 0 0 0 0 0 0 0
+0100000 0 0 0 0 0 0100000 0 0 0 0100000 0 0 0 0
+java.testing.org.apache.derbyTesting.junit.XML_java
+java.testing.org.apache.derbyTesting.junit.NetworkServerControlWrapper_java
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java
+java.testing.org.apache.derbyTesting.junit.DataSourceConnector_java
+java.testing.org.apache.derbyTesting.junit.BaseJDBCTestCase_java
+java.testing.org.apache.derbyTesting.junit.SupportFilesSetup_java
+java.testing.org.apache.derbyTesting.junit.BaseTestCase_java
+java.testing.org.apache.derbyTesting.junit.JDBCDataSource_java
+java.testing.org.apache.derbyTesting.junit.DerbyDistribution_java
+java.testing.org.apache.derbyTesting.junit.ReleaseRepository_java
+java.testing.org.apache.derbyTesting.junit.JDBC_java
+java.testing.org.apache.derbyTesting.junit.CleanDatabaseTestSetup_java
+java.testing.org.apache.derbyTesting.junit.DropDatabaseSetup_java
+java.testing.org.apache.derbyTesting.junit.NetworkServerTestSetup_java
+java.testing.org.apache.derbyTesting.junit.SecurityManagerSetup_java

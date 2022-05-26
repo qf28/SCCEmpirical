@@ -1,0 +1,8 @@
+[Typed,Import,Use,Throw,Implement]
+3
+0 0 10000
+0 0 00100
+00100 10000 0
+ambari-server.src.main.java.org.apache.ambari.server.ServiceComponentNode_java
+ambari-server.src.main.java.org.apache.ambari.server.Service_java
+ambari-server.src.main.java.org.apache.ambari.server.ServiceComponent_java

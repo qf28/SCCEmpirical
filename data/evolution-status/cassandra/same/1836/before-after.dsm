@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 1111
+1110 0
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java

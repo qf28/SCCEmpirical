@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Use,Create]
+3
+0 111000 111000
+111001 0 110010
+111000 110011 0
+src.main.java.org.apache.hadoop.hbase.regionserver.compactions.CompactionRequest_java
+src.main.java.org.apache.hadoop.hbase.regionserver.Store_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

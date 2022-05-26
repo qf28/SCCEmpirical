@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+3
+0 0010000000 0010000000
+0010000000 0 0
+0110000000 0 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.io.crypto.Cipher_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.io.crypto.CipherProvider_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.io.crypto.Context_java

@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+6
+0 0 0 01000100 0 0
+0 0 0 01000100 01000100 0
+01000100 01000100 0 11100100 01000100 01000100
+0 0 01100100 0 0 0
+0 0 0 01000100 0 0
+0 0 0 01000100 0 0
+src.java.org.apache.commons.math.linear.QRDecompositionImpl_java
+src.java.org.apache.commons.math.linear.SingularValueDecompositionImpl_java
+src.java.org.apache.commons.math.linear.DecompositionSolver_java
+src.java.org.apache.commons.math.linear.RealMatrixImpl_java
+src.java.org.apache.commons.math.linear.EigenDecompositionImpl_java
+src.java.org.apache.commons.math.linear.LUDecompositionImpl_java

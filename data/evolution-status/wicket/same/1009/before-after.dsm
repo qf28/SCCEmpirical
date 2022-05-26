@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 11000
+11001 0
+wicket-examples.src.java.wicket.examples.frames.LeftFrame_java
+wicket-examples.src.java.wicket.examples.frames.BodyFrame_java

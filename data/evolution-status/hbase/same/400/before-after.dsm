@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+6
+0 0 001000000 0 0 0
+0 0 011000000 000001000 0 011000000
+011000000 011000100 0 0 0 011000100
+000000001 0 001000000 0 0 0
+0 0 001100000 0 0 0
+0 0 011000000 0 110100010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RowProcessor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MultiRowMutationProcessor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.BaseRowProcessor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coprocessor.RegionObserver_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionCoprocessorHost_java

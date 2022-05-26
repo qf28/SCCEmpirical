@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+4
+0 0 0 1100000
+1100011 0 1100011 1100010
+0 0 0 0000001
+0 1000000 0 0
+src.java.org.apache.hadoop.hbase.HMemcache_java
+src.java.org.apache.hadoop.hbase.HRegion_java
+src.java.org.apache.hadoop.hbase.HStore_java
+src.java.org.apache.hadoop.hbase.HLog_java

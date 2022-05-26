@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 001000000
+001000000 0 001000000
+0 001000100 0
+src.org.apache.pig.experimental.plan.PlanVisitor_java
+src.org.apache.pig.experimental.plan.Operator_java
+src.org.apache.pig.experimental.plan.OperatorPlan_java

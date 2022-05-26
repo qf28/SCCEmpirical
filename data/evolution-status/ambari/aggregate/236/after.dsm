@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 0 11100 11000
+11100 0 11110 0
+0 00110 0 0
+0 00110 0 0
+ambari-server.src.main.java.org.apache.ambari.server.topology.addservice.AddServiceOrchestrator_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ServiceResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AddServiceRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.addservice.ResourceProviderAdapter_java

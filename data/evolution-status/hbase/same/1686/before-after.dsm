@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+5
+0 0 0110000 0 0
+0001000 0 0 0 0
+0 1111010 0 1100010 0
+0110001 0 0110001 0 0100001
+0 0 0000010 0110110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.BaseLoadBalancer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMasterCommandLine_java

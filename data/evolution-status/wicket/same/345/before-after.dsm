@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend]
+2
+0 1110
+1010 0
+wicket-util.src.main.java.org.apache.wicket.util.string.StringValue_java
+wicket-util.src.main.java.org.apache.wicket.util.time.Duration_java

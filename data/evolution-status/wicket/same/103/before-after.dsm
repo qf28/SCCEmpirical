@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Implement]
+4
+0 0 0010000 0
+0010000 0 0010000 0
+0 0010000 0 0010000
+0 0010000 0 0
+wicket-extensions.src.main.java.wicket.extensions.wizard.IWizardModelListener_java
+wicket-extensions.src.main.java.wicket.extensions.wizard.IWizardModel_java
+wicket-extensions.src.main.java.wicket.extensions.wizard.IWizardStep_java
+wicket-extensions.src.main.java.wicket.extensions.wizard.IWizard_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 011010
+011011 0
+java.engine.org.apache.derby.impl.store.raw.log.LogAccessFile_java
+java.engine.org.apache.derby.impl.store.raw.log.LogToFile_java

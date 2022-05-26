@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 0110010
+1100110 0
+hbase-procedure.src.main.java.org.apache.hadoop.hbase.procedure2.store.BitSetNode_java
+hbase-procedure.src.main.java.org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker_java

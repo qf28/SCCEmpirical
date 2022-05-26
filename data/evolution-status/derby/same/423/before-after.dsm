@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create]
+2
+0 0111
+0111 0
+java.engine.org.apache.derby.impl.store.access.btree.LeafControlRow_java
+java.engine.org.apache.derby.impl.store.access.btree.BranchControlRow_java

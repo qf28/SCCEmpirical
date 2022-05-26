@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Use,Create,Implement]
+2
+0 0
+1010000 0
+src.java.org.apache.cassandra.security.SSLFactory_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

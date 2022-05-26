@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+2
+0 0000100
+0110000 0
+wicket-experimental.wicket-cdi-1_1.wicket-cdi-1_1-core.src.main.java.org.apache.wicket.cdi.AbstractCdiContainer_java
+wicket-experimental.wicket-cdi-1_1.wicket-cdi-1_1-core.src.main.java.org.apache.wicket.cdi.ConversationPropagator_java

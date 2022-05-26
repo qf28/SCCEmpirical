@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 010000
+010000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.protobuf.ProtobufUtil_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.protobuf.ResponseConverter_java

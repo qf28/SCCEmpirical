@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Create,Use,Implement,Modify]
+8
+0 0111000 0010010 0 0 0 0 0
+1111001 0 0010010 0110000 0 0 0 0
+0010000 0010000 0 0 0 0 0 0
+0010000 0 0 0 0 0 0 0
+1111001 0 0 0110000 0 0 0 0
+0010000 0 0 0110000 1101000 0 0101000 0
+1111000 0110000 1110000 0000010 0 0110000 0 0100000
+1110000 1110100 0 0110000 1110000 0010100 0 0
+java.engine.org.apache.derby.impl.services.locks.Lock_java
+java.engine.org.apache.derby.impl.services.locks.LockControl_java
+java.engine.org.apache.derby.impl.services.locks.Control_java
+java.engine.org.apache.derby.impl.services.locks.LockTable_java
+java.engine.org.apache.derby.impl.services.locks.LockSpace_java
+java.engine.org.apache.derby.impl.services.locks.SinglePool_java
+java.engine.org.apache.derby.impl.services.locks.LockSet_java
+java.engine.org.apache.derby.impl.services.locks.Deadlock_java

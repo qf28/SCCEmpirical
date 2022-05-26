@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+3
+0 0 11100100000
+01100010000 0 0
+00100000000 01000100000 0
+src.main.java.spoon.support.template.SubstitutionVisitor_java
+src.main.java.spoon.template.Substitution_java
+src.main.java.spoon.template.AbstractTemplate_java

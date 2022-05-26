@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create]
+2
+0 0
+01011 0
+contrib.piggybank.java.src.main.java.org.apache.pig.piggybank.storage.hiverc.HiveRCInputFormat_java
+contrib.piggybank.java.src.main.java.org.apache.pig.piggybank.storage.HiveColumnarLoader_java

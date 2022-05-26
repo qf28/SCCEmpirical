@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 01100000
+01000001 0
+src.org.apache.pig.tools.pigstats.mapreduce.MRPigStatsUtil_java
+src.org.apache.pig.tools.pigstats.mapreduce.MRJobStats_java

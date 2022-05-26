@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0110000
+0100001 0
+src.main.org.apache.tools.ant.DefaultDefinitions_java
+src.main.org.apache.tools.ant.ComponentHelper_java

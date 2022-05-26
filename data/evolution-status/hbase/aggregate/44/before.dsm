@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use]
+2
+0 0
+11011 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.AbstractFSWAL_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.LogRoller_java

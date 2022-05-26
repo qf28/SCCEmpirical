@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use]
+3
+0 110001 0
+110010 0 0
+001100 0 0
+src.main.org.apache.tools.ant.AntClassLoader_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.loader.AntClassLoader2_java

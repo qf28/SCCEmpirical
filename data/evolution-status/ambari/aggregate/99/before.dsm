@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+5
+0 0 0 0 0
+0111000 0 0 0 0
+0 0111010 0 0 0
+0110000 0 0101000 0 0
+0 0110010 0 0 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.dao.HostRoleCommandDAO_java
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.Stage_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.CalculatedStatus_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.dao.StageDAO_java
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.Request_java

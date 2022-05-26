@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Implement]
+3
+0 0001000 0
+0111000 0 1101000
+0010000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.RegionMergeCoordination_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionMergeTransaction_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.BaseCoordinatedStateManager_java

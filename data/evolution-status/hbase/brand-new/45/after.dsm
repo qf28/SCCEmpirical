@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 0001
+0001 0
+hbase-common.src.test.java.org.apache.hadoop.hbase.SystemExitRule_java
+hbase-common.src.test.java.org.apache.hadoop.hbase.TestSecurityManager_java

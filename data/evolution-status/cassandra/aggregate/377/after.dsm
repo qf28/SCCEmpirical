@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 1000000 0
+0100000 0 1110011
+0100000 0 0
+src.java.org.apache.cassandra.service.PendingRangeCalculatorService_java
+src.java.org.apache.cassandra.service.PendingRangeCalculatorServiceDiagnostics_java
+src.java.org.apache.cassandra.service.PendingRangeCalculatorServiceEvent_java

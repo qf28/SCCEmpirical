@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+3
+0 010100100 0
+000101000 0 000101000
+0 010100100 0
+src.java.org.apache.hadoop.hbase.rest.filter.RowFilterSetFactory_java
+src.java.org.apache.hadoop.hbase.rest.RESTConstants_java
+src.java.org.apache.hadoop.hbase.rest.filter.WhileMatchRowFilterFactory_java

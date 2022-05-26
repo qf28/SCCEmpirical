@@ -1,0 +1,12 @@
+[Typed,Import,Extend,Throw,Use,Implement]
+5
+0 0 100000 0 0
+0 0 0 100000 0
+0 0 0 0 100000
+0 0 0 0 100000
+100000 100000 0 0 0
+java.stubs.jdbc4.javax.sql.StatementEventListener_java
+java.stubs.jdbc4.javax.sql.ConnectionEventListener_java
+java.stubs.jdbc4.javax.sql.StatementEvent_java
+java.stubs.jdbc4.javax.sql.ConnectionEvent_java
+java.stubs.jdbc4.javax.sql.PooledConnection_java

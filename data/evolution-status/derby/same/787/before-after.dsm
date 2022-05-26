@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use]
+3
+0 110000 100000
+100010 0 100000
+0 110000 0
+java.org_apache_derby_tests.org.apache.derbyTesting.junit.NetworkServerTestSetup_java
+java.org_apache_derby_tests.org.apache.derbyTesting.junit.TestConfiguration_java
+java.org_apache_derby_tests.org.apache.derbyTesting.junit.BaseTestCase_java

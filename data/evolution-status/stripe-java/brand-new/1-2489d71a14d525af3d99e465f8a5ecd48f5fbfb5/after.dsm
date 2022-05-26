@@ -1,0 +1,6 @@
+[Call,Return,Import,Use,Parameter,Contain]
+2
+0 010100
+000110 0
+src.main.java.com.stripe.model.BalanceTransaction_java
+src.main.java.com.stripe.model.BalanceTransactionCollection_java

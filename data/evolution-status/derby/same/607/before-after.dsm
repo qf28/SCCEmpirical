@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement]
+2
+0 01101100
+01101100 0
+java.client.org.apache.derby.client.am.ResultSet_java
+java.client.org.apache.derby.client.am.Statement_java

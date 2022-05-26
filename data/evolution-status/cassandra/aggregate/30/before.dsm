@@ -1,0 +1,6 @@
+[Call,Import,Use]
+2
+0 0
+110 0
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.locator.AbstractReplicationStrategy_java

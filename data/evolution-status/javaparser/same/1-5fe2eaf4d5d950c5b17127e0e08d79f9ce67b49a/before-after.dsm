@@ -1,0 +1,6 @@
+[Call,Import,Use]
+2
+0 010
+111 0
+javaparser-core.src.main.java.com.github.javaparser.ASTHelper_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java

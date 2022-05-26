@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+4
+0 1001100 0000010 0000010
+0000010 0 0000010 0000010
+1100011 1001100 0 1100010
+1100011 1001100 1100010 0
+ambari-server.src.main.java.org.apache.ambari.server.stack.ServiceModule_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.BaseModule_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.ExtensionModule_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.StackModule_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0110010
+0110000 0
+wicket.src.main.java.org.apache.wicket.util.tester.BaseWicketTester_java
+wicket.src.main.java.org.apache.wicket.util.tester.FormTester_java

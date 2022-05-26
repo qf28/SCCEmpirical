@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Use,Create]
+2
+0 111011
+011110 0
+src.java.org.apache.cassandra.db.ReadCommand_java
+src.java.org.apache.cassandra.db.SinglePartitionReadCommand_java

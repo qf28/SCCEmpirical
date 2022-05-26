@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Use,Create,Implement,Modify]
+3
+0 11001100 10000000
+0 0 10000000
+00100100 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.Directories_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

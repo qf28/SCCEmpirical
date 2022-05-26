@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use]
+3
+0 011010 0
+011000 0 010010
+011000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncConnectionImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionOverAsyncConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.TableOverAsyncTable_java

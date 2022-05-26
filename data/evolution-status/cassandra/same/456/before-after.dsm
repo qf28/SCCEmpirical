@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create,Implement]
+3
+0 110010 001100
+0 0 101100
+110110 0 0
+src.java.org.apache.cassandra.utils.btree.Builder_java
+src.java.org.apache.cassandra.utils.btree.NodeBuilder_java
+src.java.org.apache.cassandra.utils.btree.BTree_java

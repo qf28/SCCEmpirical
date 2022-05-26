@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 00010
+10001 0
+src.org.apache.pig.data.DefaultTupleFactory_java
+src.org.apache.pig.data.TupleFactory_java

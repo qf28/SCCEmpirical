@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create,Implement]
+4
+0 0 0 0
+0 0 0 0
+110100 110000 0 0
+0 010001 110010 0
+src.main.org.apache.tools.ant.taskdefs.optional.junitlauncher.TestRequest_java
+src.main.org.apache.tools.ant.taskdefs.optional.junitlauncher.TestExecutionContext_java
+src.main.org.apache.tools.ant.taskdefs.optional.junitlauncher.LauncherSupport_java
+src.main.org.apache.tools.ant.taskdefs.optional.junitlauncher.StandaloneLauncher_java

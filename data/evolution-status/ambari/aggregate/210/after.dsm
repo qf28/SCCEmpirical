@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 101100
+100001 0
+ambari-server.src.main.java.org.apache.ambari.server.state.svccomphost.ServiceComponentHostUpgradeEvent_java
+ambari-server.src.main.java.org.apache.ambari.server.state.ServiceComponentHostEvent_java

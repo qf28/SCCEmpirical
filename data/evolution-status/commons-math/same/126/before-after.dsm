@@ -1,0 +1,8 @@
+[Call,Typed,Set,Use,Create]
+3
+0 11011 0
+11010 0 10000
+11010 11111 0
+src.main.java.org.apache.commons.math4.dfp.DfpField_java
+src.main.java.org.apache.commons.math4.dfp.Dfp_java
+src.main.java.org.apache.commons.math4.dfp.DfpMath_java

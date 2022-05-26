@@ -1,0 +1,6 @@
+[Call,Return,Use,Parameter,Contain]
+2
+0 01111
+11110 0
+src.main.java.com.stripe.model.Customer_java
+src.main.java.com.stripe.model.Subscription_java

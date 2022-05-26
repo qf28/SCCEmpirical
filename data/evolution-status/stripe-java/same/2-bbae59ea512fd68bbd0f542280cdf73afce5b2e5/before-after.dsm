@@ -1,0 +1,8 @@
+[Call,Import,Return,Use,Parameter,Contain]
+3
+0 000001 000001
+0 0 001100
+001110 0 0
+src.main.java.com.stripe.model.Customer_java
+src.main.java.com.stripe.model.CustomerSubscriptionCollection_java
+src.main.java.com.stripe.model.Subscription_java

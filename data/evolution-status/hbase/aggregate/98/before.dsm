@@ -1,0 +1,14 @@
+[Call,Typed,Create]
+6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+111 111 111 111 111 0
+src.main.java.org.apache.hadoop.hbase.rest.ScannerResource_java
+src.main.java.org.apache.hadoop.hbase.rest.RowResource_java
+src.main.java.org.apache.hadoop.hbase.rest.ExistsResource_java
+src.main.java.org.apache.hadoop.hbase.rest.RegionsResource_java
+src.main.java.org.apache.hadoop.hbase.rest.SchemaResource_java
+src.main.java.org.apache.hadoop.hbase.rest.TableResource_java

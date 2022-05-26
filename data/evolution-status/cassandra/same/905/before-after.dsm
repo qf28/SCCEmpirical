@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0000001000
+0110011000 0
+src.java.org.apache.cassandra.db.ColumnFamily_java
+src.java.org.apache.cassandra.db.ArrayBackedSortedColumns_java

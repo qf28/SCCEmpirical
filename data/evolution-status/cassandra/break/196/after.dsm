@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 0
+10010 0
+src.java.org.apache.cassandra.concurrent.MultiThreadedStage_java
+src.java.org.apache.cassandra.net.MessagingService_java

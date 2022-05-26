@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+8
+0 0 0 0 001000000 001000000 0 0
+0 0 0 010101100 010000000 010000000 011000100 010000000
+011100000 0 0 0 010100001 010000000 0 0
+0 000100100 0 0 0 0 0 011000100
+001000000 0 0 0 0 0 0 0
+011000000 0 0 0 010000000 0 0 110100100
+001000001 111100110 110100100 011100000 011000000 011000010 0 010111100
+0 0 0 011000110 010100000 0 110100100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.BaseLoadBalancer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.LoadBalancer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

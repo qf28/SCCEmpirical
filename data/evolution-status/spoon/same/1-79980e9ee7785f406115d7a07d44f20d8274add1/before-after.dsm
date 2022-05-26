@@ -1,0 +1,8 @@
+[Cast,Call,Import,Extend,Use,Create,Parameter,Contain]
+3
+0 01000101 01000101
+01101011 0 01000101
+01101011 0 0
+src.main.java.spoon.pattern.PatternBuilder_java
+src.main.java.spoon.pattern.PatternParameterConfigurator_java
+src.main.java.spoon.pattern.InlinedStatementConfigurator_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Throw,Implement]
+5
+0 010110000 0 011000000 011001000
+0 0 010110000 0 0
+0 0 0 011100000 011100000
+001000000 0 0 0 011000000
+0 0 010100000 011000000 0
+wicket-util.src.main.java.org.apache.wicket.util.time.TimeOfDay_java
+wicket-util.src.main.java.org.apache.wicket.util.lang.EnumeratedType_java
+wicket-util.src.main.java.org.apache.wicket.util.string.StringValue_java
+wicket-util.src.main.java.org.apache.wicket.util.time.Time_java
+wicket-util.src.main.java.org.apache.wicket.util.time.Duration_java

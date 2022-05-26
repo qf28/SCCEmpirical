@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use]
+3
+0 1101001 1101000
+0 0 1100001
+0101000 0 0
+src.org.apache.pig.backend.hadoop.executionengine.util.AccumulatorOptimizerUtil_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POForEach_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POPackage_java

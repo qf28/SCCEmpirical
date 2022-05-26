@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+4
+0 1100000001 0 0
+1100011001 0 0010010011 0111010011
+0 0111010001 0 0010000100
+0 0011010000 0 0
+src.main.java.spoon.support.sniper.internal.CollectionSourceFragment_java
+src.main.java.spoon.support.sniper.internal.ElementSourceFragment_java
+src.main.java.spoon.support.reflect.CtExtendedModifier_java
+src.main.java.spoon.reflect.cu.SourcePositionHolder_java

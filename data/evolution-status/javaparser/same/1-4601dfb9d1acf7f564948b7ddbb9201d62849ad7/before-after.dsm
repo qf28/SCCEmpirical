@@ -1,0 +1,14 @@
+[Call,Import,Use,Create]
+6
+0 0 0 1001 1001 1011
+0 0 1110 1001 1001 1011
+1001 1001 0 0 0 0
+0 0 1110 0 0 0
+1001 1001 1110 0 0 1011
+0 0 1110 0 1001 0
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserClassDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.JavaParserFacade_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserFieldDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserMethodDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserTypeParameter_java

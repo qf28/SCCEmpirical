@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create]
+4
+0 000001 000001 000001
+000010 0 0 0
+000010 0 0 0
+000010 0 0 0
+src.org.apache.pig.impl.bloom.Hash_java
+src.org.apache.pig.impl.bloom.Murmur3Hash_java
+src.org.apache.pig.impl.bloom.JenkinsHash_java
+src.org.apache.pig.impl.bloom.KirschMitzenmacherHash_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 00100010
+01100100 0
+src.java.org.apache.cassandra.db.ColumnFamily_java
+src.java.org.apache.cassandra.db.ColumnFamilySerializer_java

@@ -1,0 +1,6 @@
+[Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+2
+0 10000100
+10010010 0
+src.main.java.org.eclipse.yasson.model.PropertyValuePropagation_java
+src.main.java.org.eclipse.yasson.model.ReflectionPropagation_java

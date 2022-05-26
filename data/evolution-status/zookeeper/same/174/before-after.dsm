@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+5
+0 010000000 0 011100100 011110100
+0 0 011000110 0 011110100
+0 001100100 0 0 001100100
+0 0 0 0 011000100
+011000010 011000110 011000000 011000110 0
+zookeeper-server.src.main.java.org.apache.zookeeper.server.quorum.FastLeaderElection_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.quorum.Leader_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.quorum.LearnerHandler_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.quorum.QuorumCnxManager_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.quorum.QuorumPeer_java

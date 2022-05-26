@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 10100
+00110 0
+src.test.java.org.apache.avro.TestSchema_java
+src.test.java.org.apache.avro.specific.TestSpecificCompiler_java

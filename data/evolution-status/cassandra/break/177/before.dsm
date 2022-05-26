@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 1111101 0
+0000100 0 1100100
+0 1100100 0
+src.java.org.apache.cassandra.transport.messages.CredentialsMessage_java
+src.java.org.apache.cassandra.transport.Message_java
+src.java.org.apache.cassandra.transport.Frame_java

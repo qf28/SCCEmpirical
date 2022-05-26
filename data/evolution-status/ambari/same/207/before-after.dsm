@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 0 0 001000100
+011100100 0 0 001100100
+001100100 011000000 0 001100100
+001100100 011100000 011101000 0
+ambari-server.src.main.java.org.apache.ambari.server.stack.upgrade.UpgradePack_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.upgrade.orchestrate.UpgradeContext_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.upgrade.orchestrate.StageWrapperBuilder_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.upgrade.Grouping_java

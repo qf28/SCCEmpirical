@@ -1,0 +1,4 @@
+[Call,Import,Extend]
+1
+0
+hbase-server.src.main.java.org.apache.hadoop.hbase.tool.PreUpgradeValidator_java

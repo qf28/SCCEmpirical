@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0100100
+0100010 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.WidgetResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.AbstractControllerResourceProvider_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 00100000
+01100010 0
+src.org.apache.pig.experimental.plan.PlanWalker_java
+src.org.apache.pig.experimental.plan.PlanVisitor_java

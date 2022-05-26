@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 0
+1101 0
+java.testing.org.apache.derbyTesting.junit.RuntimeStatisticsParser_java
+java.testing.org.apache.derbyTesting.junit.JDBC_java

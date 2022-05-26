@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use]
+2
+0 11000
+11000 0
+src.org.apache.pig.impl.logicalLayer.LOVisitor_java
+src.org.apache.pig.impl.logicalLayer.LOProject_java

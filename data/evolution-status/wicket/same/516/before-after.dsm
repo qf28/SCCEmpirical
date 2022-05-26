@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use]
+2
+0 11000
+01000 0
+wicket.src.java.wicket.RequestListenerInterface_java
+wicket.src.java.wicket.Page_java

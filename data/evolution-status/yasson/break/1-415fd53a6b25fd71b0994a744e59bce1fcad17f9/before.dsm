@@ -1,0 +1,24 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+11
+0 0 0 0110001000 0110001000 0 0 0101011001 0 0 0001010011
+0 0 0 0 0 0 0110010000 0 0100000010 0 0
+0 0 0 0 0 0101010011 0110010001 0 0 0 0
+0 0 0 0 0 0010000000 0 0 0 0 0
+0 0 0 0 0 0010000000 0 0 0 0 0
+0 0100010001 0101010011 0 0 0 0110010001 0 0100000010 0 0
+0 0 0100000000 0 0 0 0 0000000001 0110000010 0 0
+0100000010 0 0100000000 0 0 1110010000 0 0 0 0 0
+0 0 0001010011 0 0 0 0 0 0 0 0
+0 0 0110000010 0 0 0110011001 0 0 0110011011 0 0
+0 0 0111011011 0 0 0 0 0 0 0100001001 0
+src.main.java.org.eclipse.persistence.json.bind.internal.JsonbContext_java
+src.main.java.org.eclipse.persistence.json.bind.model.PropertyValuePropagation_java
+src.main.java.org.eclipse.persistence.json.bind.model.ClassModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.internalOrdering.ReverseOrderStrategy_java
+src.main.java.org.eclipse.persistence.json.bind.internal.internalOrdering.LexicographicalOrderStrategy_java
+src.main.java.org.eclipse.persistence.json.bind.model.PropertyModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.AnnotationIntrospector_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ComponentMatcher_java
+src.main.java.org.eclipse.persistence.json.bind.model.Property_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ClassParser_java
+src.main.java.org.eclipse.persistence.json.bind.internal.MappingContext_java

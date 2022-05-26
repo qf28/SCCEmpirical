@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 01000000 01000000
+01101000 0 0
+00101000 0 0
+core.src.main.java.org.apache.hadoop.hbase.util.Hash_java
+core.src.main.java.org.apache.hadoop.hbase.util.JenkinsHash_java
+core.src.main.java.org.apache.hadoop.hbase.util.MurmurHash_java

@@ -1,0 +1,14 @@
+[Cast,Call,Return,Import,Extend,Use,Create,Parameter,Contain,Annotation]
+6
+0 0 0 0 0000000100 0100110000
+0 0 0 0 0000000100 0100100000
+0 0 0 0100100000 0000000100 0100010000
+0 0 0 0 0000000100 0100110000
+0100001000 0100011000 0100001000 0100011000 0 0
+0 0 0 0 0110001100 0
+src.main.java.org.eclipse.yasson.internal.unmarshaller.MapDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.CollectionDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.TypeWrapperDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.ObjectDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.DeserializerBuilder_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.AbstractContainerDeserializer_java

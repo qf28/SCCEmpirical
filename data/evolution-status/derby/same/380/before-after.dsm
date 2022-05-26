@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+4
+0 1100000 1000000 0100000
+0101010 0 1001110 1101010
+0 0 0 1100000
+1101011 1100000 0001010 0
+java.client.org.apache.derby.client.net.NetXACallInfo_java
+java.client.org.apache.derby.client.net.NetXAConnection_java
+java.client.org.apache.derby.client.net.NetConnection_java
+java.client.org.apache.derby.client.net.NetXAResource_java

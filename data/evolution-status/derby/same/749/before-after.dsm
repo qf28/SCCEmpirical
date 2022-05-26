@@ -1,0 +1,24 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement,Modify]
+11
+0 0 0 1100000000 0 0 0 0 0 0 0100000100
+0 0 0010001000 0 0 0100000000 0 0 0 0110000000 0110000000
+0 0110000100 0 0100001000 1110001100 1110001000 0110000000 1110001100 0100000000 0110001100 0110001100
+0 0 0 0 0 0 0110000000 0 0 0 0
+0 0 0 0 0 0 0 0100010000 0 0 0010000000
+0 0 0110000100 0100001100 0 0 0110000000 0100000100 0 0110001100 0110001000
+1110000100 0 0 0110000000 0 0100000100 0 0 0 0 1110000100
+0 0 0 0 0 0 0 0 0 0 0010000000
+0 0 0 0 0 0 0 0 0 0 0110000000
+0 0 0111001000 0 0 0100001000 0 0 0 0 0
+0 0 0 0 0 0 0100000000 0 0 0 0
+java.engine.org.apache.derby.impl.services.bytecode.VMTypeIdCacheable_java
+java.engine.org.apache.derby.impl.services.bytecode.Conditional_java
+java.engine.org.apache.derby.impl.services.bytecode.BCMethod_java
+java.engine.org.apache.derby.impl.services.bytecode.BCMethodDescriptor_java
+java.engine.org.apache.derby.impl.services.bytecode.BCMethodCaller_java
+java.engine.org.apache.derby.impl.services.bytecode.BCClass_java
+java.engine.org.apache.derby.impl.services.bytecode.BCJava_java
+java.engine.org.apache.derby.impl.services.bytecode.BCLocalField_java
+java.engine.org.apache.derby.impl.services.bytecode.d_BCValidate_java
+java.engine.org.apache.derby.impl.services.bytecode.CodeChunk_java
+java.engine.org.apache.derby.impl.services.bytecode.Type_java

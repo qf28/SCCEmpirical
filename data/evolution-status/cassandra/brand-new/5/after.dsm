@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+10
+0 0 0 0 0 0 001000000 0 0 011001100
+0 0 0 0 0 001000000 0 011000010 010001000 0
+011011100 0 0 0 0 0 011000000 0 0 010000100
+000000100 0 010001000 0 0 0 0 0 0 0
+0 0 010001000 101000100 0 0 0 011000010 0 0
+000000100 0 0 0 0 0 011000000 0 010001000 0
+000001000 111000110 001000000 111000110 111000110 111000110 0 0 001000000 010000000
+0 010000010 0 0 0 100000100 000001000 0 0 0
+011011100 0 0 0 0 0 011000000 0 0 010000100
+0 0 0 0 0 0 001000010 0 0 0
+src.java.org.apache.cassandra.db.transform.BaseIterator_java
+src.java.org.apache.cassandra.db.transform.FilteredRows_java
+src.java.org.apache.cassandra.db.transform.BasePartitions_java
+src.java.org.apache.cassandra.db.transform.UnfilteredPartitions_java
+src.java.org.apache.cassandra.db.transform.FilteredPartitions_java
+src.java.org.apache.cassandra.db.transform.UnfilteredRows_java
+src.java.org.apache.cassandra.db.transform.Transformation_java
+src.java.org.apache.cassandra.db.transform.Filter_java
+src.java.org.apache.cassandra.db.transform.BaseRows_java
+src.java.org.apache.cassandra.db.transform.Stack_java

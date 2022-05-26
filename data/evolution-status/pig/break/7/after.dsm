@@ -1,0 +1,4 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+1
+0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigOutputCommitter_java

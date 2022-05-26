@@ -1,0 +1,14 @@
+[Cast,Call,Import,Create,Use,Parameter,Contain]
+6
+0 0 0 0111000 0 0
+0 0 0 0111000 0 0
+0 0 0 0111000 0 0
+0101111 0101111 0101111 0 0101111 0101111
+0 0 0 0111000 0 0
+0 0 0 0111000 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.TextBlockLiteralExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.StringLiteralExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.BooleanLiteralExpr_java

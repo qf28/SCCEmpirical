@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+3
+0 0001100 0110010
+0111000 0 0
+0110100 0 0
+wicket-core.src.main.java.org.apache.wicket.MarkupContainer_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.border.Border_java
+wicket-core.src.main.java.org.apache.wicket.DequeueContext_java

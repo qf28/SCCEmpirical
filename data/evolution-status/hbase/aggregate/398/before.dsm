@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 0
+010000010 0
+src.main.java.org.apache.hadoop.hbase.regionserver.ScanWildcardColumnTracker_java
+src.main.java.org.apache.hadoop.hbase.regionserver.ScanQueryMatcher_java

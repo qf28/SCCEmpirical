@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+8
+0 0 0 01000000 0 0 0 0
+0 0 01000010 01000000 0 01000010 01000010 01000010
+01001000 0 0 0 0 0 0 0
+0 0 0 0 01000000 0 0 0
+0 01000000 0 0 0 0 0 0
+01001000 0 0 0 0 0 0 0
+0 0 0 01000000 0 0 0 0
+01001000 0 0 0 0 0 0 0
+wicket-cdi-1_1.src.main.java.org.apache.wicket.cdi.AbstractInjector_java
+wicket-cdi-1_1.src.main.java.org.apache.wicket.cdi.CdiConfiguration_java
+wicket-cdi-1_1.src.main.java.org.apache.wicket.cdi.ComponentInjector_java
+wicket-cdi-1_1.src.main.java.org.apache.wicket.cdi.NonContextual_java
+wicket-cdi-1_1.src.main.java.org.apache.wicket.cdi.BeanManagerLookup_java
+wicket-cdi-1_1.src.main.java.org.apache.wicket.cdi.SessionInjector_java
+wicket-cdi-1_1.src.main.java.org.apache.wicket.cdi.CdiShutdownCleaner_java
+wicket-cdi-1_1.src.main.java.org.apache.wicket.cdi.BehaviorInjector_java

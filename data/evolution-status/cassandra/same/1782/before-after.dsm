@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+5
+0 0 01001010 0 00000010
+0 0 01001010 0 00000010
+0 0 0 0 00100100
+00000010 0 01001010 0 00000010
+01000100 11000110 01100100 11000110 0
+src.java.org.apache.cassandra.db.DeletedColumn_java
+src.java.org.apache.cassandra.db.ExpiringColumn_java
+src.java.org.apache.cassandra.db.Column_java
+src.java.org.apache.cassandra.db.CounterColumn_java
+src.java.org.apache.cassandra.db.ColumnSerializer_java

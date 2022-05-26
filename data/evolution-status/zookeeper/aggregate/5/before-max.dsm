@@ -1,0 +1,12 @@
+[Call,Typed,Set,Import,Extend,Use,Throw,Create,Implement]
+5
+0 0 0 110001000 0
+0 0 0 0 010000000
+0 110001000 0 110101000 110001000
+110000010 110001010 100000010 0 111101010
+0 0 0 110001000 0
+zookeeper-server.src.main.java.org.apache.zookeeper.server.ZooKeeperServerBean_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.Request_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.FinalRequestProcessor_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.ZooKeeperServer_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.ServerCnxn_java

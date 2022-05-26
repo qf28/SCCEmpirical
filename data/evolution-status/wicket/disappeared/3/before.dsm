@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use]
+3
+0 001000 001000
+101100 0 0
+001100 0 0
+wicket-experimental.wicket-examples-parent.wicket-examples-jar.src.main.java.org.apache.wicket.examples.base.AbstractBasePage_java
+wicket-experimental.wicket-examples-parent.wicket-examples-jar.src.main.java.org.apache.wicket.examples.components.ComponentExamplesPage_java
+wicket-experimental.wicket-examples-parent.wicket-examples-jar.src.main.java.org.apache.wicket.examples.basic.BasicExamplesPage_java

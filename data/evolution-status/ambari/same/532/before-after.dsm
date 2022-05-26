@@ -1,0 +1,6 @@
+[Call,Typed,Set,Import,Create,Use]
+2
+0 110000
+100010 0
+ambari-server.src.main.java.org.apache.ambari.server.view.ViewContextImpl_java
+ambari-server.src.main.java.org.apache.ambari.server.view.ViewRegistry_java

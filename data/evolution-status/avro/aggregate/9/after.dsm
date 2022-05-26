@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 11000010 01100010
+0 0 01000100
+00000001 0 0
+lang.java.src.java.org.apache.avro.io.DecoderFactory_java
+lang.java.src.java.org.apache.avro.io.DirectBinaryDecoder_java
+lang.java.src.java.org.apache.avro.io.BinaryDecoder_java

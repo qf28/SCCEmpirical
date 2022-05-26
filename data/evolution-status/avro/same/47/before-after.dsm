@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use]
+3
+0 0 011000
+0 0 011011
+010010 010010 0
+lang.java.avro.src.main.java.org.apache.avro.generic.GenericDatumWriter_java
+lang.java.avro.src.main.java.org.apache.avro.generic.GenericDatumReader_java
+lang.java.avro.src.main.java.org.apache.avro.generic.GenericData_java

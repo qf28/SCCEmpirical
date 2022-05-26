@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+5
+0 0100000 0110000 0100000 0
+0 0 0000010 0 0
+0110011 0110000 0 0100000 0110011
+0 0 0010010 0 0
+0 0 0010000 0100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreCompactor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactingMemStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SegmentFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactionPipeline_java

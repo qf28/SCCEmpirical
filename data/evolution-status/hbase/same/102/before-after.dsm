@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+4
+0 01110001 01000000 01110001
+0 0 01010000 01100001
+01000000 01110001 0 01110000
+0 0 01010000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.protobuf.RequestConverter_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.HRegionInfo_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.protobuf.ProtobufUtil_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.ServerName_java

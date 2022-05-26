@@ -1,0 +1,6 @@
+[Import,Implement]
+2
+0 10
+11 0
+javaparser-core.src.main.java.com.github.javaparser.ast.nodeTypes.NodeWithImplements_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java

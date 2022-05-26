@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 01110000 01001100 01110010
+0 0 0 00010100
+0 00110100 0 0
+00010000 01110100 0 0
+ambari-server.src.main.java.org.apache.ambari.server.serveraction.upgrades.UpdateDesiredStackAction_java
+ambari-server.src.main.java.org.apache.ambari.server.state.UpgradeContext_java
+ambari-server.src.main.java.org.apache.ambari.server.serveraction.upgrades.AbstractUpgradeServerAction_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.UpgradeResourceProvider_java

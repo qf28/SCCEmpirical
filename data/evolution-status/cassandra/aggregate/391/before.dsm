@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement]
+9
+0 01110100 0 0 0 0 0 01110100 0
+01110110 0 01100010 01100010 01111100 0 01100100 01100100 0
+0 01100100 0 0 01000000 0 0 01000000 0
+0 01110100 0 0 01110100 0 0 0 0
+0 01100100 0 0 0 0 0 0 0
+0 01110000 0 0 0 0 00010001 01010000 0
+0 01100100 0 0 01010100 01110110 0 01100100 0
+0 01100100 0 0 01100100 0 01010100 0 0
+0 01110100 0 0 0 0 0 01000000 0
+src.java.org.apache.cassandra.metrics.ColumnFamilyMetrics_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.CollationController_java
+src.java.org.apache.cassandra.db.compaction.WrappingCompactionStrategy_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.metrics.CompactionMetrics_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.Keyspace_java
+src.java.org.apache.cassandra.db.compaction.LeveledManifest_java

@@ -1,0 +1,8 @@
+[Call,Typed,Create,Use]
+3
+0 1111 1000
+1110 0 1000
+1010 1000 0
+src.main.org.apache.tools.ant.types.selectors.TokenizedPattern_java
+src.main.org.apache.tools.ant.types.selectors.TokenizedPath_java
+src.main.org.apache.tools.ant.types.selectors.SelectorUtils_java

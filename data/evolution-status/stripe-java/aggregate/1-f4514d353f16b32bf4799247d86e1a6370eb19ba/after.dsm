@@ -1,0 +1,6 @@
+[Cast,Call,Return,Import,Extend,Use,Create,Parameter,Contain]
+2
+0 010100100
+000100000 0
+src.main.java.com.stripe.net.APIResource_java
+src.main.java.com.stripe.model.ChargeRefundCollectionDeserializer_java

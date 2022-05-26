@@ -1,0 +1,14 @@
+[Call,Typed,Import,Extend,Throw]
+6
+0 0 0 0 0 01000
+0 0 01000 01000 01000 01000
+01000 0 0 0 0 00010
+01000 01000 0 0 0 0
+0 0 00010 0 0 0
+01000 01000 0 0 0 0
+java.stubs.jsr169.java.sql.ResultSet_java
+java.stubs.jsr169.java.sql.Connection_java
+java.stubs.jsr169.java.sql.PreparedStatement_java
+java.stubs.jsr169.java.sql.DatabaseMetaData_java
+java.stubs.jsr169.java.sql.CallableStatement_java
+java.stubs.jsr169.java.sql.Statement_java

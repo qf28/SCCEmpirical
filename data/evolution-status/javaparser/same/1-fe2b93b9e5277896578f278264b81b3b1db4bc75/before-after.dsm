@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Use,Create,Parameter,Contain]
+4
+0 00101000 00110000 01100100
+0 0 01001101 0
+00001000 0 0 0
+01000111 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.SuperExpr_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.SuperExprMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java

@@ -1,0 +1,12 @@
+[Cast,Call,Import,Extend,Use,Parameter,Contain]
+5
+0 0 1000000 0 0111100
+0110010 0 0110010 0110010 0110010
+1000110 0 0 0 0000011
+0 0 0 0 0010010
+0 0110100 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.HashCodeVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.RecordDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.MethodCallExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

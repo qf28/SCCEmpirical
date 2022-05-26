@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create]
+2
+0 11110
+01011 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.handler.RSProcedureHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

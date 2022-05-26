@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 101
+110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java

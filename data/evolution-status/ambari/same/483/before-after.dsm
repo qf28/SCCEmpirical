@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+4
+0 00101010 0 0
+00101010 0 00001000 00001000
+00100110 00101000 0 0
+00100110 00101000 0 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.Grouping_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.UpgradePack_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.ClusterGrouping_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.ServiceCheckGrouping_java

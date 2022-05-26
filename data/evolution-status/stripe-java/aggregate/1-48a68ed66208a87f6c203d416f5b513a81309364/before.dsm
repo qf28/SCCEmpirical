@@ -1,0 +1,6 @@
+[Import,Return,Use,Parameter,Contain]
+2
+0 0
+00001 0
+src.main.java.com.stripe.model.Person_java
+src.main.java.com.stripe.model.Account_java

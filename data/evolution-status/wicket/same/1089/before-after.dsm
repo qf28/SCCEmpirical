@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+4
+0 0001001 0 1110101
+0111000 0 0 0111011
+0 0 0 1111001
+1110101 0 0101001 0
+wicket-core.src.main.java.org.apache.wicket.MarkupContainer_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.form.AutoLabelResolver_java
+wicket-core.src.main.java.org.apache.wicket.feedback.FeedbackDelay_java
+wicket-core.src.main.java.org.apache.wicket.Component_java

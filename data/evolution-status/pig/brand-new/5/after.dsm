@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 111000
+001010 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.util.MonitoredUDFExecutor_java
+src.org.apache.pig.builtin.MonitoredUDF_java

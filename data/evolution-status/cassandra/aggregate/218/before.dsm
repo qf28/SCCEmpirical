@@ -1,0 +1,32 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+15
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+000100100 0 0 011000100 0 0 001100000 010011100 011000010 0 0 010000010 0 0 0
+0 011100000 0 0 0 0 0 000000100 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 000000100 0 0 0 0 0 0 0
+0 011000000 0 000000100 0 0 0 000000100 0 0 0 0 0 0 0
+0 001100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 001100000 0 0 0 011000000 0 0 0 0 010000010 0 0 0 010000010
+0 011000100 0 011000100 0 0 0 0 0 0 0 0 0 0 0
+0 011000100 0 0 010000010 0 011100000 010000100 0 0 0 0 0 0 0
+0 011100000 0 0 0 0 0 000000100 0 0 0 0 0 0 0
+0 001100000 0 0 0 000000001 010000000 0 0 0 0 0 010100010 0 0
+0 011000000 0 0 0 0 0 0 010011100 0 0 0 0 0 0
+0 011100000 0 000000100 0 0 0 010000100 0 0 0 0 0 0 0
+0 011100000 010000010 0 0 0 0 000000100 0 010000010 0 0 0 0 0
+0 001100000 0 0 0 000000001 010000000 0 0 0 0 0 0 010100010 0
+src.java.org.apache.cassandra.service.CacheService_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.db.columniterator.SimpleSliceReader_java
+src.java.org.apache.cassandra.io.sstable.Descriptor_java
+src.java.org.apache.cassandra.io.sstable.SSTableIdentityIterator_java
+src.java.org.apache.cassandra.db.filter.IFilter_java
+src.java.org.apache.cassandra.db.filter.QueryFilter_java
+src.java.org.apache.cassandra.io.sstable.SSTable_java
+src.java.org.apache.cassandra.io.sstable.SSTableScanner_java
+src.java.org.apache.cassandra.db.columniterator.IndexedSliceReader_java
+src.java.org.apache.cassandra.db.filter.NamesQueryFilter_java
+src.java.org.apache.cassandra.io.sstable.SSTableBoundedScanner_java
+src.java.org.apache.cassandra.db.columniterator.SSTableNamesIterator_java
+src.java.org.apache.cassandra.db.columniterator.SSTableSliceIterator_java
+src.java.org.apache.cassandra.db.filter.SliceQueryFilter_java

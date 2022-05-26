@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0 01100010
+0 0 01110000
+01100110 01110100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.FileSystemUtilizationChore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

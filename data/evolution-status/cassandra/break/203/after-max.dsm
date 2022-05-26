@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01110000
+00010001 0
+src.java.org.apache.cassandra.cql3.statements.RawSelector_java
+src.java.org.apache.cassandra.cql3.ColumnIdentifier_java

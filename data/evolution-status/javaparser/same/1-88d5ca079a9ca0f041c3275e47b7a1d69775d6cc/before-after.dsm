@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0000000100 0010000000
+0100001010 0 0
+0000000100 0111010010 0
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmToken_java
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmElement_java
+javaparser-core.src.main.java.com.github.javaparser.printer.ConcreteSyntaxModel_java

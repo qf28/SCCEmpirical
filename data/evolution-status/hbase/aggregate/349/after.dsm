@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+10
+0 0 0 00001000 0 0 0 0 0 0
+0 0 0 00001000 0 0 0 0 0 0
+0 00011000 0 0 0 0 0 0 00110000 00010100
+0 0 00010000 0 0 0 0 0 0 0
+01001100 01100100 01010010 01000000 0 0 0 0 00010000 0
+0 0 00010000 00001000 0 0 00010000 0 00010000 00010000
+01000000 0 0 0 0 01110000 0 01110010 0 01110010
+01001100 0 0 01000000 0 01100100 00010000 0 0 0
+0 0 00010000 0 01110010 0 0 0 0 0
+0 0 0 0 0 00011000 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.ProcedureManagerHost_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.RegionServerProcedureManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.snapshot.RegionServerSnapshotManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.ProcedureManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.RegionServerProcedureManagerHost_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.MasterProcedureManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.MasterProcedureManagerHost_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.SnapshotManager_java

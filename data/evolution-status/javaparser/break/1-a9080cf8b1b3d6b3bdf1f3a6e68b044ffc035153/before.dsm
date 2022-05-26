@@ -1,0 +1,10 @@
+[Cast,Call,Import,Extend,Use,Create,Implement,Parameter,Contain]
+4
+0 011000010 011000010 0
+001000010 0 0 001000010
+001000010 0 0 001000010
+0 011000010 011000010 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.MultiTypeParameter_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Throw,Implement]
+4
+0 001100000 0 0
+0 0 011001000 0
+001001000 011001000 0 010000100
+0 011001000 011001000 0
+src.java.org.apache.cassandra.service.AbstractWriteResponseHandler_java
+src.java.org.apache.cassandra.net.MessageIn_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.net.MessageDeliveryTask_java

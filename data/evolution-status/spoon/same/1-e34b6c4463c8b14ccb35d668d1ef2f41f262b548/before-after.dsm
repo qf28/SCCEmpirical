@@ -1,0 +1,6 @@
+[Call,Import,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 11001001
+01000000 0
+src.main.java.spoon.support.reflect.declaration.CtElementImpl_java
+src.main.java.spoon.support.visitor.EqualVisitor_java

@@ -1,0 +1,46 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+22
+0 011000010 111000010 0 0 0 0 0 010000000 0 011000010 0 011000110 000000010 0 0 010100000 010000100 0 011000010 010000100 010000010
+0 0 110000110 0 0 011000010 0 0 0 110000100 0 011000100 0 0 010100000 0 010100000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 110000010 0 0 0 0 010100000 0 0 0 0 0 0 0
+0 0 001100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010001000 0
+0 011100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011100000 0 0
+0 0 0 0 0 0 0 0 0 000000010 0 0 0 0 0 0 0 0 0 0 0 0
+010000000 011000000 0 000100000 0 0 0 0 0 011000100 0 0 0 011000010 0 0 0 010100100 011000100 0 0 0
+0 011100000 0 0 0 0 0 0 0 0 0 0 0 0 0 011100000 0 0 0 011100000 0 0
+0 0 0 0 0 001100010 0 0 0 0 0 0 0 0 010100000 0 010100000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0
+0 011000000 001000000 0 0 0 0 0 0 0 0 0 001000000 0 0 0 0 0 0 001100000 0 0
+0 0 0 0 0 111000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+011000000 011000010 010000100 0 0 0 0 0 0 010000100 010000010 0 0 010000000 0 0 010100000 001000010 0 001100000 011000010 0
+011000010 011000000 0 010000100 0 0 0 0 0 0 011000010 0 011000000 0 010000000 0 010100000 0 0 011100010 010000100 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010100000 0 0 0 0 0
+0 0 0 0 0 0 0 0 111000110 0 0 0 0 0 0 0 010100000 0 0 0 0 0
+0 010000000 0 0 0 001000010 000000010 0 0 0 0 0 0 011000010 0 0 0 0 0 0 0 000000010
+0 011100000 011100000 0 010000100 0 0 0 0 0 010001010 0 011100000 0 0 0 0 0 0 001100000 0 0
+0 011000010 011000100 0 0 0 0 0 0 0 0 0 0 011000000 010100000 0 0 0 0 0 0 000000010
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011100100 010100000 0 000100000 0 0 0
+0 011000000 001000000 0 0 0 0 010000100 0 0 010001010 0 011000000 0 0 0 0 0 0 001100000 0 0
+011000000 011000010 0 010100100 0 0 0 0 0 0 0 0 0 011000010 0 0 010100000 0 011000100 0 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.ColumnFamily_java
+src.java.org.apache.cassandra.db.SuperColumn_java
+src.java.org.apache.cassandra.db.filter.IdentityQueryFilter_java
+src.java.org.apache.cassandra.db.filter.SSTableNamesIterator_java
+src.java.org.apache.cassandra.db.ColumnComparatorFactory_java
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.db.filter.SSTableSliceIterator_java
+src.java.org.apache.cassandra.io.IndexHelper_java
+src.java.org.apache.cassandra.db.Column_java
+src.java.org.apache.cassandra.db.filter.QueryFilter_java
+src.java.org.apache.cassandra.db.EfficientBidiMap_java
+src.java.org.apache.cassandra.db.Memtable_java
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.io.SequenceFile_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.db.filter.NamesQueryFilter_java
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.io.SSTableReader_java
+src.java.org.apache.cassandra.db.filter.SliceQueryFilter_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

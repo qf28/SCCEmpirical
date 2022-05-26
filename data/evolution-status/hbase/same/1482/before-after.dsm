@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 111000110 011000000
+010000000 0 0
+0 000000100 0
+hbase-server.src.test.java.org.apache.hadoop.hbase.HBaseTestingUtility_java
+hbase-server.src.test.java.org.apache.hadoop.hbase.MiniHBaseCluster_java
+hbase-server.src.test.java.org.apache.hadoop.hbase.StartMiniClusterOption_java

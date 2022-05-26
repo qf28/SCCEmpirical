@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 000010
+100110 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.ipc.RpcConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.ipc.AbstractRpcClient_java

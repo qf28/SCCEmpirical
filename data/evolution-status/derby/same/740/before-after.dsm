@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+8
+0 0 0 001000000 0 0 0 0
+0 0 0 011000000 0 010000000 0 0
+110000000 0 0 011010110 0 0 0 0
+111000000 0 010000100 0 000000100 010000000 010000100 010000100
+000000001 010000000 0 011000000 0 0 0 0
+0 0 0 010000000 0 0 0 0
+0 0 0 010000000 0 0 0 0
+0 0 0 011000100 0 0 0 0
+java.testing.org.apache.derbyTesting.junit.Connector_java
+java.testing.org.apache.derbyTesting.junit.JDBCDataSource_java
+java.testing.org.apache.derbyTesting.junit.ConnectorSetup_java
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java
+java.testing.org.apache.derbyTesting.junit.DataSourceConnector_java
+java.testing.org.apache.derbyTesting.junit.BaseJDBCTestCase_java
+java.testing.org.apache.derbyTesting.junit.DropDatabaseSetup_java
+java.testing.org.apache.derbyTesting.junit.DatabaseChangeSetup_java

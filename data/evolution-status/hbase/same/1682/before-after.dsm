@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 000010
+000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileReaderV2_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileWriterV2_java

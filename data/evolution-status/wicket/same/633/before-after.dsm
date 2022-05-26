@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 11101
+00110 0
+wicket.src.main.java.org.apache.wicket.Component_java
+wicket.src.main.java.org.apache.wicket.markup.MarkupStream_java

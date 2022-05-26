@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 0000100
+1100010 0
+src.java.org.apache.cassandra.dht.StringToken_java
+src.java.org.apache.cassandra.dht.OrderPreservingPartitioner_java

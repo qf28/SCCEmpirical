@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Use,Create]
+5
+0 010110 0 0 0
+0 0 0 101000 0
+0 010110 0 0 0
+001000 111011 001000 0 100001
+0 0 0 110000 0
+src.java.org.apache.cassandra.dht.RandomPartitioner_java
+src.java.org.apache.cassandra.dht.Token_java
+src.java.org.apache.cassandra.dht.OrderPreservingPartitioner_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.HttpRequestVerbHandler_java

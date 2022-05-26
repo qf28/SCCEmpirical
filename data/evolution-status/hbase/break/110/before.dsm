@@ -1,0 +1,10 @@
+[Call,Typed,Set,Extend,Create,Use]
+4
+0 100010 0 100000
+110000 0 0 0
+100010 0 0 0
+0 0 100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MutableCellSetSegment_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MutableCellSetSegmentScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SegmentFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.AbstractMemStore_java

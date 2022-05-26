@@ -1,0 +1,6 @@
+[Typed,Import,Implement]
+2
+0 001
+110 0
+wicket.src.main.java.wicket.protocol.http.RequestLogger_java
+wicket.src.main.java.wicket.protocol.http.IRequestLogger_java

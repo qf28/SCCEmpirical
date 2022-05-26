@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 010100
+010101 0
+lang.java.protobuf.src.test.java.org.apache.avro.protobuf.multiplefiles.FooOrBuilder_java
+lang.java.protobuf.src.test.java.org.apache.avro.protobuf.multiplefiles.Foo_java

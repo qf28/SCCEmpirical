@@ -1,0 +1,3 @@
+2 1 
+[src.java.com.threerings.getdown.launcher.Getdown_java, src.java.com.threerings.getdown.launcher.GetdownApp_java]
+[src.java.com.threerings.getdown.launcher.Getdown_java]

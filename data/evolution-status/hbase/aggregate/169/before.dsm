@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 0
+0000001 0
+src.main.java.org.apache.hadoop.hbase.io.hfile.BlockCache_java
+src.main.java.org.apache.hadoop.hbase.io.hfile.LruBlockCache_java

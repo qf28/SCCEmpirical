@@ -1,0 +1,28 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+13
+0 011100100 0 0 011000010 011100100 000100100 000100010 0 0 0 001100000 000100010
+0 0 001100100 000000010 0 0 0 0 000000010 000000010 0 0 0
+011000100 011100000 0 0 0 0 0 0 0 0 0 0 0
+0 001000000 001100000 0 0 011100100 0 0 0 0 010001000 0 010001000
+001000000 0 0 0 0 0 0 0 0 0 0 011100000 0
+0 0 001100100 0 0 0 0 0 0 0 0 0 0
+011100100 0 0 0 0 0 0 0 0 0 0 0 0
+0 011001100 001100000 0 0 0 0 0 0 0 0 0 0
+0 001001000 001100000 0 0 0 0 0 0 0 010001010 0 0
+0 011001110 001100000 0 0 0 0 0 0 0 0 0 0
+0 010001100 0 0 0 0 0 0 0 0 0 0 0
+011100100 0 0 0 0 0 0 0 0 0 0 0 0
+0 011001100 001100000 0 0 011100100 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.io.util.SegmentedFile_java
+src.java.org.apache.cassandra.io.sstable.SSTableWriter_java
+src.java.org.apache.cassandra.io.util.CompressedPoolingSegmentedFile_java
+src.java.org.apache.cassandra.io.sstable.SSTableDeletingTask_java
+src.java.org.apache.cassandra.io.compress.CompressionMetadata_java
+src.java.org.apache.cassandra.service.ActiveRepairService_java
+src.java.org.apache.cassandra.io.util.BufferedSegmentedFile_java
+src.java.org.apache.cassandra.io.util.BufferedPoolingSegmentedFile_java
+src.java.org.apache.cassandra.io.util.MmappedSegmentedFile_java
+src.java.org.apache.cassandra.io.util.PoolingSegmentedFile_java
+src.java.org.apache.cassandra.db.DataTracker_java
+src.java.org.apache.cassandra.io.util.CompressedSegmentedFile_java

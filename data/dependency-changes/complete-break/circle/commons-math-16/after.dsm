@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+3
+0 0 0
+0 0 0
+0100100 0 0
+src.main.java.org.apache.commons.math3.optim.nonlinear.vector.jacobian.AbstractLeastSquaresOptimizer_java
+src.main.java.org.apache.commons.math3.optim.nonlinear.vector.MultivariateVectorOptimizer_java
+src.main.java.org.apache.commons.math3.optim.nonlinear.vector.jacobian.GaussNewtonOptimizer_java

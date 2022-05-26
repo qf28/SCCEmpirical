@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+4
+0 0 0000010 1110010
+0010010 0 0 0
+1010010 0 0 1110010
+0 1100011 0 0
+src.java.org.apache.cassandra.db.migration.Migration_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.DefsTable_java
+src.java.org.apache.cassandra.config.KSMetaData_java

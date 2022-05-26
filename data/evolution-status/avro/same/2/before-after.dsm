@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use]
+3
+0 0 111011
+0 0 011000
+010010 010010 0
+lang.java.avro.src.main.java.org.apache.avro.reflect.ReflectDatumReader_java
+lang.java.avro.src.main.java.org.apache.avro.reflect.ReflectDatumWriter_java
+lang.java.avro.src.main.java.org.apache.avro.reflect.ReflectData_java

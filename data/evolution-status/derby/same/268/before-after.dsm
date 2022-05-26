@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01100100
+11000110 0
+java.testing.org.apache.derbyTesting.junit.ServerSetup_java
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java

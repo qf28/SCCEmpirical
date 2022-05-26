@@ -1,0 +1,72 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+35
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1110010000 0100001010 0 0 0011000000 0 0 0 0 0010000001 0 0 0 0 0 0 0100000000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001000000 0 0 0
+0 0 0 0 0 0 0 0 0100000000 0100010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100010011 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000100000 0 0 0 0010000000 0 0 0 0 0
+0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0111011011 0 0 0 0 0100010011 0 0 0 0 0 0011010010 0 0100011011
+0 0 0 0 0 0 0 0 0 0 0 0 0 0010000010 0 0 0 0100000000 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0100100000 0 0 0
+0 0 0 0 0100000000 0 0 0 0 0 0 0 0 1010000010 0 0 0 0100000000 0100001000 0 0 0011000000 0 0 0 0 0 0 0 0 0 0 0100000001 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0111010011 0 0 0 0010010011 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100010000 0 0 0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0100010011 0 0 1110010000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 1010010000 0 0 0 0100000000 0100001010 0 0 0 0 0 0100110000 0 0 0 0 0 0100000000 0 0 0 0
+0 0 0 0 0100000000 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0111010011 0 0 0 0 0110000010 0 0 0 0 0 0 0110000010 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100011011 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0100110000 0110001000 0 0 0 0 0 0 0 0000000010 0 0 0 0 0 0110000001 0 0
+0 0 0 0 0 0 0 0 0 0110010000 0 0100000000 0 1010010000 0 0 0 0100000000 0100001010 0 0 0 0 0 0 0 0 0 0 0 0110100000 0 0 0100000000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000010 0 0 0 0 0 0100001000 0 0 0 0 0000000100 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000010 0 0100100010 0 0 0 0 0 0
+0 0 0 0 0001000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0101010011 0 0 0 0 0 0 0 0
+0100001000 0 0 0 0100000000 0100001000 0100001000 0 0110000001 0110010000 0100001000 0 0100010000 0 0100001000 0100001000 0 0 0 0100001000 0 0 0000010010 0 0 0 0110000010 0100001000 0 0 0 0000010010 0 0110110000 0
+0 0 0 0 0 0 0 0 0 0110010000 0 0100000000 0 1010000001 0 0 0 0100000000 0100001010 0 0 0 0 0 0 0 0 0 0 0 0110100000 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000100000 0 0 0 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0101011011 0 0 0 0 0
+0 0001010011 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000100000 0 0 0 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110010000 0 0100000000 0 0 0 0 0 0 0000000010 0 0 0 0 0 0 0 0 0 0 0 0110100000 0 0 0100000000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0 0
+0 0 0101011001 0110001000 0101011001 0 0 0101011001 0101011001 0 0 0 0 0 0 0 0 0 0 0 0110001000 0 0 0110001000 0 0011000000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0100000000 0 0 0 0 0110010000 0 0 0 1010010001 0 0 0 0100000000 0100001010 0 0 0110000010 0 0 0 0 0 0 0 0110000011 0110100000 0 0 0100000000 0
+0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0100001000 0 0 0 0 0 0 0 0 0 0110010010 0 0 0 0 0 0 0 0
+0 0 0110000001 0 0 0 0110001000 0 0100000000 0110010000 0 0 0110010000 0 0 0 0 0 0 0 0 0101010011 0010010010 0 0 0 0110000010 0 0100010001 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0110100000 0 0 0 0 0 0 0010000010 0 0 0010000010 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 1010000011 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000010 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011010001 0 0 0 0 0101010011 0 0 0 0 0 0 0 0
+0 0 0100000000 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000011 0 0 0 0 0100010011 0 0 0110011011 0 0 0 0 0
+src.main.java.org.eclipse.yasson.internal.serializer.OptionalObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ISerializerProvider_java
+src.main.java.org.eclipse.yasson.internal.AnnotationIntrospector_java
+src.main.java.org.eclipse.yasson.internal.internalOrdering.AnyOrderStrategy_java
+src.main.java.org.eclipse.yasson.internal.MappingContext_java
+src.main.java.org.eclipse.yasson.internal.serializer.ByteArrayBase64Serializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.AdaptedObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.PropertyOrdering_java
+src.main.java.org.eclipse.yasson.internal.ComponentMatcher_java
+src.main.java.org.eclipse.yasson.internal.ReflectionUtils_java
+src.main.java.org.eclipse.yasson.internal.serializer.ObjectArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.AbstractItem_java
+src.main.java.org.eclipse.yasson.internal.serializer.DefaultSerializers_java
+src.main.java.org.eclipse.yasson.internal.Marshaller_java
+src.main.java.org.eclipse.yasson.internal.serializer.CollectionSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ObjectSerializerProvider_java
+src.main.java.org.eclipse.yasson.model.ReflectionPropagation_java
+src.main.java.org.eclipse.yasson.internal.ProcessingContext_java
+src.main.java.org.eclipse.yasson.internal.serializer.SerializerBuilder_java
+src.main.java.org.eclipse.yasson.internal.serializer.MapSerializer_java
+src.main.java.org.eclipse.yasson.internal.internalOrdering.LexicographicalOrderStrategy_java
+src.main.java.org.eclipse.yasson.model.ClassModel_java
+src.main.java.org.eclipse.yasson.internal.serializer.SerializerProviderWrapper_java
+src.main.java.org.eclipse.yasson.internal.internalOrdering.ReverseOrderStrategy_java
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.internalOrdering.PropOrderStrategy_java
+src.main.java.org.eclipse.yasson.internal.JsonbContext_java
+src.main.java.org.eclipse.yasson.internal.serializer.ObjectSerializer_java
+src.main.java.org.eclipse.yasson.model.PropertyValuePropagation_java
+src.main.java.org.eclipse.yasson.model.PropertyModel_java
+src.main.java.org.eclipse.yasson.internal.AbstractContainerSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractValueTypeSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ContainerSerializerProvider_java
+src.main.java.org.eclipse.yasson.internal.AbstractSerializerBuilder_java
+src.main.java.org.eclipse.yasson.internal.ClassParser_java

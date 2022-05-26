@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+2
+0 00000001000
+00010000000 0
+src.main.java.org.eclipse.yasson.internal.JsonbRiParser_java
+src.main.java.org.eclipse.yasson.internal.JsonbParser_java

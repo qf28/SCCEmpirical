@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 000100
+000001 0
+lang.java.avro.src.main.java.org.apache.avro.file.XZCodec_java
+lang.java.avro.src.main.java.org.apache.avro.file.CodecFactory_java

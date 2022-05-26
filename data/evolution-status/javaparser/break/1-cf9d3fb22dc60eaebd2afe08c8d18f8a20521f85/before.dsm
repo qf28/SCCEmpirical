@@ -1,0 +1,8 @@
+[Call,Return,Import,Create,Use,Implement,Parameter,Contain]
+3
+0 01000000 0
+0 0 00000010
+01000000 0 0
+src.main.java.me.tomassetti.symbolsolver.model.ClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.Context_java
+src.main.java.me.tomassetti.symbolsolver.model.TypeSolver_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+2
+0 011000000
+111001000 0
+proposal.myrmidon.src.java.org.apache.myrmidon.components.deployer.Deployment_java
+proposal.myrmidon.src.java.org.apache.myrmidon.components.deployer.DefaultDeployer_java

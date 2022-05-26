@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 0 001001
+011000 0 0
+011010 010000 0
+src.java.org.apache.cassandra.db.ColumnFamily_java
+src.java.org.apache.cassandra.db.ColumnIndexer_java
+src.java.org.apache.cassandra.db.ColumnFamilySerializer_java

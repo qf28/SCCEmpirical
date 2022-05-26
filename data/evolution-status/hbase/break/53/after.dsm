@@ -1,0 +1,26 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+12
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 001000000 0 0 0 0 0 0 0 0
+000100100 0 0 011000000 011000000 0 111000100 0 0 0 0 011000000
+010000101 011000100 0 0 0 010000100 011000100 0 0 0 010000010 0
+001000100 000000100 0 0 0 0 0 0 0 0 0 0
+0 000000001 0 011000000 0 0 0 0 0 0 0 0
+000000100 011000100 010000000 011000110 011000101 0 0 0 011000010 0 0 100000100
+0 0 0 011000000 011000100 0 110000000 0 0 0 0 0
+011000000 0 0 000000100 0 0 011000100 0 0 0 0 0
+011000100 0 010000000 0 011000100 0 0 0 0 0 0 011000100
+0 011000101 0 111000100 0 000000100 010000000 0 0 0 0 0
+011000100 0 011000010 011000000 011000100 0 111000100 011000010 0 010000010 000000100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Store_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.KeyValueScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactSplit_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Region_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFileScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactedHFilesDischarger_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionServerWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

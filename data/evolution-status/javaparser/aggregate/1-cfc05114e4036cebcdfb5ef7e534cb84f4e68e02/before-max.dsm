@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+4
+0 011000010 011000010 011110011
+001000010 0 0 001000010
+001000010 0 0 001000010
+0 011000010 011000010 0
+src.main.java.japa.parser.ast.stmt.CatchClause_java
+src.main.java.japa.parser.ast.visitor.VoidVisitor_java
+src.main.java.japa.parser.ast.visitor.GenericVisitor_java
+src.main.java.japa.parser.ast.body.Parameter_java

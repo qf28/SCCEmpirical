@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 1110001
+0100000 0
+src.java.org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator_java
+src.java.org.apache.commons.math.ode.nonstiff.AdamsMoultonStepInterpolator_java

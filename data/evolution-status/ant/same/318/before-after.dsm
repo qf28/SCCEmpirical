@@ -1,0 +1,10 @@
+[Call,Typed,Extend,Use,Implement]
+4
+0 0 01000 01000
+00001 0 01000 01000
+0 10100 0 0
+0 10100 0 0
+src.main.org.apache.tools.ant.types.selectors.SelectorContainer_java
+src.main.org.apache.tools.ant.types.selectors.BaseSelectorContainer_java
+src.main.org.apache.tools.ant.types.selectors.SelectSelector_java
+src.main.org.apache.tools.ant.types.selectors.MajoritySelector_java

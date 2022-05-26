@@ -1,0 +1,4 @@
+[depend]
+1
+0
+wicket-native-websocket.wicket-native-websocket-core.src.main.java.org.apache.wicket.protocol.ws.api.AbstractWebSocketProcessor_java

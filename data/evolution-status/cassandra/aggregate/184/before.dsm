@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+3
+0 0 0
+0100000 0 0
+0101000 0110011 0
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.thrift.CassandraServer_java
+src.java.org.apache.cassandra.thrift.CassandraDaemon_java

@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 1101
+0100 0
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.TableResource_java
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.TableScanResource_java

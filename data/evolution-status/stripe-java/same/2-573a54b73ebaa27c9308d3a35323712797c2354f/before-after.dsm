@@ -1,0 +1,6 @@
+[Return,Import,Use,Parameter,Contain]
+2
+0 10110
+10110 0
+src.main.java.com.stripe.model.CustomerBalanceTransaction_java
+src.main.java.com.stripe.model.CreditNote_java

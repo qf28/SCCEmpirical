@@ -1,0 +1,20 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+9
+0 0 0100000001 0100100000 0010000000 0110010011 0 0 0
+0000100000 0 0 0 0 0011000000 0 0 0
+0 0 0 0000100000 0 0 0 0010000010 0
+0 0001000000 0001000000 0 0 0 0001000000 0 0001000000
+0011000000 0 0010010010 0 0 0 0 0 0
+0111010011 0 0110010011 0100000000 0010000000 0 0 0110010011 0
+0000100000 0 0 0 0 0 0 0 0
+0011010010 0 0 0 0 0 0 0 0
+0000100000 0 0 0 0 0110010011 0 0 0
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.ReferenceTypeDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.ClassDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.TypeParameterDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.TypeDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.methods.MethodUsage_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.ReferenceType_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.EnumDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.resolution.TypeSolver_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.InterfaceDeclaration_java

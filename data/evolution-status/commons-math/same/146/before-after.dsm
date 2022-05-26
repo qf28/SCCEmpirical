@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Throw,Create,Modify]
+2
+0 0010001000
+0110000000 0
+src.main.java.org.apache.commons.math.fraction.BigFractionField_java
+src.main.java.org.apache.commons.math.fraction.BigFraction_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+2
+0 0001000001
+0001000000 0
+src.java.org.apache.hadoop.hbase.hql.formatter.AsciiTableFormatter_java
+src.java.org.apache.hadoop.hbase.hql.TableFormatter_java

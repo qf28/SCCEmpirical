@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Create,Implement]
+5
+0 000010 000010 000010 000010
+100000 0 0 0 0
+100000 0 0 0 0
+100000 0 0 0 0
+100000 0 0 0 0
+src.main.java.org.apache.commons.math3.stat.inference.BinomialConfidenceInterval_java
+src.main.java.org.apache.commons.math3.stat.interval.ClopperPearsonInterval_java
+src.main.java.org.apache.commons.math3.stat.interval.AgrestiCoullInterval_java
+src.main.java.org.apache.commons.math3.stat.interval.NormalApproximationInterval_java
+src.main.java.org.apache.commons.math3.stat.interval.WilsonScoreInterval_java

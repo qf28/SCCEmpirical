@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0 0100001000
+0100001000 0 0
+0100001000 0100010000 0
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.reflectionmodel.ReflectionMethodResolutionLogic_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.reflectionmodel.ReflectionInterfaceDeclaration_java

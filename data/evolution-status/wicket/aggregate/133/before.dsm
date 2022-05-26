@@ -1,0 +1,42 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+20
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0011000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0001001 0 0 0111000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0101100 0111000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0011000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1111001 0 0 0111000 0110000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0111000 0011000 0110010 0110010 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0101010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1111001 0 0111000 0 0 0 0 0101000 0 0 0 0 0 0 0 0 0 0 0 0
+1111001 0101100 0111000 0011000 0 0 0101100 0101000 0 0 0 0 0 0 0 0 0 0 0 0
+1111001 0100010 0011000 0 0 0 0 0100000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0101100 0111000 0 0 0 0 0 0 0 0 0 0001000 0 0 0 0 0 0 0
+1101001 0 0011000 0 0 0 0 0100000 0 0 0 0101010 0 0 0 0 0 0 0 0
+1101001 0101010 0011000 0111011 0 0 0 0101000 0 0 0 0 0 0 0 0 0 0 0 0
+1111001 0 1011001 0 0 0 0 0101000 0 1101001 0 0 0 0 0 0 0 0 0 0
+1111001 0101010 0011000 0 0 0 0 0101000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0111000 0011000 0 0 0101100 0101000 0 0 0 0 0 0 0 0 0 0 0 0
+1101001 0 0 0 0 0 0 0100000 0 0 0 0 0 0 0 0 0 0 0 0
+0001001 0 0011000 0 0 0 0 0101000 0 0 0 0 0 0 0 0 0 0 0 0
+1111001 0 0011000 0 0 0 0 0101000 0 0 0 0 0 0 0 0 0 0 0 0
+wicket.src.main.java.org.apache.wicket.markup.WicketTag_java
+wicket.src.main.java.org.apache.wicket.markup.parser.filter.TransparentWebMarkupContainer_java
+wicket.src.main.java.org.apache.wicket.Component_java
+wicket.src.main.java.org.apache.wicket.markup.html.internal.HtmlHeaderContainer_java
+wicket.src.main.java.org.apache.wicket.markup.html.HeaderPartContainer_java
+wicket.src.main.java.org.apache.wicket.markup.html.ContainerWithAssociatedMarkupHelper_java
+wicket.src.main.java.org.apache.wicket.markup.html.WebMarkupContainerWithAssociatedMarkup_java
+wicket.src.main.java.org.apache.wicket.markup.parser.filter.WicketTagIdentifier_java
+wicket.src.main.java.org.apache.wicket.markup.resolver.WicketMessageResolver_java
+wicket.src.main.java.org.apache.wicket.markup.html.border.Border_java
+wicket.src.main.java.org.apache.wicket.markup.parser.filter.WicketLinkTagHandler_java
+wicket.src.main.java.org.apache.wicket.markup.html.internal.Enclosure_java
+wicket.src.main.java.org.apache.wicket.markup.parser.filter.EnclosureHandler_java
+wicket.src.main.java.org.apache.wicket.markup.resolver.HtmlHeaderResolver_java
+wicket.src.main.java.org.apache.wicket.markup.resolver.AutoComponentResolver_java
+wicket.src.main.java.org.apache.wicket.markup.resolver.MarkupInheritanceResolver_java
+wicket.src.main.java.org.apache.wicket.markup.html.panel.Panel_java
+wicket.src.main.java.org.apache.wicket.markup.parser.filter.WicketRemoveTagHandler_java
+wicket.src.main.java.org.apache.wicket.markup.resolver.WicketContainerResolver_java
+wicket.src.main.java.org.apache.wicket.markup.resolver.FragmentResolver_java

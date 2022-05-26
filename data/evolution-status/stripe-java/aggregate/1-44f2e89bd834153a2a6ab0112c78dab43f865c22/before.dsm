@@ -1,0 +1,8 @@
+[Return,Use,Parameter,Contain]
+3
+0 0 0
+0001 0 0
+1110 0001 0
+src.main.java.com.stripe.model.PaymentMethod_java
+src.main.java.com.stripe.model.Charge_java
+src.main.java.com.stripe.model.SetupAttempt_java

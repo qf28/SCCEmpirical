@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 01100100 0
+01000000 0 01100110
+01000000 0 0
+java.tools.org.apache.derby.impl.tools.ij.utilMain_java
+java.tools.org.apache.derby.impl.tools.ij.ConnectionEnv_java
+java.tools.org.apache.derby.impl.tools.ij.Session_java

@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+8
+0 0 0 0 0 1100000 0 0111000
+0 0 0 0 0 1100010 0 0111000
+0 0 0 0 0 0 0 0101000
+0 0110000 0 0 0 0 0 0
+0 0110001 0 0 0 0 0 0
+0 0 0100001 0 0000010 0 0110000 0001100
+0000001 1010000 0 0100001 0000010 0100001 0 0
+0 0 0 0 0 0001000 0 0
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.PortletInvalidMarkupFilter_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.WicketResponseState_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.EmbeddedPortletHeaderResponse_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.PortletServletResponseWrapper_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.WicketPortlet_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.PortletRequestContext_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.WicketFilterPortletContext_java
+wicket.src.main.java.org.apache.wicket.RequestContext_java

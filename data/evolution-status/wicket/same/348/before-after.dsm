@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 00111
+10100 0
+wicket-native-websocket.wicket-native-websocket-example.src.main.java.org.apache.wicket.protocol.ws.example.JSR356Application_java
+wicket-native-websocket.wicket-native-websocket-example.src.main.java.org.apache.wicket.protocol.ws.example.charts.ChartWebSocketResource_java

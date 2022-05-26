@@ -1,0 +1,10 @@
+[Call,Extend,Create]
+4
+0 0 0 101
+100 0 0 0
+0 110 0 0
+0 100 110 0
+src.main.java.org.apache.commons.math3.analysis.solvers.UnivariateSolverUtils_java
+src.main.java.org.apache.commons.math3.analysis.solvers.BaseAbstractUnivariateSolver_java
+src.main.java.org.apache.commons.math3.analysis.solvers.AbstractUnivariateSolver_java
+src.main.java.org.apache.commons.math3.analysis.solvers.BrentSolver_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 0 0 000100000
+0 0 010001000 0 0
+011100000 0 0 0 0
+000000001 010100010 011100010 0 0
+0 0 111100100 010101000 0
+wicket.src.main.disabled.org.apache.wicket.request.IRequestCycleProcessor_java
+wicket.src.main.disabled.org.apache.wicket.request.target.component.BookmarkableListenerInterfaceRequestTarget_java
+wicket.src.main.disabled.org.apache.wicket.request.target.component.BookmarkablePageRequestTarget_java
+wicket.src.main.disabled.org.apache.wicket.request.AbstractRequestCycleProcessor_java
+wicket.src.main.disabled.org.apache.wicket.protocol.http.WebRequestCycleProcessor_java

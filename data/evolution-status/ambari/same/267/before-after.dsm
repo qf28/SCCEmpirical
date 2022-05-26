@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create]
+5
+0 011100 011110 0 010000
+010100 0 011111 0 011010
+010100 0 0 0 000100
+0 0 000100 0 0
+0 0 011110 011100 0
+ambari-server.src.main.java.org.apache.ambari.server.utils.StageUtils_java
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.Stage_java
+ambari-server.src.main.java.org.apache.ambari.server.agent.ExecutionCommand_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.upgrade.orchestrate.UpgradeContext_java
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.ExecutionCommandWrapper_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 01000
+11010 0
+src.org.apache.pig.data.DataByteArray_java
+src.org.apache.pig.data.DataType_java

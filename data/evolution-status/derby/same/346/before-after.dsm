@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Set,Import,Extend,Create,Use,Implement,Modify]
+4
+0 0110001000 0110001000 0
+0 0 0100010000 0
+1000000000 0 0 0100001000
+0110000000 0 0 0
+java.engine.org.apache.derby.impl.store.access.heap.Heap_java
+java.engine.org.apache.derby.impl.store.access.heap.HeapCompressScan_java
+java.engine.org.apache.derby.impl.store.access.heap.HeapScan_java
+java.engine.org.apache.derby.impl.store.access.heap.HeapPostCommit_java

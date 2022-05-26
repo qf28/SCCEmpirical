@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1111
+1010 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.locator.TokenMetadata_java

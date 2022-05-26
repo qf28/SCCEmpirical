@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Throw,Use]
+3
+0 0 010000
+010000 0 0
+0 010000 0
+java.stubs.jdbc3.javax.sql.PooledConnection_java
+java.stubs.jdbc3.javax.sql.ConnectionEvent_java
+java.stubs.jdbc3.javax.sql.ConnectionEventListener_java

@@ -1,0 +1,8 @@
+[Call,Use,Create]
+3
+0 0 110
+0 0 110
+010 101 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.MigrationTask_java
+src.java.org.apache.cassandra.service.MigrationManager_java

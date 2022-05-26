@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 11110 00001
+10110 0 0
+0 10100 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.Keyspace_java
+src.java.org.apache.cassandra.service.SnapshotVerbHandler_java

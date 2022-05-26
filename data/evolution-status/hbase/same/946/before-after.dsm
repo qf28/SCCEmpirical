@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0110000
+0000100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.NoOpDataBlockEncoder_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlock_java

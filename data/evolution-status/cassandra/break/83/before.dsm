@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 011001000 011010110 011000000 011000110
+010000000 0 011001000 001000000 000000100
+0 011000100 0 0 001000000
+0 011000100 010000100 0 0
+010000000 0 001000110 0 0
+src.java.org.apache.cassandra.io.sstable.RowIndexedReader_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.io.sstable.SSTable_java
+src.java.org.apache.cassandra.io.sstable.SSTableTracker_java
+src.java.org.apache.cassandra.io.sstable.IndexSummary_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Create,Use,Implement]
+3
+0 001000 0
+111000 0 000100
+000001 001010 0
+wicket.src.java.wicket.protocol.http.portlet.IPortletApplicationFactory_java
+wicket.src.java.wicket.protocol.http.portlet.WicketPortlet_java
+wicket.src.java.wicket.protocol.http.portlet.PortletPreferencesPortletApplicationFactory_java

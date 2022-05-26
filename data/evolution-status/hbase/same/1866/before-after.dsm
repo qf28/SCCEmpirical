@@ -1,0 +1,6 @@
+[Set,Use]
+2
+0 01
+10 0
+hbase-annotations.src.main.java.org.apache.hadoop.hbase.classification.tools.RootDocProcessor_java
+hbase-annotations.src.main.java.org.apache.hadoop.hbase.classification.tools.StabilityOptions_java

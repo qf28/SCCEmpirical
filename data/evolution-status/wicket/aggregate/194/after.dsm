@@ -1,0 +1,6 @@
+[Call,Typed,Create,Use]
+2
+0 1010
+0001 0
+wicket-native-websocket.wicket-native-websocket-core.src.main.java.org.apache.wicket.protocol.ws.api.AbstractWebSocketProcessor_java
+wicket-native-websocket.wicket-native-websocket-core.src.main.java.org.apache.wicket.protocol.ws.api.WebSocketMessageBroadcastHandler_java

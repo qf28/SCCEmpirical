@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Implement]
+3
+0 0001000 0001000
+1101010 0 1110111
+1101010 1110010 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.validation.IValidatorAddListener_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.html.form.Form_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.html.form.FormComponent_java

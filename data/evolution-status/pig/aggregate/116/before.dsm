@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Use]
+3
+0 0 0
+10100 0 0
+0 11110 0
+src.org.apache.pig.data.SchemaTupleBackend_java
+src.org.apache.pig.impl.io.ReadToEndLoader_java
+src.org.apache.pig.impl.util.Utils_java

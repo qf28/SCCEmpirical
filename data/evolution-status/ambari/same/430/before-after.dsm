@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Use,Create]
+2
+0 000010
+110000 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariHandlerList_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariServer_java

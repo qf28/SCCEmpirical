@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 0 0 001000000
+001000000 0 001000000 111000000
+0 0 0 001000000
+0 111000000 010000000 0
+java.engine.org.apache.derby.impl.store.raw.data.AllocationActions_java
+java.engine.org.apache.derby.impl.store.raw.data.BaseContainerHandle_java
+java.engine.org.apache.derby.impl.store.raw.data.PageActions_java
+java.engine.org.apache.derby.impl.store.raw.data.BasePage_java

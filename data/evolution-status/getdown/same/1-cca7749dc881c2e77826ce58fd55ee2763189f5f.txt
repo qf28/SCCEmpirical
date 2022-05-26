@@ -1,0 +1,2 @@
+2 
+[core.src.main.java.com.threerings.getdown.data.Application_java, core.src.main.java.com.threerings.getdown.data.Resource_java]

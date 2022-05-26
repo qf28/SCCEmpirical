@@ -1,0 +1,8 @@
+[Call,Import,Create,Use,Contain]
+3
+0 11100 11010
+01010 0 11010
+01010 11100 0
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.support.compiler.FileSystemFile_java
+src.main.java.spoon.compiler.SpoonResourceHelper_java

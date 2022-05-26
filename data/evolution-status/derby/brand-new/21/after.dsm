@@ -1,0 +1,20 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+9
+0 0 0 1001101 1010001 0 0 0 0
+0 0 0 1001101 0010001 0 0 0 0
+0 0 0 1001101 0010001 0 0 0 0
+0 0 0 0 1010001 0 0 0 1110010
+1110010 1110010 1110010 0 0 1110010 1110010 1010000 0
+0 0 0 0 1010001 0 0 0 1110010
+0 0 0 1001101 0010001 0 0 0 0
+0 0 0 0 0011000 0 0 0 0
+0 0 0 0 0010001 0 0 0 0
+java.testing.org.apache.derbyTesting.system.nstest.tester.BackupRestoreReEncryptTester_java
+java.testing.org.apache.derbyTesting.system.nstest.tester.Tester1_java
+java.testing.org.apache.derbyTesting.system.nstest.tester.Tester2_java
+java.testing.org.apache.derbyTesting.system.nstest.tester.TesterObject_java
+java.testing.org.apache.derbyTesting.system.nstest.NsTest_java
+java.testing.org.apache.derbyTesting.system.nstest.init.Initializer_java
+java.testing.org.apache.derbyTesting.system.nstest.tester.Tester3_java
+java.testing.org.apache.derbyTesting.system.nstest.init.DbSetup_java
+java.testing.org.apache.derbyTesting.system.nstest.utils.DbUtil_java

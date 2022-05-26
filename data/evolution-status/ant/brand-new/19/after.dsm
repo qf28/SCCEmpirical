@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 010
+111 0
+src.main.org.apache.tools.ant.taskdefs.optional.perforce.FStatP4OutputHandler_java
+src.main.org.apache.tools.ant.taskdefs.optional.perforce.P4Fstat_java

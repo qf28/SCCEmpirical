@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 111000 111000
+0 0 110010
+100000 110000 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.locator.TokenMetadata_java
+src.java.org.apache.cassandra.locator.AbstractReplicationStrategy_java

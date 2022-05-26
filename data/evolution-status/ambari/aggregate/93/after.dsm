@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 00100000
+00100010 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.UpgradeHistoryEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.UpgradeEntity_java

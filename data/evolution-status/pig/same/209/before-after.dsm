@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 10100
+11111 0
+src.org.apache.pig.data.BinInterSedes_java
+src.org.apache.pig.data.utils.SedesHelper_java

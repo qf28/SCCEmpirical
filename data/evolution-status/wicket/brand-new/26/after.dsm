@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Create,Use]
+2
+0 11000
+10010 0
+wicket-extensions.src.java.wicket.extensions.markup.html.tree.SelectedPathReplacementModel_java
+wicket-extensions.src.java.wicket.extensions.markup.html.tree.Tree_java

@@ -1,0 +1,8 @@
+[Typed,Use]
+3
+0 0 0
+0 0 0
+01 01 0
+test.org.apache.pig.test.utils.dotGraph.DotEdge_java
+test.org.apache.pig.test.utils.dotGraph.DotNode_java
+test.org.apache.pig.test.utils.dotGraph.DotGraph_java

@@ -1,0 +1,44 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+21
+0 0 0 0 0 0 001100100 011000000 010100100 0 0 0 0 010000000 0 011100000 0 0 0 0 010100000
+0 0 0 0 0 0 0 011100000 0 000101100 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 011100110 0 000100100 0 0 0 0 0 0 0 0 0 010100100 0 0
+0 0 0 0 0 0 010000100 0 0 0 0 0 011100000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 001100000 011000000 0 000101100 000100100 010000010 0 0 010000010 0 010000010 010000010 011100100 0 0
+0 0 0 0 0 0 0 011100110 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 111100100 011000100 0 0 0 011000110 010000100 0 0 0 011000010 0 0 010100100 0 0 011000110 0 000100100
+0 0 0 0 0 0 011100100 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 001000100 0 0 0 0 0 0 0 0 0 0 0 0 0 000100000
+0 0 0 0 0 0 011100100 011000110 0 0 000000100 0 0 0 0 010000000 0 0 001100000 0 0
+0 0 0 0 0 0 0 011000100 0 000000100 0 0 0 0 0 011000100 0 0 011100000 011100000 0
+0 0 0 0 011001110 0 001100100 011000000 0 000000100 0 0 0 0 0 000100100 0 0 011100000 0 0
+0 0 0 0 0 011100100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+010100000 0 0 0 0 0 010100100 010000010 0 0 0 0 011100000 0 0 0 0 0 0 0 0
+0 0 0 0 111000100 0 0 011000100 0 010000000 001100000 0 0 0 0 0 0 0 0 011100100 0
+0 000100010 0 0 010100000 0 001100000 001100000 0 0 0 0 0 0 0 0 0 0 011100100 0 0
+0 0 0 0 011001010 0 011100100 011000000 0 000000100 0 0 0 0 0 000100100 0 0 011100000 0 0
+0 0 0 0 011001010 0 011100100 011000000 0 000000100 0 0 0 0 0 000100100 0 0 011100000 0 0
+0 0 0 0 0 0 011000100 010000000 0 0 0 0 011000000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 011000000 0 0 0 0 0 0 0 0 0 0 011100100 0 0
+010100000 0 0 0 0 0 011100100 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.db.index.keys.KeysIndex_java
+src.java.org.apache.cassandra.cql3.statements.CreateTableStatement_java
+src.java.org.apache.cassandra.config.TriggerDefinition_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndex_java
+src.java.org.apache.cassandra.cql3.ResultSet_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.Column_java
+src.java.org.apache.cassandra.config.Schema_java
+src.java.org.apache.cassandra.db.index.AbstractSimplePerColumnSecondaryIndex_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexManager_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndexOnRegular_java
+src.java.org.apache.cassandra.cql3.UntypedResultSet_java
+src.java.org.apache.cassandra.db.BatchlogManager_java
+src.java.org.apache.cassandra.db.index.composites.CompositesSearcher_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndexOnClusteringKey_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndexOnPartitionKey_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java
+src.java.org.apache.cassandra.db.filter.ExtendedFilter_java
+src.java.org.apache.cassandra.tracing.Tracing_java

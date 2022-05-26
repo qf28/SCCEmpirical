@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 0 0 01000010
+01000000 0 0 0
+0 01001000 0 0
+0 01000000 01001000 0
+src.main.java.org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils_java
+src.main.java.org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver_java
+src.main.java.org.apache.commons.math.analysis.solvers.AbstractUnivariateRealSolver_java
+src.main.java.org.apache.commons.math.analysis.solvers.BrentSolver_java

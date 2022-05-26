@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Implement]
+2
+0 0001000
+1101010 0
+wicket.src.java.wicket.markup.html.WebPage_java
+wicket.src.java.wicket.protocol.http.request.urlcompressing.WebURLCompressingTargetResolverStrategy_java

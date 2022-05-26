@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 0 0
+11001 0 10010
+0 10100 0
+src.java.org.apache.cassandra.dht.RangeStreamer_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java

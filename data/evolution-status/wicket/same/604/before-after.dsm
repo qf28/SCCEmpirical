@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend]
+2
+0 0010
+0010 0
+wicket-extensions.src.java.wicket.extensions.breadcrumb.panel.BreadCrumbPanel_java
+wicket-extensions.src.java.wicket.extensions.breadcrumb.BreadCrumbLink_java

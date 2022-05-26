@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Implement]
+2
+0 01111
+10010 0
+src.java.org.apache.cassandra.db.Column_java
+src.java.org.apache.cassandra.db.OnDiskAtom_java

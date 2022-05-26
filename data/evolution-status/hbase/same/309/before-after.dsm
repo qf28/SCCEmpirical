@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 00000100
+10000010 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.replication.ReplicationStateImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.replication.ReplicationZookeeper_java

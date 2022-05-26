@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create,Implement]
+4
+0 0 0 010010
+0 0 011000 0
+101000 0 0 100000
+0 110101 011000 0
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.IBehaviorInstantiationListener_java
+wicket-core.src.main.java.org.apache.wicket.behavior.Behavior_java
+wicket-core.src.main.java.org.apache.wicket.BehaviorInstantiationListenerCollection_java

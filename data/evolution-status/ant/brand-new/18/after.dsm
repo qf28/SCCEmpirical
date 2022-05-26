@@ -1,0 +1,10 @@
+[Call,Typed,Create]
+4
+0 010 0 100
+0 0 0 100
+0 010 0 100
+111 111 111 0
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.ConfigTest2_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.ConfigTest1_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.ConfigTest3_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.DefaultConfigurerTest_java

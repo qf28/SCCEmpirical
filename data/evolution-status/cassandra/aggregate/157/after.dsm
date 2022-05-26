@@ -1,0 +1,26 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+12
+0 0 001100000 0 0 0 0 0 0 0 0 0
+0 0 0 011000100 0 0 010100100 0 0 0 0 0
+000000100 0 0 0 0 0 0 0 0 0 000000100 000000100
+0 0 0 0 010000100 011100010 0 0 0 011000010 0 0
+0 0 0 0 0 0 010100000 0 0 011000110 000100100 0
+0 0 0 011100100 0 0 0 0 0 0 0 0
+0 0 010000100 011000000 010000000 0 0 0 0 0 0 0
+000101000 0 011100000 0 0 0 0 0 0 0 0 0
+001100000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 001100100 0 0 001100100 0 0 0 0 0
+0 010100000 011100000 011000100 0 0 010100000 0 0 0 0 0
+011000000 0 011100000 011000000 0 0 0 110000100 110000100 0 0 0
+src.java.org.apache.cassandra.cql3.CQLStatement_java
+src.java.org.apache.cassandra.thrift.ThriftValidation_java
+src.java.org.apache.cassandra.service.ClientState_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.cql3.CFDefinition_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.cql3.statements.CFStatement_java
+src.java.org.apache.cassandra.cql3.statements.Preprocessable_java
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.cql.QueryProcessor_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java

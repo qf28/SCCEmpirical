@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create]
+2
+0 011000
+111000 0
+src.main.org.apache.tools.ant.types.Assertions_java
+src.main.org.apache.tools.ant.types.CommandlineJava_java

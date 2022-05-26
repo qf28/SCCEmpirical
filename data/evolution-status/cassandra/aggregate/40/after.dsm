@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Use,Create]
+5
+0 0 110010 0 0
+100110 0 010010 0 0
+110010 0 0 000001 100001
+110010 100001 110100 0 0
+110110 0 0 0 0
+src.java.org.apache.cassandra.tracing.TraceState_java
+src.java.org.apache.cassandra.tracing.TraceStateImpl_java
+src.java.org.apache.cassandra.tracing.Tracing_java
+src.java.org.apache.cassandra.tracing.TracingImpl_java
+src.java.org.apache.cassandra.tracing.ExpiredTraceState_java

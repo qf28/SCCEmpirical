@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0111000 0110000
+0010000 0 0
+0010000 0 0
+wicket-core.src.main.java.org.apache.wicket.settings.IFrameworkSettings_java
+wicket-core.src.main.java.org.apache.wicket.IEventDispatcher_java
+wicket-core.src.main.java.org.apache.wicket.IDetachListener_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+3
+0 0111000000 0111000000
+0001001000 0 0
+0 0111000000 0
+java.engine.org.apache.derby.impl.sql.execute.DeferredConstraintsMemory_java
+java.engine.org.apache.derby.iapi.sql.conn.LanguageConnectionContext_java
+java.engine.org.apache.derby.iapi.sql.dictionary.ConstraintDescriptor_java

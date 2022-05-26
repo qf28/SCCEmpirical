@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+6
+0 0 0 0 011101101 0
+0 0 0 0 011001101 0
+0 0 0 0 011101101 0
+0 0 0 0 011101101 0
+000000100 000000100 000000100 000000100 0 000000100
+0 0 0 0 011101101 0
+src.java.org.apache.cassandra.transport.messages.BatchMessage_java
+src.java.org.apache.cassandra.transport.messages.AuthResponse_java
+src.java.org.apache.cassandra.transport.messages.PrepareMessage_java
+src.java.org.apache.cassandra.transport.messages.ExecuteMessage_java
+src.java.org.apache.cassandra.transport.Message_java
+src.java.org.apache.cassandra.transport.messages.QueryMessage_java

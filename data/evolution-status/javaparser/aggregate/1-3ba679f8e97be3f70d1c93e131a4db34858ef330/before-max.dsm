@@ -1,0 +1,6 @@
+[Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+2
+0 001100000
+001000000 0
+src.main.java.me.tomassetti.symbolsolver.model.declarations.ClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.TypeDeclaration_java

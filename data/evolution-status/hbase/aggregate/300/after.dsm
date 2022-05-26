@@ -1,0 +1,12 @@
+[Call,Typed,Extend,Use,Create]
+5
+0 10110 00001 11001 10110
+11011 0 0 0 10100
+0 0 0 0 10100
+0 0 0 0 10100
+00010 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.StochasticLoadBalancer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.RegionReplicaCandidateGenerator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.LoadCandidateGenerator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.LocalityBasedCandidateGenerator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.CandidateGenerator_java

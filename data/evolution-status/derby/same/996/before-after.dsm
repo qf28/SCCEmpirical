@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Set,Import,Use,Create,Throw,Modify]
+8
+0 0 0 0 011000000 0 0 0
+0 0 0 011000000 011000000 0 0 000001000
+0 0 0 0 011111100 0 0 0
+0 111001110 0 0 011001000 011101001 011101001 011101001
+011000100 011000000 000011000 111001100 0 0 0 111101100
+0 0 0 0 010000000 0 111001100 0
+0 0 0 0 0 011001000 0 0
+0 0 0 0 011000000 111001000 0 0
+java.drda.org.apache.derby.impl.drda.ClientThread_java
+java.drda.org.apache.derby.impl.drda.DRDAProtocolException_java
+java.drda.org.apache.derby.drda.NetworkServerControl_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java
+java.drda.org.apache.derby.impl.drda.NetworkServerControlImpl_java
+java.drda.org.apache.derby.impl.drda.Database_java
+java.drda.org.apache.derby.impl.drda.DRDAStatement_java
+java.drda.org.apache.derby.impl.drda.Session_java

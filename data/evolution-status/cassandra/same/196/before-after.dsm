@@ -1,0 +1,32 @@
+[Call,Typed,Import,Set,Use,Create]
+15
+0 0 0 110000 110010 100000 110010 0 0 111011 101010 111000 101000 100010 0
+110010 0 0 0 110010 0 0 0 0 0 000010 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 000010 0 101000 0 0
+0 0 0 0 0 001010 0 0 0 0 0 0 100000 0 0
+110010 0 0 0 0 0 0 0 0 101010 101010 001010 101000 0 0
+111010 0 0 0 100000 0 0 0 0 0 0 0 0 0 0
+110110 0 0 010000 100010 0 0 0 0 011000 0 0 101000 0 0
+010000 0 0 0 0 0 0 0 0 0 0 0 101000 111000 0
+110010 0 0 0 0 0 0 0 0 000010 0 100000 0 0 0
+010010 0 0 0 0 0 0 0 000010 0 0 110010 0 101010 0
+0 110001 110011 0 0 0 0 0 0 0 0 0 101000 0 0
+111010 0 0 0 100000 0 0 0 0 0 0 0 0 101010 0
+111000 0 0 0 0 0 0 0 0 0 0 0 0 0 101000
+110010 0 0 100000 111010 0 0 110001 0 100000 0 0 101000 0 0
+110010 0 0 0 110000 0 0 0 0 0 0 0 101000 101010 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.commitlog.CommitLogReplayer_java
+src.java.org.apache.cassandra.db.commitlog.CommitLogSegment_java
+src.java.org.apache.cassandra.db.Directories_java
+src.java.org.apache.cassandra.db.Keyspace_java
+src.java.org.apache.cassandra.db.compaction.LeveledManifest_java
+src.java.org.apache.cassandra.db.Memtable_java
+src.java.org.apache.cassandra.db.compaction.CompactionTask_java
+src.java.org.apache.cassandra.db.index.AbstractSimplePerColumnSecondaryIndex_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexManager_java
+src.java.org.apache.cassandra.db.commitlog.CommitLog_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.DefsTables_java

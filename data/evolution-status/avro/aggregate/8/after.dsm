@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01000000
+00000010 0
+lang.java.src.java.org.apache.avro.mapred.AvroReducer_java
+lang.java.src.java.org.apache.avro.mapred.AvroJob_java

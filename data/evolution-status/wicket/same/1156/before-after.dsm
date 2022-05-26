@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Implement]
+2
+0 001000
+111000 0
+wicket-core.src.main.java.org.apache.wicket.markup.html.IPackageResourceGuard_java
+wicket-core.src.main.java.org.apache.wicket.request.resource.PackageResource_java

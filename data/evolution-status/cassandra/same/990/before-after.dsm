@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+2
+0 01100010
+01000010 0
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.compaction.AbstractCompactionStrategy_java

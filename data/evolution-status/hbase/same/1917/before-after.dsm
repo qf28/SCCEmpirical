@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 11000100
+10100000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClientScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ScannerCallableWithReplicas_java

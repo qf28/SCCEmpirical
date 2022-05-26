@@ -1,0 +1,8 @@
+[Cast,Call,Import,Create,Parameter,Contain]
+3
+0 0 001010
+0 0 001000
+011100 100000 0
+javaparser-core.src.main.java.com.github.javaparser.version.Java10PostProcessor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.validator.NoProblemsValidator_java
+javaparser-core.src.main.java.com.github.javaparser.ParserConfiguration_java

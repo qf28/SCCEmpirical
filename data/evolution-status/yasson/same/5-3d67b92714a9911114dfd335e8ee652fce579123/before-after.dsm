@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+2
+0 01010010110
+00000100000 0
+src.test.java.org.eclipse.yasson.adapters.model.BoxWithAdapterAdapter_java
+src.test.java.org.eclipse.yasson.adapters.model.BoxWithAdapter_java

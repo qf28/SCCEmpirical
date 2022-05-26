@@ -1,0 +1,26 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+12
+0 011000100 011000000 011000110 0 0 0 011000100 0 0 0 000000101
+011000110 0 011000010 011000100 010100000 0 000100000 011000100 0 0 010000000 011000100
+0 0 0 000000100 010100000 0 0 010000110 0 0 0 0
+0 0 0 0 0 0 0 011000010 0 0 0 0
+0 010100000 0 011100100 0 0 0 0 0 010100000 0 0
+0 010100000 0 0 0 0 0 000100100 0 010100000 0 0
+000100000 010100000 0 0 0 0 0 0 0 0 0 0
+0 0 0 001000010 0 011100110 0 0 010100010 0 0 0
+0 0 0 010101000 0 0 0 0 0 0 0 0
+000100000 010100000 0 0 0 0 0 0 0 0 0 0
+010000000 011010100 000000100 011000100 0 0 0 0 0 0 0 0
+0 0 0 001000100 0 0 0 0 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFile_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.HFileArchiver_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.HFileLink_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.snapshot.TakeSnapshotUtils_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFileInfo_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.HalfStoreFileReader_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.HFileArchiveUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SplitTransaction_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Store_java

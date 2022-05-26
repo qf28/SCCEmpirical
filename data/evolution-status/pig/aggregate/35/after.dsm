@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 0 001000000 010000000 101000000 0 0
+011100000 0 011100000 0 0 0 0
+0 0 0 010000000 011000000 0 0
+0 0 0 0 0 011100010 0
+0 0 0 010101000 0 0 0
+001100000 010001000 011100000 0 0 0 001100000
+0 0 0 0 001000000 0 0
+src.org.apache.pig.experimental.logical.relational.LOInnerLoad_java
+src.org.apache.pig.experimental.logical.optimizer.AllExpressionVisitor_java
+src.org.apache.pig.experimental.logical.relational.LOForEach_java
+src.org.apache.pig.experimental.plan.BaseOperatorPlan_java
+src.org.apache.pig.experimental.logical.relational.LogicalPlan_java
+src.org.apache.pig.experimental.logical.optimizer.PlanPrinter_java
+src.org.apache.pig.experimental.logical.relational.LOLoad_java

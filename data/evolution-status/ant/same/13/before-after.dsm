@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+3
+0 0 0010010
+0 0 0010010
+0001000 0110100 0
+proposal.sandbox.antlib.src.main.org.apache.tools.ant.types.DataTypeAdapterTask_java
+proposal.sandbox.antlib.src.main.org.apache.tools.ant.SymbolTable_java
+proposal.sandbox.antlib.src.main.org.apache.tools.ant.Project_java

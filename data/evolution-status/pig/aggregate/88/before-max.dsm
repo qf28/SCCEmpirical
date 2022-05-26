@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Create,Use]
+3
+0 0101001 0111000
+0111011 0 0111001
+0111011 0101001 0
+src.org.apache.pig.impl.logicalLayer.schema.Schema_java
+src.org.apache.pig.data.DataType_java
+src.org.apache.pig.ResourceSchema_java

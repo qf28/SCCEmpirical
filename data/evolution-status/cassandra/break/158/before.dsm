@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement]
+4
+0 011010000 0 0
+0 0 001010000 000010100
+0 001010000 0 0
+110000100 011000000 000000001 0
+src.java.org.apache.cassandra.cql3.statements.CFStatement_java
+src.java.org.apache.cassandra.service.ClientState_java
+src.java.org.apache.cassandra.cql3.QueryHandler_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java

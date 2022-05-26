@@ -1,0 +1,8 @@
+[Call,Import,Create,Use]
+3
+0 0010 1001
+0 0 1001
+1101 0 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.gms.GossipDigestAck2VerbHandler_java
+src.java.org.apache.cassandra.gms.Gossiper_java

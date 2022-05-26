@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Create,Use]
+3
+0 00100 0
+01110 0 01110
+0 10101 0
+java.engine.org.apache.derby.impl.store.access.btree.index.B2ICostController_java
+java.engine.org.apache.derby.impl.store.access.btree.index.B2I_java
+java.engine.org.apache.derby.impl.store.access.btree.index.B2IController_java

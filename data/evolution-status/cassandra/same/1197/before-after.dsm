@@ -1,0 +1,44 @@
+[Cast,Call,Typed,Import,Extend,Use,Throw,Create,Implement]
+21
+0 0 0 0 0 0 0 011010000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 001100000 0 0 001100000 011011000 0 0 0 0 0 010000010 0 0 0 0 0 0
+0 0 0 0 0 0 0 011010000 000101000 0 0 0 0 0 0 010001000 0 0 0 0 0
+0 0 0 0 0 0 0 001010000 0 0 0 0 0 0 0 010000000 0 000001000 0 0 0
+010000000 0 0 010001000 0 0 000001000 111001000 011001010 111001000 0 000001000 0 010000010 010000000 000001000 000001000 0 000001000 0 0
+0 0 0 0 0 0 0 111011000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 011001000 0 0 0 0 011010000 0 0 0 0 0 0 0 010001000 0 0 0 0 0
+0 0 0 0 0 010000000 0 0 011101000 0 0 011101000 0 101101000 0 0 0 0 0 0 0
+0 010000010 0 010001000 011101000 0 0 011001000 0 011000010 010001000 011001001 000001000 0 0 0 0 0 0 000001000 000001000
+011010001 0 0 0 0 0 000001000 111001000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 000010000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 001100000 0 0 0 100001000 0 0 0 0 110001000 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 000010000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 001101000 0 0 010000000 011001000 0 0 011000001 0 0 0 0 0 0 0 0 0
+0 0 0 0 001100000 0 0 0 011011000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 000001000 0 0 0 001010000 0 0 0 0 0 0 0 0 0 000001000 0 0 0
+0 0 0 0 0 0 0 000010000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 000010000 0 0 0 0 0 0 0 010000000 0 0 0 0 0
+0 0 0 0 0 0 0 0 001000000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 000010000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 000010000 0 0 0 0 0 0 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.db.marshal.AbstractCompositeType_java
+src.java.org.apache.cassandra.db.ExpiringColumn_java
+src.java.org.apache.cassandra.db.marshal.CollectionType_java
+src.java.org.apache.cassandra.db.marshal.UTF8Type_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.marshal.ReversedType_java
+src.java.org.apache.cassandra.db.marshal.ColumnToCollectionType_java
+src.java.org.apache.cassandra.db.marshal.AbstractType_java
+src.java.org.apache.cassandra.db.Column_java
+src.java.org.apache.cassandra.db.marshal.CompositeType_java
+src.java.org.apache.cassandra.db.marshal.InetAddressType_java
+src.java.org.apache.cassandra.db.OnDiskAtom_java
+src.java.org.apache.cassandra.db.marshal.Int32Type_java
+src.java.org.apache.cassandra.db.RangeTombstone_java
+src.java.org.apache.cassandra.db.DeletedColumn_java
+src.java.org.apache.cassandra.db.marshal.BytesType_java
+src.java.org.apache.cassandra.db.marshal.LongType_java
+src.java.org.apache.cassandra.db.marshal.AsciiType_java
+src.java.org.apache.cassandra.db.marshal.CounterColumnType_java
+src.java.org.apache.cassandra.db.marshal.BooleanType_java
+src.java.org.apache.cassandra.db.marshal.DoubleType_java

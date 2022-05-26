@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 100
+111 0
+src.java.org.apache.cassandra.hadoop.cql3.CqlBulkRecordWriter_java
+src.java.org.apache.cassandra.hadoop.cql3.CqlBulkOutputFormat_java

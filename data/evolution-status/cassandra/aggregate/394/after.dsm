@@ -1,0 +1,34 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+16
+0 0 0 0 01000000 0 0 11101010 0 0 0 0 0 01110000 0 0
+0 0 0 0 0 0 01011000 01110000 0 00110000 0 0 0 0 0 0
+0 0 0 01000000 0 01000010 01000000 0 0 00100000 0 0 00000010 0 0 0
+0 01110000 0 0 0 0 01000000 0 0 11100110 0 0 01000010 0 0 0
+0 0 0 0 0 0 0 0 00010000 0 0 0 0 00110000 0 0
+0 0 0 0 00000010 0 01000000 11100010 0 11100000 0 0 0 00110010 11100000 0
+0 0 0 0 11100110 0 0 11100110 00010000 00100001 0 0 0 01110010 11100100 01001000
+0 00110000 0 0 01001000 0 0 0 0 0 0 0 0 00110000 0 00000100
+0 0 01100010 0 01100000 0 11000010 11100000 0 11100110 01100010 01001010 01000010 01110000 11100000 0
+0 0 0 0 01100010 0 01000000 10100010 0 0 0 0 0 01110010 11100000 0
+0 0 0 01000000 01000000 0 01000000 01100010 0 01100010 0 0 00000010 01110010 0 01000100
+0 0 0 0 0 0 01000000 0 0 01100010 0 0 00000010 0 0 0
+0 0 0 0 01100010 0 01000000 10100010 0 01100000 0 0 0 01110010 11100000 0
+0 0 0 0 11000010 0 0 11000010 0 0 0 0 0 0 0 0
+0 0 0 0 01001010 0 0 11100110 0 0 0 0 0 01110000 0 0
+01001000 01110000 0 0 01000010 0 0 01100011 0 0 0 0 0 01110000 0 0
+src.java.org.apache.cassandra.db.rows.AbstractCell_java
+src.java.org.apache.cassandra.utils.memory.AbstractAllocator_java
+src.java.org.apache.cassandra.db.rows.UnfilteredRowIteratorSerializer_java
+src.java.org.apache.cassandra.db.rows.UnfilteredRowIterators_java
+src.java.org.apache.cassandra.db.rows.ColumnData_java
+src.java.org.apache.cassandra.db.rows.UnfilteredSerializer_java
+src.java.org.apache.cassandra.db.rows.BTreeBackedRow_java
+src.java.org.apache.cassandra.db.rows.Cell_java
+src.java.org.apache.cassandra.db.partitions.PartitionUpdate_java
+src.java.org.apache.cassandra.db.rows.Row_java
+src.java.org.apache.cassandra.db.LegacyLayout_java
+src.java.org.apache.cassandra.db.partitions.AbstractThreadUnsafePartition_java
+src.java.org.apache.cassandra.db.rows.Rows_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java
+src.java.org.apache.cassandra.db.rows.ComplexColumnData_java
+src.java.org.apache.cassandra.db.rows.BufferCell_java

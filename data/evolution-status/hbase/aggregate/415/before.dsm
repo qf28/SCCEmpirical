@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+5
+0 0 0 001000000 0
+011001101 0 010000000 011001000 110000100
+111100100 010001000 0 0 0
+0 001000000 0 0 0
+011000100 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLog_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.FSHLog_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.WALCoprocessorHost_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.ProtobufLogWriter_java

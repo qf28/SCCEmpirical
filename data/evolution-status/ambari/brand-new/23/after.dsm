@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+2
+0 00001000
+00101010 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.AddComponentTask_java
+ambari-server.src.main.java.org.apache.ambari.server.serveraction.upgrades.AddComponentAction_java

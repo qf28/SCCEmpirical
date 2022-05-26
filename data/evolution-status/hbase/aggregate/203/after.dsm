@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 00101
+00100 0
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.filter.AuthFilter_java
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.RESTServer_java

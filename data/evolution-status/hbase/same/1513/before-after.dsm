@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend,Create,Use]
+7
+0 0 001000 0 0 0 0
+101000 0 0 101000 101000 0 0
+101000 0 0 0 111001 101000 0
+101000 0 0 0 0 0 0
+101000 101000 101000 0 0 0 101000
+101010 0 101000 0 0 0 0
+101000 0 0 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.FSHLog_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.WALPrettyPrinter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.WALSplitter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.HFileArchiver_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.SplitLogManager_java

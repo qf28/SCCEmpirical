@@ -1,0 +1,6 @@
+[Cast,Call,Import,Create,Use,Parameter]
+2
+0 010001
+010100 0
+src.main.java.org.eclipse.yasson.internal.serializer.MapDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.DeserializerBuilder_java

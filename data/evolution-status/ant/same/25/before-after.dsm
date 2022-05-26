@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 111
+100 0
+src.main.org.apache.tools.ant.ProjectHelper_java
+src.main.org.apache.tools.ant.RuntimeConfigurable_java

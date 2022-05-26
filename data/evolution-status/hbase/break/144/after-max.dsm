@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+4
+0 0 0 001000000
+0 0 010000000 011100000
+0 010000000 0 011100000
+011000000 010100100 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.CreateNamespaceProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.DeleteNamespaceProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.TableNamespaceManager_java

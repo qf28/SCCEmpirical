@@ -1,0 +1,6 @@
+[Call,Import,Create,Use,Contain]
+2
+0 0
+11101 0
+src.main.java.spoon.support.visitor.clone.CloneVisitor_java
+src.main.java.spoon.support.visitor.equals.CloneHelper_java

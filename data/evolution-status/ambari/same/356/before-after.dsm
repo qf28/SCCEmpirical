@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 11000000
+01000100 0
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.Stage_java
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.ActionDBAccessor_java

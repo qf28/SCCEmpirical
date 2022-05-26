@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Use,Create]
+3
+0 01000 0
+10001 0 10001
+0 01010 0
+drivers.java.src.org.apache.cassandra.cql.jdbc.CassandraPreparedStatement_java
+drivers.java.src.org.apache.cassandra.cql.jdbc.CassandraConnection_java
+drivers.java.src.org.apache.cassandra.cql.jdbc.CassandraDatabaseMetaData_java

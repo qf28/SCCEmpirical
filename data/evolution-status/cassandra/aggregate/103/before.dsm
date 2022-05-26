@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Use]
+3
+0 0 0
+0 0 0
+1110 1111 0
+src.java.org.apache.cassandra.cql.DeleteStatement_java
+src.java.org.apache.cassandra.cql.UpdateStatement_java
+src.java.org.apache.cassandra.cql.QueryProcessor_java

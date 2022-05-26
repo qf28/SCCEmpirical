@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Set,Extend,Use]
+8
+0 0 0 0 0 0 0 0
+0 0 0 111000 100001 110001 0 101000
+0 0 0 0 0 0 010111 111000
+0 0 0 0 011000 0 0 000001
+0 100001 0 111000 0 0 0 111111
+0 0 111111 111000 100001 0 010101 111001
+010000 0 0 101000 0 110001 0 111001
+101000 0 0 001000 100001 0 0 0
+java.engine.org.apache.derby.impl.sql.compile.OptimizerImpl_java
+java.engine.org.apache.derby.impl.sql.compile.ProjectRestrictNode_java
+java.engine.org.apache.derby.impl.sql.compile.SetOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.PredicateList_java
+java.engine.org.apache.derby.impl.sql.compile.SelectNode_java
+java.engine.org.apache.derby.impl.sql.compile.UnionNode_java
+java.engine.org.apache.derby.impl.sql.compile.TableOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.ResultSetNode_java

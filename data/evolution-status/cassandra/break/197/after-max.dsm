@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 011100100
+011000000 0
+src.java.org.apache.cassandra.io.util.FileHandle_java
+src.java.org.apache.cassandra.cache.ChunkCache_java

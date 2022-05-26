@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Create]
+2
+0 10101
+11100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.ClosedRegionHandler_java

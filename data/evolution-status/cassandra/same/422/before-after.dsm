@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0100000
+0110100 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.RowIteratorFactory_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Implement]
+2
+0 01000
+11000 0
+src.main.java.org.apache.hadoop.hbase.regionserver.RowProcessor_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

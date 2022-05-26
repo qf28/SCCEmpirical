@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 1000010
+1001100 0
+src.java.org.apache.cassandra.db.commitlog.CommitLogSegment_java
+src.java.org.apache.cassandra.db.commitlog.MemoryMappedSegment_java

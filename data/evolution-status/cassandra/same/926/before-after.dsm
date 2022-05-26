@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Implement]
+2
+0 10100
+10110 0
+src.org.apache.cassandra.locator.RackAwareStrategy_java
+src.org.apache.cassandra.service.StorageService_java

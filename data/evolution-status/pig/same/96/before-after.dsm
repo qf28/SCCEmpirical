@@ -1,0 +1,14 @@
+[Call,Typed,Import,Set,Extend,Use]
+6
+0 000001 000001 0 0 0
+0 0 000010 000010 000101 101000
+0 000010 0 0 0 0
+0 0 0 0 001010 0
+000001 000101 0 0 0 101000
+0 000001 001000 0 0 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigGenericMapReduce_java
+shims.src.hadoop20.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapReduce_java
+shims.src.hadoop20.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapBase_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigGenericMapBase_java
+src.org.apache.pig.backend.hadoop.datastorage.ConfigurationUtil_java

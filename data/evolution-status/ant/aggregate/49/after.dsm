@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0010000
+0000001 0
+org.apache.tools.ant.Project_java
+org.apache.tools.ant.Task_java

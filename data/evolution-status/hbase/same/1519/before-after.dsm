@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Extend,Use,Create]
+3
+0 011001 011011
+010000 0 0
+0 000010 0
+src.java.org.apache.hadoop.hbase.HRegion_java
+src.java.org.apache.hadoop.hbase.HLog_java
+src.java.org.apache.hadoop.hbase.HStore_java

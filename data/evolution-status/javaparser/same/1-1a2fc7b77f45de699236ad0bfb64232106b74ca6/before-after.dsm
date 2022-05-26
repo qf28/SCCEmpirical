@@ -1,0 +1,6 @@
+[Call,Create,Use]
+2
+0 110
+111 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserMethodDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserAnonymousClassDeclaration_java

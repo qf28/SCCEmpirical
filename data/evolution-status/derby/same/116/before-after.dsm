@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+3
+0 011000100 0
+011000010 0 010000010
+010001000 001000000 0
+java.engine.org.apache.derby.impl.store.raw.xact.Xact_java
+java.engine.org.apache.derby.impl.store.raw.xact.XactFactory_java
+java.engine.org.apache.derby.impl.store.raw.xact.InternalXact_java

@@ -1,0 +1,30 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement]
+14
+0 0 0 0 0 0 0 0 0 0 0 011000000 0 0
+0 0 010000000 0 0 0 0 011000000 011000010 0 0 011000000 0 0
+010000100 0 0 011001000 011000010 010000010 010000010 011000000 011000010 0 0 011000000 010000000 010000010
+010001000 0 0 0 0 0 0 0 0 0 0 110000000 0 0
+0 0 0 0 0 0 0 0 0 0 0 011000000 0 0
+0 0 0 0 0 0 0 0 0 010001100 0 001000000 0 0
+0 0 0 0 0 0 0 0 0 010001100 0 001000000 0 0
+0 0 0 0 0 0 0 0 001000000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 011000010 0 0
+0 0 0 0 0 0 0 0 0 0 011000010 001000000 0 0
+0 0 0 0 010000000 0 0 0 0 0 0 011000000 0 0
+0 010000010 010000010 0 0 011000010 0 001000001 011000010 010000000 0 0 010000010 0
+0 0 0 0 0 0 0 111000000 0 0 0 011000000 0 0
+0 0 0 0 0 0 010001000 0 0 010100100 0 001000000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.RegionServerCallable_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.BufferedMutatorImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HTable_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClientServiceCallable_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.RpcRetryingCallerWithReadReplicas_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ReversedClientScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClientSimpleScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClusterConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncProcess_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClientScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ScannerCallableWithReplicas_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionImplementation_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HBaseAdmin_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClientAsyncPrefetchScanner_java

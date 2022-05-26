@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01000100
+11100100 0
+src.main.java.org.apache.commons.math.geometry.euclidean.twod.Vector2D_java
+src.main.java.org.apache.commons.math.geometry.euclidean.twod.Vector2DFormat_java

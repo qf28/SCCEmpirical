@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 0010010000
+1010010000 0
+src.main.java.spoon.reflect.declaration.CtConstructor_java
+src.main.java.spoon.reflect.path.CtRole_java

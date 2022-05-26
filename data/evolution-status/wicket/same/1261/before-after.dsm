@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 10110000 01011000
+00010100 0 0
+0 00010010 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.html.pages.BrowserInfoPage_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.WebRequestCycle_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.html.form.Form_java

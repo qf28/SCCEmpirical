@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0100000
+1110011 0
+src.org.apache.pig.scripting.jruby.RubyDataBag_java
+src.org.apache.pig.scripting.jruby.PigJrubyLibrary_java

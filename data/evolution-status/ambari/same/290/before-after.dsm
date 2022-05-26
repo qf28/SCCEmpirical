@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0010000
+0010100 0
+ambari-server.src.main.java.org.apache.ambari.server.state.Service_java
+ambari-server.src.main.java.org.apache.ambari.server.state.Cluster_java

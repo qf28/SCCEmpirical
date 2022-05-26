@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 011000010 010000000
+111100110 0 010111010
+0 110100010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

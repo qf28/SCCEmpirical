@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 011111100 0 010000000
+010000010 0 000100100 011000010
+0 001100000 0 0
+0 011100000 111100100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ReversedRegionScannerImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coprocessor.RegionObserver_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionCoprocessorHost_java

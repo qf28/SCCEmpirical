@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create]
+3
+0 1101 1101
+1010 0 0
+1000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncRegionLocator_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncMetaRegionLocator_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncNonMetaRegionLocator_java

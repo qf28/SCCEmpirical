@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 10100
+11111 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.AsyncFSWAL_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.AsyncFSWALProvider_java

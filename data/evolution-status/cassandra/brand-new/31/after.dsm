@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 00000001
+01000010 0
+tools.stress.src.org.apache.cassandra.stress.util.NoopResultLogger_java
+tools.stress.src.org.apache.cassandra.stress.util.ResultLogger_java

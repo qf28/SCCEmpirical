@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+6
+0 0 0 0 000100010 0
+001000100 0 0 011001000 011110010 0
+0 011001000 0 111000001 010100010 010001000
+0 0 0 0 011000001 0
+000100000 0 000100000 0 0 0
+010110011 011011000 010111001 0 000110111 0
+src.main.java.spoon.reflect.factory.CoreFactory_java
+src.main.java.spoon.support.DefaultCoreFactory_java
+src.main.java.spoon.reflect.factory.TypeFactory_java
+src.main.java.spoon.experimental.CtUnresolvedImport_java
+src.main.java.spoon.reflect.factory.Factory_java
+src.main.java.spoon.reflect.factory.FactoryImpl_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00100000
+01100100 0
+src.java.org.apache.hadoop.hbase.regionserver.transactional.TransactionalHLogManager_java
+src.java.org.apache.hadoop.hbase.regionserver.transactional.TransactionalRegion_java

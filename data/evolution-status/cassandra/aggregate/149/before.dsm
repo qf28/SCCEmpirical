@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 0
+0 0
+src.java.org.apache.cassandra.schema.Types_java
+src.java.org.apache.cassandra.db.marshal.EmptyType_java

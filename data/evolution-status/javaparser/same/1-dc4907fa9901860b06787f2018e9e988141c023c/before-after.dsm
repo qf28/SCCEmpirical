@@ -1,0 +1,6 @@
+[Call,Import,Extend,Use]
+2
+0 1001
+1111 0
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

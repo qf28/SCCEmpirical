@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0100000
+0100001 0
+src.java.org.apache.cassandra.db.marshal.TimeUUIDType_java
+src.java.org.apache.cassandra.db.marshal.UUIDType_java

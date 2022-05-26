@@ -1,0 +1,8 @@
+[Set,Extend,Use]
+3
+0 0 111
+001 0 0
+101 001 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapReduce_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapBase_java

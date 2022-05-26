@@ -1,0 +1,6 @@
+[Import]
+2
+0 1
+1 0
+wicket-extensions.src.main.java.org.apache.wicket.extensions.breadcrumb.panel.BreadCrumbPanel_java
+wicket-extensions.src.main.java.org.apache.wicket.extensions.breadcrumb.BreadCrumbLink_java

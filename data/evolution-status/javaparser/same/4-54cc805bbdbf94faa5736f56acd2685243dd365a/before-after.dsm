@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+2
+0 0000001000
+0000001000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.AssignExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.BinaryExpr_java

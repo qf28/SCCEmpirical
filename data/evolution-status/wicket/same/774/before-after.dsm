@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Extend,Use,Create]
+4
+0 010000 010110 0
+0 0 0 010001
+0 111010 0 0
+010100 0 010010 0
+jdk-1_4.wicket.src.main.java.wicket.protocol.http.HttpSessionStore_java
+jdk-1_4.wicket.src.main.java.wicket.protocol.http.WebApplication_java
+jdk-1_4.wicket.src.main.java.wicket.protocol.http.AbstractHttpSessionStore_java
+jdk-1_4.wicket.src.main.java.wicket.protocol.http.SecondLevelCacheSessionStore_java

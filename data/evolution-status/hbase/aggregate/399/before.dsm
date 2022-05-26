@@ -1,0 +1,6 @@
+[Typed,Import]
+2
+0 0
+0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.mapreduce.TableSplit_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.mapreduce.TableMapReduceUtil_java

@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+6
+0 0 0 0 011000000 0
+001100000 0 111001010 111000010 011100100 011100000
+001100100 111011111 0 011000000 011100100 011100000
+010100100 011000011 111001010 0 011100000 001100000
+010000100 0 0 0 0 011000000
+010000100 000100010 0 0 0 0
+wicket.src.java.wicket.markup.MarkupException_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.MarkupContainer_java
+wicket.src.java.wicket.Page_java
+wicket.src.java.wicket.markup.MarkupStream_java
+wicket.src.java.wicket.markup.MarkupFragment_java

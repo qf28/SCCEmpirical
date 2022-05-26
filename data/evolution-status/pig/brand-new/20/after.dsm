@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 111001100
+0 0 111001100
+010000000 010000000 0
+src.org.apache.pig.data.DataCharArrayNone_java
+src.org.apache.pig.data.DataCharArrayUtf16_java
+src.org.apache.pig.data.DataCharArray_java

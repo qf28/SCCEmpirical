@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 101100
+011001 0
+wicket-weld.src.main.java.org.apache.wicket.cdi.weld.WeldContainer_java
+wicket-weld.src.main.java.org.apache.wicket.cdi.CdiContainer_java

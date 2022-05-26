@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 011000100 011000000
+011100100 0 101000001
+001000000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncProcess_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionManager_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClusterConnection_java

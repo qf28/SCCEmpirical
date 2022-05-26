@@ -1,0 +1,6 @@
+[Call,Import]
+2
+0 0
+0 0
+java.engine.org.apache.derby.impl.sql.execute.JarUtil_java
+java.engine.org.apache.derby.impl.sql.execute.GenericConstantActionFactory_java

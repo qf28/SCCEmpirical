@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Throw,Implement]
+5
+0 0001000100 0111001000 0 0
+0 0 0111001000 0001001000 0
+0110001000 0 0 0 0110001000
+0 0111001100 0 0 0
+0 0001000100 0 0 0
+src.java.org.apache.hadoop.hbase.shell.SelectCommand_java
+src.java.org.apache.hadoop.hbase.Shell_java
+src.java.org.apache.hadoop.hbase.shell.generated.Parser_java
+src.java.org.apache.hadoop.hbase.shell.ShellSecurityManager_java
+src.java.org.apache.hadoop.hbase.shell.ExitCommand_java

@@ -1,0 +1,6 @@
+[Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+2
+0 10001000
+10001000 0
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionMethodDeclaration_java

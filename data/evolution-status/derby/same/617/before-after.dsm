@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+5
+0 0 0 01110000 0
+0 0 0 11100000 0
+0 0 0 0 01100000
+0 00100000 01000010 0 01100011
+11010001 0 0 01110000 0
+java.engine.org.apache.derby.impl.db.SlaveDatabase_java
+java.engine.org.apache.derby.jdbc.BasicEmbeddedDataSource40_java
+java.engine.org.apache.derby.impl.jdbc.EmbedDatabaseMetaData_java
+java.engine.org.apache.derby.jdbc.InternalDriver_java
+java.engine.org.apache.derby.impl.jdbc.EmbedConnection_java

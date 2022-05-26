@@ -1,0 +1,22 @@
+[Cast,Call,Import,Return,Create,Use,Implement,Parameter,Contain]
+10
+0 011010000 011101011 0 0 001000000 100000000 0 0 0
+110011011 0 010001010 010010000 000100010 000001011 100000000 010001000 010010000 011011011
+001000000 0 0 0 011100010 0 0 0 0 001000000
+0 010010000 001100000 0 001100010 001000100 0 0 010010000 011110000
+0 0 001001000 0 0 011001011 0 0 0 001000000
+0 0 000100000 0 001100010 0 0 0 0 001100000
+0 0 0 0 0 001001010 0 0 0 0
+011010000 011010000 010000000 0 0 011001011 0 0 0 011001011
+110011011 010010000 010001010 010010000 000100010 000001011 100000000 010001000 0 011011011
+0 0 001100000 0 0 011101011 0 0 0 0
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.ReferenceTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.TypeDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionMethodDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.Context_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.MethodDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.LambdaArgumentTypeUsagePlaceholder_java
+src.main.java.me.tomassetti.symbolsolver.resolution.MethodResolutionLogic_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionInterfaceDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.invokations.MethodUsage_java

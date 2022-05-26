@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Implement]
+2
+0 0110000
+0010000 0
+wicket-extensions.src.main.java.wicket.extensions.markup.html.tree.table.TreeTable_java
+wicket-extensions.src.main.java.wicket.extensions.markup.html.tree.table.IColumn_java

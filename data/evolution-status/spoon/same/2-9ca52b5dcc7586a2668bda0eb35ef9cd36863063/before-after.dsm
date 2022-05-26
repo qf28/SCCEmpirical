@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 0010010000
+0110011000 0
+src.main.java.spoon.generating.replace.ReplaceScanner_java
+src.main.java.spoon.generating.ReplacementVisitorGenerator_java

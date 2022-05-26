@@ -1,0 +1,24 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+11
+0 000100000 0 0 000100000 0 0 010100000 0 0 0
+011100010 0 0 0 0 0 0 0 0 0 0
+0 0 0 010100000 0 0 010100010 010100000 0 010101000 0
+0 101100100 0 0 0 0 0 010000000 0 0 0
+0 011100000 0 0 0 0 0 0 011100010 0 011000010
+0 0 011000010 0 0 0 0 0 0 0 0
+0 011100010 0 0 0 0 0 010100000 011100100 0 0
+010100000 011100010 0 010000000 0 0 0 0 011100010 0 0
+010100000 0 0 0 0 0 0 0 0 0 0
+0 0 0 010100000 0 0 011100010 010100000 0 0 0
+0 0 0 0 011000000 010111100 0 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.HbaseObjectWritable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.coprocessor.Exec_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.HTable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.protobuf.RequestConverter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coprocessor.CoprocessorHost_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.ExecRPCInvoker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.protobuf.ProtobufUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.coprocessor.ExecResult_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.HConnectionManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionCoprocessorHost_java

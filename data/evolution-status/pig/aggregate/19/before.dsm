@@ -1,0 +1,24 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+11
+0 0 0 0 0 0 0 0 0 0 0
+01110111 0 01101001 0 0 0 0 0 0 0 0
+0 00101010 0 0 0 0 0 0 0 0 0
+01010111 0 0 0 0 0 0 0 0 0 0
+01110111 0 0 0 0 0 0 0 0 0 0
+01110111 0 0 0 0 0 0 0 0 0 0
+01110111 0 0 0 0 0 0 0 0 0 0
+01010101 0 0 0 0 0 0 0 0 0 0
+00100001 0 0 0 0 0 0 0 0 0 0
+01010111 0 0 0 0 0 0 0 0 0 0
+01010101 0 0 0 0 0 0 0 0 0 0
+src.org.apache.pig.impl.physicalLayer.PhysicalOperator_java
+src.org.apache.pig.impl.physicalLayer.POMapreduce_java
+src.org.apache.pig.impl.mapreduceExec.MapReduceLauncher_java
+src.org.apache.pig.impl.physicalLayer.POSort_java
+src.org.apache.pig.impl.physicalLayer.POStore_java
+src.org.apache.pig.impl.physicalLayer.POEval_java
+src.org.apache.pig.impl.physicalLayer.POUnion_java
+src.org.apache.pig.impl.physicalLayer.POLoad_java
+src.org.apache.pig.impl.physicalLayer.POSplitMaster_java
+src.org.apache.pig.impl.physicalLayer.POCogroup_java
+src.org.apache.pig.impl.physicalLayer.PORead_java

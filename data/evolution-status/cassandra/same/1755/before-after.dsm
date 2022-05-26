@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use]
+2
+0 0011
+1110 0
+src.java.org.apache.cassandra.service.ClientState_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01100100
+01100100 0
+src.main.java.org.apache.commons.math3.geometry.spherical.twod.SphericalPolygonsSet_java
+src.main.java.org.apache.commons.math3.geometry.spherical.twod.PropertiesComputer_java

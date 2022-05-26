@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0 01010100
+0 0 01000100
+01010000 01100100 0
+src.java.org.apache.cassandra.concurrent.StageManager_java
+src.java.org.apache.cassandra.net.OutboundTcpConnection_java
+src.java.org.apache.cassandra.net.MessagingService_java

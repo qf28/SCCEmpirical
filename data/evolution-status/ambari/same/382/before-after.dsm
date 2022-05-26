@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+10
+0 001100100 011100000 0 0 0 0 011001000 0 0
+001100100 0 0 0 000100000 000100000 0 0 0 0
+0 0 0 0 0 0 0 0 0 001100000
+0 000100100 0 0 0 0 0 0 0 0
+001001000 001100000 011100000 0 0 0 0 010001000 0 0
+001001000 001100000 011100000 0 0 0 0 010001000 0 011100000
+0 011100100 0 0 0 0 0 0 011000010 000100100
+001000100 001100100 011100000 0 0 000000100 0 0 0 0
+0 000100000 0 0 0 0 0 0 0 0
+0 000100100 0 011100100 0 0 000100100 0 0 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.Grouping_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.UpgradePack_java
+ambari-server.src.main.java.org.apache.ambari.server.state.UpgradeContext_java
+ambari-server.src.main.java.org.apache.ambari.server.state.StackInfo_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.ClusterGrouping_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.ServiceCheckGrouping_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.StackDirectory_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.StageWrapperBuilder_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.ModuleFileUnmarshaller_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.AmbariMetaInfo_java

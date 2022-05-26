@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 10000 00010
+0 0 00100
+10000 11101 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.metrics.HintedHandoffMetrics_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

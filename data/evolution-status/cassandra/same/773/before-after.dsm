@@ -1,0 +1,18 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+8
+0 0 0 0 0100100 0 1101010 0
+0 0 0 0 0100100 0 1101010 0
+0 0 0 0 1100100 0 1101100 0
+0 0 0 0 1100100 0 1101010 0
+0010000 0010000 0010000 0010000 0 0010000 0 0010000
+0 0 0 0 1100100 0 1101010 0
+0 0 0 0 1111101 0 0 0
+0 0 0 0 0100100 0 1101010 0
+tools.stress.src.org.apache.cassandra.stress.operations.CqlCounterAdder_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlRangeSlicer_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlIndexedRangeSlicer_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlInserter_java
+tools.stress.src.org.apache.cassandra.stress.Operation_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlReader_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlOperation_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlCounterGetter_java

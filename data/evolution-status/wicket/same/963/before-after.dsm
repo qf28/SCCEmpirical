@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use]
+2
+0 11100
+01111 0
+wicket.src.main.java.org.apache.wicket.Component_java
+wicket.src.main.java.org.apache.wicket.markup.ComponentTag_java

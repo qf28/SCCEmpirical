@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 111000
+011000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.MasterQuotaManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterServices_java

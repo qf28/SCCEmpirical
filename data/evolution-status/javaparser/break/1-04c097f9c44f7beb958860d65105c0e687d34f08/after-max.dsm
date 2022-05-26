@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Parameter,Contain,Annotation]
+4
+0 0 0 0110000000
+0100010010 0 0100010010 0010000000
+0 0 0 0110000000
+0 0100010010 0 0
+javaparser-metamodel-generator.src.main.java.com.github.javaparser.generator.metamodel.InitializeConstructorParametersStatementsGenerator_java
+javaparser-metamodel-generator.src.main.java.com.github.javaparser.generator.metamodel.NodeMetaModelGenerator_java
+javaparser-metamodel-generator.src.main.java.com.github.javaparser.generator.metamodel.InitializePropertyMetaModelsStatementsGenerator_java
+javaparser-metamodel-generator.src.main.java.com.github.javaparser.generator.metamodel.MetaModelGenerator_java

@@ -1,0 +1,10 @@
+[Call,Typed,Use,Create]
+4
+0 0 0 0
+0 0 1100 0
+0 1101 0 0
+1001 1100 1111 0
+src.java.org.apache.cassandra.net.FileStreamTask_java
+src.java.org.apache.cassandra.net.OutboundTcpConnection_java
+src.java.org.apache.cassandra.net.TcpConnectionManager_java
+src.java.org.apache.cassandra.net.MessagingService_java

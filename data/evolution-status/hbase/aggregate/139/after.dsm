@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+3
+0 001100100 0
+010100000 0 010100000
+0 011100100 0
+src.java.org.apache.hadoop.hbase.rest.parser.HBaseRestParserFactory_java
+src.java.org.apache.hadoop.hbase.rest.Dispatcher_java
+src.java.org.apache.hadoop.hbase.rest.serializer.RestSerializerFactory_java

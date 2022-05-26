@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Throw]
+2
+0 110000
+110100 0
+src.java.main.org.apache.zookeeper.server.quorum.LearnerSnapshot_java
+src.java.main.org.apache.zookeeper.server.quorum.LearnerSnapshotThrottler_java

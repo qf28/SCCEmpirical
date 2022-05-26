@@ -1,0 +1,10 @@
+[Call,Typed,Import,Create]
+4
+0 0 1110 0010
+0 0 1110 0
+1011 1011 0 0
+1011 1011 1101 0
+src.contrib.zooinspector.src.java.org.apache.zookeeper.inspector.gui.actions.AddNodeAction_java
+src.contrib.zooinspector.src.java.org.apache.zookeeper.inspector.gui.actions.DeleteNodeAction_java
+src.contrib.zooinspector.src.java.org.apache.zookeeper.inspector.gui.ZooInspectorTreeViewer_java
+src.contrib.zooinspector.src.java.org.apache.zookeeper.inspector.gui.ZooInspectorPanel_java

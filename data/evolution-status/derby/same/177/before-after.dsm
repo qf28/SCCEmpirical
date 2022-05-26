@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 110100
+110000 0
+java.engine.org.apache.derby.impl.services.replication.master.MasterController_java
+java.engine.org.apache.derby.impl.services.replication.master.AsynchronousLogShipper_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 0 0 01101001 0
+0 0 0 01101001 0
+0 0 0 01101001 0
+00000100 00000100 00000100 0 00000100
+0 0 0 01101001 0
+src.java.org.apache.cassandra.streaming.messages.OutgoingFileMessage_java
+src.java.org.apache.cassandra.streaming.messages.RetryMessage_java
+src.java.org.apache.cassandra.streaming.messages.ReceivedMessage_java
+src.java.org.apache.cassandra.streaming.messages.StreamMessage_java
+src.java.org.apache.cassandra.streaming.messages.PrepareMessage_java

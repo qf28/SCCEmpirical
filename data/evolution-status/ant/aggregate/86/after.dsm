@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Implement]
+5
+0 0100000 0 0 0110000
+0 0 0 0000010 1010000
+0110000 0 0 0 0000001
+0 0 0100100 0 0
+0011000 0 0 0 0
+src.main.org.apache.tools.ant.taskdefs.Rmic_java
+src.main.org.apache.tools.ant.taskdefs.rmic.RmicAdapterFactory_java
+src.main.org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter_java
+src.main.org.apache.tools.ant.taskdefs.rmic.WLRmic_java
+src.main.org.apache.tools.ant.taskdefs.rmic.RmicAdapter_java

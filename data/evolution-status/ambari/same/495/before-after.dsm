@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 00100000
+00100000 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterStateEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterEntity_java

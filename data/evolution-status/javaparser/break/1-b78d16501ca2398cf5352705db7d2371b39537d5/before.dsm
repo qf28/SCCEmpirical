@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+5
+0 0110001000 0001000100 0010000010 0
+0 0 0010000000 0 0
+0 0 0 0010000010 0
+0110001000 0110011000 0111000000 0 1100010010
+0 0 0011010011 0100110000 0
+javaparser-core.src.main.java.com.github.javaparser.printer.PrettyPrintable_java
+javaparser-core.src.main.java.com.github.javaparser.printer.configuration.PrinterConfiguration_java
+javaparser-core.src.main.java.com.github.javaparser.printer.Printable_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 011000100 010000000 011000001
+010000010 0 000000001 001000000
+0 0 0 001000000
+0 001000000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncHBaseAdmin_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncConnectionImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncAdmin_java

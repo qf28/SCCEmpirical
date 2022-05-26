@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+3
+0 0 0
+00010000 0 0
+10000000 10010000 0
+wicket-util.src.main.java.org.apache.wicket.util.upload.FileUploadBase_java
+wicket-util.src.main.java.org.apache.wicket.util.upload.FileUpload_java
+wicket-util.src.main.java.org.apache.wicket.util.upload.ServletFileUpload_java

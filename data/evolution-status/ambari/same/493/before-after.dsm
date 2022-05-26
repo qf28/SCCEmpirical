@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Create,Use,Implement]
+3
+0 0010000 0010000
+0010000 0 0
+0 1000100 0
+ambari-server.src.main.java.org.apache.ambari.server.events.listeners.AlertServiceStateListener_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.ControllerModule_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariServer_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Implement]
+2
+0 110000
+001000 0
+wicket.src.java.wicket.Application_java
+wicket.src.java.wicket.IComponentInitializer_java

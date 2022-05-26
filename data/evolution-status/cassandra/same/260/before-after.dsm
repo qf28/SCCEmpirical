@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 011011 011011
+010000 0 011011
+0 011010 0
+src.java.org.apache.cassandra.schema.SchemaKeyspace_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java

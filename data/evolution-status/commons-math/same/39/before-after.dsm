@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+5
+0 0100010 0 0000010 0100010
+0 0 0100100 1100010 0
+0100000 0 0 1100010 0
+0 0 0 0 0100010
+0 0 0100100 0 0
+src.main.java.org.apache.commons.math.linear.MatrixUtils_java
+src.main.java.org.apache.commons.math.linear.BlockFieldMatrix_java
+src.main.java.org.apache.commons.math.linear.AbstractFieldMatrix_java
+src.main.java.org.apache.commons.math.linear.ArrayFieldVector_java
+src.main.java.org.apache.commons.math.linear.Array2DRowFieldMatrix_java

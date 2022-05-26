@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 0 011000000
+0 0 011000010
+011000100 011000100 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.MarkupStream_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.MarkupFragment_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.Markup_java

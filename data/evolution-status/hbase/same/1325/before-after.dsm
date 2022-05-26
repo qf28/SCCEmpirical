@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 111
+100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.ChecksumUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlock_java

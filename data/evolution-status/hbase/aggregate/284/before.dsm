@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 0
+1101 0
+src.test.java.org.apache.hadoop.hbase.MiniHBaseCluster_java
+src.test.java.org.apache.hadoop.hbase.HBaseTestingUtility_java

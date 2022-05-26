@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 0
+001100000 0 0
+0 010011100 0
+src.main.java.org.apache.hadoop.hbase.HTableDescriptor_java
+src.main.java.org.apache.hadoop.hbase.coprocessor.CoprocessorHost_java
+src.main.java.org.apache.hadoop.hbase.regionserver.RegionCoprocessorHost_java

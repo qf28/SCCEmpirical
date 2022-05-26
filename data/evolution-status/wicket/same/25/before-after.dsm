@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 10110100 0 0 0
+01010010 0 01100000 01010010 0
+0 01100000 0 0 0
+0 0 0 0 01000010
+0 01010000 0 0 0
+wicket.src.main.java.org.apache.wicket.ng.session.HttpSessionStore_java
+wicket.src.main.java.org.apache.wicket.ng.protocol.http.WebApplication_java
+wicket.src.main.java.org.apache.wicket.ng.protocol.http.WicketFilter_java
+wicket.src.main.java.org.apache.wicket.ng.request.mapper.SystemMapper_java
+wicket.src.main.java.org.apache.wicket.ng.request.mapper.BufferedResponseMapper_java

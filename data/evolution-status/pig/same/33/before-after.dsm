@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+4
+0 0100010000 1101000000 0111000100
+0 0 0001000000 0
+0111000100 0 0 0
+0 0 1101001000 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.Launcher_java
+src.org.apache.pig.backend.hadoop.executionengine.HExecutionEngine_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MRCompiler_java

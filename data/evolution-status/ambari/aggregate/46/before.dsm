@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 0
+010100 0
+ambari-server.src.main.java.org.apache.ambari.server.state.Config_java
+ambari-server.src.main.java.org.apache.ambari.server.state.Cluster_java

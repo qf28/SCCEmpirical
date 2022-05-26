@@ -1,0 +1,18 @@
+[Call,Return,Extend,Use,Parameter,Contain]
+8
+0 0 0 010110 0 010100 0 0
+0 0 0 010110 0 0 0 0
+0 0 0 010110 0 0 0 0
+010110 010110 010110 0 010110 0 0 010110
+0 0 0 010110 0 0 0 0
+010110 0 0 0 0 0 010110 0
+0 0 0 010110 0 0 0 0
+0 0 0 010110 0 0 0 0
+src.main.java.com.stripe.model.Order_java
+src.main.java.com.stripe.model.ApplicationFee_java
+src.main.java.com.stripe.model.Invoice_java
+src.main.java.com.stripe.model.Charge_java
+src.main.java.com.stripe.model.Transfer_java
+src.main.java.com.stripe.model.OrderReturn_java
+src.main.java.com.stripe.model.Refund_java
+src.main.java.com.stripe.model.Dispute_java

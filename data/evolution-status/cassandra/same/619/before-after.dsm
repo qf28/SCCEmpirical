@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 01100
+10100 0
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.dht.Range_java

@@ -1,0 +1,6 @@
+[Call,Import,Extend,Use]
+2
+0 0
+1100 0
+wicket-examples.src.main.java.org.apache.wicket.examples.source.SourcesPage_java
+wicket-examples.src.main.java.org.apache.wicket.examples.WicketExamplePage_java

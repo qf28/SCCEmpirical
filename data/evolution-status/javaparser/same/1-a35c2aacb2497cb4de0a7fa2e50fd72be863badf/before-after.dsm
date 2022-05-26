@@ -1,0 +1,6 @@
+[Call,Import,Return,Use,Implement,Parameter,Contain]
+2
+0 1010000
+1011111 0
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.usages.typesystem.Type_java
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.usages.typesystem.ArrayType_java

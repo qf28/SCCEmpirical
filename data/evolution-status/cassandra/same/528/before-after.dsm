@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Set,Use,Create]
+3
+0 011011 011010
+011010 0 011011
+011110 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.DataTracker_java
+src.java.org.apache.cassandra.db.Memtable_java

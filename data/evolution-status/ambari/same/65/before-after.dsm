@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Use,Create,Implement]
+3
+0 1100000 1100000
+0 0 0100000
+1100100 0000100 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ViewInstanceEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ViewParameterEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ViewEntity_java

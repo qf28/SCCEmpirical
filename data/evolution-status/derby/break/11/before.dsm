@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Set,Create,Use,Throw,Modify]
+9
+0 000000010 0 0 000000100 011000000 0 0 0
+011000000 0 0 0 011000100 011000000 0 0 0
+0 0 0 0 011000000 011001000 0 0 0
+0 0 0 0 011111000 0 0 0 0
+011000000 001000000 010001000 000100100 0 111000000 0 011000000 0
+011001000 111001110 0 0 011000100 0 011011101 011001000 011010101
+0 0 0 0 010000000 0 0 0 111001000
+0 000000110 0 0 010000100 011000100 0 0 0
+0 0 0 0 000000100 0 011000100 0 0
+java.drda.org.apache.derby.impl.drda.DDMWriter_java
+java.drda.org.apache.derby.impl.drda.DRDAProtocolException_java
+java.drda.org.apache.derby.impl.drda.ClientThread_java
+java.drda.org.apache.derby.drda.NetworkServerControl_java
+java.drda.org.apache.derby.impl.drda.DB2jServerImpl_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java
+java.drda.org.apache.derby.impl.drda.Database_java
+java.drda.org.apache.derby.impl.drda.DDMReader_java
+java.drda.org.apache.derby.impl.drda.DRDAStatement_java

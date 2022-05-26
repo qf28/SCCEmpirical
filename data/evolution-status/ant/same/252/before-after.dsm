@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 010000000
+010000000 0
+src.main.org.apache.tools.ant.Diagnostics_java
+src.main.org.apache.tools.ant.Main_java

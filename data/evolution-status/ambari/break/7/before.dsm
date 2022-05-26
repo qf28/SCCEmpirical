@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Create,Use]
+2
+0 000001
+000001 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.UserEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RoleEntity_java

@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 0 1100101 0 1100000
+0 0 0 0 1110000
+1100000 0 0 0 1100000
+0 0 0 0 1110000
+1100000 1010110 1100000 1010010 0
+wicket.src.java.wicket.Session_java
+wicket.src.java.wicket.request.target.PageRequestTarget_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.request.target.BookmarkablePageRequestTarget_java
+wicket.src.java.wicket.RequestCycle_java

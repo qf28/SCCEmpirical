@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+3
+0 0100000 0
+0100010 0 0110010
+0 0100000 0
+src.main.org.apache.tools.zip.NioZipEncoding_java
+src.main.org.apache.tools.zip.ZipEncodingHelper_java
+src.main.org.apache.tools.zip.Simple8BitZipEncoding_java

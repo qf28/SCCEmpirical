@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create]
+2
+0 001000
+011001 0
+wicket.src.test.java.org.apache.wicket.protocol.http.SecondPage_java
+wicket.src.test.java.org.apache.wicket.protocol.http.FirstPage_java

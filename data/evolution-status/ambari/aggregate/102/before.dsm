@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 100100 0
+100001 0 0
+0 0 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ClusterResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.AbstractControllerResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.BlueprintResourceProvider_java

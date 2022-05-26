@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 0 0 0
+01110000 0 00110000 0
+11100100 01010000 0 0
+0 01000100 0 0
+src.java.org.apache.cassandra.dht.Token_java
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.dht.Range_java
+src.java.org.apache.cassandra.utils.ByteBufferUtil_java

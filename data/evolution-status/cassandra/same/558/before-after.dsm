@@ -1,0 +1,12 @@
+[Call,Typed,Use,Create]
+5
+0 0 1110 1110 0
+0 0 0 0 1110
+0 0 0 1111 0
+1000 1000 0010 0 1011
+0 1000 1000 1100 0
+src.org.apache.cassandra.db.HintedHandOffManager_java
+src.org.apache.cassandra.db.MemtableManager_java
+src.org.apache.cassandra.db.Table_java
+src.org.apache.cassandra.db.ColumnFamilyStore_java
+src.org.apache.cassandra.db.Memtable_java

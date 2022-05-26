@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 011000
+001000 0
+wicket-core.src.main.java.org.apache.wicket.settings.ISecuritySettings_java
+wicket-core.src.main.java.org.apache.wicket.authorization.IAuthorizationStrategy_java

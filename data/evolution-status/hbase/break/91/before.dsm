@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 011000000 0 011100001 0 010000000 0
+0 0 0 0 0 001000000 001000100
+0 0 0 011000100 0 011000000 010000101
+0 011000101 011000110 0 100000100 011000010 000000100
+011000010 011000000 011000000 111000100 0 010000000 011000100
+0 011100000 001000000 011000000 0 0 0
+0 0 0 0 0 001000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SecureBulkLoadManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Region_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionCoprocessorHost_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Store_java

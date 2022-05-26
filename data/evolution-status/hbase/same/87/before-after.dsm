@@ -1,0 +1,8 @@
+[Call,Typed,Use,Create]
+3
+0 1110 1000
+1101 0 1101
+0 1110 0
+src.java.org.apache.hadoop.hbase.regionserver.MemcacheFlusher_java
+src.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+src.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java

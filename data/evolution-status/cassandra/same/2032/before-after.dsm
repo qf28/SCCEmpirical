@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0001000
+0101000 0
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.locator.PropertyFileSnitch_java

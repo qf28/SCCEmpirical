@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 111000
+011001 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.io.ByteBuffAllocator_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.nio.ByteBuff_java

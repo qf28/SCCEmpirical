@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create,Throw,Implement,Modify]
+3
+0 0 011111001
+0 0 011000000
+110001000 110001000 0
+src.java.main.org.apache.zookeeper.server.PrepRequestProcessor_java
+src.java.main.org.apache.zookeeper.server.SyncRequestProcessor_java
+src.java.main.org.apache.zookeeper.server.ZooKeeperServer_java

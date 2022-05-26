@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+4
+0 0 0 0110100
+0 0 0111000 0110100
+0 0 0 0011000
+0110000 0110100 0 0
+src.java.org.apache.cassandra.transport.FrameCompressor_java
+src.java.org.apache.cassandra.transport.Message_java
+src.java.org.apache.cassandra.service.QueryState_java
+src.java.org.apache.cassandra.transport.Frame_java

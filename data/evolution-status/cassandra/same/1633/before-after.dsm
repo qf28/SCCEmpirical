@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0000010 0
+0110110 0 0100100
+0100100 0 0
+src.java.org.apache.cassandra.db.ColumnFamily_java
+src.java.org.apache.cassandra.db.TreeMapBackedSortedColumns_java
+src.java.org.apache.cassandra.db.AbstractThreadUnsafeSortedColumns_java

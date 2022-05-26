@@ -1,0 +1,4 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+1
+0
+security.src.main.java.org.apache.hadoop.hbase.security.access.TableAuthManager_java

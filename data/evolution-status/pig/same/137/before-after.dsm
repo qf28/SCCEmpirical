@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 01110001
+00110010 0
+src.org.apache.pig.impl.physicalLayer.POMapreduce_java
+src.org.apache.pig.impl.mapreduceExec.MapReduceLauncher_java

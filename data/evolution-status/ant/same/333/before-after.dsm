@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use]
+3
+0 01100 0
+01000 0 01000
+0 01101 0
+src.main.org.apache.tools.ant.IntrospectionHelper_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.PropertyHelper_java

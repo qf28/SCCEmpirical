@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 010100000
+010100000 0
+java.tools.org.apache.derby.tools.dblook_java
+java.tools.org.apache.derby.impl.tools.dblook.DB_StoredProcedure_java

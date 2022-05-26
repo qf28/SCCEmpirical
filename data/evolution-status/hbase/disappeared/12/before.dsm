@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Throw,Implement]
+2
+0 001000000
+011000100 0
+contrib.transactional.src.main.java.org.apache.hadoop.hbase.regionserver.transactional.CleanOldTransactionsChore_java
+contrib.transactional.src.main.java.org.apache.hadoop.hbase.regionserver.transactional.TransactionalRegionServer_java

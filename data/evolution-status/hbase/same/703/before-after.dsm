@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 11101
+00100 0
+src.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+src.java.org.apache.hadoop.hbase.regionserver.wal.HLog_java

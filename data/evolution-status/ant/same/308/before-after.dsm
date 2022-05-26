@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Extend,Use]
+10
+0 00100 0 0 0 0 0 0 0 00011
+11001 0 0 0 0 0 0 0 00011 10101
+11011 00100 0 00100 00100 0 0 00100 0 10101
+0 0 0 0 0 0 0 0 0 00010
+11001 0 0 0 0 0 0 0 00011 10101
+11011 0 0 0 0 0 0 0 0 10101
+11011 0 0 0 0 0 0 0 0 10101
+11001 0 0 0 0 0 0 0 00011 10101
+0 0 0 0 0 0 0 0 0 00010
+0 00100 00100 00100 0 00100 00100 0 0 0
+src.main.org.apache.tools.ant.types.optional.image.TransformOperation_java
+src.main.org.apache.tools.ant.types.optional.image.Rectangle_java
+src.main.org.apache.tools.ant.types.optional.image.Draw_java
+src.main.org.apache.tools.ant.types.optional.image.Text_java
+src.main.org.apache.tools.ant.types.optional.image.Ellipse_java
+src.main.org.apache.tools.ant.types.optional.image.Scale_java
+src.main.org.apache.tools.ant.types.optional.image.Rotate_java
+src.main.org.apache.tools.ant.types.optional.image.Arc_java
+src.main.org.apache.tools.ant.types.optional.image.BasicShape_java
+src.main.org.apache.tools.ant.types.optional.image.ImageOperation_java

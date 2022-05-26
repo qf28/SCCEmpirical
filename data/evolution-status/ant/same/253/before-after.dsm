@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import]
+2
+0 1111
+0001 0
+src.main.org.apache.tools.ant.taskdefs.compilers.AptCompilerAdapter_java
+src.main.org.apache.tools.ant.taskdefs.Apt_java

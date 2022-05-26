@@ -1,0 +1,6 @@
+[Call,Import,Extend,Use,Implement,Parameter,Contain]
+2
+0 0100000
+0110000 0
+src.main.java.spoon.reflect.code.CtRHSReceiver_java
+src.main.java.spoon.reflect.declaration.CtField_java

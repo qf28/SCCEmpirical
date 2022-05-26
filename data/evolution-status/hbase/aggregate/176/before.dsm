@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 0
+1111 0
+src.java.org.apache.hadoop.hbase.HStore_java
+src.java.org.apache.hadoop.hbase.HRegion_java

@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+2
+0 010110111
+000100000 0
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.ResolvedReferenceType_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.ResolvedType_java

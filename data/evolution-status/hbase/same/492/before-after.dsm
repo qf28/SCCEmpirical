@@ -1,0 +1,10 @@
+[Call,Typed,Create,Use,Implement]
+4
+0 0 11010 10000
+0 0 11010 0
+11110 0 0 11100
+0 10100 11000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SplitRequest_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01100000
+01100010 0
+src.java.org.apache.cassandra.db.LegacyLayout_java
+src.java.org.apache.cassandra.db.ReadCommand_java

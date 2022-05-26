@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 111000 0
+111001 0 100000
+0 110010 0
+src.main.java.org.apache.hadoop.hbase.zookeeper.MetaNodeTracker_java
+src.main.java.org.apache.hadoop.hbase.catalog.CatalogTracker_java
+src.main.java.org.apache.hadoop.hbase.catalog.MetaReader_java

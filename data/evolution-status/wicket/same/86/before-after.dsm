@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 011101
+000100 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.resolver.EnclosureResolver_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.html.internal.Enclosure_java

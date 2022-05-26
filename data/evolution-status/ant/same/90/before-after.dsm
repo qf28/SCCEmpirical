@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00100000
+11100000 0
+src.main.org.apache.tools.ant.taskdefs.optional.script.ScriptDef_java
+src.main.org.apache.tools.ant.taskdefs.optional.script.ScriptDefBase_java

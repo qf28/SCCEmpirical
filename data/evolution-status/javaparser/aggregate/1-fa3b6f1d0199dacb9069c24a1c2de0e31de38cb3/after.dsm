@@ -1,0 +1,6 @@
+[Call,Return,Import,Create,Use,Implement,Parameter,Contain]
+2
+0 10101000
+10110000 0
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserSymbolDeclaration_java

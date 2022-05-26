@@ -1,0 +1,14 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+6
+0 0 0 0 1110010 0
+0010000 0 0 0 0 1100000
+0 0 0 0 1100010 1100010
+0010000 0 1001000 0 0 1100000
+0 0000100 0 0 0 0
+0 0 0 0000100 0 0
+wicket-core.src.main.java.org.apache.wicket.Page_java
+wicket-core.src.main.java.org.apache.wicket.markup.MergedMarkup_java
+wicket-core.src.main.java.org.apache.wicket.markup.AbstractMarkupParser_java
+wicket-core.src.main.java.org.apache.wicket.markup.MarkupParser_java
+wicket-core.src.main.java.org.apache.wicket.markup.MarkupStream_java
+wicket-core.src.main.java.org.apache.wicket.markup.MarkupResourceStream_java

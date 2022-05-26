@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 01100000
+00100000 0
+src.org.apache.pig.impl.logicalLayer.LOLoad_java
+src.org.apache.pig.impl.logicalLayer.LOVisitor_java

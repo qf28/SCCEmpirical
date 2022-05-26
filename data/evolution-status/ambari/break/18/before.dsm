@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 0 001000000
+011000000 0 0
+0 011000000 0
+ambari-server.src.main.java.org.apache.ambari.server.security.authorization.AmbariLdapAuthenticationProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.security.authorization.Users_java
+ambari-server.src.main.java.org.apache.ambari.server.security.authorization.AmbariLdapAuthoritiesPopulator_java

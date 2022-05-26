@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Create]
+3
+0 1000 0
+1110 0 1001
+1100 0 0
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.io.sstable.RowIndexedReader_java
+src.java.org.apache.cassandra.io.sstable.RowIndexedScanner_java

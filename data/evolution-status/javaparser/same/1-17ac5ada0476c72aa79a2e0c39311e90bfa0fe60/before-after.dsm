@@ -1,0 +1,32 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+15
+0 0 0 0 0 0 0 010001000 011010000 010011000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 010001001 010001000 0 0 011111001
+0 0 0 0 010001000 0 0 0 011010000 0 0 0 010001000 0 0
+0 0 0 0 0 0 0 010001000 011010000 010001000 0 0 0 0 0
+0 0 0 0 0 0 0 0 011010000 0 0 0 010001000 0 0
+0 011010000 0 0 0 0 010011000 0 0 0 010001000 010001000 0 0 0
+0 011010000 0 0 0 010001000 0 0 0 0 0 0 0 0 0
+010011000 0 0 0 0 0 0 0 011010000 010001000 0 0 0 0 0
+111010000 0 111010000 111010000 111010000 111010000 0 111010000 0 0 111011000 111010000 0 111010000 0
+010001000 0 0 0 0 0 0 010001000 0 0 0 0 0 0 0
+0 011010000 0 0 0 010001000 0 0 0 0 0 0 0 0 011001000
+0 011010000 0 0 0 010001000 010011000 0 0 0 0 0 0 0 011001000
+0 0 010001000 0 010001000 0 0 0 0 0 0 0 0 010001000 0
+0 0 0 0 0 0 0 0 011010000 0 0 0 010001000 0 0
+0 0 111010000 0 111010000 0 0 111010000 0 0 111010000 111010000 0 0 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFacade_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistEnumDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserMethodDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserTypeParameter_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.MethodResolutionLogic_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistMethodDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserEnumDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionMethodDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionEnumDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.SymbolSolver_java

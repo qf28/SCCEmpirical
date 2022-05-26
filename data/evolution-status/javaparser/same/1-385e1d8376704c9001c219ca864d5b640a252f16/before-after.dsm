@@ -1,0 +1,6 @@
+[Call,Import,Return,Use,Parameter]
+2
+0 10010
+10110 0
+javaparser-core.src.main.java.com.github.javaparser.JavaToken_java
+javaparser-core.src.main.java.com.github.javaparser.TokenTypes_java

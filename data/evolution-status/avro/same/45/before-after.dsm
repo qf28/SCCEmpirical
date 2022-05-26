@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+4
+0 1110001 0 1110001
+0100010 0 0100010 0110000
+0 1110001 0 1110000
+0100010 0 0100010 0
+lang.java.avro.src.main.java.org.apache.avro.specific.SpecificDatumReader_java
+lang.java.avro.src.main.java.org.apache.avro.specific.SpecificRecordBase_java
+lang.java.avro.src.main.java.org.apache.avro.specific.SpecificDatumWriter_java
+lang.java.avro.src.main.java.org.apache.avro.specific.SpecificData_java

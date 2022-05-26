@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+5
+0 0 0100110000 0 0100001010
+0101001001 0 0001000010 0100001001 0
+0 0 0 0 0101011011
+0 0 0100110000 0 0100001010
+0 0010000100 0000010010 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.NormalAnnotationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.nodeTypes.NodeWithAnnotations_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.AnnotationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.SingleMemberAnnotationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Name_java

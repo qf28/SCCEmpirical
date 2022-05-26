@@ -1,0 +1,4 @@
+[depend]
+1
+0
+hbase-http.src.main.java.org.apache.hadoop.hbase.http.HttpServer_java

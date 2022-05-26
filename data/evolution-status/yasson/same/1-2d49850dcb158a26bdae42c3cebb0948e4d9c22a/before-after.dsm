@@ -1,0 +1,6 @@
+[Call,Import,Use,Parameter]
+2
+0 1001
+1010 0
+src.main.java16.org.eclipse.yasson.internal.ClassMultiReleaseExtension_java
+src.main.java.org.eclipse.yasson.internal.AnnotationIntrospector_java

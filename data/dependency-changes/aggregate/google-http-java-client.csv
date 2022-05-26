@@ -1,0 +1,6 @@
+Index,ExistDependNew,NewDependExist,NewCycle,DeleteDependExist,ExistDependDelete,DeleteCycle,0to1,0to2,1to0,1toRevert1,1to2,2to1,2to0
+1-d93eb9985f36050b761e8c6f8bbca59a67ed3af7,0,0,0,0,0,0,0,0,0,0,1,0,0
+1-dafe5a04f4c392bee6d22f2d67b0e8d37e10727f,0,1,1,0,0,0,0,0,0,0,0,0,0
+1-ea09fd51cccaab307a5c05422ab0ef03fd1d2634,0,0,1,0,0,0,0,0,0,0,0,0,0
+1-4bb60cd3ecda34f16db8af3834a29904cc37b3ad,0,0,1,0,0,0,0,0,0,0,0,0,0
+1-6f89edc7f5a29617dbbd6df4da404221f8237bfb,0,0,1,0,0,0,0,0,0,0,0,0,0

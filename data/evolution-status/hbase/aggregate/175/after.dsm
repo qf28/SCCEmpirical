@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0 1100000
+0 0 1100000
+1000100 1000100 0
+src.main.java.org.apache.hadoop.hbase.master.UnAssignCallable_java
+src.main.java.org.apache.hadoop.hbase.master.AssignCallable_java
+src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java

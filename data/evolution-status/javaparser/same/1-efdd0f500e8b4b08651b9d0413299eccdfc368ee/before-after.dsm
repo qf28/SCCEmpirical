@@ -1,0 +1,8 @@
+[Call,Create,Implement]
+3
+0 101 0
+110 0 110
+0 101 0
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.Removed_java
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.DifferenceElement_java
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.Kept_java

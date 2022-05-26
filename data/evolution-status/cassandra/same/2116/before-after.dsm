@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 0010
+1111 0
+src.java.org.apache.cassandra.gms.EndpointState_java
+src.java.org.apache.cassandra.gms.Gossiper_java

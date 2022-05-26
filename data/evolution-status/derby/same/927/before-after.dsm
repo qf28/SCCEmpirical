@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+6
+0 101100000 0 000100010 0 0
+0 0 001000000 0 0 001000000
+010100000 010000000 0 0 0 001000000
+0 000100001 001100000 0 000100000 011100010
+010100000 010000000 011000100 0 0 010011100
+0 0 011000100 0 001000100 0
+java.client.org.apache.derby.jdbc.ClientDriver_java
+java.client.org.apache.derby.client.am.ClientJDBCObjectFactory_java
+java.client.org.apache.derby.client.am.Agent_java
+java.client.org.apache.derby.client.net.ClientJDBCObjectFactoryImpl_java
+java.client.org.apache.derby.client.am.PreparedStatement_java
+java.client.org.apache.derby.client.am.Statement_java

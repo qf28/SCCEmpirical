@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use]
+2
+0 11111
+01110 0
+wicket-core.src.main.java.org.apache.wicket.MarkupContainer_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.border.Border_java

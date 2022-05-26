@@ -1,0 +1,12 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 10101100 10100110 10100000 01100000
+00100100 0 10100110 10100000 11100000
+0 11100000 0 0 00000001
+0 0 11100100 0 0
+0 01100000 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.RpcServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.RpcServerFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.RpcServerInterface_java

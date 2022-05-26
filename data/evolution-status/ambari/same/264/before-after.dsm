@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 001000
+001010 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.ViewPrivilegeResponse_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.views.ViewPrivilegeService_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+2
+0 0100000000
+0110001000 0
+hbase-prefix-tree.src.main.java.org.apache.hbase.codec.prefixtree.decode.ArraySearcherPool_java
+hbase-prefix-tree.src.main.java.org.apache.hbase.codec.prefixtree.decode.DecoderFactory_java

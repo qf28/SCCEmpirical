@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Use,Create,Implement,Modify]
+2
+0 0
+00001000 0
+src.java.org.apache.cassandra.auth.PasswordAuthenticator_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

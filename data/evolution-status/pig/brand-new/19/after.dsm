@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 11100
+11110 0
+src.org.apache.pig.data.ReadOnceBag_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POPackageLite_java

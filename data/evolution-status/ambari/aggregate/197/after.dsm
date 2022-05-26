@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 110110
+001100 0
+ambari-metrics.ambari-metrics-alertservice.src.main.java.org.apache.ambari.metrics.alertservice.prototype.methods.ema.EmaTechnique_java
+ambari-metrics.ambari-metrics-alertservice.src.main.java.org.apache.ambari.metrics.alertservice.prototype.methods.ema.EmaModel_java

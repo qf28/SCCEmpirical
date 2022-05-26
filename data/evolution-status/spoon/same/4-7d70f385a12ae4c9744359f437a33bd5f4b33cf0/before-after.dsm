@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 0010000010
+0110011000 0
+src.main.java.spoon.support.template.DefaultParameterMatcher_java
+src.main.java.spoon.template.TemplateMatcher_java

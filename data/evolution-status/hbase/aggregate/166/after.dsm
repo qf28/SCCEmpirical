@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+3
+0 0000001 0
+0 0 0010010
+0100000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.MasterProcedureUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.MasterProcedureEnv_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.MasterProcedureScheduler_java

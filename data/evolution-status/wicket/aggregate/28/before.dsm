@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Extend,Create,Throw]
+7
+0 0 0 0 0 0 0
+011010 0 0 0 0 0 0
+0 001010 0 0 0 0 0
+0 001000 110000 0 0 0 0
+0 010000 0 010100 0 0 011000
+0 010000 0 010100 0 0 011000
+0 010000 0 010100 010010 010010 0
+wicket-examples.src.java.wicket.examples.hangman.WordGenerator_java
+wicket-examples.src.java.wicket.examples.hangman.Hangman_java
+wicket-examples.src.java.wicket.examples.hangman.HangmanSession_java
+wicket-examples.src.java.wicket.examples.hangman.HangmanPage_java
+wicket-examples.src.java.wicket.examples.hangman.Lose_java
+wicket-examples.src.java.wicket.examples.hangman.Win_java
+wicket-examples.src.java.wicket.examples.hangman.Guess_java

@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 0 11000000 0
+10001100 0 01000000 0
+11000000 11000010 0 11000010
+10001100 0 11000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.TakeSnapshotHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.DisabledTableSnapshotHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.SnapshotManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.EnabledTableSnapshotHandler_java

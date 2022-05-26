@@ -1,0 +1,22 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+10
+0 1001000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 1110010
+1000010 1001000 0 0 0 0 0 0 0 0
+0 1001000 0 0 0 0 0 0 0 0
+0 1001000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 1001000 0 0
+0 1001000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 1110010
+0 0 0 0 0 0 0 1001000 0 0
+0 0 1010010 1010010 1010010 1010010 1010010 0 1010010 0
+src.main.java.org.apache.commons.math.distribution.GammaDistributionImpl_java
+src.main.java.org.apache.commons.math.distribution.AbstractContinuousDistribution_java
+src.main.java.org.apache.commons.math.distribution.ChiSquaredDistributionImpl_java
+src.main.java.org.apache.commons.math.distribution.FDistributionImpl_java
+src.main.java.org.apache.commons.math.distribution.BetaDistributionImpl_java
+src.main.java.org.apache.commons.math.distribution.BinomialDistributionImpl_java
+src.main.java.org.apache.commons.math.distribution.TDistributionImpl_java
+src.main.java.org.apache.commons.math.distribution.AbstractIntegerDistribution_java
+src.main.java.org.apache.commons.math.distribution.PascalDistributionImpl_java
+src.main.java.org.apache.commons.math.random.RandomDataImpl_java

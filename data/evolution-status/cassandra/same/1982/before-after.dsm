@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 110010
+010001 0
+src.java.org.apache.cassandra.utils.memory.MemtableAllocator_java
+src.java.org.apache.cassandra.utils.memory.MemtablePool_java

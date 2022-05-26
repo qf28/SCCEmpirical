@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Create,Use]
+3
+0 111000 0
+101010 0 100010
+0 110000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.DisableTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.UnAssignCallable_java

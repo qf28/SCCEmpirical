@@ -1,0 +1,8 @@
+[Call,Typed,Set,Extend,Use,Create,Implement]
+3
+0 1100100 0000100
+1000000 0 0
+0 0100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ChunkCreator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Chunk_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreLAB_java

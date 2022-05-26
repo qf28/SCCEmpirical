@@ -1,0 +1,8 @@
+[Call,Typed,Create,Use,Implement]
+3
+0 0 0
+00001 0 10100
+10000 11010 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncConnectionImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.RawAsyncHBaseAdmin_java

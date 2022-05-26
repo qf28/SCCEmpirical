@@ -1,0 +1,8 @@
+[Call,Import,Create]
+3
+0 101 0
+100 0 0
+110 0 0
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.net.IncomingTcpConnection_java
+src.java.org.apache.cassandra.gms.Gossiper_java

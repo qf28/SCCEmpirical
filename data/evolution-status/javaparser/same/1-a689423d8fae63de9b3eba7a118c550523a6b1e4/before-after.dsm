@@ -1,0 +1,8 @@
+[Call,Import,Use,Create,Parameter,Contain]
+3
+0 0 001010
+111111 0 0
+101011 101101 0
+javaparser-core.src.main.java.com.github.javaparser.printer.PrettyPrinterConfiguration_java
+javaparser-core.src.main.java.com.github.javaparser.printer.SourcePrinter_java
+javaparser-core.src.main.java.com.github.javaparser.printer.PrettyPrintVisitor_java

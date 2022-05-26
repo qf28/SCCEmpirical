@@ -1,0 +1,34 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+16
+0 0 0 0 0 011001000 0 0 0 0 0 0 0 0 0 0
+0 0 0 011100000 0 0 0 0 0 0 0 011100000 0 0 0 0
+0 0 0 000100100 0 011001000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 011100000 0 0 0 0 000000001 0 0 0 0 0
+0 0 011000100 0 0 011001000 0 0 0 0 0 0 011000000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 011000000 0 0 0
+0 0 011001100 011100100 0 011000100 0 0 0 0 0 0 011000000 0 0 0
+011001001 0 0 011100000 0 111000100 0 0 0 0 0 0 011000000 0 0 0
+0 0 0 011000000 101100100 001100000 0 101100110 0 0 0 011000110 0 0 0 0
+0 0 0 0 0 000100000 0 0 0 0 0 0 000100000 0 0 0
+0 0 001100100 000000100 0 0 000100100 0 001000000 0 0 0 0 000100100 000100100 0
+0 000101000 0 0 0 011100000 0 0 0 0 0 0 0 0 0 0
+0 0 100000100 0 0 111000100 0 0 0 000100000 0 0 0 0 0 0
+0 0 011001100 000100100 0 011000100 0 0 0 0 0 0 011000000 0 0 000000100
+0 0 011001100 011100100 0 011000100 0 0 0 0 0 0 011000000 0 0 0
+0 0 0 0 0 000001000 0 0 0 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.db.marshal.AbstractCompositeType_java
+src.java.org.apache.cassandra.cql3.statements.Selector_java
+src.java.org.apache.cassandra.db.marshal.CollectionType_java
+src.java.org.apache.cassandra.cql3.Term_java
+src.java.org.apache.cassandra.db.marshal.ColumnToCollectionType_java
+src.java.org.apache.cassandra.db.marshal.AbstractType_java
+src.java.org.apache.cassandra.db.marshal.MapType_java
+src.java.org.apache.cassandra.db.marshal.CompositeType_java
+src.java.org.apache.cassandra.cql3.CFDefinition_java
+src.java.org.apache.cassandra.cql3.CFPropDefs_java
+src.java.org.apache.cassandra.cql3.Value_java
+src.java.org.apache.cassandra.cql3.ColumnIdentifier_java
+src.java.org.apache.cassandra.db.marshal.TypeParser_java
+src.java.org.apache.cassandra.db.marshal.SetType_java
+src.java.org.apache.cassandra.db.marshal.ListType_java
+src.java.org.apache.cassandra.db.marshal.EmptyType_java

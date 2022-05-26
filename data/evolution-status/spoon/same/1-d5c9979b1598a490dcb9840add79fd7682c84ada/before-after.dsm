@@ -1,0 +1,6 @@
+[Cast,Call,Import,Use,Create,Contain]
+2
+0 001100
+011010 0
+src.main.java.spoon.support.gui.SpoonModelTree_java
+src.main.java.spoon.Launcher_java

@@ -1,0 +1,12 @@
+[Call,Typed,Create,Use,Implement]
+5
+0 0 0 01000 0
+11010 0 0 0 0
+11010 0 0 0 0
+11000 11100 11100 0 00010
+0 0 0 10001 0
+wicket.src.java.wicket.markup.html.tree.table.IColumn_java
+wicket.src.java.wicket.markup.html.tree.table.MiddleColumnsView_java
+wicket.src.java.wicket.markup.html.tree.table.SideColumnsView_java
+wicket.src.java.wicket.markup.html.tree.table.TreeTable_java
+wicket.src.java.wicket.markup.html.tree.table.AbstractTreeColumn_java

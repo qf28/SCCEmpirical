@@ -1,0 +1,6 @@
+[Call,Import,Use,Create]
+2
+0 0110
+1111 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.RpcServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

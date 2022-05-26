@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Create,Use,Implement,Parameter]
+6
+0 11000100 0 0 0 0
+00000001 0 0 0 0 0
+00110001 00100010 0 0 0 0
+01110001 00100010 01001000 0 0 0
+00100001 00100010 0 0 0 0
+00100001 00100010 0 0 0 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.core.resolution.Context_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.core.resolution.TypeVariableResolutionCapability_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserMethodDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserEnumDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistMethodDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionMethodDeclaration_java

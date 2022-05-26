@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 0 00110000 01011000
+0 0 01110000 0
+00010100 01110000 0 0
+0 00010100 01110000 0
+wicket.src.java.wicket.markup.html.border.Border_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.markup.html.internal.HtmlHeaderContainer_java
+wicket.src.java.wicket.markup.html.WebMarkupContainerWithAssociatedMarkup_java

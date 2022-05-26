@@ -1,0 +1,6 @@
+[Call,Typed,Set,Extend,Use,Create]
+2
+0 0
+010010 0
+src.main.org.apache.tools.ant.taskdefs.optional.perforce.P4Base_java
+src.main.org.apache.tools.ant.taskdefs.optional.perforce.SimpleP4OutputHandler_java

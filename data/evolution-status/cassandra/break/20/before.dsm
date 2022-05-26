@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 011100000 0 0 010000010
+010000010 0 0 010000010 011000010
+0 011100000 0 0 0
+0 011100000 010000010 0 0
+0 011100000 0 0 0
+src.java.org.apache.cassandra.db.partitions.CountingUnfilteredPartitionIterator_java
+src.java.org.apache.cassandra.db.filter.DataLimits_java
+src.java.org.apache.cassandra.db.partitions.CountingRowIterator_java
+src.java.org.apache.cassandra.db.partitions.CountingPartitionIterator_java
+src.java.org.apache.cassandra.db.partitions.CountingUnfilteredRowIterator_java

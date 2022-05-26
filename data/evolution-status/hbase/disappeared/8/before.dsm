@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+4
+0 0110000 0 0
+0110100 0 0101100 0100100
+0111000 0 0 0
+0110000 0 0 0
+contrib.mdc_replication.src.main.java.org.apache.hadoop.hbase.regionserver.replication.ReplicationSource_java
+contrib.mdc_replication.src.main.java.org.apache.hadoop.hbase.regionserver.replication.ReplicationRegionServer_java
+contrib.mdc_replication.src.main.java.org.apache.hadoop.hbase.regionserver.wal.replication.ReplicationHLog_java
+contrib.mdc_replication.src.main.java.org.apache.hadoop.hbase.regionserver.replication.ReplicationRegion_java

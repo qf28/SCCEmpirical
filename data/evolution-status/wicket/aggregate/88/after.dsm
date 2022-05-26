@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Implement]
+3
+0 01100 0
+11100 0 10110
+00101 11100 0
+wicket.src.java.wicket.IPageVersionManager_java
+wicket.src.java.wicket.Page_java
+wicket.src.java.wicket.version.undo.UndoPageVersionManager_java

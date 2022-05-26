@@ -1,0 +1,10 @@
+[Call,Typed,Extend,Create]
+4
+0 1101 0 0
+1001 0 1000 1010
+0 1000 0 0
+1001 1000 0 0
+java.testing.org.apache.derbyTesting.junit.ChangeUserSetup_java
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java
+java.testing.org.apache.derbyTesting.junit.BaseJDBCTestCase_java
+java.testing.org.apache.derbyTesting.junit.DatabasePropertyTestSetup_java

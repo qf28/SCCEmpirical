@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 0 0
+0 0 11100010
+00110000 01100000 0
+src.java.org.apache.cassandra.cql3.Term_java
+src.java.org.apache.cassandra.db.marshal.TypeParser_java
+src.java.org.apache.cassandra.db.marshal.AbstractType_java

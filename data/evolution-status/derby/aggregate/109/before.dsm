@@ -1,0 +1,6 @@
+[Call]
+2
+0 0
+1 0
+java.testing.org.apache.derbyTesting.functionTests.tests.upgradeTests.UpgradeRun_java
+java.testing.org.apache.derbyTesting.functionTests.tests.upgradeTests._Suite_java

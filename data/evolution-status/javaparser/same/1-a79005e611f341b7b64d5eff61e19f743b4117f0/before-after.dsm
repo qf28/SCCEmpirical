@@ -1,0 +1,6 @@
+[Call,Import,Use,Create,Implement]
+2
+0 00001
+10010 0
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmComment_java
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmElement_java

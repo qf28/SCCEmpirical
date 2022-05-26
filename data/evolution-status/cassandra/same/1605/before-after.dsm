@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01100100
+00010100 0
+src.java.org.apache.cassandra.db.Directories_java
+src.java.org.apache.cassandra.io.sstable.Descriptor_java

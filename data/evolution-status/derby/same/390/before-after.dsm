@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Extend,Use,Create]
+4
+0 0 011010 0
+001000 0 0 0
+011000 111100 0 101010
+011001 011000 0 0
+java.engine.org.apache.derby.impl.sql.compile.SubqueryList_java
+java.engine.org.apache.derby.impl.sql.compile.ValueNode_java
+java.engine.org.apache.derby.impl.sql.compile.SubqueryNode_java
+java.engine.org.apache.derby.impl.sql.compile.RowResultSetNode_java

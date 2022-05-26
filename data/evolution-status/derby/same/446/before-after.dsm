@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+3
+0 0110001100 0100000000
+1111001000 0 1110001000
+0 0110001100 0
+java.engine.org.apache.derby.iapi.types.SQLTime_java
+java.engine.org.apache.derby.iapi.types.SQLTimestamp_java
+java.engine.org.apache.derby.iapi.types.SQLDate_java

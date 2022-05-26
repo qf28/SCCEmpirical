@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+7
+0 0100000 0 0 0 0 0
+0 0 0100110 0 0 0 1000010
+0100100 0100000 0 1000110 0010100 1000010 0
+0000001 0100000 0 0 0 0 0
+0000001 1100000 0 0 0 0 0
+0000001 0100000 0 0 0 0 0
+0 1100000 0 0 0 0 0
+wicket-core.src.main.java.org.apache.wicket.csp.CSPRenderable_java
+wicket-core.src.main.java.org.apache.wicket.csp.ContentSecurityPolicySettings_java
+wicket-core.src.main.java.org.apache.wicket.csp.CSPHeaderConfiguration_java
+wicket-core.src.main.java.org.apache.wicket.csp.RelativeURICSPValue_java
+wicket-core.src.main.java.org.apache.wicket.csp.CSPDirectiveSrcValue_java
+wicket-core.src.main.java.org.apache.wicket.csp.FixedCSPValue_java
+wicket-core.src.main.java.org.apache.wicket.csp.CSPNonceHeaderResponseDecorator_java

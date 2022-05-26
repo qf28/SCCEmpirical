@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use]
+3
+0 100100 0
+110010 0 110010
+0 100100 0
+wicket-core.src.main.java.org.apache.wicket.markup.head.JavaScriptUrlReferenceHeaderItem_java
+wicket-core.src.main.java.org.apache.wicket.markup.head.JavaScriptHeaderItem_java
+wicket-core.src.main.java.org.apache.wicket.markup.head.JavaScriptReferenceHeaderItem_java

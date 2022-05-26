@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use]
+3
+0 000001 000010
+010100 0 0
+000100 0 0
+lang.java.src.java.org.apache.avro.file.CodecFactory_java
+lang.java.src.java.org.apache.avro.file.NullCodec_java
+lang.java.src.java.org.apache.avro.file.DeflateCodec_java

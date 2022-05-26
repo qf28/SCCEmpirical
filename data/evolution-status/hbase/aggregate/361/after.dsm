@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 01100000 01100100
+00100000 0 0
+01000000 0 0
+src.java.org.apache.hadoop.hbase.HRegion_java
+src.java.org.apache.hadoop.hbase.CacheFlushListener_java
+src.java.org.apache.hadoop.hbase.HLog_java

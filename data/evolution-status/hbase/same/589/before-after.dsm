@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw]
+4
+0 0 011100100 0
+0 0 011000100 0
+010100000 011000010 0 011000010
+0 0 011000100 0
+src.java.org.apache.hadoop.hbase.LocalHBaseCluster_java
+src.java.org.apache.hadoop.hbase.regionserver.LogRoller_java
+src.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+src.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend]
+2
+0 00100
+01000 0
+src.org.apache.cassandra.net.MessagingService_java
+src.org.apache.cassandra.net.TcpConnection_java

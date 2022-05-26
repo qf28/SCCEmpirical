@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Implement]
+2
+0 1111000
+0101010 0
+wicket.src.java.wicket.protocol.http.request.WebTargetResolverStrategy_java
+wicket.src.java.wicket.protocol.http.WebRequestCycle_java

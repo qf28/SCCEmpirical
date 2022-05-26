@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Throw,Create]
+2
+0 00000001
+01100101 0
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.bookie.LedgerDescriptor_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.bookie.Bookie_java

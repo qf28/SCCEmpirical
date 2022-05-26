@@ -1,0 +1,6 @@
+[Call,Use,Create]
+2
+0 101
+010 0
+wicket-auth-roles-examples.src.main.java.wicket.authorization.strategies.role.example.RolesApplication_java
+wicket-auth-roles-examples.src.main.java.wicket.authorization.strategies.role.example.RolesSession_java

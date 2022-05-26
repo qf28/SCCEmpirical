@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0 0
+0000010 0 0 0
+0100010 0110111 0 0
+0 0100000 0111010 0
+src.java.org.apache.cassandra.db.rows.Rows_java
+src.java.org.apache.cassandra.db.partitions.AbstractBTreePartition_java
+src.java.org.apache.cassandra.db.partitions.PartitionUpdate_java
+src.java.org.apache.cassandra.db.Mutation_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 11110
+11001 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.index.SecondaryIndexManager_java

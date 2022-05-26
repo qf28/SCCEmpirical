@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+6
+0 0110010 0110010 0110010 0110010 0110010
+0110000 0 0 0 0 0
+0110000 0 0 0 0 0
+0110000 0 0 0 0 0
+0110000 0 0 0 0 0
+0110000 0 0 0 0 0
+src.main.java.org.apache.hadoop.hbase.rest.TableResource_java
+src.main.java.org.apache.hadoop.hbase.rest.RegionsResource_java
+src.main.java.org.apache.hadoop.hbase.rest.SchemaResource_java
+src.main.java.org.apache.hadoop.hbase.rest.RowResource_java
+src.main.java.org.apache.hadoop.hbase.rest.ScannerResource_java
+src.main.java.org.apache.hadoop.hbase.rest.ExistsResource_java

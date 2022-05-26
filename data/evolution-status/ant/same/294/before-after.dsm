@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Extend,Create,Implement]
+7
+0 000010 0 111000 000010 000010 0
+0 0 010100 0 0 0 0
+0 0 0 000001 0 0 011000
+0 0 0 0 0 0 001000
+0 0 010100 0 0 0 0
+0 0 010100 0 0 0 0
+010000 0 0 011000 0 0 0
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.rmic.RmicAdapterFactory_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.rmic.KaffeRmic_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.rmic.DefaultRmicAdapter_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.rmic.RmicAdapter_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.rmic.WLRmic_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.rmic.SunRmic_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.rmic.Rmic_java

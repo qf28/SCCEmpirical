@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 010001010
+011000100 0
+src.java.org.apache.cassandra.utils.memory.MemtableCleanerThread_java
+src.java.org.apache.cassandra.utils.memory.MemtablePool_java

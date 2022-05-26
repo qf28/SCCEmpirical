@@ -1,0 +1,6 @@
+[Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+2
+0 00001010
+00101000 0
+src.main.java.com.stripe.model.CouponCollection_java
+src.main.java.com.stripe.model.Coupon_java

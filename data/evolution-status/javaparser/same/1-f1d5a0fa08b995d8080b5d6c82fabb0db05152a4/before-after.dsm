@@ -1,0 +1,26 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+12
+0 0 0 0 0 0 0 0 0010010000 0110001000 0100110000 0
+0 0 0 0 0 0 0 0 0 0 0000010000 0
+0 0 0 0 0 0 0 0 0010010000 0110001000 0111010011 0
+0010000000 0 0 0 0 0 0000000100 0 0010010000 0110001000 0010000000 0100110000
+0010000000 0 0 0 0 0 0000000100 0 0010010000 0110001000 0010000000 0100110000
+0 0 0 0 0 0 0 0 0010010000 0110001000 0000010010 0
+0 0 0 0 0 0 0 0 0 0 0011000010 0
+0 0 0 0 0 0 0 0 0010010000 0110001000 0000010010 0
+0000010000 0100001001 0 0 0 0 0 0 0 0 0000010000 0
+0100011011 0 0100001011 0100001011 0100001011 0100001011 0 0100001011 0 0 0000010011 0100000000
+0 0011000000 0 0 0 0 0 0 0010010000 0110001000 0 0
+0010010010 0 0 0 0 0 0000000100 0 0010010000 0110001000 0010010011 0
+javaparser-core.src.main.java.com.github.javaparser.ast.type.TypeParameter_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.ReferenceTypeMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.InstanceOfExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.MethodDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ConstructorDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.UnionType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.nodeTypes.NodeWithThrownExceptions_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.IntersectionType_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ReferenceType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.CallableDeclaration_java

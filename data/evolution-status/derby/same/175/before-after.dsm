@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement]
+4
+0 01110000 00100000 0
+0 0 0 01110000
+11100100 11110000 0 0
+0 01110000 00100000 0
+java.engine.org.apache.derby.impl.sql.compile.InListOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.ExpressionClassBuilder_java
+java.engine.org.apache.derby.impl.sql.compile.PredicateList_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumnList_java

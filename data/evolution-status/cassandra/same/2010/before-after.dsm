@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 00000100
+01010000 0
+src.java.org.apache.cassandra.service.ClientState_java
+src.java.org.apache.cassandra.auth.CassandraAuthorizer_java

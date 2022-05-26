@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+2
+0 0110000000
+0100000100 0
+java.testing.org.apache.derbyTesting.unitTests.services.T_CacheUser_java
+java.testing.org.apache.derbyTesting.unitTests.services.T_CacheService_java

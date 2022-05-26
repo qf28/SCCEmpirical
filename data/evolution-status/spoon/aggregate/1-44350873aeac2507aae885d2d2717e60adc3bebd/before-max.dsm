@@ -1,0 +1,10 @@
+[Call,Import,Return,Extend,Use,Create,Implement,Contain]
+4
+0 10000100 0 11001000
+0 0 0 11001000
+0 0 0 11001000
+11000100 11000100 11000100 0
+src.main.java.spoon.support.compiler.FileSystemFolder_java
+src.main.java.spoon.support.compiler.FileSystemFile_java
+src.main.java.spoon.support.compiler.ZipFolder_java
+src.main.java.spoon.compiler.SpoonResourceHelper_java

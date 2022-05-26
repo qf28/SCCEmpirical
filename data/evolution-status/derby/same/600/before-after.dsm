@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 1001001 0010001
+1000000 0 0
+0 0010001 0
+java.testing.org.apache.derbyTesting.functionTests.harness.RunList_java
+java.testing.org.apache.derbyTesting.functionTests.harness.RunTest_java
+java.testing.org.apache.derbyTesting.functionTests.util.TestUtil_java

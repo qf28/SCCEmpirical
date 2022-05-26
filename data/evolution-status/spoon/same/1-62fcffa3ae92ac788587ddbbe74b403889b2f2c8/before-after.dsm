@@ -1,0 +1,8 @@
+[Call,Return,Import,Create,Use,Parameter,Contain]
+3
+0 1001001 1100111
+1000111 0 1000111
+0100111 0 0
+spoon-control-flow.src.main.java.fr.inria.controlflow.ControlFlowGraph_java
+spoon-control-flow.src.main.java.fr.inria.controlflow.GraphVisPrettyPrinter_java
+spoon-control-flow.src.main.java.fr.inria.controlflow.ControlFlowNode_java

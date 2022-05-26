@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Use,Create]
+2
+0 001011
+001000 0
+src.main.org.apache.tools.ant.Target_java
+src.main.org.apache.tools.ant.Task_java

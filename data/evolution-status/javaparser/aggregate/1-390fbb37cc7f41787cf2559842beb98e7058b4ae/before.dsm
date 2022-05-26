@@ -1,0 +1,16 @@
+[Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+7
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+111010000 110000010 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 000001010 0 0
+0 0 0 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java
+javaparser-core.src.main.java.com.github.javaparser.ASTHelper_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumConstantDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.NormalAnnotationExpr_java

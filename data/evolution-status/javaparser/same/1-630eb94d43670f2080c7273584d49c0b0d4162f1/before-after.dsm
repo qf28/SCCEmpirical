@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0110010000 0110001000
+0110001000 0 0
+0110001000 0 0
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserSymbolDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.contexts.MethodCallExprContext_java

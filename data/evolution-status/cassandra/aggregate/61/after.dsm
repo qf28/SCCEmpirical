@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+3
+0 0100101 0
+0 0 0010010
+0100010 0110010 0
+src.java.org.apache.cassandra.db.DeletedColumn_java
+src.java.org.apache.cassandra.db.Column_java
+src.java.org.apache.cassandra.db.ColumnSerializer_java

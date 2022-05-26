@@ -1,0 +1,8 @@
+[Call,Typed,Set,Extend,Create,Use]
+3
+0 0 0
+110010 0 0
+110010 101101 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ScannerCallableWithReplicas_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClientScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ReversedClientScanner_java

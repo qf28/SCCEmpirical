@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Create,Use,Implement,Parameter,Contain]
+4
+0 011010000 011011000 011110001
+001001000 0 0 0
+001001000 0 0 0
+001001000 0 0 0
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.support.compiler.jdt.JDTBasedSpoonCompiler_java
+src.main.java.spoon.support.StandardEnvironment_java
+src.main.java.spoon.support.JavaOutputProcessor_java

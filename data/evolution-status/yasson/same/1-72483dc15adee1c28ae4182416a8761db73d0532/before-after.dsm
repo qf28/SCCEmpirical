@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain,Annotation]
+2
+0 01100010000
+01100010000 0
+src.main.java.org.eclipse.persistence.json.bind.internal.JsonbContext_java
+src.main.java.org.eclipse.persistence.json.bind.internal.adapter.AdapterMatcher_java

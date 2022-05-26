@@ -1,0 +1,6 @@
+[Call,Import,Extend]
+2
+0 0
+111 0
+wicket-core.src.main.java.org.apache.wicket.markup.html.form.Button_java
+wicket-core.src.main.java.org.apache.wicket.ajax.markup.html.form.AjaxButton_java

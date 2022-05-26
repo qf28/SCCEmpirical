@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 00010
+11001 0
+java.engine.org.apache.derby.impl.sql.execute.CreateSchemaConstantAction_java
+java.engine.org.apache.derby.impl.sql.execute.DDLConstantAction_java

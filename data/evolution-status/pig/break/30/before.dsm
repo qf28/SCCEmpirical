@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Throw,Use,Create,Implement]
+2
+0 0110000010
+0110000010 0
+contrib.zebra.src.java.org.apache.hadoop.zebra.types.TableSchemaParser_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.types.Schema_java

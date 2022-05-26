@@ -1,0 +1,18 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+8
+0 0 0000100000 0 0011000000 0 0 0
+0 0 0 0 0 0 0010000010 0
+0001000000 0101000001 0 0010000000 0110001011 0001000000 0 0001000000
+0 0010001010 0011000000 0 0 0 0 0
+0 0110001011 0111001011 0010000000 0 0 0110001011 0
+0 0 0000100000 0 0 0 0 0
+0 0 0011001010 0 0 0 0 0
+0 0 0000100000 0 0110001011 0 0 0
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.ClassDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.TypeParameterDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.TypeDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.methods.MethodUsage_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.ReferenceType_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.EnumDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.resolution.TypeSolver_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.InterfaceDeclaration_java

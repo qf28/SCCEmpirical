@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 000001
+110011 0
+ambari-server.src.main.java.org.apache.ambari.server.stack.ServiceModule_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.StackModule_java

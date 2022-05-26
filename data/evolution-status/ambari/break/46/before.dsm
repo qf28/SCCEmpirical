@@ -1,0 +1,6 @@
+[Call,Import,Use]
+2
+0 110
+011 0
+ambari-logsearch.ambari-logsearch-portal.src.main.java.org.apache.ambari.logsearch.LogSearch_java
+ambari-logsearch.ambari-logsearch-portal.src.main.java.org.apache.ambari.logsearch.util.SSLUtil_java

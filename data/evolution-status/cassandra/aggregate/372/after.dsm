@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Throw,Use]
+2
+0 110001
+111100 0
+src.java.org.apache.cassandra.tools.BulkLoader_java
+src.java.org.apache.cassandra.tools.LoaderOptions_java

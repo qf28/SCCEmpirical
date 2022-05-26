@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0 0
+0 0 0 0
+0 0010010 0 0
+0001000 0001000 0001000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.MultiResponse_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.Action_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.MultiAction_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.HbaseObjectWritable_java

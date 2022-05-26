@@ -1,0 +1,14 @@
+[Call,Typed,Set,Extend,Use,Create]
+6
+0 010100 0 0 0 0
+000010 0 000001 0 0 0
+0 000100 0 0 0 0
+0 100000 0 0 0 0
+0 0 0 101110 0 0
+0 110000 0 100010 010001 0
+lang.java.src.java.org.apache.avro.file.NullCodec_java
+lang.java.src.java.org.apache.avro.file.CodecFactory_java
+lang.java.src.java.org.apache.avro.file.DeflateCodec_java
+lang.java.src.java.org.apache.avro.file.DataFileStream_java
+lang.java.src.java.org.apache.avro.file.DataFileReader_java
+lang.java.src.java.org.apache.avro.file.DataFileWriter_java

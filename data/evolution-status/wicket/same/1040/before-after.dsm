@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01011000
+01010000 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.util.tester.BaseWicketTester_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.MockWebApplication_java

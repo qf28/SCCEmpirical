@@ -1,0 +1,6 @@
+[Call,Return,Use,Create,Implement,Parameter,Contain]
+2
+0 1110011
+0000010 0
+google-http-client.src.main.java.com.google.api.client.http.HttpRequest_java
+google-http-client.src.main.java.com.google.api.client.http.HttpUnsuccessfulResponseHandler_java

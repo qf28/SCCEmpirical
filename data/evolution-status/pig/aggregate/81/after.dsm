@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Use,Create]
+3
+0 011000 011000
+111010 0 0
+111010 0 0
+src.org.apache.pig.impl.physicalLayer.plans.PhyPlanVisitor_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.POLoad_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.POStore_java

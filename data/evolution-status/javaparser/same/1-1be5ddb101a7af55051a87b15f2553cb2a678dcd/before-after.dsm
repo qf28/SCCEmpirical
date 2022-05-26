@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Use,Create,Parameter,Contain]
+2
+0 01110100
+01101000 0
+javaparser-core.src.main.java.com.github.javaparser.ASTHelper_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java

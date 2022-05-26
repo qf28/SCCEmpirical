@@ -1,0 +1,6 @@
+[Return,Import,Use,Parameter]
+2
+0 0
+1011 0
+src.main.java.com.stripe.model.issuing.Transaction_java
+src.main.java.com.stripe.model.issuing.Dispute_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 0110010
+1110001 0
+tools.stress.src.org.apache.cassandra.stress.util.JavaDriverClient_java
+tools.stress.src.org.apache.cassandra.stress.settings.StressSettings_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Use]
+3
+0 0 00101
+01000 0 0
+01100 11100 0
+ambari-server.src.main.java.org.apache.ambari.server.topology.tasks.ConfigureClusterTask_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.tasks.ConfigureClusterTaskFactory_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.TopologyManager_java

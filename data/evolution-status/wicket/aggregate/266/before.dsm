@@ -1,0 +1,6 @@
+[Call,Import]
+2
+0 0
+0 0
+wicket.src.main.java.org.apache.wicket.markup.html.JavascriptPackageResource_java
+wicket.src.main.java.org.apache.wicket.behavior.HeaderContributor_java

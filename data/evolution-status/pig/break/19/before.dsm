@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Create,Use]
+2
+0 0001000
+1101001 0
+src.org.apache.pig.OverwritableStoreFunc_java
+src.org.apache.pig.newplan.logical.rules.InputOutputFileValidator_java

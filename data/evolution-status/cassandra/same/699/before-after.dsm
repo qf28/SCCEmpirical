@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use]
+2
+0 011110
+110101 0
+src.java.org.apache.cassandra.cql3.statements.SelectStatement_java
+src.java.org.apache.cassandra.transport.messages.ResultMessage_java

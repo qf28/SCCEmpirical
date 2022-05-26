@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 10100
+10110 0
+src.java.org.apache.cassandra.streaming.FileStreamTask_java
+src.java.org.apache.cassandra.net.MessagingService_java

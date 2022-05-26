@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 0 0 0
+010000 0 0 0
+0 011000 0 0
+011100 011101 011101 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.Mutation_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.Get_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.Scan_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.protobuf.ProtobufUtil_java

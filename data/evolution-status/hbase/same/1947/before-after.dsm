@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+8
+0 0100110101 0 0 0100000000 0 0111001110 0111010100
+0 0 0000000100 0 0010000000 0100001000 0 0111001110
+0 0 0 0 0000000010 0 0 0010000000
+0100010000 0100000100 0 0 0 0 0 0111010100
+0 0 0 0 0 0 0 0010000000
+0 0 0000000100 0 0010000110 0 0 0111000000
+0 0 0000000100 0 0110000000 0 0 0000000100
+0000001000 0100000000 0 0000001000 0 0 0010000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileWriterV2_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.AbstractHFileWriter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.NoOpDataBlockEncoder_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileWriterV3_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileDataBlockEncoder_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileDataBlockEncoderImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlock_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFile_java

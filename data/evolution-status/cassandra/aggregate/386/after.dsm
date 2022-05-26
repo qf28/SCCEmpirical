@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+6
+0 0100000 0000001 0011001 0110100 0
+0 0 0 0011001 0000100 0
+0000001 0 0 0001000 0110100 0
+0000001 0000001 0 0 0110000 0000001
+0 0 0 0011010 0 0
+0 0 0 0011001 0000100 0
+src.java.org.apache.cassandra.db.marshal.TimestampType_java
+src.java.org.apache.cassandra.db.marshal.LongType_java
+src.java.org.apache.cassandra.db.marshal.DateType_java
+src.java.org.apache.cassandra.cql3.CQL3Type_java
+src.java.org.apache.cassandra.db.marshal.AbstractType_java
+src.java.org.apache.cassandra.db.marshal.UUIDType_java

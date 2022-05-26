@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+4
+0 1000001 1000001 1000001
+1000000 0 0 0
+1000000 0 0 0
+1000000 0 0 0
+wicket-examples.src.main.java.org.apache.wicket.examples.captcha.Captcha_java
+wicket-examples.src.main.java.org.apache.wicket.examples.captcha.KaptchaForm_java
+wicket-examples.src.main.java.org.apache.wicket.examples.captcha.CaptchaForm_java
+wicket-examples.src.main.java.org.apache.wicket.examples.captcha.CageForm_java

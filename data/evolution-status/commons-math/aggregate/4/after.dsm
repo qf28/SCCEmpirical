@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Create,Use]
+5
+0 0 0 001000 0
+111011 0 011010 011010 0
+010011 0 0 111000 0
+0 011010 0 0 011010
+0 0 0 111000 0
+src.main.java.org.apache.commons.math.geometry.euclidean.twod.Segment_java
+src.main.java.org.apache.commons.math.geometry.euclidean.twod.PolygonsSet_java
+src.main.java.org.apache.commons.math.geometry.euclidean.twod.SegmentBuilder_java
+src.main.java.org.apache.commons.math.geometry.euclidean.twod.Line_java
+src.main.java.org.apache.commons.math.geometry.euclidean.twod.SubLine_java

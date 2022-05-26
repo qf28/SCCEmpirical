@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 01010010 0 01110100 0 0
+0 0 0 0 0 0
+src.java.org.apache.cassandra.streaming.StreamRequestMessage_java
+src.java.org.apache.cassandra.db.SnapshotCommand_java
+src.java.org.apache.cassandra.db.IndexScanCommand_java
+src.java.org.apache.cassandra.streaming.StreamingRepairTask_java
+src.java.org.apache.cassandra.service.AntiEntropyService_java
+src.java.org.apache.cassandra.dht.BootStrapper_java

@@ -1,0 +1,6 @@
+[Call,Import,Extend]
+2
+0 011
+010 0
+java.testing.org.apache.derbyTesting.functionTests.tests.lang.TimeHandlingTest_java
+java.testing.org.apache.derbyTesting.junit.CleanDatabaseTestSetup_java

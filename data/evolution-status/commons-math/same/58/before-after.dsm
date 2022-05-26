@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Create,Implement]
+2
+0 010010
+010100 0
+src.java.org.apache.commons.math.fraction.FractionFormat_java
+src.java.org.apache.commons.math.fraction.ProperFractionFormat_java

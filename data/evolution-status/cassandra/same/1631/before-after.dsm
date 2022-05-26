@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 01110
+11010 0
+src.java.org.apache.cassandra.cql3.ColumnIdentifier_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java

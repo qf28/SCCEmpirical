@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0 0101000
+0 0 0101000
+0001010 0101000 0
+test.unit.org.apache.cassandra.db.index.PerRowSecondaryIndexTest_java
+test.unit.org.apache.cassandra.cql3.CQLTester_java
+test.unit.org.apache.cassandra.SchemaLoader_java

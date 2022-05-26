@@ -1,0 +1,6 @@
+[Cast,Call,Return,Use,Create,Implement,Parameter]
+2
+0 0010000
+0001001 0
+src.main.java.me.tomassetti.symbolsolver.model.TypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.SymbolReference_java

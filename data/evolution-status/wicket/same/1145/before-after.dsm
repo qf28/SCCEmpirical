@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+2
+0 0101000
+0111000 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Component_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.util.string.Strings_java

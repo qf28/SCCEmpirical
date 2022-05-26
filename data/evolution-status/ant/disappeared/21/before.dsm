@@ -1,0 +1,36 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+17
+0 001100000 001100000 0 0 001100000 001100000 0 001100000 001100000 0 001100000 001100000 001100000 001100000 001100000 001100000
+0 0 0 010001000 0 0 0 0 0 0 010000000 0 0 0 0 0 0
+0 0 0 010001000 0 0 0 0 0 0 010000000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 010001000 0 0 0 0 0 0
+111100000 0 0 0 0 0 0 010100000 0 0 110100100 0 0 0 0 0 0
+0 0 0 010001000 0 0 0 0 0 0 010000000 0 0 0 0 0 0
+0 0 0 010001000 0 0 0 0 0 0 010000000 0 0 0 0 0 0
+0 0 0 0 011100010 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 010001000 0 0 0 0 0 0 010000000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 010001000 0 0 0 0 0 0
+0 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0 0 0
+0 0 0 010001000 0 0 0 0 0 0 010000000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 010001000 0 0 0 0 0 0
+0 0 0 010001000 0 0 0 0 0 0 010000000 0 0 0 0 0 0
+0 0 0 010001000 0 0 0 0 0 0 010000000 0 0 0 0 0 0
+0 0 0 010001000 0 0 0 0 0 0 010000000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 010001000 0 0 0 0 0 0
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.types.FilterChain_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.ReplaceTokens_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.StripLineComments_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.BaseParamFilterReader_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.util.ChainReaderHelper_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.LineContains_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.TabsToSpaces_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.util.FileUtils_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.TailFilter_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.ExpandProperties_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.BaseFilterReader_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.LineContainsRegExp_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.ClassConstants_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.HeadFilter_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.StripLineBreaks_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.PrefixLines_java
+proposal.sandbox.filterreaders.src.main.org.apache.tools.ant.filters.StripJavaComments_java

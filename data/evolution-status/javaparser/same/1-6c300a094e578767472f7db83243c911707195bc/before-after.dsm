@@ -1,0 +1,8 @@
+[Call,Import,Extend,Create,Use,Contain]
+3
+0 000010 0
+010010 0 111010
+010010 0 0
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement]
+3
+0 0 000010001
+110000100 0 010010000
+000010000 011010110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.AsyncProtobufLogWriter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.AsyncFSWAL_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.AsyncFSWALProvider_java

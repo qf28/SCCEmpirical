@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 11000 11000
+11010 0 0
+11010 0 0
+wicket.src.main.java.wicket.util.io.ClassStreamHandler_java
+wicket.src.main.java.wicket.util.io.WicketObjectOutputStream_java
+wicket.src.main.java.wicket.util.io.WicketObjectInputStream_java

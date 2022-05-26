@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 1010000
+1100100 0
+src.java.org.apache.cassandra.dht.BootStrapper_java
+src.java.org.apache.cassandra.service.StorageService_java

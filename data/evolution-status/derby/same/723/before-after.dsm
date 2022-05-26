@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Extend,Use,Throw,Create,Modify]
+2
+0 111000010
+011001000 0
+java.drda.org.apache.derby.impl.drda.Database_java
+java.drda.org.apache.derby.impl.drda.DRDAStatement_java

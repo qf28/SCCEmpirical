@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 1110010 1110000
+0 0 1001101
+1010000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.protobuf.ProtobufUtil_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.Put_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.Mutation_java

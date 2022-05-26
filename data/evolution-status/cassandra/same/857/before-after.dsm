@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use]
+5
+0 1011 1110 1100 0
+1101 0 0 1000 1001
+0110 0011 0 0 0
+1111 1011 0 0 0
+1100 1001 0 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.compaction.AbstractCompactionStrategy_java
+src.java.org.apache.cassandra.cache.AutoSavingCache_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

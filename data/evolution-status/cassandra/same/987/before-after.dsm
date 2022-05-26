@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 0 001110 010110
+111110 0 011011 010010
+0 0 0 000010
+001110 010100 011010 0
+src.java.org.apache.cassandra.cql3.functions.UDFunction_java
+src.java.org.apache.cassandra.schema.LegacySchemaTables_java
+src.java.org.apache.cassandra.config.KSMetaData_java
+src.java.org.apache.cassandra.config.Schema_java

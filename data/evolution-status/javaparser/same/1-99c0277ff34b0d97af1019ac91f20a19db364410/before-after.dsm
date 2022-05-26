@@ -1,0 +1,22 @@
+[Call,Import,Return,Extend,Create,Use]
+10
+0 0 0 0 0 0 0 0 101010 110001
+0 0 100101 0 0 0 0 0 0 110001
+0 0 0 0 0 0 0 0 0 110001
+110001 0 100101 0 100001 0 0 0 0 0
+0 0 100101 0 0 0 0 0 0 110001
+110001 0 100101 0 100001 0 0 0 0 0
+0 0 0 0 0 0 0 0 100010 110001
+110001 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 100010 0 0 0
+0 100010 0 100010 100010 100010 0 110010 0 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserSymbolDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.FieldAccessContext_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.AbstractJavaParserContext_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ForStatementContext_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.StatementContext_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ForechStatementContext_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserEnumDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarators.VariableSymbolDeclarator_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserFieldDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFactory_java

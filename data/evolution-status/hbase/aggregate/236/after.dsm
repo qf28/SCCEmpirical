@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Extend,Create,Use]
+3
+0 0 000001
+110000 0 001000
+010010 011010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.NettyRpcFrameDecoder_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.NettyRpcServerPreambleHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.NettyRpcServer_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 10100
+11100 0
+src.org.apache.cassandra.db.DBManager_java
+src.org.apache.cassandra.service.StorageService_java

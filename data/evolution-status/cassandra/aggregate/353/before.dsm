@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 0
+010100 0
+src.java.org.apache.cassandra.io.SSTable_java
+src.java.org.apache.cassandra.db.FileStruct_java

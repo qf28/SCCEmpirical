@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Set,Import,Extend,Create,Use,Implement,Modify]
+9
+0 0100000100 0 0 0 0 0 0 0
+0100001000 0 0 0100001000 0100001000 1111001101 0010000000 0100001000 0001000100
+0 0100000000 0 0 0 0 0 0 0
+0 0 0 0 0 0 0100010000 0 0
+0 0000000100 0 0 0 0 0 0 0
+0 0000000100 0 0 0 0 0010000000 0 0101010101
+0 0 0 0 0 0 0 0 0100010100
+0 0100000100 0 0 0 0 0100010000 0 0
+0 0000000100 0100000000 0 0 0 0 0 0
+wicket.src.java.wicket.util.profile.ClassFieldLink_java
+wicket.src.java.wicket.util.profile.ObjectProfiler_java
+wicket.src.java.wicket.util.profile.ObjectProfileVisitors_java
+wicket.src.java.wicket.util.profile.ObjectShellProfileNode_java
+wicket.src.java.wicket.util.profile.ArrayIndexLink_java
+wicket.src.java.wicket.util.profile.ObjectProfileNode_java
+wicket.src.java.wicket.util.profile.AbstractShellProfileNode_java
+wicket.src.java.wicket.util.profile.ArrayShellProfileNode_java
+wicket.src.java.wicket.util.profile.AbstractProfileNode_java

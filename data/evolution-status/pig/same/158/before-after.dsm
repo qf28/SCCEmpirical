@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 0 010001110 0
+010000010 0 011000010 011100100 0
+111000100 0 0 0 010001100
+0 011000000 0 0 0
+0 0 0 011001100 0
+contrib.zebra.src.java.org.apache.hadoop.zebra.mapred.BasicTableExpr_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.mapred.TableInputFormat_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.mapred.TableUnionExpr_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.mapred.TableExpr_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.mapred.CompositeTableExpr_java

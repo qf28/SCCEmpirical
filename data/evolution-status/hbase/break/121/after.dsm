@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+4
+0 01000000 0 0
+0 0 0 01100000
+01000010 0 0 01100000
+01000010 0 01100001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.security.access.AccessControlLists_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.security.access.AccessChecker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.security.access.ZKPermissionWatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.security.access.AuthManager_java

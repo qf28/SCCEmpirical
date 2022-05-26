@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+2
+0 011001000
+110011011 0
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.ReferenceTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionClassDeclaration_java

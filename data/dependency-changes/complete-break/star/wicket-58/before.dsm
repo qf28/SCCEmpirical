@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+3
+0 0 0011000
+0000001 0 0111000
+1101100 0101010 0
+wicket.src.java.wicket.model.IComponentAware_java
+wicket.src.java.wicket.model.PropertyModel_java
+wicket.src.java.wicket.Component_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0
+0110111 0
+src.java.test.org.apache.zookeeper.server.quorum.QuorumPeerTestBase_java
+src.java.test.org.apache.zookeeper.server.quorum.QuorumPeerMainTest_java

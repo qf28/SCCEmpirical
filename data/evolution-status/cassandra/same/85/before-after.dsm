@@ -1,0 +1,10 @@
+[Call,Import,Use]
+4
+0 101 0 111
+101 0 101 111
+0 001 0 101
+0 111 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.gms.Gossiper_java

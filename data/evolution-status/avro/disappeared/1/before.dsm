@@ -1,0 +1,10 @@
+[Call,Typed,Set,Import,Extend,Create,Use,Implement]
+4
+0 0 01000010 0
+0 0 00000010 0
+0 0 0 01010010
+10000100 10000100 11000010 0
+lang.java.ipc.src.main.java.org.apache.avro.ipc.trace.FileSpanStorage_java
+lang.java.ipc.src.main.java.org.apache.avro.ipc.trace.TraceClientServlet_java
+lang.java.ipc.src.main.java.org.apache.avro.ipc.trace.TracePluginConfiguration_java
+lang.java.ipc.src.main.java.org.apache.avro.ipc.trace.TracePlugin_java

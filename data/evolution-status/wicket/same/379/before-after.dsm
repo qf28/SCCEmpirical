@@ -1,0 +1,6 @@
+[Typed,Import,Extend,Use]
+2
+0 1000
+1001 0
+wicket-extensions.src.main.java.org.apache.wicket.extensions.wizard.IWizardStep_java
+wicket-extensions.src.main.java.org.apache.wicket.extensions.wizard.IWizardModel_java

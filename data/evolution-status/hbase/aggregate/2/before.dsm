@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Create,Use]
+2
+0 11010
+11001 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncConnectionImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncRegionLocator_java

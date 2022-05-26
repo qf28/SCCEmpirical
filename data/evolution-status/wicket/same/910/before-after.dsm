@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use]
+2
+0 01010
+11110 0
+wicket.src.java.wicket.markup.ComponentTag_java
+wicket.src.java.wicket.markup.parser.filter.HtmlHandler_java

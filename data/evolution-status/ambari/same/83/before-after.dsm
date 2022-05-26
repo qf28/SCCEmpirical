@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Throw,Implement]
+2
+0 01100000
+01100100 0
+contrib.views.utils.src.main.java.org.apache.ambari.view.utils.ambari.Services_java
+contrib.views.utils.src.main.java.org.apache.ambari.view.utils.ambari.AmbariApi_java

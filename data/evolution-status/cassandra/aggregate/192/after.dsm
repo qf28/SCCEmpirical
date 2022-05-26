@@ -1,0 +1,42 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+20
+0 0 0 0100001010 0011001000 0 0110011000 0 0 0011000000 0 0 0 0 0 0 0000001000 0 0 0
+0 0 0100011000 0011000000 0010000000 0 0101000000 0 0 0011000000 0 0 0 0 0 0111000100 0010000100 0 0 0
+0 0 0 0 0010001000 0 0101000000 0 0 0111001100 0 0 0 0 0 0111000100 0110011100 0 0 0
+0 0 0 0 0010001000 0 0 0 0 0011000000 0 0111001000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0100000000 0110001000 0 0 0 0 1000001000 0 0 0110001000 0 0110000000 0
+0 0 0 0 0011000000 0 0 0 0 0011000000 0 0 0 0 0 0 0 0 0 0
+0100000100 0 0 0111011000 0011001000 0100000100 0 0 0 0011000000 0 0 0100000100 0 0100000100 0 0 0 0 0
+0 0 0 0 0111001000 0 0 0 0 0111001100 0111000100 0 0 0 0 0011000000 0000001000 0111001100 0000001000 0
+0 0 0 0 0110001000 0 0 0000001000 0 0 0 0 0 1000001000 0 0 0010000000 0 0 0
+0 0 0 0011000000 0 0 0 0 0 0 0 0110001100 0 0 0 0110000000 0 0 0 0
+0 0 0 0100001000 0011001000 0 0 0 0 0011000000 0 0111000100 0 0 0 0 0000001000 0 0 0100111001
+0 0 0 0 0 0 0 0 0 0010001000 0 0 0 0 0 0100000000 0 0 0 0
+0 0 0 0 0011000000 0 0 0 0 0011000000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0011000000 0010000000 0 0 0111000000 0 0011000000 0 0 0 0 0 0111000100 0110010100 0 0 0
+0 0 0 0100001010 0011001000 0 0100011000 0 0 0011000000 0 0 0 0 0 0 0000001000 0 0 0
+0 0 0 0111000000 0011001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0000001000 0
+0 0100000000 0100000000 0 0010000000 0 0 0 0 0 0 0 0 0100000000 0 0001000000 0 0 0 0
+0 0 0 0100001000 0011000000 0 0 0 0 0111000000 0 0111000000 0 0 0 0 0 0 0 0100111000
+0 0 0 0 0 0 0 0 0 0111001000 0 0 0 0 0 0 0010001000 0 0 0
+0 0 0 0101010010 0011000000 0 0 0 0 0111000000 0 0001000000 0 0 0 0 0 0 0 0
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.ThriftInserter_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsCommandPreDefinedMixed_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsCommandPreDefined_java
+tools.stress.src.org.apache.cassandra.stress.Operation_java
+tools.stress.src.org.apache.cassandra.stress.settings.StressSettings_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlCounterAdder_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.PredefinedOperation_java
+tools.stress.src.org.apache.cassandra.stress.StressProfile_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsSchema_java
+tools.stress.src.org.apache.cassandra.stress.generate.PartitionGenerator_java
+tools.stress.src.org.apache.cassandra.stress.operations.userdefined.SchemaInsert_java
+tools.stress.src.org.apache.cassandra.stress.generate.Partition_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlInserter_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsCommandUser_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.ThriftCounterAdder_java
+tools.stress.src.org.apache.cassandra.stress.generate.SeedManager_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsCommand_java
+tools.stress.src.org.apache.cassandra.stress.operations.userdefined.SchemaQuery_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsPopulation_java
+tools.stress.src.org.apache.cassandra.stress.operations.userdefined.SchemaStatement_java

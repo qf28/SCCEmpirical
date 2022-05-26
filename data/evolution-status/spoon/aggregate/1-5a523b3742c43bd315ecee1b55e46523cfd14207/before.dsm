@@ -1,0 +1,6 @@
+[Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+2
+0 0
+10011001 0
+src.main.java.spoon.support.builder.JDTCompiler_java
+src.main.java.spoon.support.builder.SpoonBuildingManager_java

@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 0
+1101 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.security.User_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.security.UserProvider_java

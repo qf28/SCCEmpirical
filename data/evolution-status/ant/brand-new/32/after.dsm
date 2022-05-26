@@ -1,0 +1,28 @@
+[Cast,Call,Typed,Extend,Use,Create]
+13
+0 0 0 0 0 011001 0 0 101000 0 0 010110 0
+0 0 0 0 0 0 0 0 0 0 0 010110 0
+0 0 0 0 0 0 0 0 0 0 0 010110 0
+0 0 0 0 0 0 0 0 0 0 0 010100 0
+0 0 0 0 0 0 0 0 0 0 0 010110 0
+0 0 0 0 0 0 0 0 0 0 0 011001 0
+0 0 0 0 0 0 0 0 0 0 0 010100 0
+0 0 0 0 0 0 0 0 0 0 0 010110 0
+0 0 0 0 0 0 0 0 0 0 0 010100 0
+0 0 0 0 0 0 0 0 0 0 0 010100 0
+0 0 0 0 0 0 0 0 0 0 0 010100 0
+010001 010001 010001 010001 010001 0 010001 010001 010001 010001 010001 0 010001
+0 0 0 0 0 0 0 0 0 0 0 010100 0
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.Code_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.LocalVariableTable_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.SourceFile_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.Exceptions_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.ConstantValue_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.AttributeInfoList_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.InnerClasses_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.SourceDir_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.LineNumberTable_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.Synthetic_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.Unknown_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.AttributeInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.sitraka.bytecode.attributes.Deprecated_java

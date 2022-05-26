@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 00000010 0
+01100011 0 00000001
+0 11100000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HConnectionKey_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionManager_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HBaseAdmin_java

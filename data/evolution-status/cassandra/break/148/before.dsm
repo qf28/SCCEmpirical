@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 10000100
+10000000 0
+src.java.org.apache.cassandra.db.rows.UnfilteredRowIteratorSerializer_java
+src.java.org.apache.cassandra.db.rows.UnfilteredSerializer_java

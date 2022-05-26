@@ -1,0 +1,12 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 11000110 0 0 11000000
+10000000 0 0 10000010 0
+0 11000100 0 0 0
+0 01000100 10000010 0 0
+01000000 0 0 0 0
+src.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+src.java.org.apache.hadoop.hbase.regionserver.HStore_java
+src.java.org.apache.hadoop.hbase.regionserver.StoreFileScanner_java
+src.java.org.apache.hadoop.hbase.regionserver.HStoreScanner_java
+src.java.org.apache.hadoop.hbase.regionserver.CacheFlushListener_java

@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Create,Implement]
+5
+0 100100 000100 110010 100100
+100100 0 0 0 101100
+0 0 0 0 100100
+000100 0 0 0 0
+101100 0 000100 0 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.StorageLoadBalancer_java
+src.java.org.apache.cassandra.gms.FailureDetector_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.gms.Gossiper_java

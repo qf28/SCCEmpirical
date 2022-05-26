@@ -1,0 +1,6 @@
+[Extend,Create,Use]
+2
+0 010
+101 0
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.MonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.MasterKillingMonkeyFactory_java

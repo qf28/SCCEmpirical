@@ -1,0 +1,6 @@
+[Call,Typed,Create,Use]
+2
+0 0001
+0001 0
+ambari-server.src.main.java.org.apache.ambari.server.checks.ClientRetryPropertyCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.CheckDescription_java

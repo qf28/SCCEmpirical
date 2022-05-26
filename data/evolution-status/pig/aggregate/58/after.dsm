@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Create,Use]
+2
+0 0011000
+0101010 0
+src.org.apache.pig.newplan.logical.optimizer.DanglingNestedNodeRemover_java
+src.org.apache.pig.newplan.logical.relational.LogicalPlan_java

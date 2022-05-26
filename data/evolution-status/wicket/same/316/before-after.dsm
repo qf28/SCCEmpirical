@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+9
+0 0 0 0 1110010 0 0 0110010 0
+0 0 0110000 0 1110110 0 0 1110010 0
+0 0000010 0 0101000 0 0101001 0101001 0010010 0
+0 0 0111000 0 0 0 0 0 0
+0100110 0110000 0100000 0 0 0 0 1110111 0
+0 0 0001000 0 0 0 0 0 0
+0 1111010 0101000 0 0 0 0 0 0
+0 1110110 0110000 0 1110010 0 0 0 0100001
+0 0010010 0 0 0 0 0 0 0
+wicket-core.src.main.java.org.apache.wicket.ComponentSourceEntry_java
+wicket-core.src.main.java.org.apache.wicket.Page_java
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.util.lang.PropertyResolver_java
+wicket-core.src.main.java.org.apache.wicket.MarkupContainer_java
+wicket-core.src.main.java.org.apache.wicket.settings.def.MarkupSettings_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.DummyRequestLogger_java
+wicket-core.src.main.java.org.apache.wicket.Component_java
+wicket-core.src.main.java.org.apache.wicket.RestartResponseAtInterceptPageException_java

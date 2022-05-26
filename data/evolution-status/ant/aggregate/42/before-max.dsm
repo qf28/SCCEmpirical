@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 1110101
+0110010 0
+src.main.org.apache.tools.ant.UnknownElement_java
+src.main.org.apache.tools.ant.Task_java

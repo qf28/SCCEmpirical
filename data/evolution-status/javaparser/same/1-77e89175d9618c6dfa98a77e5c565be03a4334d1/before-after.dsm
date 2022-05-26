@@ -1,0 +1,6 @@
+[Use]
+2
+0 1
+1 0
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.AssignExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.BinaryExpr_java

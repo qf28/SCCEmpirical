@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01110000
+00110000 0
+wicket-core.src.main.java.org.apache.wicket.request.resource.AbstractResource_java
+wicket-core.src.main.java.org.apache.wicket.request.resource.caching.IResourceCachingStrategy_java

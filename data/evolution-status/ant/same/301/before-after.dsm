@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 11000000
+01110010 0
+src.main.org.apache.tools.ant.taskdefs.MacroDef_java
+src.main.org.apache.tools.ant.taskdefs.MacroInstance_java

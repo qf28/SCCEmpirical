@@ -1,0 +1,6 @@
+[Call,Import,Use,Create,Contain]
+2
+0 11010
+01100 0
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.reflect.visitor.DefaultJavaPrettyPrinter_java

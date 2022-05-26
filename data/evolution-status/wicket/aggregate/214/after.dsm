@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+8
+0 0100100 0110000 0 0 0011000 0100000 0
+0 0 0 0 0 0011000 0000100 0
+0 0 0 0 0 0011000 0 0
+0 0 0111000 0 0 0010000 0 0
+0 0 0 0 0 0011000 0 0
+1101011 0 1111001 0010000 0101010 0 0 1110000
+0 0 0 0 0 0011000 0 0
+0 0 0111000 0 0 0 0 0
+wicket.src.java.wicket.model.PropertyModel_java
+wicket.src.java.wicket.model.AbstractPropertyModel_java
+wicket.src.java.wicket.model.IModel_java
+wicket.src.java.wicket.Localizer_java
+wicket.src.java.wicket.model.Model_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.model.AbstractDetachableModel_java
+wicket.src.java.wicket.AttributeModifier_java

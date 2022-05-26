@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 10100
+10100 0
+wicket-util.src.main.java.org.apache.wicket.util.string.Strings_java
+wicket-util.src.main.java.org.apache.wicket.util.lang.Args_java

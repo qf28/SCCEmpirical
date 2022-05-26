@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Modify]
+2
+0 010100000
+011100110 0
+src.java.org.apache.cassandra.metrics.FileCacheMetrics_java
+src.java.org.apache.cassandra.utils.memory.BufferPool_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+4
+0 0 0 0
+0101100 0 1110010 0001010
+0 1110011 0 0111010
+0 0011000 0 0
+wicket.src.java.wicket.authorization.UnauthorizedEnabledStateException_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.Page_java
+wicket.src.java.wicket.authorization.IAuthorizationStrategy_java

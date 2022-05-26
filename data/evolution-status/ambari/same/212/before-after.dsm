@@ -1,0 +1,6 @@
+[Typed,Use]
+2
+0 10
+01 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostRoleCommandEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.StageEntity_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 011000100 0
+011000010 0 001000100
+011000010 111000110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.SimpleServerCall_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.SimpleServerRpcConnection_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.SimpleRpcServer_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 011010100
+011000000 0
+java.engine.org.apache.derby.impl.services.locks.SinglePool_java
+java.engine.org.apache.derby.impl.services.locks.LockSet_java

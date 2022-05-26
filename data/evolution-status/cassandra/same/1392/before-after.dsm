@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+4
+0 101000100 100000000 100000000
+110000100 0 101000000 111001010
+001001000 011000000 0 0
+011000100 111000100 101000000 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.CacheService_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.cache.AutoSavingCache_java

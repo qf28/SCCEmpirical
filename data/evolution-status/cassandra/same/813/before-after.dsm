@@ -1,0 +1,6 @@
+[Call,Use,Create]
+2
+0 010
+110 0
+src.java.org.apache.cassandra.db.index.SecondaryIndexManager_java
+src.java.org.apache.cassandra.db.index.AbstractSimplePerColumnSecondaryIndex_java

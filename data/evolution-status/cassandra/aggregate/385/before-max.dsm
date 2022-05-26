@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Implement]
+3
+0 11010 10100
+10000 0 10100
+0 10110 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

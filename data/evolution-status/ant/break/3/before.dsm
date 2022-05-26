@@ -1,0 +1,6 @@
+[Call,Typed,Set,Extend,Use,Create,Implement]
+2
+0 0100100
+1000010 0
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.optional.perforce.SimpleP4OutputHandler_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.optional.perforce.P4Base_java

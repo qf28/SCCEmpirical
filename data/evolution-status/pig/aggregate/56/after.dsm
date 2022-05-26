@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0 0111001
+0101001 0 0
+0 0111001 0
+src.org.apache.pig.newplan.logical.rules.NestedLimitOptimizer_java
+src.org.apache.pig.newplan.logical.optimizer.LogicalPlanOptimizer_java
+src.org.apache.pig.newplan.logical.relational.LogicalPlan_java

@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create]
+4
+0 001000 0 110001
+101000 0 0 0
+100000 001010 0 0
+0 101110 100001 0
+wicket-ioc.src.main.java.org.apache.wicket.proxy.ObjenesisProxyFactory_java
+wicket-ioc.src.main.java.org.apache.wicket.proxy.LazyInitProxyFactory_java
+wicket-ioc.src.main.java.org.apache.wicket.proxy.objenesis.ObjenesisProxyReplacement_java
+wicket-ioc.src.main.java.org.apache.wicket.proxy.objenesis.ObjenesisCGLibInterceptor_java

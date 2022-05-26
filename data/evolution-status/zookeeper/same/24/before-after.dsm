@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+3
+0 0 0010000000
+0 0 0010000000
+0010000000 0010000000 0
+src.java.main.org.apache.jute.OutputArchive_java
+src.java.main.org.apache.jute.InputArchive_java
+src.java.main.org.apache.jute.Record_java

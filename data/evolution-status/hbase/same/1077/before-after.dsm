@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 11011
+01100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.ReplicationSourceManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.ReplicationSource_java

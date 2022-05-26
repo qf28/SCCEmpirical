@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+7
+0 0 00010010 01010000 00001110 11110000 0
+00010010 0 0 0 0 0 0
+00010010 01010001 0 0 0 01101110 0
+00010010 0 0 0 0 0 01010000
+00001010 0 0 01010000 0 0 0
+00010010 01010001 0 0 0 0 0
+00010010 0 0 0 0 0 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapReduce_java
+src.org.apache.pig.data.InternalCachedBag_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POJoinPackage_java
+src.org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapBase_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POPackage_java
+src.org.apache.pig.impl.io.FileLocalizer_java

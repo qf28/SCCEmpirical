@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 101
+110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.cleaner.DirScanPool_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.cleaner.CleanerChore_java

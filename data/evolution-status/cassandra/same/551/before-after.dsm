@@ -1,0 +1,6 @@
+[Call,Typed,Set,Use,Create]
+2
+0 11001
+10000 0
+src.java.org.apache.cassandra.cli.CliMain_java
+src.java.org.apache.cassandra.cli.CliClient_java

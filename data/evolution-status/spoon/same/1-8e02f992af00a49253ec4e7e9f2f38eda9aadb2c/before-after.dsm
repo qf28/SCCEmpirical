@@ -1,0 +1,6 @@
+[Call,Import,Use,Create,Contain]
+2
+0 11100
+11011 0
+src.main.java.spoon.support.compiler.ZipFolder_java
+src.main.java.spoon.compiler.SpoonResourceHelper_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use]
+3
+0 0 11001
+11001 0 11011
+0 00001 0
+test.org.apache.pig.test.utils.dotGraph.DotEdge_java
+test.org.apache.pig.test.utils.dotGraph.DotGraph_java
+test.org.apache.pig.test.utils.dotGraph.DotNode_java

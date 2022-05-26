@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Throw,Use]
+2
+0 010000
+010000 0
+java.stubs.jdbc3.java.sql.SQLOutput_java
+java.stubs.jdbc3.java.sql.SQLData_java

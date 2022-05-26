@@ -1,0 +1,38 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+18
+0 0 0 0 0 0 0110010000 0 0 0011010001 0 0 0 0100001010 0011010001 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110010000 0 0001010011
+0 0110010000 0 0 0 0 0 0 0 0 0 0100100000 0 0000000010 0 0 0 0
+0 0100010000 0 0 0 0 0100010000 0 0 0 0 0 0 0 0 0110010000 0 0
+0100000000 0 0 0 0 0 0 0 0 0100000000 0100110000 0 0 0100001010 0010000001 0 0 0
+0100100000 0110010000 0 0 0 0 0110010000 0 0 0110000001 0 0 0 0000000010 0 0 0 0
+0010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0110010000 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0100100000 0110010000 0 0 0 0 0110010000 0 0 0110000001 0 0 0 0000000010 0 0 0 0
+0 0110010000 0 0110010001 0 0 0 0 0 0 0 0 0 0 0101010011 0 0 0
+0100100000 0 0 0 0 0 0110010000 0 0 0100000000 0 0 0 0100001010 0110000001 0110010000 0 0
+0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0100001010 0 0 0 0
+0 0 0 0 0 0 0 0 0 0011000000 0 0 0 0 0011000000 0 0 0
+0 0110010000 0100001000 0 0100001000 0100001000 0110010000 0 0100001000 0111010001 0100001001 0 1100011010 0 0111010011 0110010001 0100001000 0
+0 0 0 0110010001 0 0 0 0100010001 0 0101010011 0 0 0 0 0 0 0 0
+0 0110010000 0 0 0 0 0110010000 0 0 0100000000 0 0 0 0 0110000010 0 0 0
+0 0110010000 0 0 0 0 0 0 0 0 0 0100100000 0 0000000010 0 0 0 0
+0 0 0 0 0 0 0 0 0 0111011011 0 0 0 0 0 0 0 0
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AbstractItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.JsonbContext_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.JsonArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.AnnotationIntrospector_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.TypeWrapperItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CollectionItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ReflectionUtils_java
+src.main.java.org.eclipse.persistence.json.bind.model.PropertyValuePropagation_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.MapItem_java
+src.main.java.org.eclipse.persistence.json.bind.model.ClassModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ObjectItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AbstractJsonpItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AdaptedObjectItemDecorator_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.UnmarshallerItemBuilder_java
+src.main.java.org.eclipse.persistence.json.bind.model.PropertyModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.adapter.AdapterMatcher_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.JsonObjectItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.MappingContext_java

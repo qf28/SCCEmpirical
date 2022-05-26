@@ -1,0 +1,6 @@
+[Call,Return,Import,Extend,Create,Use,Parameter]
+2
+0 1010100
+1000100 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.typeinference.TypeInference_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.typeinference.constraintformulas.ExpressionCompatibleWithType_java

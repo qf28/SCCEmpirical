@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+2
+0 0111001000
+0011000100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.SplitLogManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.SplitLogManagerCoordination_java

@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Use,Create]
+6
+0 0 0 011110 010010 0
+0 0 011010 0 011110 0
+0 010010 0 0 0 0
+0 010110 0 0 0 0
+011000 010110 0 0 0 011001
+0 0 0 0 010010 0
+src.java.org.apache.cassandra.db.compaction.CompactionStrategyManager_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.CassandraDaemon_java
+src.java.org.apache.cassandra.db.DiskBoundaries_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.compaction.Scrubber_java

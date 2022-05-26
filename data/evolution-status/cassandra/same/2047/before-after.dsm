@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 0101000
+1100000 0
+src.java.org.apache.cassandra.dht.IPartitioner_java
+src.java.org.apache.cassandra.dht.Token_java

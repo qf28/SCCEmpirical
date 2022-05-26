@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 00000001 00100110
+0 0 00100000
+00100000 0 0
+src.main.org.apache.tools.ant.Target_java
+src.main.org.apache.tools.ant.TaskContainer_java
+src.main.org.apache.tools.ant.Task_java

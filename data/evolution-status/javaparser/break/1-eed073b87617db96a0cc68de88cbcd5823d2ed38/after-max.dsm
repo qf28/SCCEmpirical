@@ -1,0 +1,18 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+8
+0 0 0010000010 0 0 0000000010 0 0
+0 0 0010000010 0 0 0000000010 0 0
+0110000010 0110000010 0 0100101000 0010001000 0 0110010000 0011000000
+0 0 0001000000 0 0010001000 0 0110010000 0
+0 0 0 0000001000 0 0 0 0100010001
+0110000010 0110000010 0 0 0010001000 0 0110010000 0
+0000000100 0 0100011011 0100001001 0 0100011011 0 0
+0 0 0000001000 0 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.JavadocComment_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.Comment_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.TextBlockLiteralExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavadocCommentMetaModel_java

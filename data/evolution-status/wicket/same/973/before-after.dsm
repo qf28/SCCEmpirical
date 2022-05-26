@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+5
+0 1110100 0110000 0100000 0110000
+1110101 0 0110000 0 0100000
+0110000 0110000 0 0 0110000
+0111000 1011000 0 0 0
+0000100 1110100 0110000 0111010 0
+jdk-1_4.wicket.src.main.java.wicket.Component_java
+jdk-1_4.wicket.src.main.java.wicket.Page_java
+jdk-1_4.wicket.src.main.java.wicket.RequestCycle_java
+jdk-1_4.wicket.src.main.java.wicket.feedback.FeedbackMessages_java
+jdk-1_4.wicket.src.main.java.wicket.Session_java

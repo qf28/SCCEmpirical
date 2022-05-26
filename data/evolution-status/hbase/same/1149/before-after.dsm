@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Use,Create,Implement]
+2
+0 110000
+100010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MetricsMasterWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java

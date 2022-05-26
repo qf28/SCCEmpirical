@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+2
+0 0100000
+1100100 0
+src.java.org.apache.cassandra.db.SuperColumn_java
+src.java.org.apache.cassandra.db.AtomicSortedColumns_java

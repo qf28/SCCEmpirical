@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 00010 11010 10010
+00010 0 0 10010
+0 11010 0 00010
+0 11010 11010 0
+src.java.org.apache.cassandra.db.Directories_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.config.KSMetaData_java
+src.java.org.apache.cassandra.config.Schema_java

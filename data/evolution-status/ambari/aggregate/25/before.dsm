@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 0 0
+01110 0 0
+00010 11100 0
+ambari-server.src.main.java.org.apache.ambari.server.checks.CheckDescription_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.PrereqCheckRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.ComponentsExistInRepoCheck_java

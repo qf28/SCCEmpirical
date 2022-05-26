@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+8
+0 0 111000100 111000000 0 111000000 111000000 111000000
+0 0 0 001000000 0 111000000 111000000 111000000
+0 110000100 0 111000100 0 111000000 111000000 111011100
+101000100 111000100 0 0 0 011000000 111000000 111000000
+0 0 0 101000000 0 111000000 100000100 0
+0 0 0 011000000 000000100 0 111010010 011000000
+0 100000100 0 001000000 0 0 0 0
+0 0 100000100 101000000 0 111000000 111000000 0
+java.engine.org.apache.derby.impl.sql.compile.FromSubquery_java
+java.engine.org.apache.derby.impl.sql.compile.FromBaseTable_java
+java.engine.org.apache.derby.impl.sql.compile.SelectNode_java
+java.engine.org.apache.derby.impl.sql.compile.FromList_java
+java.engine.org.apache.derby.impl.sql.compile.InsertNode_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumnList_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumn_java
+java.engine.org.apache.derby.impl.sql.compile.ResultSetNode_java

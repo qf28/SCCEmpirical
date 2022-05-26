@@ -1,0 +1,8 @@
+[Cast,Typed,Import,Create,Implement]
+3
+0 0 0
+00001 0 0
+11100 00110 0
+src.java.org.apache.cassandra.auth.IAuthenticator_java
+src.java.org.apache.cassandra.auth.AllowAllAuthenticator_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

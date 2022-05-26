@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create]
+2
+0 0
+01100 0
+src.main.org.apache.tools.ant.IntrospectionHelper_java
+src.main.org.apache.tools.ant.UnknownElement_java

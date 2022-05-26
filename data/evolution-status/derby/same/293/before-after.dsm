@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Throw,Create]
+3
+0 010000000 010011100
+011000001 0 010000000
+0 011000000 0
+java.engine.org.apache.derby.impl.store.raw.data.StoredPage_java
+java.engine.org.apache.derby.impl.store.raw.data.BaseDataFileFactory_java
+java.engine.org.apache.derby.impl.store.raw.data.CachedPage_java

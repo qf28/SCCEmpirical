@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Extend,Create,Use]
+2
+0 0110001
+0110010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreCompactor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactingMemStore_java

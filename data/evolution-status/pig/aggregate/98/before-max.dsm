@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+4
+0 0110000 0110000 0010010
+1110000 0 0 0
+1110000 0 0 1000100
+0110010 0 0 0
+src.org.apache.pig.impl.physicalLayer.plans.ExprPlanVisitor_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.expressionOperators.binaryExprOps.comparators.GreaterThanExpr_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.expressionOperators.POProject_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.expressionOperators.ExpressionOperator_java

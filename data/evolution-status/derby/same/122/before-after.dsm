@@ -1,0 +1,28 @@
+[Cast,Call,Typed,Set,Extend,Use]
+13
+0 0 0 0 0 0 0 111000 0 0 001000 0 0
+110111 0 0 111001 0 000001 111000 111001 0 110001 111001 000001 0
+0 0 0 000001 0 0 111001 111000 0 0 0 0 0
+010000 100001 0 0 0 100000 111000 111111 000001 111001 111000 110001 001000
+0 0 0 0 0 0 0 111001 0 001000 0 0 001000
+0 0 0 010000 010111 0 111000 011001 0 001000 111001 0 001000
+0 0 0 0 0 0 0 0 0 0 0 100001 0
+0 0 0 100001 0 0 111000 0 0 001000 001000 0 101000
+010000 100001 0 111001 0 0 111000 111100 0 0 111000 101001 0
+0 0 0 0 0 0 111000 101000 0 0 111000 0 0
+0 0 0 0 0 0 0 011000 0 0 0 0 0
+0 0 111000 0 0 0 111000 111000 0 0 111001 0 0
+0 0 0 0 0 0 0 111000 0 0 0 0 0
+java.engine.org.apache.derby.impl.sql.compile.SingleChildResultSetNode_java
+java.engine.org.apache.derby.impl.sql.compile.ProjectRestrictNode_java
+java.engine.org.apache.derby.impl.sql.compile.CreateViewNode_java
+java.engine.org.apache.derby.impl.sql.compile.SelectNode_java
+java.engine.org.apache.derby.impl.sql.compile.TableOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.JoinNode_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumn_java
+java.engine.org.apache.derby.impl.sql.compile.ResultSetNode_java
+java.engine.org.apache.derby.impl.sql.compile.SubqueryNode_java
+java.engine.org.apache.derby.impl.sql.compile.FromVTI_java
+java.engine.org.apache.derby.impl.sql.compile.Predicate_java
+java.engine.org.apache.derby.impl.sql.compile.FromBaseTable_java
+java.engine.org.apache.derby.impl.sql.compile.DMLStatementNode_java

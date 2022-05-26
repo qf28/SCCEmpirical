@@ -1,0 +1,6 @@
+[Call,Extend,Create,Parameter,Contain]
+2
+0 11011
+10100 0
+javaparser-core.src.main.java.org.apache.commons.lang3.text.translate.AggregateTranslator_java
+javaparser-core.src.main.java.org.apache.commons.lang3.text.translate.CharSequenceTranslator_java

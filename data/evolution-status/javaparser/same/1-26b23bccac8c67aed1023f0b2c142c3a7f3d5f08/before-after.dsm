@@ -1,0 +1,8 @@
+[Call,Import,Create,Use,Parameter,Contain]
+3
+0 000010 000010
+110010 0 0
+110010 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.ObjectCreationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.MethodCallExpr_java

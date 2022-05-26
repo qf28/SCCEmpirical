@@ -1,0 +1,24 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+11
+0 0 0 0 0 0 0 0 0 0 001000000
+011000000 0 0 000000100 0 0 001000000 0 010001100 0 011000000
+011100000 0 0 000100100 0 010101000 0 0 0 0 000100000
+011000000 010000010 010000010 0 011100010 0 0 010000010 010000010 010000010 011000000
+0 0 0 000100100 0 0 0 0 0 0 0
+111000101 0 0 0 0 0 0 0 0 0 001000000
+001000000 0 0 0 0 0 0 0 0 0 0
+001000000 010001000 0 000000100 0 010000000 001000000 0 110000100 0 011000000
+111100000 010000110 0 000100100 0 010001000 111100101 0 0 0 011100000
+111000000 010000010 0 000000100 0 010001000 111000000 0 111000010 0 001000000
+011000000 0 0 111000100 011100010 0 110000100 0 0 0 0
+java.engine.org.apache.derby.iapi.types.DataValueDescriptor_java
+java.engine.org.apache.derby.iapi.types.SQLVarchar_java
+java.engine.org.apache.derby.iapi.types.SQLRef_java
+java.engine.org.apache.derby.iapi.types.TypeId_java
+java.engine.org.apache.derby.catalog.types.BaseTypeIdImpl_java
+java.engine.org.apache.derby.iapi.types.DataType_java
+java.engine.org.apache.derby.iapi.types.StringDataValue_java
+java.engine.org.apache.derby.iapi.types.SQLPassword_java
+java.engine.org.apache.derby.iapi.types.SQLChar_java
+java.engine.org.apache.derby.iapi.types.XML_java
+java.engine.org.apache.derby.iapi.types.DataTypeDescriptor_java

@@ -1,0 +1,6 @@
+[Call,Import,Extend,Create,Use,Parameter]
+2
+0 110100
+010010 0
+src.main.java.com.stripe.net.APIResource_java
+src.main.java.com.stripe.model.EventDataDeserializer_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+3
+0 0110010 0100010
+0110100 0 0
+0010000 0 0
+src.java.org.apache.hadoop.hbase.master.HMaster_java
+src.java.org.apache.hadoop.hbase.master.RegionManager_java
+src.java.org.apache.hadoop.hbase.master.ChangeTableState_java

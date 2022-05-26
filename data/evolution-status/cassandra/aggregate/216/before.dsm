@@ -1,0 +1,6 @@
+[Call,Import,Create]
+2
+0 0
+111 0
+src.java.org.apache.cassandra.db.EchoedRow_java
+src.java.org.apache.cassandra.db.compaction.CompactionController_java

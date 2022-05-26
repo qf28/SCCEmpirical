@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Use,Implement]
+3
+0 0 00100
+0 0 00100
+01000 01000 0
+src.main.org.apache.tools.ant.taskdefs.condition.And_java
+src.main.org.apache.tools.ant.taskdefs.condition.Or_java
+src.main.org.apache.tools.ant.taskdefs.condition.ConditionBase_java

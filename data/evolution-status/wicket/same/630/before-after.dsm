@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 010
+101 0
+jdk-1_5.wicket-auth-roles.src.main.java.org.apache.wicket.authentication.AuthenticatedWebSession_java
+jdk-1_5.wicket-auth-roles.src.main.java.org.apache.wicket.authentication.AuthenticatedWebApplication_java

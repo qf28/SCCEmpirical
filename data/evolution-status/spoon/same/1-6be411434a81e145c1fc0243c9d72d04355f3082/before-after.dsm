@@ -1,0 +1,8 @@
+[Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+3
+0 11001000 11101001
+01010000 0 0
+01010000 01010000 0
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.reflect.visitor.DefaultJavaPrettyPrinter_java
+src.main.java.spoon.support.JavaOutputProcessor_java

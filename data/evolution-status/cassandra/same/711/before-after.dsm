@@ -1,0 +1,6 @@
+[Call,Import,Extend,Use,Create]
+2
+0 01100
+01010 0
+test.unit.org.apache.cassandra.db.index.PerRowSecondaryIndexTest_java
+test.unit.org.apache.cassandra.SchemaLoader_java

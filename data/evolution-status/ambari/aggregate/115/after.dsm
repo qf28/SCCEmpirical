@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 001010
+111011 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.SettingResponse_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.SettingResourceProvider_java

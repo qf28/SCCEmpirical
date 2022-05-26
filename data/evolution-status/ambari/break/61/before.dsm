@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+4
+0 0 001000010 001000010
+0 0 0 001000010
+011000000 0 0 0
+011000000 011000000 0 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RepositoryVersionEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostVersionEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterVersionEntity_java

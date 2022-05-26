@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+6
+0 001000000 001100000 0 0 0
+011000000 0 0 0 0 0
+011100000 0 0 010100100 0 0
+011100000 011100000 011100000 0 0 0
+001000001 011000100 011100100 0 0 011000100
+0 010000000 011100000 0 011000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterWalManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.ServerCrashProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterMetaBootstrap_java

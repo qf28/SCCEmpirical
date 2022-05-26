@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Implement]
+4
+0 0 011110 0
+111100 0 0 0
+111000 010000 0 010000
+0 010000 0 0
+src.java.org.apache.cassandra.db.SerializationHeader_java
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.io.sstable.format.SSTableReader_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java

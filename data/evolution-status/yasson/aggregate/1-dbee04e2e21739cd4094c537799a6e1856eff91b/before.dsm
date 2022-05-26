@@ -1,0 +1,12 @@
+[Call,Import,Return,Extend,Create,Use,Parameter,Contain]
+5
+0 0 0 0 0
+0 0 00100111 0 11000010
+10000101 00100111 0 0 0
+0 11101011 11001101 0 0
+0 01100111 0 10001001 0
+src.main.java.org.eclipse.persistence.json.bind.model.PropertyValuePropagation_java
+src.main.java.org.eclipse.persistence.json.bind.model.ClassModel_java
+src.main.java.org.eclipse.persistence.json.bind.model.PropertyModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ClassParser_java
+src.main.java.org.eclipse.persistence.json.bind.internal.MappingContext_java

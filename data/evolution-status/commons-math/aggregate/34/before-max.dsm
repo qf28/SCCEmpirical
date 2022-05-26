@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01000100
+01000100 0
+src.java.org.apache.commons.math.linear.RealMatrixImpl_java
+src.java.org.apache.commons.math.linear.LUDecompositionImpl_java

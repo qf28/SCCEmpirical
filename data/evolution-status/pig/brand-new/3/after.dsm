@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 110011
+000001 0
+src.org.apache.pig.backend.hadoop.accumulo.AbstractAccumuloStorage_java
+src.org.apache.pig.backend.hadoop.accumulo.Column_java

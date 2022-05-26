@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Use,Create,Implement]
+2
+0 110000
+010000 0
+src.java.org.apache.hadoop.hbase.client.ServerCallable_java
+src.java.org.apache.hadoop.hbase.client.HConnection_java

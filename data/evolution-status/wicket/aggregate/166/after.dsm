@@ -1,0 +1,6 @@
+[Call,Import,Implement]
+2
+0 010
+010 0
+wicket-core.src.main.java.org.apache.wicket.resource.JQueryResourceReference_java
+wicket-core.src.main.java.org.apache.wicket.settings.IJavaScriptLibrarySettings_java

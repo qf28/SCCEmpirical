@@ -1,0 +1,16 @@
+[Cast,Call,Import,Use,Create,Implement]
+7
+0 0 011100 0 0 0 0
+0 0 011100 0 0 0 0
+011000 111110 0 011000 001010 001010 011100
+011000 0 011100 0 0 0 0
+0 0 0 0 0 0 010100
+0 0 0 0 0 0 010100
+011000 0 011100 0 0 0 0
+src.java.org.apache.cassandra.utils.JVMStabilityInspector_java
+src.java.org.apache.cassandra.locator.DynamicEndpointSnitch_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.io.util.FileUtils_java
+src.java.org.apache.cassandra.gms.GossipDigestAckVerbHandler_java
+src.java.org.apache.cassandra.gms.GossipDigestSynVerbHandler_java
+src.java.org.apache.cassandra.gms.Gossiper_java

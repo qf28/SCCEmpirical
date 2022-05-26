@@ -1,0 +1,6 @@
+[Return,Use,Implement,Parameter]
+2
+0 0111
+1000 0
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.ResolvedUnionType_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.ResolvedType_java

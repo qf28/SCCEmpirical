@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+5
+0 00100010 0 01001010 0
+01000100 0 0 01000100 01000100
+0 01000100 0 0 0
+0 01100010 0 0 0
+0 00100010 00000010 0 0
+drivers.java.src.org.apache.cassandra.cql.jdbc.CassandraPreparedStatement_java
+drivers.java.src.org.apache.cassandra.cql.jdbc.CassandraConnection_java
+drivers.java.src.org.apache.cassandra.cql.jdbc.CassandraDriver_java
+drivers.java.src.org.apache.cassandra.cql.jdbc.CassandraStatement_java
+drivers.java.src.org.apache.cassandra.cql.jdbc.CassandraDatabaseMetaData_java

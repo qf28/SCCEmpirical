@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 011001 011001
+010010 0 0
+011100 0 0
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.compaction.Scrubber_java
+src.java.org.apache.cassandra.db.compaction.CompactionTask_java

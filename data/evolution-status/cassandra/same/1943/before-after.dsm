@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 01100010 01010100 0 0
+0 0 01010000 0 0
+01100010 0 0 00000010 00000010
+01110000 01110000 0 0 0
+0 0 01010100 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.RangeReply_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.RangeVerbHandler_java
+src.java.org.apache.cassandra.db.LoadVerbHandler_java

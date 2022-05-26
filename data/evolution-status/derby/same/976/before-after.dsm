@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use]
+2
+0 1010
+0001 0
+java.tools.org.apache.derby.tools.sysinfo_java
+java.tools.org.apache.derby.impl.tools.sysinfo.Main_java

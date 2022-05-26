@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Implement]
+4
+0 0 0 0000100
+0 0 0 0100100
+0 0 0 0000100
+0010000 0010000 0010000 0
+src.main.org.apache.tools.ant.taskdefs.condition.And_java
+src.main.org.apache.tools.ant.taskdefs.condition.Not_java
+src.main.org.apache.tools.ant.taskdefs.condition.Or_java
+src.main.org.apache.tools.ant.taskdefs.condition.ConditionBase_java

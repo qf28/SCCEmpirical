@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+5
+0 0010100 0 0 0
+0 0 0010000 0 0
+1110010 1110100 0 0000100 1110100
+0 0 0010000 0 0
+0 0110000 0010000 0 0
+java.engine.org.apache.derby.impl.sql.compile.Predicate_java
+java.engine.org.apache.derby.impl.sql.compile.InListOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.PredicateList_java
+java.engine.org.apache.derby.impl.sql.compile.ParameterNode_java
+java.engine.org.apache.derby.impl.sql.compile.BinaryOperatorNode_java

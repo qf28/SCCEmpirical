@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 001100000
+010100010 0
+src.org.apache.pig.backend.hadoop.executionengine.HExecutionEngine_java
+src.org.apache.pig.impl.PigContext_java

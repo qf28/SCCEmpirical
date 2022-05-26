@@ -1,0 +1,40 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+19
+0 00000100 00000100 0 0 00000100 0 0 0 0 0 0 0 0 00000100 0 0 01010000 0
+01001010 0 0 0 0 0 0 0 0 00010010 0 0 0 0 0 0 0 11110010 0
+01001010 0 0 0 00010010 0 0 0 0 0 0 0 0 11110010 00000100 0 0 0 0
+0 0 0 0 0 00010100 00010010 0 0 0 0 0 00000010 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 00010100 0 0 0 0
+01001010 0 0 0 0 0 0 0 0 0 00010010 01010010 0 0 0 0 0 0 0
+0 0 0 01010010 0 00000010 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 00010100 0 0 0 0 0 0 0 0 0 0 01000010 0 0
+0 0 0 0 0 00010100 0 0 0 0 0 01000010 0 0 0 00000010 0 0 0
+0 0 0 0 0 00010100 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 00000010 0 00010100 0 0 0 0 0 0 00000010 0 0 0 0 0 0
+0 0 0 0 0 00010100 0 0 00000010 0 0 0 0 0 0 00000010 0 0 0
+0 0 0 0 0 00010100 00010010 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 00010100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01000000 00000010
+01001010 0 0 0 11110010 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 00010100 0 0 01000010 0 0 00000010 0 0 0 0 0 0 0
+0 0 0 0 0 00010100 0 01000000 0 0 0 0 0 0 0 0 0 0 0
+0 00010100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00000010 0 0
+0 0 0 0 0 00010100 0 0 0 0 0 0 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.cql3.AbstractMarker_java
+src.java.org.apache.cassandra.cql3.Lists_java
+src.java.org.apache.cassandra.cql3.Sets_java
+src.java.org.apache.cassandra.db.marshal.UTF8Type_java
+src.java.org.apache.cassandra.db.marshal.MapType_java
+src.java.org.apache.cassandra.cql3.Constants_java
+src.java.org.apache.cassandra.cql3.Json_java
+src.java.org.apache.cassandra.db.marshal.UUIDType_java
+src.java.org.apache.cassandra.db.marshal.TimestampType_java
+src.java.org.apache.cassandra.db.marshal.Int32Type_java
+src.java.org.apache.cassandra.db.marshal.BytesType_java
+src.java.org.apache.cassandra.db.marshal.LongType_java
+src.java.org.apache.cassandra.db.marshal.AsciiType_java
+src.java.org.apache.cassandra.db.marshal.SetType_java
+src.java.org.apache.cassandra.cql3.Maps_java
+src.java.org.apache.cassandra.db.marshal.DateType_java
+src.java.org.apache.cassandra.db.marshal.TimeUUIDType_java
+src.java.org.apache.cassandra.db.marshal.ListType_java
+src.java.org.apache.cassandra.db.marshal.EmptyType_java

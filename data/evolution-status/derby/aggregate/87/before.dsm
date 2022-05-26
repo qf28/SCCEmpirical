@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 0
+11010 0
+java.testing.org.apache.derbyTesting.junit.SpawnedProcess_java
+java.testing.org.apache.derbyTesting.junit.BaseTestCase_java

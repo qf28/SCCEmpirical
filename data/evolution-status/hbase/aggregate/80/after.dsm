@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use]
+2
+0 011100
+011100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.metrics.RegionServerDynamicMetrics_java

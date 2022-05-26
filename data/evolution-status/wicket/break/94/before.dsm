@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create]
+3
+0 001000 011001
+010001 0 111000
+0 011000 0
+wicket.src.java.wicket.markup.html.tree.TreeRow_java
+wicket.src.java.wicket.markup.html.tree.Tree_java
+wicket.src.java.wicket.markup.html.tree.TreeNodeLink_java

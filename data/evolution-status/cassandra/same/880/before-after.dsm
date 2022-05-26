@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 0100
+1101 0
+src.java.org.apache.cassandra.net.OutboundTcpConnection_java
+src.java.org.apache.cassandra.net.OutboundTcpConnectionPool_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 11001 11001
+11010 0 10000
+11010 10010 0
+src.java.org.apache.hadoop.hbase.master.HMaster_java
+src.java.org.apache.hadoop.hbase.master.ServerManager_java
+src.java.org.apache.hadoop.hbase.master.RegionManager_java

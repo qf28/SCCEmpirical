@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 11100
+11101 0
+wicket-core.src.main.java.org.apache.wicket.csp.ContentSecurityPolicySettings_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.WebApplication_java

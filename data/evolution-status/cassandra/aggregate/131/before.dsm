@@ -1,0 +1,6 @@
+[Cast,Call,Import,Extend,Create]
+2
+0 0
+11000 0
+src.java.org.apache.cassandra.cql3.restrictions.TokenRestriction_java
+src.java.org.apache.cassandra.cql3.restrictions.SingleColumnPrimaryKeyRestrictions_java

@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Use,Create,Throw]
+4
+0 0 1000000 0
+0 0 0000100 1100010
+0 1100110 0 0
+1100100 0 0 0
+src.java.org.apache.cassandra.db.lifecycle.LogReplica_java
+src.java.org.apache.cassandra.db.lifecycle.LogFile_java
+src.java.org.apache.cassandra.db.lifecycle.LogTransaction_java
+src.java.org.apache.cassandra.db.lifecycle.LogReplicaSet_java

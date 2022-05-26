@@ -1,0 +1,30 @@
+[Cast,Call,Typed,Import,Use,Create]
+14
+0 011010 0 0 0 000100 0 0 010110 0 0 0 0 0
+001110 0 0 0 011001 010100 0 0 010100 0 0 0 0 0
+011100 0 0 0 0 010100 0 0 010010 0 0 0 0 0
+0 0 0 0 0 0 010010 0 0 0 0 0 010100 0
+0 001010 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 010110 0 0 0 0 0
+0 0 0 0 0 0 0 0 000010 0 0 010110 0 0
+0 0 0 0 0 0 0 0 010110 0 0 010100 0 0
+011010 0 011010 010100 010100 010100 010010 110011 0 010010 010010 010110 0 010010
+011000 001100 0 0 0 0 0 0 010110 0 0 010110 010100 010000
+0 0 0 0 0 0 0 0 010010 0 0 0 0 0
+0 0 0 0 0 010100 000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 010010 0 0 0 0 0 0 0
+011000 0 0 0 0 0 0 0 010010 0 0 010110 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.service.CassandraDaemon_java
+src.java.org.apache.cassandra.auth.Auth_java
+src.java.org.apache.cassandra.io.sstable.SSTableDeletingTask_java
+src.java.org.apache.cassandra.io.util.FileUtils_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.locator.DynamicEndpointSnitch_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.BatchlogManager_java
+src.java.org.apache.cassandra.service.LoadBroadcaster_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

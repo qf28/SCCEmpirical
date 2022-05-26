@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 0 0 001000000 0 0 0
+0 0 011000100 0 010000010 0 0
+011000101 111000110 0 011000010 0 011000010 0
+0 0 011000000 0 0 0 0
+0 001000000 0 011000000 0 0 011000110
+0 0 011000100 0 0 0 0
+0 0 0 011000000 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Region_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionServicesForStores_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactingMemStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactionPipeline_java

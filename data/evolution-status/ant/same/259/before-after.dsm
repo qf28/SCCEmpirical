@@ -1,0 +1,8 @@
+[Cast,Call,Typed]
+3
+0 001 001
+011 0 0
+011 0 0
+src.main.org.apache.tools.ant.taskdefs.repository.Libraries_java
+src.main.org.apache.tools.ant.taskdefs.repository.ForceUpdatePolicy_java
+src.main.org.apache.tools.ant.taskdefs.repository.TimestampPolicy_java

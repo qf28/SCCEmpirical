@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0111001 0111000
+0101001 0 0110001 0
+0 0000010 0 1110010
+0 0000010 0 0
+wicket.src.java.wicket.util.diff.myers.MyersDiff_java
+wicket.src.java.wicket.util.diff.Diff_java
+wicket.src.java.wicket.util.diff.Revision_java
+wicket.src.java.wicket.util.diff.Delta_java

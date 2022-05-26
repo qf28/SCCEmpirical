@@ -1,0 +1,32 @@
+[Call,Return,Extend,Create,Parameter,Contain]
+15
+0 0 0 0 0 0 0 0 0 0 0 0 0 100111 0
+0 0 101000 0 0 0 0 0 0 0 0 0 0 000010 0
+101000 0 0 0 0 0 0 0 0 0 0 0 0 000010 0
+101000 0 0 0 0 0 0 0 0 0 0 0 0 100110 0
+0 0 101000 0 0 0 0 0 0 0 0 0 0 000010 0
+100000 0 101000 0 0 0 0 0 0 0 0 0 0 000010 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 100010 0
+0 0 101000 0 0 0 0 0 0 0 0 0 0 000010 0
+0 0 101000 0 0 0 0 0 0 0 0 0 0 000010 0
+101000 0 0 0 0 0 0 0 0 0 0 0 0 000010 0
+0 0 101000 0 0 0 0 0 0 0 0 0 0 000010 0
+0 0 101000 0 0 0 0 0 0 0 0 0 0 000010 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 100010 0
+0 100100 0 100100 100100 100100 100100 100100 100100 100100 100100 100100 100100 0 100100
+101000 0 0 0 0 0 0 0 0 0 0 0 0 000010 0
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractContainerSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ByteArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ShortArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ObjectArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.JsonObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.DoubleArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.LongArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.CollectionSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.IntArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.FloatArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.JsonArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.SerializerBuilder_java
+src.main.java.org.eclipse.yasson.internal.serializer.MapSerializer_java

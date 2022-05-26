@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0 00000010
+0 0 00000010
+11100100 11100100 0
+jdk-1_5.wicket-auth-roles.src.main.java.wicket.authorization.strategies.role.metadata.InstantiationPermissions_java
+jdk-1_5.wicket-auth-roles.src.main.java.wicket.authorization.strategies.role.metadata.ActionPermissions_java
+jdk-1_5.wicket-auth-roles.src.main.java.wicket.authorization.strategies.role.metadata.MetaDataRoleAuthorizationStrategy_java

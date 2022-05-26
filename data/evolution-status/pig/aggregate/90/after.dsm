@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 110000 0
+010000 0 110010
+0 010010 0
+src.org.apache.pig.impl.logicalLayer.LOMapLookup_java
+src.org.apache.pig.impl.logicalLayer.LOVisitor_java
+src.org.apache.pig.impl.logicalLayer.LogicalOperator_java

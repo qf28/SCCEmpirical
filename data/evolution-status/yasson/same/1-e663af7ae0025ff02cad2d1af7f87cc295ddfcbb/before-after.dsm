@@ -1,0 +1,16 @@
+[Call,Return,Import,Extend,Use,Create,Implement,Parameter,Contain]
+7
+0 100100000 0 100001010 0 0 0
+0 0 0 100001010 0 0 0
+0 100100000 0 000000010 0 0 0
+100001000 0 100001000 0 100001001 100011000 100001000
+0 100100000 0 100001010 0 0 0
+0 0 0 100001000 0 0 0
+0 100100000 0 000000010 0 0 0
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AbstractItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.MapItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CurrentItemBuilder_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ObjectItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AdaptedObjectItemDecorator_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CollectionItem_java

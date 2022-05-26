@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Implement]
+2
+0 100100
+100010 0
+src.java.org.apache.commons.math.distribution.DistributionFactoryImpl_java
+src.java.org.apache.commons.math.distribution.DistributionFactory_java

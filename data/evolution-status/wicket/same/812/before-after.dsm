@@ -1,0 +1,8 @@
+[Call,Typed,Use]
+3
+0 110 111
+001 0 110
+001 110 0
+jdk-1_4.wicket.src.main.java.wicket.PageMap_java
+jdk-1_4.wicket.src.main.java.wicket.RequestCycle_java
+jdk-1_4.wicket.src.main.java.wicket.Session_java

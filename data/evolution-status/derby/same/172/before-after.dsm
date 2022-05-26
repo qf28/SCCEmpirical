@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Extend,Use,Create]
+2
+0 0100001
+1110010 0
+java.engine.org.apache.derby.impl.store.raw.data.PhysicalPageOperation_java
+java.engine.org.apache.derby.impl.store.raw.data.PhysicalUndoOperation_java

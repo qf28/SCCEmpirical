@@ -1,0 +1,8 @@
+[Call,Return,Import,Extend,Use,Create,Parameter,Contain]
+3
+0 10100100 0
+00101000 0 00001000
+10111000 0 0
+src.main.java.com.stripe.net.APIResource_java
+src.main.java.com.stripe.model.EventDataDeserializer_java
+src.main.java.com.stripe.model.sigma.ScheduledQueryRun_java

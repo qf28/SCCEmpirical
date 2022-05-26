@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Create,Use,Throw]
+3
+0 011000 0
+111111 0 011100
+011111 011010 0
+java.drda.org.apache.derby.impl.drda.DRDAProtocolException_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java
+java.drda.org.apache.derby.impl.drda.DDMReader_java

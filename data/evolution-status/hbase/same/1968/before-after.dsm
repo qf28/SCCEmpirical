@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+3
+0 0 0100000
+0100000 0 0
+0 0110010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.mapreduce.TableMapReduceUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.mapreduce.TableSnapshotInputFormatImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.mapreduce.TableSnapshotInputFormat_java

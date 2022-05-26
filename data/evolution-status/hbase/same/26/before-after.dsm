@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Extend,Create,Throw,Use,Implement]
+10
+0 010110000 0 0 0 011000010 010000000 0 0 011100000
+000100010 0 0 0 0 0 011000010 010000000 0 0
+0 0 0 0 0 0 0 0 0 011000000
+0 0 0 0 0 011000000 010000000 0 0 011100000
+0 0 0 0 0 0 011100000 0 0 0
+111101010 011100000 0 010001000 0 0 010110010 0 0 011101000
+0 011001010 0 0 011101000 110100010 0 011001000 0 0
+0 0 0 0 0 0 011000000 0 0 0
+0 0 0 0 0 0 0 0 0 011000000
+0 0 010001000 0 0 011100000 010000000 0 010001000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.TableQuotaSnapshotStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MetricsMasterWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.FileSystemUtilizationChore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.NamespaceQuotaSnapshotStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.QuotaObserverChore_java

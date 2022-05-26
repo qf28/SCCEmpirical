@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1110
+0010 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.request.target.resource.ResourceStreamRequestTarget_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.util.resource.IResourceStream_java

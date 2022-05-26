@@ -1,0 +1,20 @@
+[Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+9
+0 0 0 0 001000010 0 0 0 0
+0 0 110001000 0 100000010 100001000 0 0 0
+010000100 0 0 110001000 111010010 0 0 0 0
+0 0 0 0 111010011 0 0 0 0
+001000000 001000000 0 0 0 0 0 0 0
+101010011 101011001 110011000 0 001010111 0 0 0 0
+0 0 0 0 0 0 0 101011001 0
+0 100000000 0 0 110000010 0 100010011 0 0
+0 0 110001000 0 111010011 110001000 110001001 0 0
+src.main.java.spoon.reflect.factory.CoreFactory_java
+src.main.java.spoon.reflect.factory.TypeFactory_java
+src.main.java.spoon.support.DefaultCoreFactory_java
+src.main.java.spoon.support.reflect.cu.CompilationUnitImpl_java
+src.main.java.spoon.reflect.factory.Factory_java
+src.main.java.spoon.reflect.factory.FactoryImpl_java
+src.main.java.spoon.reflect.visitor.DefaultJavaPrettyPrinter_java
+src.main.java.spoon.reflect.visitor.ElementPrinterHelper_java
+src.main.java.spoon.support.reflect.declaration.CtElementImpl_java

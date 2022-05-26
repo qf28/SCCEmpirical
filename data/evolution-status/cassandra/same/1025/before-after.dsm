@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+5
+0 0 0010010000 0 0
+0 0 0110011100 0 0
+0000000100 0000000100 0 0 0000000100
+0 0 0110011000 0 0
+0 0 0010000000 0100010000 0
+src.java.org.apache.cassandra.io.util.BufferedPoolingSegmentedFile_java
+src.java.org.apache.cassandra.io.util.MmappedSegmentedFile_java
+src.java.org.apache.cassandra.io.util.SegmentedFile_java
+src.java.org.apache.cassandra.io.util.CompressedSegmentedFile_java
+src.java.org.apache.cassandra.io.util.CompressedPoolingSegmentedFile_java

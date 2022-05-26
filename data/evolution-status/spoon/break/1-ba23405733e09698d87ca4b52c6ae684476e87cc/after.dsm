@@ -1,0 +1,6 @@
+[Call,Import,Create,Contain]
+2
+0 0100
+1111 0
+src.main.java.spoon.support.visitor.DeepRepresentationVisitor_java
+src.main.java.spoon.support.reflect.declaration.CtElementImpl_java

@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+9
+0 0 0 0 000100010 0 0 0 0
+0 0 0 0 011000000 0 0 0 0
+0 0 0 0 111000000 000100001 0 0 0
+010100100 0 000000100 0 010000000 011100000 001100000 0 011100101
+0 011001000 0 011000000 0 0 0 0 010100000
+0 0 0 0 000100000 0 0 0 0
+0 0 0 010100000 0 0 0 0 001100000
+0 010000000 0 010100000 100100010 0 0 0 0
+0 0 0 0 0 0 010100110 010100100 0
+wicket.src.main.java.org.apache.wicket.ng.page.persistent.DefaultPageStore_java
+wicket.src.main.java.org.apache.wicket.ng.Component_java
+wicket.src.main.java.org.apache.wicket.ng.DefaultPageFactory_java
+wicket.src.main.java.org.apache.wicket.ng.Application_java
+wicket.src.main.java.org.apache.wicket.ng.Page_java
+wicket.src.main.java.org.apache.wicket.ng.request.component.PageFactory_java
+wicket.src.main.java.org.apache.wicket.ng.request.handler.impl.RenderPageRequestHandler_java
+wicket.src.main.java.org.apache.wicket.ng.request.handler.DefaultPageProvider_java
+wicket.src.main.java.org.apache.wicket.ng.request.cycle.RequestCycle_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+5
+0 0101000000 0111000100 0 0000000110
+0111001100 0 0111001000 0101000000 0
+0 0101000000 0 0 0
+0111001100 0 0 0 0
+0 0 0011000000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.impl.BackupManifest_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.util.BackupUtils_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.BackupInfo_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.HBackupFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.impl.BackupException_java

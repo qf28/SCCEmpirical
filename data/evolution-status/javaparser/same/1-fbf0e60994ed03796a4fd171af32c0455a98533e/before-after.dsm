@@ -1,0 +1,6 @@
+[Call,Import,Use,Create,Contain]
+2
+0 01100
+00100 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.VariableDeclarator_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java

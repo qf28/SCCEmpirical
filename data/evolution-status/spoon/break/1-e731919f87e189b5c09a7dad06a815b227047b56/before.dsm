@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0 0011000000
+0 0 0000000010
+0011000000 0000100000 0
+src.main.java.spoon.reflect.declaration.CtSimpleType_java
+src.main.java.spoon.reflect.reference.CtReference_java
+src.main.java.spoon.reflect.reference.CtTypeReference_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Use,Create]
+3
+0 101010 110001
+110001 0 110001
+0 101010 0
+src.java.org.apache.cassandra.dht.BootStrapper_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.dht.RangeStreamer_java

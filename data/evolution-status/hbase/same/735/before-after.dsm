@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0101001 0
+0001000 0 0111010
+0110000 0101000 0
+src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+src.main.java.org.apache.hadoop.hbase.master.handler.ServerShutdownHandler_java
+src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java

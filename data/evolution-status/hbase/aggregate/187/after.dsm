@@ -1,0 +1,6 @@
+[Call,Import,Create,Use]
+2
+0 1010
+0110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.FSRegionScanner_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+5
+0 0 0 0 0
+0000010000 0 0 0110000000 0
+0010000000 1110001000 0 0110000100 0000001000
+0010000000 0100000100 0110001000 0 0100000100
+0000010000 0 0 0110000000 0
+java.drda.org.apache.derby.impl.drda.EXTDTAReaderInputStream_java
+java.drda.org.apache.derby.impl.drda.StandardEXTDTAReaderInputStream_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java
+java.drda.org.apache.derby.impl.drda.DDMReader_java
+java.drda.org.apache.derby.impl.drda.LayerBStreamedEXTDTAReaderInputStream_java

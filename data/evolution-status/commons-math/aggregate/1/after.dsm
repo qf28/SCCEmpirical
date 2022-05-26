@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0 1110110
+0 0 0000100
+1100011 0000010 0
+src.main.java.org.apache.commons.math.linear.ArrayRealVector_java
+src.main.java.org.apache.commons.math.linear.SparseRealVector_java
+src.main.java.org.apache.commons.math.linear.RealVector_java

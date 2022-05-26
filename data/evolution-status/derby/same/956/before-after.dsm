@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Throw,Use,Create,Implement]
+4
+0 001100000 0 001100000
+0 0 001000000 001100000
+0 001000000 0 0
+001100000 001100000 001100000 0
+java.engine.org.apache.derby.iapi.db.Database_java
+java.engine.org.apache.derby.iapi.sql.dictionary.DataDictionary_java
+java.engine.org.apache.derby.iapi.sql.dictionary.SchemaDescriptor_java
+java.engine.org.apache.derby.iapi.sql.conn.LanguageConnectionContext_java

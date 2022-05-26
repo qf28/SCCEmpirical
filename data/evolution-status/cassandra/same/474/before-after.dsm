@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Create,Use]
+6
+0 011100 011100 011101 0 0
+0 0 011001 000100 010000 0
+0 010001 0 010100 010000 0
+010010 011000 011000 0 0 000010
+0 0 011001 0 0 0
+0 011100 0 010100 0 0
+src.java.org.apache.cassandra.dht.BootStrapper_java
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.CompactionManager_java
+src.java.org.apache.cassandra.dht.BootstrapMetadataVerbHandler_java

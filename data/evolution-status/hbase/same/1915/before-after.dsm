@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 111010
+101000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.WALSplitter_java

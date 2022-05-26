@@ -1,0 +1,18 @@
+[Call,Typed,Import,Create,Use,Implement]
+8
+0 110000 000010 000010 110110 110110 110110 110110
+0 0 0 0 0 110110 0 0
+110110 0 0 110110 0 0 0 0
+110110 110000 000010 0 0 110010 0 0
+000010 0 0 000010 0 0 0 0
+000010 0 0 000010 0 0 0 0
+000010 0 0 000010 0 0 0 0
+000010 0 0 000010 0 0 0 0
+ambari-server.src.main.java.org.apache.ambari.server.stack.ServiceModule_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.ConfigurationDirectory_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.StackManager_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.StackModule_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.ComponentModule_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.ConfigurationModule_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.QuickLinksConfigurationModule_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.ThemeModule_java

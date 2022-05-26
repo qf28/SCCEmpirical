@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Create,Use,Implement]
+2
+0 01010100
+01010000 0
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.streaming.FileStreamTask_java

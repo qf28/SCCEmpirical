@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 01010
+01000 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 0100110000
+0100001000 0
+src.test.java.spoon.test.filters.testclasses.Tostada_java
+src.test.java.spoon.test.filters.testclasses.AbstractTostada_java

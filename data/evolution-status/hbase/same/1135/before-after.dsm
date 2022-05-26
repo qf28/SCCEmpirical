@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+6
+0 010000000 0 011000100 010000000 0
+0 0 0 0 110100100 0
+0 0 0 0 011000100 0
+111100110 011000010 0 0 010101100 011000110
+0 0 010000010 110100100 0 0
+0 010000000 0 011000000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionServerWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ClusterStatusPublisher_java

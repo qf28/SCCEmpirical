@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Create]
+5
+0 11101 0 11100 10110
+01010 0 0 11010 10110
+11010 0 0 0 0
+11110 0 10101 0 10110
+11010 10000 0 11100 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexManager_java
+src.java.org.apache.cassandra.db.index.keys.KeysIndex_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java

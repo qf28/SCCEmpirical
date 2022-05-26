@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Throw,Implement,Parameter,Contain]
+2
+0 00010000000
+00001000000 0
+src.main.java.spoon.compiler.SpoonResource_java
+src.main.java.spoon.compiler.SpoonFolder_java

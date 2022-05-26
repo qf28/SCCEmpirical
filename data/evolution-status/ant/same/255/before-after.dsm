@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 011000
+011000 0
+src.main.org.apache.tools.ant.UnknownElement_java
+src.main.org.apache.tools.ant.ComponentHelper_java

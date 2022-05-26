@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Throw,Create,Use,Implement]
+2
+0 001000000
+111000100 0
+proposal.myrmidon.src.java.org.apache.aut.vfs.provider.zip.ZipFileObject_java
+proposal.myrmidon.src.java.org.apache.aut.vfs.provider.zip.ZipFileSystem_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Create,Use]
+4
+0 011011 011001 011000
+010100 0 011001 110000
+010000 0 0 011010
+0 0 011000 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.io.CompactionIterator_java
+src.java.org.apache.cassandra.io.SSTableReader_java
+src.java.org.apache.cassandra.io.SSTableScanner_java

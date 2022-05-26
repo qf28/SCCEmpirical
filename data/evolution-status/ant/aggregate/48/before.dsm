@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+4
+0 0 0 0
+01000000 0 0 0
+0 01100110 0 0
+0 10100010 01000010 0
+src.main.org.apache.tools.zip.ZipUtil_java
+src.main.org.apache.tools.zip.UnparseableExtraFieldData_java
+src.main.org.apache.tools.zip.ExtraFieldUtils_java
+src.main.org.apache.tools.zip.ZipEntry_java

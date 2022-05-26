@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 0 0 01000
+0 0 01000 01000
+0 00010 0 0
+00010 00010 0 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ConfigGroupHostMappingEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ConfigGroupConfigMappingEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterConfigEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ConfigGroupEntity_java

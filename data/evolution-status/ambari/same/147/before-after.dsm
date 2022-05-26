@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 0 11001
+0 0 11110
+00110 11001 0
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.hadoop.yarn.server.applicationhistoryservice.metrics.timeline.availability.MetricCollectorHAController_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.hadoop.yarn.server.applicationhistoryservice.metrics.timeline.availability.OnlineOfflineStateModelFactory_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.hadoop.yarn.server.applicationhistoryservice.metrics.timeline.availability.AggregationTaskRunner_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Create,Use,Implement,Modify]
+2
+0 0
+111001000 0
+java.engine.org.apache.derby.impl.services.replication.buffer.LogBufferElement_java
+java.engine.org.apache.derby.impl.services.replication.buffer.ReplicationLogBuffer_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+5
+0 0 01110000 0 0
+0 0 01110000 0 0
+01000100 01000100 0 00100000 01000100
+0 0 01100100 0 0
+0 0 01110000 0 0
+src.java.org.apache.cassandra.db.NativeClustering_java
+src.java.org.apache.cassandra.db.NativeDecoratedKey_java
+src.java.org.apache.cassandra.utils.memory.NativeAllocator_java
+src.java.org.apache.cassandra.utils.memory.NativePool_java
+src.java.org.apache.cassandra.db.rows.NativeCell_java

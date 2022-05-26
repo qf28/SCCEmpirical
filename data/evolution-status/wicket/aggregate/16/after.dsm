@@ -1,0 +1,24 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+11
+0 0100000 0 0 0 0 0 0 0 0 0
+0 0 1110000 1000010 0100110 0 1000010 0 0 1000010 1110000
+0 0 0 0 0 0 0 0 0 0 0010000
+0 1100000 0 0 1100000 0 0 0 0 0 0
+0100100 0100000 0 0 0 1000110 0 0010100 1000010 0 0
+0000001 0100000 0 0 0 0 0 0 0 0 0
+0 1100000 0 0 1100000 0 0 0 0 0 0
+0000001 1100000 0 0 0 0 0 0 0 0 0
+0000001 0100000 0 0 0 0 0 0 0 0 0
+0 1100000 0 0 0 0 0 0 0 0 0
+0 1110010 1111100 0010000 1010000 0 0 0 0 0010000 0
+wicket-core.src.main.java.org.apache.wicket.csp.CSPRenderable_java
+wicket-core.src.main.java.org.apache.wicket.csp.ContentSecurityPolicySettings_java
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.csp.ReportCSPViolationMapper_java
+wicket-core.src.main.java.org.apache.wicket.csp.CSPHeaderConfiguration_java
+wicket-core.src.main.java.org.apache.wicket.csp.RelativeURICSPValue_java
+wicket-core.src.main.java.org.apache.wicket.csp.CSPRequestCycleListener_java
+wicket-core.src.main.java.org.apache.wicket.csp.CSPDirectiveSrcValue_java
+wicket-core.src.main.java.org.apache.wicket.csp.FixedCSPValue_java
+wicket-core.src.main.java.org.apache.wicket.csp.CSPNonceHeaderResponseDecorator_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.WebApplication_java

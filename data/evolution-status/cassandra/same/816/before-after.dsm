@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 1001000
+1100010 0
+src.java.org.apache.cassandra.utils.memory.PoolCleanerThread_java
+src.java.org.apache.cassandra.utils.memory.Pool_java

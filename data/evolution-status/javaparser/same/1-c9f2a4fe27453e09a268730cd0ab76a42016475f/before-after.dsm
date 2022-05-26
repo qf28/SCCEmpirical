@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0000000010 0
+0110000010 0 0110000010
+0 0000000010 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.NodeList_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java

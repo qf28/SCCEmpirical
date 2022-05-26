@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0100000000
+0100010000 0
+java.engine.org.apache.derby.iapi.types.DataType_java
+java.engine.org.apache.derby.iapi.types.SQLBoolean_java

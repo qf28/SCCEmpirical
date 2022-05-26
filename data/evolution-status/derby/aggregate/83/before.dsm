@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 0
+01100001 0
+java.engine.org.apache.derby.iapi.sql.dictionary.ConglomerateDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.DataDescriptorGenerator_java

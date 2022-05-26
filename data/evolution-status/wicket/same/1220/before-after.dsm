@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 1000
+1000 0
+wicket-experimental.wicket-atmosphere.src.main.java.org.apache.wicket.atmosphere.AtmosphereBehavior_java
+wicket-experimental.wicket-atmosphere.src.main.java.org.apache.wicket.atmosphere.EventBus_java

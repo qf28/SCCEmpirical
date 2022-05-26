@@ -1,0 +1,12 @@
+[Call,Import,Use,Create]
+5
+0 0 1110 1110 0
+0 0 1110 0 0
+0 1001 0 0 1001
+1110 0 1110 0 0
+0 0 0 1110 0
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.contexts.StatementContext_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.JavaParserFactory_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserSymbolDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.contexts.ForechStatementContext_java

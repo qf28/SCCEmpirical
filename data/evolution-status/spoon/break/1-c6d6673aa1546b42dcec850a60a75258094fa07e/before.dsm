@@ -1,0 +1,82 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+40
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010010000 0 0110001001 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0110010011 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0000010000 0 0 0 0 0 0 0 0 0 0100000000 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0000010000 0 0 0100100000 0 0 0 0 0 0 0 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000100 0 0 0 0 0110010000 0111011001 0 0 0 0 0 0 0 0100000000 0111010011 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0000010000 0 0 0 0 0 0 0 0 0 0100000000 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0000010000 0 0 0 0 0 0 0 0 0 0100000000 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0010010000 0100000000 0 0 0100010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0110010011 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0010010000 0 0 0 0 0010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000001 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0000010000 0 0 0 0 0 0 0 0 0 0100000000 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011010011 0 0 0 0 0 0 0 0 0 0 0010000100 0 0 0 0011000001 0 0 0 0110011001 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0100000000 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0111010011 0 0 0010000100 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0010010000 0 0 0 0 0010010000 0 0 0 0 0 0 0 0 0110001001 0 0 0 0 0 0 0111010011 0 0 0010000000 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0
+0110001000 0 0 0 0 0 0 0 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0111000011 0 0 0 0 0 0 0110001000 0 0111000011 0 0110001000 0 0111001011 0110001001 0 0100000000 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000100000 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 1111000011 0 0010000100 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000000 0 0 0010100000 0 0
+0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0000010000 0 0 0100100000 0 0 0110010000 0 0 0 0 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011010011 0 0 0010000100 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010010000 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0 0111010011 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110010011 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010010000 0 0 0 0 0 0 0 0 0 0 0 0110010011 0 0 0 0110000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0010000100 0 0 0 0 0 0110001000 0010010000 0 0010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011010011 0 0 0 0 0
+0 0 0 0 0 0 0 0 0110001000 0 0 0 0 0010010000 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0010000010 0 0 0 0 0
+0 0 0 0110001000 0 0 0 0 0 0 0 0 0110001000 0 0 0 0 0 0010010000 0110000001 0 0010000100 0 0 0 0 0 0110011000 0110001000 0 0110000011 0 0 0 0111011011 0 0 0 0 0100000000
+0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0
+0 0111011001 0111011001 0 0111011001 0111011001 0111011001 0111011001 0 0101010011 0 0111011001 0110011000 0 0111011001 0 0 0 0 0 0 0010000000 0111011001 0 0 0 0111011001 0 0110011000 0 0010000000 0111011001 0 0111011001 0 0 0 0 0 0111011001
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110010011 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110010011 0 0 0 0100011001 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000010 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010010011 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0
+src.main.java.spoon.support.gui.SpoonModelTree_java
+src.main.java.spoon.reflect.factory.ClassFactory_java
+src.main.java.spoon.reflect.factory.ConstructorFactory_java
+src.main.java.spoon.support.QueueProcessingManager_java
+src.main.java.spoon.reflect.factory.InterfaceFactory_java
+src.main.java.spoon.reflect.factory.FieldFactory_java
+src.main.java.spoon.reflect.factory.AnnotationFactory_java
+src.main.java.spoon.reflect.factory.CodeFactory_java
+src.main.java.spoon.support.template.SubstitutionVisitor_java
+src.main.java.spoon.reflect.CoreFactory_java
+src.main.java.spoon.support.reflect.eval.VisitorSymbolicEvaluator_java
+src.main.java.spoon.reflect.factory.EnumFactory_java
+src.main.java.spoon.support.StandardEnvironment_java
+src.main.java.spoon.reflect.visitor.Query_java
+src.main.java.spoon.reflect.factory.TypeFactory_java
+src.main.java.spoon.support.reflect.cu.CompilationUnitImpl_java
+src.main.java.spoon.support.reflect.declaration.CtElementImpl_java
+src.main.java.spoon.support.template.Parameters_java
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.processing.ProcessingManager_java
+src.main.java.spoon.support.SerializationModelStreamer_java
+src.main.java.spoon.compiler.SpoonCompiler_java
+src.main.java.spoon.reflect.factory.MethodFactory_java
+src.main.java.spoon.reflect.factory.SubFactory_java
+src.main.java.spoon.processing.AbstractProcessor_java
+src.main.java.spoon.support.visitor.ProcessingVisitor_java
+src.main.java.spoon.reflect.factory.ExecutableFactory_java
+src.main.java.spoon.reflect.visitor.DefaultJavaPrettyPrinter_java
+src.main.java.spoon.support.DefaultCoreFactory_java
+src.main.java.spoon.template.Substitution_java
+src.main.java.spoon.compiler.Environment_java
+src.main.java.spoon.reflect.factory.EvalFactory_java
+src.main.java.spoon.support.compiler.jdt.JDTBasedSpoonCompiler_java
+src.main.java.spoon.reflect.factory.PackageFactory_java
+src.main.java.spoon.reflect.Factory_java
+src.main.java.spoon.support.processing.SpoonletXmlHandler_java
+src.main.java.spoon.reflect.ModelStreamer_java
+src.main.java.spoon.processing.FactoryAccessor_java
+src.main.java.spoon.support.processing.XmlProcessorProperties_java
+src.main.java.spoon.reflect.factory.CompilationUnitFactory_java

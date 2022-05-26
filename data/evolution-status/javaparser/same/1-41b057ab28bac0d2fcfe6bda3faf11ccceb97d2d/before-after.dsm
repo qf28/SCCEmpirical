@@ -1,0 +1,6 @@
+[Call,Create,Use]
+2
+0 110
+111 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistClassDeclaration_java

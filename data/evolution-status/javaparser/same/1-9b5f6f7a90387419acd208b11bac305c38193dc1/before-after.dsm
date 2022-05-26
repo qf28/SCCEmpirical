@@ -1,0 +1,6 @@
+[Call,Return,Use,Implement,Parameter,Contain]
+2
+0 111111
+010000 0
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.ReferenceTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.TypeUsage_java

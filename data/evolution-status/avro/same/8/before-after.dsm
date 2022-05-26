@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 11000
+10010 0
+lang.java.protobuf.src.main.java.org.apache.avro.protobuf.ProtobufDatumReader_java
+lang.java.protobuf.src.main.java.org.apache.avro.protobuf.ProtobufData_java

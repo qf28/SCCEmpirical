@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 011001
+010000 0
+src.main.org.apache.tools.zip.ZipEncodingHelper_java
+src.main.org.apache.tools.zip.Simple8BitZipEncoding_java

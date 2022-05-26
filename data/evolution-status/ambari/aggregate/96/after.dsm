@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+5
+0 1001010 1000000 0 0110000
+0 0 0110000 0 0
+0010000 0 0 0 0
+0 0 1110000 0 1110000
+0 0 1110000 0010010 0
+ambari-server.src.main.java.org.apache.ambari.server.alerts.StaleAlertRunnable_java
+ambari-server.src.main.java.org.apache.ambari.server.alerts.AlertRunnable_java
+ambari-server.src.main.java.org.apache.ambari.server.state.alert.AlertHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.events.listeners.alerts.AlertDefinitionsUIUpdateListener_java
+ambari-server.src.main.java.org.apache.ambari.server.agent.stomp.AlertDefinitionsHolder_java

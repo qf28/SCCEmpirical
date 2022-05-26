@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+2
+0 001100000
+111100100 0
+src.org.apache.pig.tools.pigstats.JobStats_java
+src.org.apache.pig.tools.pigstats.PigStats_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Modify]
+3
+0 01111110 0
+00010100 0 11100010
+0 01100100 0
+java.drda.org.apache.derby.drda.NetworkServerControl_java
+java.drda.org.apache.derby.impl.drda.NetworkServerControlImpl_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java

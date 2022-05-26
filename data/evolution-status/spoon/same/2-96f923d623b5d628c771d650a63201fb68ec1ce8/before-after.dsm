@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Use,Implement,Parameter,Contain]
+2
+0 00110000
+00110000 0
+src.main.java.spoon.reflect.declaration.CtVariable_java
+src.main.java.spoon.reflect.reference.CtVariableReference_java

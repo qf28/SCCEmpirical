@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 11000
+10010 0
+java.drda.org.apache.derby.impl.drda.ClientThread_java
+java.drda.org.apache.derby.impl.drda.DB2jServerImpl_java

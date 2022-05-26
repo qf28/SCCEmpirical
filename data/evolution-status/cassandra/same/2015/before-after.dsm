@@ -1,0 +1,22 @@
+[Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+10
+0 0 0 0 0 0 0 110010100 0 0
+0 0 0 0 0 0 0 100000100 110011000 0
+0 0 0 0 0 0 0 100000100 110011000 0
+0 0 0 0 0 0 0 110010100 0 0
+0 0 0 0 0 0 0 0 110011000 0
+0 0 0 0 0 0 0 100010100 0 0
+0 0 0 0 0 0 0 100010100 0 0
+100001000 100001000 100001000 100001000 100001000 100001000 100001000 0 0 100001000
+0 0 0 0 0 0 0 100010000 0 0
+0 0 0 0 0 0 0 000000100 110011000 0
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.ThriftInserter_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlReader_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlInserter_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.ThriftReader_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlCounterAdder_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.ThriftCounterGetter_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.ThriftCounterAdder_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.PredefinedOperation_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlOperation_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlCounterGetter_java

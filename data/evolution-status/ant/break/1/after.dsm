@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Throw,Create,Use,Implement]
+6
+0 0 0 0 0 0
+0 0 0 0 011000000 0
+0 0 0 0 001000000 010010000
+0 0 0 0 011000000 011000100
+0 010000100 011000100 011000100 0 011000100
+0 0 0 0 011000000 0
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.ExecutionComponentService_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.ExecutionDataService_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.TaskContext_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.ComponentManager_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.ExecutionFrame_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.ExecutionContext_java

@@ -1,0 +1,50 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+24
+0 0 0 0 0 0 0 0 0 0 1111001000 0 0 0 0 0 0011001000 0 0 0 0110011010 0 0 0
+0 0 0 0 0 0 0 0 0 0 0111001100 0 0 0 0 0 0 0 0 0110000000 0 0 0 0111001100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0111000000 0 0110001000 0 0
+0 0 0 0 0 0110001100 0 0 0 0 0 0 0111001000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011001000 0 0 0111000000 0 0100010000 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0111001000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0111001100 0 0 0 0110000100 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0110001000 0 0 0 0 0 0111001000 0 0 0100000000 0 0 0 0
+0 0 0 0 0001001000 0 0 0 0 0 0 0 0 0 0 0 0111001000 0 0 0111000000 0 0100011000 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0111000000 0111001000 0 0 0100000000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0111000100 0 0 0 0011000000 0 0 0111000000 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0010001000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0111011000 0 0 0 0 0111001100 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0111001100 0110000000 0 0111000100 0 0 0 0
+0100011000 0 0 0 0 0 0 0 0 0 0111001000 0 0 0 0 0 0011001000 0 0 0 0010001000 0 0 0
+0 0 0 0100000000 0 0110001000 0 0 0 0 0 0 0111001000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0 0 0110000000 0 0111000100 0 0 0 0
+0 0 0 0 0 0 0 0101000000 0 0 0111001000 0 0 0011001000 0 0 0110001000 0 0 0111000000 0 0 1101000000 0111000000
+0 0 0 0 0 0 0 0 0 0 0 0 0110001100 0 0 0101000100 0 0 0 0111001000 0 0 0 0
+0 0110000100 0101001100 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0 0 0 0 0011000000
+0 0 0 0 0 0 0 0 0 0 0111001000 0 0 0 0 0 0011000000 0 0 0 0 0 0 0
+0 0 0 0 0100000100 0 0 0 0100000100 0 0 0 0 0 0 0 0011000000 0 0 0111000000 0 0 0 0
+0 0 0 0 0 0 0101000100 0 0 0100000100 0 0 0 0 0 0 0 0 0111000100 0111001100 0 0 0 0
+0000000100 0 0 0 0 0 0 0 0 0 1111001000 0 0 0 0000000100 0 0011000000 0 0 0111000000 0110000000 0 0 0
+src.java.org.apache.cassandra.index.sasi.conf.view.RangeTermTree_java
+src.java.org.apache.cassandra.index.sasi.conf.DataTracker_java
+src.java.org.apache.cassandra.index.sasi.memory.IndexMemtable_java
+src.java.org.apache.cassandra.index.sasi.utils.OnDiskIndexIterator_java
+src.java.org.apache.cassandra.index.sasi.memory.SkipListMemIndex_java
+src.java.org.apache.cassandra.index.sasi.utils.CombinedTerm_java
+src.java.org.apache.cassandra.index.sasi.plan.QueryPlan_java
+src.java.org.apache.cassandra.index.sasi.TermIterator_java
+src.java.org.apache.cassandra.index.sasi.memory.TrieMemIndex_java
+src.java.org.apache.cassandra.index.sasi.SASIIndexBuilder_java
+src.java.org.apache.cassandra.index.sasi.SSTableIndex_java
+src.java.org.apache.cassandra.index.sasi.disk.OnDiskBlock_java
+src.java.org.apache.cassandra.index.sasi.disk.OnDiskIndex_java
+src.java.org.apache.cassandra.index.sasi.plan.Operation_java
+src.java.org.apache.cassandra.index.sasi.conf.view.PrefixTermTree_java
+src.java.org.apache.cassandra.index.sasi.utils.CombinedTermIterator_java
+src.java.org.apache.cassandra.index.sasi.plan.Expression_java
+src.java.org.apache.cassandra.index.sasi.plan.QueryController_java
+src.java.org.apache.cassandra.index.sasi.disk.PerSSTableIndexWriter_java
+src.java.org.apache.cassandra.index.sasi.conf.ColumnIndex_java
+src.java.org.apache.cassandra.index.sasi.conf.view.TermTree_java
+src.java.org.apache.cassandra.index.sasi.memory.MemIndex_java
+src.java.org.apache.cassandra.index.sasi.SASIIndex_java
+src.java.org.apache.cassandra.index.sasi.conf.view.View_java

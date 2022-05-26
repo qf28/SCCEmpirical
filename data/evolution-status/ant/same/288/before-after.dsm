@@ -1,0 +1,6 @@
+[Cast,Typed,Use]
+2
+0 111
+001 0
+src.main.org.apache.tools.ant.taskdefs.repository.Libraries_java
+src.main.org.apache.tools.ant.taskdefs.repository.MavenRepository_java

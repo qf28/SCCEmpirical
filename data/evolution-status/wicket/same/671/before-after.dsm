@@ -1,0 +1,6 @@
+[Cast,Call,Import,Use]
+2
+0 0011
+1110 0
+wicket.src.java.wicket.markup.html.form.Form_java
+wicket.src.java.wicket.protocol.http.HttpRequestCycle_java

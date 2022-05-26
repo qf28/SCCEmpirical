@@ -1,0 +1,22 @@
+[Call,Typed,Import,Set,Create,Use]
+10
+0 0 110010 111001 0 111000 0 0 111010 0
+0 0 0 0 0 0 0 0 0 001000
+0 0 0 0 0 111001 0 0 0 101000
+111010 001000 0 0 111010 111000 101000 110010 0 101000
+0 001000 0 0 0 111000 0 0 0 101000
+0 0 0 111010 0 0 0 0 0 0
+0 101010 0 0 0 011000 0 0 0 101000
+0 001000 0 0 0 111000 0 0 0 101000
+0 001000 0 111000 0 111001 0 0 0 101000
+0 0 0 0 0 111000 0 0 0 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher_java
+src.org.apache.pig.builtin.BinStorage_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler_java
+src.org.apache.pig.backend.hadoop.executionengine.HExecutionEngine_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.LogToPhyTranslationVisitor_java
+src.org.apache.pig.impl.PigContext_java
+src.org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil_java
+src.org.apache.pig.experimental.logical.relational.LogToPhyTranslationVisitor_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MRCompiler_java
+src.org.apache.pig.impl.io.FileLocalizer_java

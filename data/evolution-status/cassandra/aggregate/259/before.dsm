@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 0 0 0
+011001 0 000100 0
+0 000110 0 010001
+011100 111100 011000 0
+src.java.org.apache.cassandra.net.http.HttpRequest_java
+src.java.org.apache.cassandra.net.http.HttpConnection_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.HttpRequestVerbHandler_java

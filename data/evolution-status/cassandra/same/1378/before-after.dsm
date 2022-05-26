@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 111000 101100
+111010 0 0
+111010 111010 0
+src.java.org.apache.cassandra.cql3.ColumnIdentifier_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.cql3.selection.Selectable_java

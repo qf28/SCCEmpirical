@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0010100
+0000010 0
+src.main.java.org.apache.commons.math.analysis.BinaryFunction_java
+src.main.java.org.apache.commons.math.analysis.ComposableFunction_java

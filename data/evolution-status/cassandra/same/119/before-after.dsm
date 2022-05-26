@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Use,Create]
+2
+0 000001
+010110 0
+src.java.org.apache.cassandra.cql3.AbstractMarker_java
+src.java.org.apache.cassandra.cql3.Lists_java

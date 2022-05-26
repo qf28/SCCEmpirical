@@ -1,0 +1,6 @@
+[Call,Typed,Create,Use]
+2
+0 1101
+1010 0
+src.java.org.apache.cassandra.db.compaction.LazilyCompactedRow_java
+src.java.org.apache.cassandra.db.compaction.CompactionController_java

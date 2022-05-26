@@ -1,0 +1,14 @@
+[Call,Typed,Import,Extend,Create,Use]
+6
+0 0 0 0 0 110001
+001000 0 001000 0 100100 001000
+000001 0 0 110010 101100 0
+110001 0 010001 0 0 100100
+0 110010 0 0 0 0
+010001 0 010001 0 0 0
+src.org.apache.pig.impl.plan.optimizer.RuleOperator_java
+src.org.apache.pig.impl.plan.PlanPrinter_java
+src.org.apache.pig.impl.plan.optimizer.RulePlan_java
+src.org.apache.pig.impl.plan.optimizer.RulePlanPrinter_java
+src.org.apache.pig.impl.plan.OperatorPlan_java
+src.org.apache.pig.impl.plan.optimizer.RulePlanVisitor_java

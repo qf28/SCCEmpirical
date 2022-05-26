@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+4
+0 1100110 0 0
+0 0 1010000 0110000
+0 0 0 1110000
+0110000 0 0 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.metrics.MetricsCollectorHAManager_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.metrics.MetricsCollectorHAClusterState_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.HostStatusHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariManagementController_java

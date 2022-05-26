@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+2
+0 0010100
+0010000 0
+src.main.java.org.apache.commons.math3.genetics.Population_java
+src.main.java.org.apache.commons.math3.genetics.Chromosome_java

@@ -1,0 +1,6 @@
+[Call,Import,Create]
+2
+0 0
+0 0
+src.main.java.spoon.support.template.SubstitutionVisitor_java
+src.main.java.spoon.template.AbstractTemplate_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create,Throw,Implement]
+3
+0 01100000 00001000
+01101000 0 0
+00100000 0 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ViewInstanceEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ViewEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ViewEntityEntity_java

@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+6
+0 0 0100000001 0100001000 0 0
+0 0 0 0 0010000000 0
+0 0 0 0 0000000010 0
+0 0 0101001001 0 0101011011 0001000000
+0010010000 1000000000 0100010011 0 0 0
+0 0 0 0110010000 0 0
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.LexicalPreservingPrinter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.validator.NoProblemsValidator_java
+javaparser-core.src.main.java.com.github.javaparser.ParseResult_java
+javaparser-core.src.main.java.com.github.javaparser.JavaParser_java
+javaparser-core.src.main.java.com.github.javaparser.ParserConfiguration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Name_java

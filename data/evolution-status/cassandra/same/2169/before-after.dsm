@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+4
+0 01100000 11000001 01000000
+01100001 0 0 01101110
+0 01100000 0 0
+0 01100010 0 0
+src.java.org.apache.cassandra.io.sstable.SSTableScanner_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.io.sstable.SSTableIdentityIterator_java
+src.java.org.apache.cassandra.io.sstable.SSTable_java

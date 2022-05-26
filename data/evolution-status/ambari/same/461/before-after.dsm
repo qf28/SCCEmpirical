@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Throw]
+2
+0 0100010
+1001000 0
+ambari-server.src.main.java.org.apache.ambari.server.state.quicklinksprofile.Filter_java
+ambari-server.src.main.java.org.apache.ambari.server.state.quicklinksprofile.AcceptAllFilter_java

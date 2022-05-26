@@ -1,0 +1,6 @@
+[Call,Create]
+2
+0 11
+11 0
+src.main.java.me.tomassetti.symbolsolver.model.javassist.JavassistMethodDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javassist.JavassistClassDeclaration_java

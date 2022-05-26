@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+6
+0 0 0 0 0 0
+000000010 0 0 0 0 0
+0 010000010 0 0 0 0
+000000010 0 0 0 0 0
+0 010000010 011000110 000000010 0 011100100
+0 0 0 0 011000000 0
+src.java.org.apache.cassandra.io.util.BufferManagingRebufferer_java
+src.java.org.apache.cassandra.io.util.SimpleChunkReader_java
+src.java.org.apache.cassandra.io.util.RandomAccessReader_java
+src.java.org.apache.cassandra.io.util.CompressedSegmentedFile_java
+src.java.org.apache.cassandra.io.util.FileHandle_java
+src.java.org.apache.cassandra.cache.ChunkCache_java

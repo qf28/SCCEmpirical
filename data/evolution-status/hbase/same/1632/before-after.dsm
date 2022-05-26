@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+2
+0 0000001000
+0000100000 0
+hbase-annotations.src.main.java.org.apache.hadoop.hbase.classification.tools.RootDocProcessor_java
+hbase-annotations.src.main.java.org.apache.hadoop.hbase.classification.tools.StabilityOptions_java

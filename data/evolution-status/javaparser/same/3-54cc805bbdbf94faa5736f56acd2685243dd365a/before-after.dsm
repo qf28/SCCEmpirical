@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+2
+0 1010001000
+1111011011 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.LocalClassDeclarationStmt_java

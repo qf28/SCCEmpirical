@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 0010
+1101 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ScaleClusterRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.HostResourceProvider_java

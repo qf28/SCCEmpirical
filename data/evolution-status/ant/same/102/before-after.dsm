@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01100000
+01000100 0
+src.antidote.org.apache.tools.ant.gui.acs.ACSBeanDescriptor_java
+src.antidote.org.apache.tools.ant.gui.acs.BaseBeanInfo_java

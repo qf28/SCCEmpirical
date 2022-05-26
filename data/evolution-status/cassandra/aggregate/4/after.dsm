@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Use,Create]
+6
+0 0 010000 000010 0 011011
+010100 0 0 0 010000 0
+0 0 0 010000 0 0
+0 0 011101 0 010110 0
+0 111010 0 0 0 0
+0 0 0 010100 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.cql3.statements.SelectStatement_java
+src.java.org.apache.cassandra.service.paxos.PaxosState_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java
+src.java.org.apache.cassandra.service.paxos.PrepareCallback_java

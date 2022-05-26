@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create]
+4
+0 101010 110001 111000
+001010 0 0 0
+0 0 0 111000
+111000 001010 0 0
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.PhoenixHBaseAccessor_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.query.PhoenixTransactSQL_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.TimelineMetricSplitPointComputer_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.discovery.TimelineMetricMetadataManager_java

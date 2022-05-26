@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create,Implement]
+4
+0 101000 101000 0
+0 0 0 101000
+101000 0 0 0
+0 0 110000 0
+ambari-server.src.main.java.org.apache.ambari.server.api.resources.ResourceInstanceFactoryImpl_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.utilities.ClusterControllerHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.view.ViewRegistry_java
+ambari-server.src.main.java.org.apache.ambari.server.view.ViewProviderModule_java

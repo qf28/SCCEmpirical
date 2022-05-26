@@ -1,0 +1,20 @@
+[Call,Typed,Import,Extend,Create,Use]
+9
+0 0 0 0 100100 0 010000 0 0
+0 0 0 0 100100 0 010000 0 0
+0 0 0 0 100100 0 010001 0 0
+0 0 0 0 0 0 100001 0 100100
+0 0 0 0 0 0 110100 0 0
+0 0 0 0 100100 0 010001 0 0
+100010 100010 100010 100010 0 100010 0 100010 100010
+0 0 0 0 100100 0 010000 0 0
+0 0 0 0 0 0 000100 0 0
+src.main.org.apache.tools.ant.taskdefs.launcher.MacCommandLauncher_java
+src.main.org.apache.tools.ant.taskdefs.launcher.OS2CommandLauncher_java
+src.main.org.apache.tools.ant.taskdefs.launcher.PerlScriptCommandLauncher_java
+src.main.org.apache.tools.ant.taskdefs.launcher.VmsCommandLauncher_java
+src.main.org.apache.tools.ant.taskdefs.launcher.CommandLauncherProxy_java
+src.main.org.apache.tools.ant.taskdefs.launcher.ScriptCommandLauncher_java
+src.main.org.apache.tools.ant.taskdefs.launcher.CommandLauncher_java
+src.main.org.apache.tools.ant.taskdefs.launcher.WinNTCommandLauncher_java
+src.main.org.apache.tools.ant.taskdefs.launcher.Java13CommandLauncher_java

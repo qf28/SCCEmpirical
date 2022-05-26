@@ -1,0 +1,42 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+20
+0 010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+111000110 0 0 0 0 0 0 010000000 0 0 0 0 0 0 0 0 111000100 0 0 0
+0 000100100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 111100100 0 0 0
+0 001100100 0 0 0 101110000 000100100 0 0 011110110 010100010 0 0 111100110 0 0 010000000 011100110 0 0
+0 011000110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011011101 0 0 0
+0 001100000 0 0 0 0 011100010 0 0 001100100 0 0 0 0 0 0 0 0 0 0
+0 000100000 0 0 0 001100100 0 0 0 010000000 0 0 010100000 0 0 011100010 000100000 0 0 0
+011000010 010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 011000110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010011100 0 0 0
+0 0 0 001100100 0 0 000100000 0 0 0 0 000100000 0 0 0 0 0 0 0 0
+0 101100000 0 0 0 0 0 0 0 011100000 0 0 010100000 0 0 011100010 011100000 0 0 0
+0 111100010 011101000 0 0 0 0 0 0 101100000 0 0 010100000 0 0 0 011100010 0 0 0
+0 0 0 0 010000010 0 0 0 010000010 0 0 0 0 0 010000010 0 001000000 0 0 0
+0 001100000 0 000100100 0 111010100 010100000 0 0 011100000 0 0 010100000 0 0 011100010 011100000 011000110 0 0
+0 011000110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010011100 0 0 0
+0 001100100 0 0 0 0 0 0 0 001100000 0 0 010100000 0 0 0 011100000 0 0 0
+000000100 011001110 0 0 0 0 0 0 0 0 0 000100100 010000000 0 0 0 0 0 0 0
+0 101100000 0 0 0 0 0 0 0 0 0 0 010100000 0 0 0 011100000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+src.org.apache.pig.data.DataAtom_java
+src.org.apache.pig.data.Tuple_java
+src.org.apache.pig.impl.eval.collector.DataCollector_java
+src.org.apache.pig.PigServer_java
+src.org.apache.pig.data.DistinctDataBag_java
+src.org.apache.pig.impl.physicalLayer.POMapreduce_java
+src.org.apache.pig.impl.mapreduceExec.MapReduceLauncher_java
+src.org.apache.pig.data.DataMap_java
+src.org.apache.pig.data.SortedDataBag_java
+src.org.apache.pig.impl.PigContext_java
+src.org.apache.pig.impl.physicalLayer.POStore_java
+src.org.apache.pig.impl.mapreduceExec.PigMapReduce_java
+src.org.apache.pig.data.BagFactory_java
+src.org.apache.pig.impl.physicalLayer.IntermedResult_java
+src.org.apache.pig.data.DefaultDataBag_java
+src.org.apache.pig.impl.io.PigFile_java
+src.org.apache.pig.data.DataBag_java
+src.org.apache.pig.impl.physicalLayer.PhysicalPlan_java
+src.org.apache.pig.impl.io.DataBagFileWriter_java
+src.org.apache.pig.impl.io.DataBagFileReader_java

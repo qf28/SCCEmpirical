@@ -1,0 +1,12 @@
+[Call,Import,Return,Use,Create,Parameter,Contain,Annotation]
+5
+0 0 01010000 0 11111110
+11011100 0 01010000 0 0
+00010000 00010000 0 00010000 00010000
+0 0 01010000 0 0
+0 0 01010000 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.VariableDeclarator_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.VariableDeclarationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Name_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.SimpleName_java

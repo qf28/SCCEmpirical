@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 1100110
+0100010 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.Grouping_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.StageWrapperBuilder_java

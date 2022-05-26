@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Implement]
+2
+0 111011
+010000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.RegionInfoBuilder_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.RegionInfo_java

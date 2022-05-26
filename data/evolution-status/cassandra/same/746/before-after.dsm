@@ -1,0 +1,30 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+14
+0 1100001 1110011 1100010 1100010 1100011 1100010 1010010 1110000 1000000 1100010 1100010 0 1000000
+1110010 0 0 0010000 0 1000000 1110000 0 0 1100011 1000010 1110010 0 0
+1110010 1000000 0 1010000 1110010 1000000 0 0 0 0 0 1110010 0 0
+0 0 0 0 0 0 0 0 0 0 0 1110010 0 0
+1100010 1000000 0 0 0 0 0 0 1110010 0 1010010 0010010 0 0
+1110010 0 0000010 1110011 1000000 0 1100001 0 0 0 0 1110010 0 0
+0000010 0 0 1010000 0 1100011 0 0 0 0 0 1110010 0 0
+1100010 0 0 0010000 0 0 0 0 0 0 0 0110010 0 0
+1100010 0 0 1010000 1000000 0 0 0 0 0 1010010 0010010 0 1000000
+1110000 0 0 0010000 0 1000000 0110000 0 0 0 1000010 1110010 1000000 0
+1100010 1100000 0 1010000 1100010 1000000 1110010 0 0 0100010 0 1110011 1100101 1000000
+0100010 0 0000010 0 0 0 0 0010010 1010000 0 0 0 0 1000000
+1110010 0 0 0010000 1000000 0010000 0 0 0 0 0 1110010 0 0
+1100010 0 0 0 1100000 0 0 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.compaction.CompactionStrategyManager_java
+src.java.org.apache.cassandra.metrics.TableMetrics_java
+src.java.org.apache.cassandra.db.lifecycle.View_java
+src.java.org.apache.cassandra.db.Keyspace_java
+src.java.org.apache.cassandra.db.lifecycle.Tracker_java
+src.java.org.apache.cassandra.db.lifecycle.LifecycleTransaction_java
+src.java.org.apache.cassandra.service.CacheService_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java
+src.java.org.apache.cassandra.db.compaction.AbstractCompactionStrategy_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.io.sstable.format.SSTableReader_java
+src.java.org.apache.cassandra.db.compaction.CompactionController_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java

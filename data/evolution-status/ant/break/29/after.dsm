@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0
+0100000 0
+src.main.org.apache.tools.ant.taskdefs.optional.net.FTPConfigurator_java
+src.main.org.apache.tools.ant.taskdefs.optional.net.FTP_java

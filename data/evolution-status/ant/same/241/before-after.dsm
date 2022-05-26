@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 10000
+11011 0
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.Main_java

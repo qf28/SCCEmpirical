@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Implement]
+3
+0 0 110000
+0 0 110000
+100010 100010 0
+wicket-examples.src.java.wicket.examples.hangman.Lose_java
+wicket-examples.src.java.wicket.examples.hangman.Win_java
+wicket-examples.src.java.wicket.examples.hangman.Guess_java

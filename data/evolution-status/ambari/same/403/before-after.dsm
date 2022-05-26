@@ -1,0 +1,6 @@
+[Call,Typed]
+2
+0 10
+11 0
+controller.src.main.java.org.apache.ambari.controller.Stacks_java
+controller.src.main.java.org.apache.ambari.controller.Clusters_java

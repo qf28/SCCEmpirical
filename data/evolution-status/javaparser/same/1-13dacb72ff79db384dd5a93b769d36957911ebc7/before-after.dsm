@@ -1,0 +1,22 @@
+[Cast,Call,Return,Import,Extend,Use,Create,Parameter,Contain]
+10
+0 010000010 010000010 0 010000010 0 010000010 000000010 010000010 010000000
+0 0 0 0 0 010100100 0 000100010 0 0
+0 0 0 0 0 010100100 0 000100010 0 0
+0 110000011 110000011 0 110000011 0 110000011 010000010 110000011 010000000
+0 0 0 0 0 010100100 0 000100010 0 0
+0 010000111 010001111 0 010000111 0 010000111 101001011 010000111 010000000
+0 0 0 0 0 010100100 0 000100010 0 010011000
+010101000 0 0 010101000 0 010100100 0 0 0 0
+0 0 0 0 0 010100100 0 000100010 0 0
+0 0 0 0 0 010100100 0 000100010 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.HashCodeVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumConstantDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.EqualsVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.MethodCallExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.MethodDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.AnnotationMemberDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.CallableDeclaration_java

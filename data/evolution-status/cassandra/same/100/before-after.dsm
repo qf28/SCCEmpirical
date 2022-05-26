@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+8
+0 0 0110010 0 0111000 0110010 0 0
+0001010 0 0001010 0011000 0111010 0011000 0100001 0100001
+0 0101000 0 0011000 0111010 0010000 0 0
+0 0 0101010 0 0110011 0 0 0
+0 0 0 0110010 0 0 0 0
+0110010 0 0110010 0 0 0 0 0
+0 0110111 0001010 0011010 0111000 0 0 0
+0 0110111 0001010 0111010 0011000 0 0 0
+src.java.org.apache.cassandra.db.index.SecondaryIndexManager_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndex_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexSearcher_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndexOnCollectionValue_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndexOnCollectionKey_java

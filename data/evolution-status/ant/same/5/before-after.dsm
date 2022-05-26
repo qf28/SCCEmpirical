@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Throw,Create,Use,Implement]
+3
+0 0 011000100
+0 0 011000100
+011000100 011000100 0
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.model.xmlparser.IncludeHandler_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.model.xmlparser.RefHandler_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.model.xmlparser.ProjectHandler_java

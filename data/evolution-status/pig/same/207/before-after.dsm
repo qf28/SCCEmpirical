@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 11010001
+01110010 0
+src.org.apache.pig.newplan.logical.expression.ProjectExpression_java
+src.org.apache.pig.newplan.logical.relational.LOInnerLoad_java

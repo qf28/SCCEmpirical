@@ -1,0 +1,6 @@
+[Call,Typed,Implement]
+2
+0 110
+010 0
+wicket-core.src.main.java.org.apache.wicket.Component_java
+wicket-core.src.main.java.org.apache.wicket.IMarkupIdGenerator_java

@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+4
+0 100111001 0 111011000
+0 0 0 111001110
+001001000 0 0 111001000
+000000100 100000000 001000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileWriterV2_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.AbstractHFileWriter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFile_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFile_java

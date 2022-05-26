@@ -1,0 +1,6 @@
+[Call,Import,Use]
+2
+0 001
+111 0
+src.java.org.apache.cassandra.db.migration.Migration_java
+src.java.org.apache.cassandra.db.DefsTable_java

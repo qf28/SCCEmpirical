@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 0 010100100 0
+0 0 010000100 0
+011100100 011000000 0 011000010
+0 011000000 011100000 0
+src.java.org.apache.cassandra.service.AntiEntropyService_java
+src.java.org.apache.cassandra.db.compaction.AbstractCompactionStrategy_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.compaction.CompactionTask_java

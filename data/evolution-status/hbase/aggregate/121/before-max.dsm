@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Create]
+5
+0 0 01011 0 0
+0 0 0 11010 0
+0 0 0 11010 0
+01111 01011 01011 0 01101
+0 0 01011 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.MasterQuotaManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.DeleteTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.CreateTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.TableNamespaceManager_java

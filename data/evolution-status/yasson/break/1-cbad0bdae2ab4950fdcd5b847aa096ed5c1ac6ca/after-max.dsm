@@ -1,0 +1,10 @@
+[Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+4
+0 0 0 10000010
+10010000 0 0 00000010
+10010000 0 0 00000010
+0 10000100 10000100 0
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractJsonpDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.JsonObjectDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.JsonArrayDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.DeserializerBuilder_java

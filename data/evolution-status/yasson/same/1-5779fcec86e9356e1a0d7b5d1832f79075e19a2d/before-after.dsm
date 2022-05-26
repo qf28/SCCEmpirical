@@ -1,0 +1,8 @@
+[Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0 100000010
+100100000 0 000000010
+0 101001000 0
+src.main.java.org.eclipse.persistence.json.bind.model.Customization_java
+src.main.java.org.eclipse.persistence.json.bind.model.ClassCustomization_java
+src.main.java.org.eclipse.persistence.json.bind.model.CustomizationBuilder_java

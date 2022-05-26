@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+4
+0 1100000 0 1000000
+0100000 0 0100000 0100000
+0 1100000 0 0
+1100000 0 0 0
+src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+src.main.java.org.apache.hadoop.hbase.master.MasterServices_java
+src.main.java.org.apache.hadoop.hbase.master.MasterFileSystem_java
+src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java

@@ -1,0 +1,6 @@
+[Call,Use,Create,Implement,Parameter,Contain]
+2
+0 110011
+000010 0
+spoon-control-flow.src.main.java.fr.inria.controlflow.ControlFlowBuilder_java
+spoon-control-flow.src.main.java.fr.inria.controlflow.ExceptionControlFlowStrategy_java

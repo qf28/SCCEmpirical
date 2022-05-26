@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use]
+2
+0 0001
+1111 0
+java.engine.org.apache.derby.impl.store.raw.data.FileContainer_java
+java.engine.org.apache.derby.impl.store.raw.data.CachedPage_java

@@ -1,0 +1,10 @@
+[Cast,Call,Return,Import,Extend,Create,Use,Parameter,Contain]
+4
+0 010000111 0 010000101
+0 0 010000100 011000100
+010001000 010000001 0 010000101
+0 011000111 0 0
+google-http-client.src.main.java.com.google.api.client.util.DataMap_java
+google-http-client.src.main.java.com.google.api.client.util.FieldInfo_java
+google-http-client.src.main.java.com.google.api.client.util.Data_java
+google-http-client.src.main.java.com.google.api.client.util.ClassInfo_java

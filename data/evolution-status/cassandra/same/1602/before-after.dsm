@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 100
+111 0
+src.org.apache.cassandra.db.ColumnFamilyStore_java
+src.org.apache.cassandra.db.MinorCompactionManager_java

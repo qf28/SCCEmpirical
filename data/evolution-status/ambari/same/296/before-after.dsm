@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0110000 0110000
+0000010 0 0
+0000010 0 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.WidgetLayoutUserWidgetEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.WidgetLayoutEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.UserWidgetEntity_java

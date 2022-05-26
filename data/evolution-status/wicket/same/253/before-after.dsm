@@ -1,0 +1,6 @@
+[Call,Typed,Import]
+2
+0 100
+110 0
+wicket.src.main.java.wicket.Application_java
+wicket.src.main.java.wicket.Session_java

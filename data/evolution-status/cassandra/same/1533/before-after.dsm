@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Use,Create,Implement]
+2
+0 0010100
+1110000 0
+src.java.org.apache.cassandra.tools.NodeProbe_java
+src.java.org.apache.cassandra.tools.nodetool.GetTimeout_java

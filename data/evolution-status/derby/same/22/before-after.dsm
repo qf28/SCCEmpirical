@@ -1,0 +1,58 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement,Modify]
+28
+0 0 0 0 0 0 0 0 0 01001110000 0 0 0 0 0 01100010000 00100000000 0 0 01000000000 0 0 01000010000 01100000000 0 0 0 01100001100
+0 0 11100000000 0 0 0 0 0 0 11100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 01101010000 0 0 00000010000 01100001100
+0 0 0 0 0 0 01000000000 0 0 11100010000 0 01000001000 0 0 01000001000 01101010000 01100001000 0 01100001000 01000000000 01100000000 0 01101010000 01100010000 0 0 0 01100001100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00000001100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01100010000 0 0 0 01100001100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01000001100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01100000000 0 0 0 0 0 0 0 0 0 0 01100000000
+0 0 0 0 0 0 0 0 01010000000 0 01000000000 0 0 0 0 0 0 00100010000 0 0 0 00110000000 00110000000 0 0 0 0 00010001100
+0 0 0 0 0 0 01010000000 0 0 0 10110000000 0 0 00000010000 0 0 0 0 0 0 0 01000000000 0 0 0 00010001000 01010010000 01110001100
+0 0 01100011000 0 0 0 01000000000 0 01010000000 0 01000000000 01100001000 0 0 01000001000 00000010000 00100000000 0 0 01000000000 01100000000 0 01001110000 01100010000 0 0 0 01100001100
+00100000000 00100000000 00100000000 0 00100000000 0 0 0 0 00100000000 0 0 0 0 0 00100000000 0 0 0 0 00100000000 00110000000 00100000000 00100000000 0 0 0 00100000100
+0 0 0 0 0 0 0 0 0 0 0 0 01001110001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01100001100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01100001100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00010000100
+0 0 0 0 0 0 0 0 0 0 0 0 01001110001 0 0 00000010000 0 0 0 0 0 0 0 0 0 0 0 01100001100
+0 0 0 0 0 01000000000 0 0 0 0 0 01100000000 01000000000 0 01100000000 0 0 0 0 0 0 0 0 0 01000000000 0 0 01100001100
+01100000000 0 0 0 0 0 01000000000 0 0 01000000000 0 0 0 0 0 0 0 0 00100001000 0 0 0 01001000000 01100010000 0 0 0 11100000100
+0 0 0 0 0 0 01010000000 01100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00010010000 0 0 0 11110001000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00100000000 0 0 0 0 0 0 0 0 0 0 01000110000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01100001000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00000000100
+0 0 0 01010001000 0 0 0 0 01000000000 0 01000000000 0 0 00000010010 0 0 0 0 0 01010000000 0 0 0 0 0 0 0 01110001100
+0 0 01101010000 0 0 0 01000000000 0 0 00100010000 0 0 0 0 0 01101000000 01100000000 0 01100001000 0 01100000000 0 0 01100010000 0 0 00000010000 01100001100
+00100000000 00100010000 0 00100000000 0 0 01000000000 0 0 11100010000 0 01100001000 0 00010010000 01100001000 0 01100000000 01110000000 01100001000 01000000000 00100000000 01110010000 11101010000 0 0 0 0 01100001100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01000001100
+01110001000 00110000000 00110000000 0 01110001000 0 01010000000 0 0 01110001000 00010000010 0 0 0 0 00110000000 0 0 0 0 00110000000 00110000000 01110001000 00110000000 0 0 0 01110000100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01100001100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11100000000 0 0 01100001000 0 0 0 0 0 0 0 0
+java.org_apache_derby_client.org.apache.derby.client.am.ClientCallableStatement_java
+java.org_apache_derby_client.org.apache.derby.client.am.ClientDatabaseMetaData_java
+java.org_apache_derby_client.org.apache.derby.client.am.ClientResultSet_java
+java.org_apache_derby_client.org.apache.derby.client.am.EncryptionManager_java
+java.org_apache_derby_client.org.apache.derby.client.am.LogicalConnection_java
+java.org_apache_derby_client.org.apache.derby.client.am.DateTime_java
+java.org_apache_derby_client.org.apache.derby.client.am.Utils_java
+java.org_apache_derby_client.org.apache.derby.client.net.NetXAConnection_java
+java.org_apache_derby_client.org.apache.derby.client.ClientAutoloadedDriver_java
+java.org_apache_derby_client.org.apache.derby.client.am.ClientPreparedStatement_java
+java.org_apache_derby_client.org.apache.derby.client.am.ClientJDBCObjectFactory_java
+java.org_apache_derby_client.org.apache.derby.client.am.ClientBlob_java
+java.org_apache_derby_client.org.apache.derby.client.am.Lob_java
+java.org_apache_derby_client.org.apache.derby.client.ClientDataSourceInterface_java
+java.org_apache_derby_client.org.apache.derby.client.am.ClientClob_java
+java.org_apache_derby_client.org.apache.derby.client.am.Cursor_java
+java.org_apache_derby_client.org.apache.derby.client.am.Sqlca_java
+java.org_apache_derby_client.org.apache.derby.client.net.NetXAResource_java
+java.org_apache_derby_client.org.apache.derby.client.am.SqlWarning_java
+java.org_apache_derby_client.org.apache.derby.client.am.SQLExceptionFactory_java
+java.org_apache_derby_client.org.apache.derby.client.am.Section_java
+java.org_apache_derby_client.org.apache.derby.client.BasicClientDataSource_java
+java.org_apache_derby_client.org.apache.derby.client.am.ClientStatement_java
+java.org_apache_derby_client.org.apache.derby.client.am.ClientConnection_java
+java.org_apache_derby_client.org.apache.derby.client.am.Decimal_java
+java.org_apache_derby_client.org.apache.derby.client.net.ClientJDBCObjectFactoryImpl_java
+java.org_apache_derby_client.org.apache.derby.client.am.Configuration_java
+java.org_apache_derby_client.org.apache.derby.client.am.SqlException_java

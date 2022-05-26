@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Use,Parameter,Contain]
+6
+0 0 0 0 0 0010010
+0100010 0 0000010 0100010 0100010 0000010
+0 0 0 0 0 0010010
+0 0 0 0 0 0010010
+0 0 0 0 0 0010010
+0 0110100 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.TryStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.HashCodeVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.MarkerAnnotationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.ExplicitConstructorInvocationStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.ArrayCreationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

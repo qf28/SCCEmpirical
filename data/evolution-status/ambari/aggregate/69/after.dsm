@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use]
+3
+0 001101 0
+001101 0 000100
+000010 001100 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.Grouping_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.UpgradePack_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.ServiceCheckGrouping_java

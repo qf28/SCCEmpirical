@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 110
+100 0
+src.main.java.org.apache.hadoop.hbase.master.ZKUnassignedWatcher_java
+src.main.java.org.apache.hadoop.hbase.master.HMaster_java

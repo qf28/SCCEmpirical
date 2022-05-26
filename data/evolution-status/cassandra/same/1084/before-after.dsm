@@ -1,0 +1,14 @@
+[Call,Typed,Import,Use,Create]
+6
+0 11110 01000 11001 0 10000
+0 0 0 0 0 10010
+11110 0 0 0 0 0
+01010 0 11100 0 0 10100
+0 11010 0 0 0 10010
+01110 11110 0 0 11110 0
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.DataTracker_java
+src.java.org.apache.cassandra.io.sstable.SSTableDeletingTask_java
+src.java.org.apache.cassandra.config.KSMetaData_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java

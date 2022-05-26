@@ -1,0 +1,14 @@
+[Call,Use,Create,Contain]
+6
+0 0 0 1010 0 0
+1100 0 0 1010 1010 1111
+1100 1010 0 1010 0 1111
+1100 1010 1010 0 1010 0
+1100 1010 0 1110 0 1111
+0 0 0 1110 0 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistUtils_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistClassDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistEnumDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistMethodDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistInterfaceDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistTypeDeclarationAdapter_java

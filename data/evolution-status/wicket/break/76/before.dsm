@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create]
+2
+0 00010
+01011 0
+wicket-core.src.main.java.org.apache.wicket.pageStore.InSessionPageStore_java
+wicket-core.src.main.java.org.apache.wicket.DefaultPageManagerProvider_java

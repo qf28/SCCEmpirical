@@ -1,0 +1,8 @@
+[Call,Typed,Create]
+3
+0 0 110
+0 0 110
+101 101 0
+java.engine.org.apache.derby.impl.jdbc.LOBOutputStream_java
+java.engine.org.apache.derby.impl.jdbc.LOBInputStream_java
+java.engine.org.apache.derby.impl.jdbc.LOBStreamControl_java

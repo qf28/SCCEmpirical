@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+3
+0 0001000100 0001000100
+0001000010 0 0
+0001000010 0 0
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.builder.TestTokenizerData_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.builder.data.TestTokenizerDataBasic_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.builder.data.TestTokenizerDataEdgeCase_java

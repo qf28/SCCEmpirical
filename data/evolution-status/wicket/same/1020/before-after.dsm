@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 001001
+001000 0
+wicket.src.java.wicket.util.convert.CoverterLocator_java
+wicket.src.java.wicket.ICoverterLocator_java

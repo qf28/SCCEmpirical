@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+8
+0 0 0 0 01110000 0 0 0
+0 0 01010100 0 01100110 01000000 01100110 10100010
+0 0 0 0 0 0 0 01011000
+0 0 0 0 01000000 0 01000000 0
+0 0 01010100 01000100 0 0 01100000 01000100
+01110000 01100010 0 0 01110110 0 01100010 0
+0 01100010 0 00100010 0 0 0 01100010
+0 0 0 0 01000000 0 01000000 0
+src.java.org.apache.cassandra.io.sstable.SSTableScanner_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.filter.IdentityQueryFilter_java
+src.java.org.apache.cassandra.db.filter.NamesQueryFilter_java
+src.java.org.apache.cassandra.db.filter.QueryFilter_java
+src.java.org.apache.cassandra.db.RowIteratorFactory_java
+src.java.org.apache.cassandra.db.Memtable_java
+src.java.org.apache.cassandra.db.filter.SliceQueryFilter_java

@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Use,Create,Modify]
+5
+0 0 1110110 1000000 0
+0 0 0110000 1010000 0
+0 1010010 0 1001100 0
+0010000 0 0 0 0010101
+0 0 0 0000100 0
+java.client.org.apache.derby.client.ClientDataSourceFactory_java
+java.client.org.apache.derby.client.net.NetConnection_java
+java.client.org.apache.derby.jdbc.ClientDataSource_java
+java.client.org.apache.derby.client.ClientBaseDataSource_java
+java.client.org.apache.derby.client.am.Configuration_java

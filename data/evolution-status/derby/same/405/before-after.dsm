@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 011001 111001
+0 0 110000
+011010 010000 0
+java.engine.org.apache.derby.impl.store.access.RAMAccessManager_java
+java.engine.org.apache.derby.impl.store.access.PropertyConglomerate_java
+java.engine.org.apache.derby.impl.store.access.RAMTransaction_java

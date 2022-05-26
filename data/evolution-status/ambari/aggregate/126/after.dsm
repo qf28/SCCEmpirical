@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 111010 001010
+001010 0 0
+0 110011 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.RootServiceComponentResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.RootServiceComponentResponse_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.RootServiceResponseFactory_java

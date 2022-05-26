@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+4
+0 0111000100 0 0
+0101001000 0 0100000000 0110001000
+0101001000 1111001100 0 0110001100
+0101001000 0 0 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.Bytes_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.KeyValue_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.CellUtil_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.Tag_java

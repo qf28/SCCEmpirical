@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend,Use,Throw,Create]
+7
+0 0 0 0 1110100 0 0
+1101100 0 0 0 0100000 0 0
+1100000 0 0 0 1100100 0 0
+0100100 0 1000100 0 0100000 0 1101100
+1100001 1000001 1100100 1000001 0 1000001 0
+0100100 0 1000100 0 0100000 0 1101100
+0100000 0 1001100 0 1100100 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.EntryBuffers_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.BoundedEntryBuffers_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.OutputSink_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.BoundedRecoveredEditsOutputSink_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.WALSplitter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.RecoveredEditsOutputSink_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.AbstractRecoveredEditsOutputSink_java

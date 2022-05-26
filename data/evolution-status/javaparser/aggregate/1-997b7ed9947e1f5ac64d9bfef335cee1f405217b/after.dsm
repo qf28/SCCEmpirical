@@ -1,0 +1,40 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+19
+0 0000001000 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0011000000 0 0 0 0 0100101000 0 0 0 0 0110000010 0 0110000010 0 0 0010001000 0 0110010000 0
+0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 1101011011 0110000010 0 0110000010 0 0 0010001000 0011000000 0110010000 0
+0 0 0 0 0 0 0100101000 0 0 0 0110000010 0 0110000010 0 0 0010001000 0 0110010000 0
+0 0 0011000000 0 0 0 0 0 0 0 0 0 0 0 0 0010001000 0 0110010000 0
+0 0 0 0 0001000000 0 0 0 0 0 0 0 0 0 0 0010001000 0 0110010000 0001000000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000001000
+0 0 0 0 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1000001010 0 0 0011000000 0 0110000010 0 0110000010 0 0 0010001000 0 0110010000 0
+0 0000000010 0 0000000010 0000000010 0 0 0 0 0000000010 0 0 0 0000000010 0000000010 0 0 0 0000000010
+0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0000001000 0 0 0 0 0
+0 0000000010 0 0000000010 0000000010 0 0 0 0 0000000010 0 0 0 0000000010 0000000010 0 0 0 0000000010
+0 0 0 0 0 0100101000 0 0 0 0 0110000010 0011000000 0110000010 0 0 0010001000 0 0110010000 0
+0 0 0 0 0 0 0 0 0 0 0110000010 0 0110000010 0 0 0010001000 0 0110010000 0
+0100011001 0000001000 0100010001 0000001000 0 0000001000 0000001000 0100011001 0100011001 0000001000 0 0100011001 0 0 0 0 0100011001 0 0
+0 0 0 0000001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0100011011 0 0100011011 0100011011 0000001010 0100001001 0 0 0100011011 0000000100 0 0 0100011011 0100011011 0 0 0 0100011011
+0 0 0 1000001010 0 0 0100101000 0011000000 0 1101011011 0110000010 0 0110000010 0 0 0010001000 0 0110010000 0
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavadocInlineTagMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.JavadocInlineTag_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavadocDescriptionElementMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.JavadocBlockTag_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.JavadocComment_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.JavadocDescriptionElement_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.Comment_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavadocContentMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavadocDescriptionMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.JavadocDescription_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavadocSnippetMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.JavadocSnippet_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.TextBlockLiteralExpr_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavadocBlockTagMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.JavadocContent_java

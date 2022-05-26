@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 011010
+011000 0
+ambari-server.src.main.java.org.apache.ambari.server.view.ViewDefinition_java
+ambari-server.src.main.java.org.apache.ambari.server.view.ViewInstanceDefinition_java

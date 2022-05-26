@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Throw,Implement,Modify]
+2
+0 0101001100
+0101001000 0
+src.java.main.org.apache.zookeeper.server.quorum.flexible.QuorumHierarchical_java
+src.java.main.org.apache.zookeeper.server.quorum.QuorumPeerConfig_java

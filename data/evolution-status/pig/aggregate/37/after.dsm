@@ -1,0 +1,50 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+24
+0 0 010100010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011100100 0 0
+000101000 0 111100010 0 011000000 0 001100000 011100000 001100000 0 0 0 0 001100000 0 0 011100000 0 0 0 0 011100000 0 0
+0 0 0 0 111100110 0 011100000 0 001100000 011100100 011100000 0 010100000 011100000 0 0 011100100 0 0 0 0 011111110 0 0
+0 0 0 0 0 0 111100000 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+010000000 010000100 0 0 0 0 010100000 011000000 000100100 011100010 0 0 0 0 0 0 010101100 0 0 0 0 111100100 0 0
+0 0 0 0 0 0 011100000 0 0 0 010100000 0 0 0 0 0 0 0 0 0 010000000 0 0 0
+0 0 0 0 0 0 0 0 0 0 011100100 0 0 0 0 010100000 0 0 011100000 0 0 0 000100000 0
+0 0 0 0 0 0 0 0 0 001100000 0 0 010101100 000100100 0 0 111100100 0 0 0 0 011100000 0 0
+0 0 0 000100000 0 010100000 011100100 011100000 0 0 010100100 0 000100100 000000100 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 011100000 0 0 0 0 0 010000000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 001100000 0 0 0 0 0 0 0 000100010 0 0 0 001100100 0 0 0 0 000100010
+0 0 0 0 0 0 011100100 010100010 0 0 010000000 0 001100000 0 0 0 0 000100010 000100001 011000000 0 001100000 0 0
+0 0 0 0 0 0 011100000 0 0 0 011100100 0 0 0 0 0 0 0 010000000 0 0 0 0 0
+0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010100000 0 0
+0 0 0 0 0 0 001100000 0 0 0 000100001 010100010 0 0 0 0 0 0 001100000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 011000100 0 0 0 000100100 0 0 0 0 0 0 0 0 000100100
+0 0 0 0 0 0 0 0 0 011000100 0 0 000000100 0 0 0 0 0 0 0 0 001100000 0 0
+010100000 010100000 0 0 0 0 011100100 010100000 011000010 011100000 000100100 111100100 0 111000100 0 0 0 0 0 010101000 0 011100000 0 0
+0 0 0 0 0 0 001100000 0 0 0 0 0 001100000 0 0 0 0 0 0 0 0 001100000 0 0
+0 0 0 0 0 0 011100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 001100000 0 0
+0 0 0 0 0 010000000 011100000 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 010100010 0 0 0 0 0 0 001000100 0 0 010000000 0 0 0 111100100 0 0 0 0 0 0 0
+010100000 0 0 0 0 0 011100110 0 0 0 0 0 011100000 0 0 0 0 0 0 0 0 011100100 0 0
+0 0 0 0 0 0 001100000 0 0 0 000100001 010100010 0 0 0 0 0 0 001100100 0 0 0 0 0
+src.org.apache.pig.tools.pigstats.PigStatsUtil_java
+src.org.apache.pig.tools.pigstats.mapreduce.MRPigStatsUtil_java
+src.org.apache.pig.tools.pigstats.SimplePigStats_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.partitioners.WeightedRangePartitioner_java
+src.org.apache.pig.tools.pigstats.mapreduce.MRJobStats_java
+src.org.apache.pig.data.SchemaTupleFrontend_java
+src.org.apache.pig.impl.PigContext_java
+src.org.apache.pig.tools.pigstats.mapreduce.MRScriptState_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler_java
+src.org.apache.pig.tools.pigstats.OutputStats_java
+src.org.apache.pig.ExecType_java
+src.org.apache.pig.backend.hadoop.executionengine.HExecutionEngine_java
+src.org.apache.pig.tools.pigstats.ScriptState_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.NativeMapReduceOper_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.LocalExecType_java
+src.org.apache.pig.ExecTypeProvider_java
+src.org.apache.pig.tools.pigstats.JobStats_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceLauncher_java
+src.org.apache.pig.backend.executionengine.ExecutionEngine_java
+src.org.apache.pig.backend.hadoop.executionengine.Launcher_java
+src.org.apache.pig.data.SchemaTupleBackend_java
+src.org.apache.pig.tools.pigstats.PigStats_java
+src.org.apache.pig.Main_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MRExecType_java

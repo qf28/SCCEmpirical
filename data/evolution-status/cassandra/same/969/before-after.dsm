@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 00000100
+01101001 0
+src.java.org.apache.cassandra.repair.messages.RepairMessage_java
+src.java.org.apache.cassandra.repair.messages.PrepareMessage_java

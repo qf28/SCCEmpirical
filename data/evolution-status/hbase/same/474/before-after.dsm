@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+2
+0 0110100
+0100000 0
+src.java.org.apache.hadoop.hbase.HRegion_java
+src.java.org.apache.hadoop.hbase.HLog_java

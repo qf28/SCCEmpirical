@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Set,Import,Create,Use]
+3
+0 0110001 0111001
+0 0 0010101
+0010000 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.config.CFMetaData_java

@@ -1,0 +1,8 @@
+[Call,Typed,Set,Use]
+3
+0 1111 1101
+1111 0 1101
+0 1100 0
+java.client.org.apache.derby.client.am.ResultSet_java
+java.client.org.apache.derby.client.am.Statement_java
+java.client.org.apache.derby.client.am.Connection_java

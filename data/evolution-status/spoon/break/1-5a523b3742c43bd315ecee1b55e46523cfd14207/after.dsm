@@ -1,0 +1,16 @@
+[Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+7
+0 0 0 0 0 0 0
+00100010 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 01000000 01100001 0 11011000 11011000 0
+0 0 01000100 11110011 0 0 10111001
+01110011 01000100 0 01110011 0 0 0
+0 0 0 11000010 0 0 0
+src.main.java.spoon.processing.ProcessingManager_java
+src.main.java.spoon.processing.Environment_java
+src.main.java.spoon.processing.Builder_java
+src.main.java.spoon.reflect.Factory_java
+src.main.java.spoon.support.builder.SpoonBuildingManager_java
+src.main.java.spoon.support.StandardEnvironment_java
+src.main.java.spoon.support.builder.JDTCompiler_java

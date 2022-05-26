@@ -1,0 +1,6 @@
+[Call,Return,Import,Use,Parameter,Contain]
+2
+0 010110
+010100 0
+src.main.java.com.stripe.model.issuing.CardDetails_java
+src.main.java.com.stripe.model.issuing.Card_java

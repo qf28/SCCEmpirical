@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 000110
+011011 0
+src.org.apache.pig.tools.pigstats.tez.TezVertexStats_java
+src.org.apache.pig.tools.pigstats.tez.TezDAGStats_java

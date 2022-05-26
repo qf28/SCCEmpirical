@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 111
+111 0
+src.java.org.apache.cassandra.net.MessageIn_java
+src.java.org.apache.cassandra.net.MessagingService_java

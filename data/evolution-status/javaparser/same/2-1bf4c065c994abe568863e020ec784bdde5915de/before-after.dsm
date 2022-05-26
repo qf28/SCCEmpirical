@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Use,Create,Parameter,Contain]
+2
+0 01101011
+01001101 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.TypeExtractor_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFacade_java

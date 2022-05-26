@@ -1,0 +1,10 @@
+[Call,Typed,Set,Import,Extend,Use,Create,Modify]
+4
+0 11000100 0 10000000
+11000010 0 10010000 11000100
+0 0 0 00010000
+0 11000110 10010000 0
+src.main.java.org.apache.hadoop.hbase.regionserver.Compactor_java
+src.main.java.org.apache.hadoop.hbase.regionserver.Store_java
+src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

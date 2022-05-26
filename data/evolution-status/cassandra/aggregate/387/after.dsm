@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0011010 0001001
+0 0 0011010 0001001
+0000010 0000010 0 0
+0 0 1110010 0
+src.java.org.apache.cassandra.db.marshal.ByteType_java
+src.java.org.apache.cassandra.db.marshal.ShortType_java
+src.java.org.apache.cassandra.cql3.CQL3Type_java
+src.java.org.apache.cassandra.cql3.Constants_java

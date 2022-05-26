@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Implement]
+2
+0 010000
+110000 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.predicate.PredicateVisitor_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.predicate.CategoryPredicate_java

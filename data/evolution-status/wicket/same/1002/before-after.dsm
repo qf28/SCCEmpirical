@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0011000 0011010
+0011001 0 0111000 0111000
+0001001 0 0 0110010
+0 1101010 0110000 0
+wicket.src.java.wicket.request.target.component.BookmarkableListenerInterfaceRequestTarget_java
+wicket.src.java.wicket.markup.html.form.Form_java
+wicket.src.java.wicket.RequestCycle_java
+wicket.src.java.wicket.Page_java

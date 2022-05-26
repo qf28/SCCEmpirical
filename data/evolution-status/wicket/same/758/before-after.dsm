@@ -1,0 +1,6 @@
+[Import,Implement]
+2
+0 10
+11 0
+wicket-core.src.main.java.org.apache.wicket.request.component.IRequestableComponent_java
+wicket-core.src.main.java.org.apache.wicket.Component_java

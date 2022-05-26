@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 10010
+10010 0
+java.engine.org.apache.derby.impl.sql.compile.ProjectRestrictNode_java
+java.engine.org.apache.derby.impl.sql.compile.SelectNode_java

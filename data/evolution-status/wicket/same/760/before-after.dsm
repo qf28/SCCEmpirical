@@ -1,0 +1,6 @@
+[Cast,Call,Import,Extend,Use]
+2
+0 01100
+11111 0
+wicket-core.src.main.java.org.apache.wicket.Page_java
+wicket-core.src.main.java.org.apache.wicket.request.cycle.RequestCycle_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 10010
+11101 0
+java.engine.org.apache.derby.impl.sql.compile.TableElementList_java
+java.engine.org.apache.derby.impl.sql.compile.CreateTableNode_java

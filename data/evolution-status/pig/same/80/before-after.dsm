@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use]
+2
+0 01000
+10000 0
+src.org.apache.pig.scripting.ScriptPigContext_java
+src.org.apache.pig.scripting.ScriptEngine_java

@@ -1,0 +1,8 @@
+[Call,Return,Import,Use,Create,Implement,Parameter,Contain]
+3
+0 11000010 10001000
+01000000 0 0
+11011001 01010111 0
+src.main.java.spoon.reflect.factory.TypeFactory_java
+src.main.java.spoon.reflect.factory.Factory_java
+src.main.java.spoon.reflect.factory.FactoryImpl_java

@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+3
+0 01000100110 01000010010
+00010100110 0 0
+01000100110 01000010000 0
+src.test.java.org.eclipse.persistence.json.bind.internal.concurrent.MultiTenancyTest_java
+src.test.java.org.eclipse.persistence.json.bind.internal.concurrent.MarshallerTaskResult_java
+src.test.java.org.eclipse.persistence.json.bind.internal.concurrent.MarshallerTask_java

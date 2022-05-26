@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use]
+3
+0 011010 0
+011001 0 110001
+011101 0 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PhysicalPlan_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PlanPrinter_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POForEach_java

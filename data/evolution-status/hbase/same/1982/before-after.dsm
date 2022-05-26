@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+2
+0 0110101100
+0100000100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.BloomFilterUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.BloomFilterChunk_java

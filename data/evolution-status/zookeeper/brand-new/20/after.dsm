@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Throw,Create,Implement,Modify]
+3
+0 00100000000 00100000000
+00100000000 0 0
+00100000000 0 0
+zookeeper.java.src.com.yahoo.jute.Record_java
+zookeeper.java.src.com.yahoo.jute.InputArchive_java
+zookeeper.java.src.com.yahoo.jute.OutputArchive_java

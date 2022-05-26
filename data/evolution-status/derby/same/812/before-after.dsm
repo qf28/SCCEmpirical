@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 11100110 01100010
+0 0 01100000
+10000100 11100100 0
+java.engine.org.apache.derby.impl.sql.compile.FromBaseTable_java
+java.engine.org.apache.derby.impl.sql.compile.ColumnReference_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumn_java

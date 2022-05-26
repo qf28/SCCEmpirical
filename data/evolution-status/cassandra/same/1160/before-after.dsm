@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Throw,Create,Implement]
+4
+0 0 111111111 010101000
+011001000 0 0 0
+011001000 010001000 0 0
+011001000 010000000 000101000 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java

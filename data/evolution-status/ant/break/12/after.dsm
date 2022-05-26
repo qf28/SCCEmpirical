@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 0 0
+01010000 0 0
+01010000 11100011 0
+proposal.myrmidon.src.todo.org.apache.tools.todo.util.FileUtils_java
+proposal.myrmidon.src.todo.org.apache.tools.todo.types.PathElement_java
+proposal.myrmidon.src.todo.org.apache.tools.todo.types.Path_java

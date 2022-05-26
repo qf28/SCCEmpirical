@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 011000000 011000000
+000000100 0 0
+000000100 0 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.MemberEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.UserEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.GroupEntity_java

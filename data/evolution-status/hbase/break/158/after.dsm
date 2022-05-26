@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+8
+0 0 0 0 0 0 010000110 0
+0 0 001100000 0 0 0 0 0
+0 0 0 0 001100000 0 0 0
+010100010 0 0 0 010111100 0 0 0
+0 001000000 0 110100100 0 0 0 0
+0 010000000 011000000 0 011100000 0 0 0
+0 0 0 0 0 000100000 0 0
+0 0 0 0 0 0 010000110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.replication.TransitPeerSyncReplicationStateProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ReplicationSourceService_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.PeerProcedureHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.RefreshPeerCallable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.replication.RefreshPeerProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.replication.ModifyPeerProcedure_java

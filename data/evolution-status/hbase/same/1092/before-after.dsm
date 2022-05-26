@@ -1,0 +1,8 @@
+[Call,Typed,Use,Create]
+3
+0 0 1100
+1111 0 1101
+0 1000 0
+src.java.org.apache.hadoop.hbase.HMemcache_java
+src.java.org.apache.hadoop.hbase.HRegion_java
+src.java.org.apache.hadoop.hbase.HLog_java

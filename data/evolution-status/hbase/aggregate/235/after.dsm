@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 1110001 1000000
+0 0 1000000
+1100010 1110001 0
+src.java.org.apache.hadoop.hbase.client.HTable_java
+src.java.org.apache.hadoop.hbase.client.MetaScanner_java
+src.java.org.apache.hadoop.hbase.client.HConnectionManager_java

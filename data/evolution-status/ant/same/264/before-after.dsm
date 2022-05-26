@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Throw]
+6
+0 0 0 0 011010100 0
+0 0 0 0 001010100 0
+0 010001000 0 0 011010100 0
+011000010 0 0 0 001010000 0
+0 0 001010000 0 0 010000000
+0 0 0 011010010 011000110 0
+src.main.org.apache.tools.ant.property.ParseProperties_java
+src.main.org.apache.tools.ant.types.DataType_java
+src.main.org.apache.tools.ant.types.Path_java
+src.main.org.apache.tools.ant.property.ResolvePropertyMap_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.Main_java

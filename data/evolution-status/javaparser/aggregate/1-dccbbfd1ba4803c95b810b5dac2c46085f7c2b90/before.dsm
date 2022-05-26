@@ -1,0 +1,6 @@
+[Call,Import,Return,Extend,Use,Implement,Contain]
+2
+0 0
+1110011 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.core.resolution.Context_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.AbstractJavaParserContext_java

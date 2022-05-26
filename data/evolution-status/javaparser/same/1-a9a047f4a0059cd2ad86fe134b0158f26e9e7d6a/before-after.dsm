@@ -1,0 +1,20 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+9
+0 011010000 0 0 011000011 0 010000000 0 011110010
+0 0 0 0 001000010 0 0 0 010110111
+0 0 0 0 0 0 010000000 010000000 010100110
+0 0 0 0 011110011 0 0 0 010100110
+0 0 0 0 0 0 0 0 001110011
+0 0 0 0 001010010 0 001010010 0 011110011
+011000100 110000001 0 110011000 011010011 001000000 0 0 010110111
+0 0 0 0 0 0 0 0 000110111
+0 000100000 000100000 000100000 001100010 0 000100000 000100000 0
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.parametrization.TypeParameterValueProvider_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.Wildcard_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.PrimitiveType_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.TypeVariable_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.TypeParameterDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.methods.MethodUsage_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.ReferenceType_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.LambdaConstraintType_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.Type_java

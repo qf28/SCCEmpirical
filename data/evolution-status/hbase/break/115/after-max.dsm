@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 0 01100
+00100 0 11010
+00110 10000 0
+src.main.java.org.apache.hadoop.hbase.util.HBaseFsck_java
+src.main.java.org.apache.hadoop.hbase.zookeeper.ZKUtil_java
+src.main.java.org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher_java

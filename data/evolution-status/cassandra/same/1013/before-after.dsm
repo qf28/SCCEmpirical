@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Implement]
+2
+0 111111
+100010 0
+src.java.org.apache.cassandra.transport.messages.ErrorMessage_java
+src.java.org.apache.cassandra.transport.Message_java

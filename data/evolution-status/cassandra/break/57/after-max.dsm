@@ -1,0 +1,16 @@
+[Call,Typed,Extend,Use,Create,Implement]
+7
+0 0 111100 0 0 0 0
+0 0 111100 0 0 0 0
+000010 000010 0 000010 000010 000010 000010
+0 0 111100 0 0 0 0
+0 0 111100 0 0 0 0
+0 0 111100 0 0 0 0
+0 0 111100 0 0 0 0
+src.java.org.apache.cassandra.db.SliceByRangeReadCommand_java
+src.java.org.apache.cassandra.db.ColumnsSinceReadCommand_java
+src.java.org.apache.cassandra.db.ReadCommand_java
+src.java.org.apache.cassandra.db.SliceFromReadCommand_java
+src.java.org.apache.cassandra.db.RowReadCommand_java
+src.java.org.apache.cassandra.db.SliceByNamesReadCommand_java
+src.java.org.apache.cassandra.db.ColumnReadCommand_java

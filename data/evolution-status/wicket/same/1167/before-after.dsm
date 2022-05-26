@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1111
+0010 0
+wicket-core.src.main.java.org.apache.wicket.ResourceBundles_java
+wicket-core.src.main.java.org.apache.wicket.resource.bundles.ConcatResourceBundleReference_java

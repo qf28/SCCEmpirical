@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use]
+2
+0 010000
+011100 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

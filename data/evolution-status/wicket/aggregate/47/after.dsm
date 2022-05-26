@@ -1,0 +1,24 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+11
+0 0 0 11000100 0 0 0 0 0 0 0
+0 0 01110000 0 00001000 0 0 0 0 0 0
+0 01110000 0 0 0 0 0 00000100 00010000 01100000 0
+0 0 0 0 0 0 01000010 0 0 01010000 01100000
+0 0 0 0 0 0 0 0 0 01010000 0
+0 0 0 11000000 0 0 0 0 0 0 0
+0 0 0 0 01011000 0 0 0 0 0 0
+0 0 00100000 10010000 0 0 0 0 0 0 0
+0 01111000 11110101 0 01011000 0 0 0 0 01110000 0
+0 0 01100000 0 0 0 0 0 0 0 0
+01000010 0 0 01000010 0 00000010 0 0 0 0 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.portlet.PortletRenderServletResponseWrapper_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.html.internal.HtmlHeaderContainer_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Component_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.portlet.PortletRequestContext_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.html.internal.HeaderResponse_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.portlet.PortletInvalidMarkupFilter_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.portlet.EmbeddedPortletHeaderResponse_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.AttributeModifier_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.ajax.AjaxRequestTarget_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.RequestCycle_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.portlet.WicketFilterPortletContext_java

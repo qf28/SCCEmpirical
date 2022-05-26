@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0110000
+1110010 0
+java.engine.org.apache.derby.impl.sql.catalog.SequenceUpdater_java
+java.engine.org.apache.derby.impl.sql.catalog.DataDictionaryImpl_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw]
+2
+0 011100110
+000100000 0
+src.org.apache.pig.Main_java
+src.org.apache.pig.impl.PigContext_java

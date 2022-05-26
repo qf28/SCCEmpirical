@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 010000000 010000000
+010001100 0 0
+010001100 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.UserScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.RawScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.NormalUserScanQueryMatcher_java

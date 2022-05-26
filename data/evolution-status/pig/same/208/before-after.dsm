@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 00100000
+11101011 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.Packager_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POPackage_java

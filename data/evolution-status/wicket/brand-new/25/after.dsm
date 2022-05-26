@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Throw,Create,Implement]
+2
+0 000000010
+000001000 0
+wicket-examples.src.java.nl.openedge.util.hibernate.HibernateHelper_java
+wicket-examples.src.java.nl.openedge.util.hibernate.HibernateHelperThreadLocaleImpl_java

@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Create,Implement]
+5
+0 001000 0 0 0
+111000 0 111010 111010 101000
+0 111000 0 0 0
+000001 011000 0 0 0
+100000 101000 0 0 0
+wicket.src.main.java.wicket.settings.IApplicationSettings_java
+wicket.src.main.java.wicket.Application_java
+wicket.src.main.java.wicket.markup.MarkupCache_java
+wicket.src.main.java.wicket.settings.Settings_java
+wicket.src.main.java.wicket.util.lang.Classes_java

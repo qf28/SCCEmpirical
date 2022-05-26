@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement]
+8
+0 01100100 01010100 01010000 01100000 0 0 00100100
+01100100 0 01010100 01010000 0 0 01000110 01100100
+01100100 01100100 0 01000000 0 00000010 0 0
+00010100 01110000 0 0 0 0 0 0
+01100000 00100000 00110100 01010000 0 0 0 0
+0 0 0 0 01100000 0 0 0
+0 01100000 01010000 01010000 0 0 0 0
+00000100 01101100 0 0 0 0 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.db.BinaryVerbHandler_java
+src.java.org.apache.cassandra.db.BinaryMemtable_java
+src.java.org.apache.cassandra.db.Memtable_java

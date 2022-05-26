@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+7
+0 0 0 0 0 0 0
+0 0 1010100 1100100 0 0 0
+0 0 0 1100000 1000000 0 0
+0 0 0 0 1000100 1100010 0
+0 0 1010000 0 0 1100110 0010100
+0 0 0110100 0110100 0 0 0
+1110000 1010000 1010000 1100100 0 0 0
+src.java.org.apache.cassandra.service.ClientState_java
+src.java.org.apache.cassandra.thrift.ThriftValidation_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.cql.QueryProcessor_java

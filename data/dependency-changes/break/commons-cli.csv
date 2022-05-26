@@ -1,0 +1,2 @@
+Index,ExistDependNew,NewDependExist,NewCycle,DeleteDependExist,ExistDependDelete,DeleteCycle,0to1,0to2,1to0,1toRevert1,1to2,2to1,2to0
+1,0,0,0,0,0,0,0,0,0,0,0,1,0

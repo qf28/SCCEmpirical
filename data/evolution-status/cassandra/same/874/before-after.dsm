@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01100110
+01000000 0
+src.java.org.apache.cassandra.db.compaction.CompactionStrategyManager_java
+src.java.org.apache.cassandra.db.compaction.PendingRepairManager_java

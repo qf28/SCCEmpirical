@@ -1,0 +1,12 @@
+[Call,Typed,Set,Import,Extend,Create,Use,Implement]
+5
+0 0 00000100 00000100 0
+0 0 0 01000000 0
+11001010 10010000 0 0 10010000
+01000000 00010000 10001000 0 00010000
+0 10001000 0 0 0
+src.java.org.apache.cassandra.io.util.SegmentedFile_java
+src.java.org.apache.cassandra.io.compress.CompressedRandomAccessReader_java
+src.java.org.apache.cassandra.io.util.CompressedSegmentedFile_java
+src.java.org.apache.cassandra.io.util.CompressedPoolingSegmentedFile_java
+src.java.org.apache.cassandra.io.compress.CompressedThrottledReader_java

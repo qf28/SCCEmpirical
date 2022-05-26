@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 0 11111 0
+0 0 11010 11011
+00110 11011 0 11000
+0 11000 10010 0
+java.drda.org.apache.derby.drda.NetworkServerControl_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java
+java.drda.org.apache.derby.impl.drda.NetworkServerControlImpl_java
+java.drda.org.apache.derby.impl.drda.DDMReader_java

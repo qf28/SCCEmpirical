@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Create]
+5
+0 0 0 0 11100
+0 0 0 0 11100
+0 0 0 0 11100
+0 0 0 0 11100
+11000 01000 01000 01000 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POCollectedGroup_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.PORead_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POMergeJoin_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POMergeCogroup_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PhyPlanVisitor_java

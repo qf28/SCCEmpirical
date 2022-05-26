@@ -1,0 +1,6 @@
+[Cast,Call,Import,Use,Create,Contain]
+2
+0 010100
+011100 0
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserSymbolDeclaration_java

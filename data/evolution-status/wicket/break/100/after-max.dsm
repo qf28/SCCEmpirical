@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Create]
+4
+0 10100 10000 0
+0 0 11101 0
+10101 11100 0 11101
+0 10000 11100 0
+wicket-core.src.main.java.org.apache.wicket.core.util.resource.locator.ResourceStreamLocator_java
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.settings.def.ResourceSettings_java
+wicket-core.src.main.java.org.apache.wicket.Localizer_java

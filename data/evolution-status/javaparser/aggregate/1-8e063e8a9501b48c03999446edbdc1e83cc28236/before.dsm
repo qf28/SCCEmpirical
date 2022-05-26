@@ -1,0 +1,4 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Contain]
+1
+0
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

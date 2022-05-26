@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Create,Implement]
+4
+0 0 0 0
+0 0 011000 0
+010000 111000 0 0
+0 0 011000 0
+wicket.src.java.wicket.RequestListenerInterface_java
+wicket.src.java.wicket.request.IRequestCodingStrategy_java
+wicket.src.java.wicket.RequestCycle_java
+wicket.src.java.wicket.request.target.IEventProcessor_java

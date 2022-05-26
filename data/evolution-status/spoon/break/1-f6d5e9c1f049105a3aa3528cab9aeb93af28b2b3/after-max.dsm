@@ -1,0 +1,40 @@
+[Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+19
+0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 100001000 0 110010000 0 0
+0 0 0 010010000 110001001 0 0 0 0 0 100001000 0 0 0 0 0 0 0 0
+0 0 0 010010000 0 0 0 110001001 0 0 0 0 0 0 0 0 0 0 0
+0 110001000 0 0 0 0 0 0 110001000 0 0 110001001 110001000 0 0 110011000 110010000 0 0
+0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 010010000 010010000 0 0 110001000 0 0 0 0 0 0 110001000 0 0 0 110001000 110001000
+0 0 0 010010000 0 0 0 110001001 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 010010000 0 110100000 0 110011000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 010010000 0 0 0 110011000 110001000 0 0 0 0 0 100001000 0 110010000 0 0
+0 0 010010000 010010000 0 0 0 0 0 100100000 0 0 0 0 0 0 0 0 0
+0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 0 0 110010000 0 0
+0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 0 0 110010000 0 0
+110001000 0 0 010010000 0 0 0 0 0 0 0 0 0 0 110001000 110001000 0 0 0
+0 0 010010000 010010000 0 0 0 0 0 100110000 0 0 0 0 0 0 0 0 0
+0 0 100110000 010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+src.main.java.spoon.support.compiler.FileSystemFolder_java
+src.main.java.spoon.support.gui.SpoonModelTree_java
+src.main.java.spoon.support.reflect.declaration.CtElementImpl_java
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.support.SerializationModelStreamer_java
+src.main.java.spoon.processing.AbstractProcessor_java
+src.main.java.spoon.support.reflect.reference.CtFieldReferenceImpl_java
+src.main.java.spoon.reflect.visitor.DefaultJavaPrettyPrinter_java
+src.main.java.spoon.support.DefaultCoreFactory_java
+src.main.java.spoon.support.reflect.reference.CtReferenceImpl_java
+src.main.java.spoon.support.gui.SpoonObjectFieldsTable_java
+src.main.java.spoon.support.JavaOutputProcessor_java
+src.main.java.spoon.support.compiler.JDTCompiler_java
+src.main.java.spoon.support.reflect.reference.CtExecutableReferenceImpl_java
+src.main.java.spoon.support.compiler.FileSystemFile_java
+src.main.java.spoon.support.compiler.ZipFolder_java
+src.main.java.spoon.compiler.SpoonResourceHelper_java
+src.main.java.spoon.support.reflect.reference.CtTypeReferenceImpl_java
+src.main.java.spoon.support.reflect.declaration.CtAnnotationImpl_java

@@ -1,0 +1,20 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+9
+0 0 0 0 0100001010 0 0101100010 0 0110010000
+0 0 0101010011 0 0 0 0 0 0110010000
+0 0001010011 0 0 0 0 0 0 0
+0 0 0 0 0000000010 0 0101100000 0 0110010000
+0100001000 0111010011 0111000001 0100001000 0 0100001000 0001010011 0100001000 0110010000
+0 0110000001 0100000000 0 0100001010 0 0101100010 0 0
+0 0011010001 0011010001 0 0100001010 0 0 0 0110010000
+0 0 0 0 0000000010 0 0101100010 0 0110010000
+0 0 0 0 0 0 0110000010 0 0
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.model.FieldModel_java
+src.main.java.org.eclipse.persistence.json.bind.model.ClassModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.MapItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CurrentItemBuilder_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ObjectItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CurrentItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CollectionItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ReflectionUtils_java

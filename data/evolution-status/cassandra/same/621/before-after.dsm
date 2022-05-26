@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 00010
+00010 0
+contrib.word_count.src.WordCountSetup_java
+contrib.word_count.src.WordCount_java

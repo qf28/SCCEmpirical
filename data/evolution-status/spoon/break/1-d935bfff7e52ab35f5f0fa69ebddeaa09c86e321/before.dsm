@@ -1,0 +1,6 @@
+[Call,Import,Return,Extend,Use,Implement,Contain]
+2
+0 0101000
+0110000 0
+src.main.java.spoon.reflect.code.CtStatementList_java
+src.main.java.spoon.template.TemplateParameterList_java

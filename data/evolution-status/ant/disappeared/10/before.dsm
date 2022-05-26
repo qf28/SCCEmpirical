@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Extend,Create,Use,Throw]
+5
+0 0000001 0010000 0 0
+0 0 0010000 0 0
+0110000 1110111 0 0110000 0110000
+0 0 0010000 0 0
+1010000 0110101 0 0110010 0
+proposal.anteater.source.main.org.apache.ant.AbstractTask_java
+proposal.anteater.source.main.org.apache.ant.AntException_java
+proposal.anteater.source.main.org.apache.ant.Project_java
+proposal.anteater.source.main.org.apache.ant.AntFrontEnd_java
+proposal.anteater.source.main.org.apache.ant.TaskManager_java

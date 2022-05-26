@@ -1,0 +1,16 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+7
+0 0 0 0 110000000 0 100111001
+0 0 0 101001000 0 110000000 0
+0 011001000 0 0 0 0 0
+110010000 110001000 111000000 0 110000100 111001000 000001000
+0 111001000 0 0 0 0 0
+0 111001000 0 101001000 0 0 0
+0 0 0 100001000 110000000 0 0
+src.java.org.apache.cassandra.db.compaction.CompactionIterable_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexBuilder_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.compaction.CompactionController_java
+src.java.org.apache.cassandra.cache.AutoSavingCache_java
+src.java.org.apache.cassandra.db.compaction.AbstractCompactionIterable_java

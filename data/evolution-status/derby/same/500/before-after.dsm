@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create]
+4
+0 0 101000 100000
+110010 0 0 0
+101000 0 0 0
+0 110000 0 0
+java.testing.org.apache.derbyTesting.functionTests.util.TestConfiguration_java
+java.testing.org.apache.derbyTesting.functionTests.util.BaseTestCase_java
+java.testing.org.apache.derbyTesting.functionTests.util.TestDataSourceFactory_java
+java.testing.org.apache.derbyTesting.functionTests.util.SecurityManagerSetup_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 0100000
+1100001 0
+src.main.java.org.apache.hadoop.hbase.io.hfile.HFileScanner_java
+src.main.java.org.apache.hadoop.hbase.io.hfile.HFile_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0 0011010
+0001010 0 0 0111011
+0101000 0 0 0110011
+0111001 1111010 0101000 0
+src.java.org.apache.cassandra.io.compress.CompressionParameters_java
+src.java.org.apache.cassandra.cql3.statements.CreateTableStatement_java
+src.java.org.apache.cassandra.schema.LegacySchemaTables_java
+src.java.org.apache.cassandra.config.CFMetaData_java

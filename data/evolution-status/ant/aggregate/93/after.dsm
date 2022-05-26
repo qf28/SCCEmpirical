@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 00100000 0
+0 0 00100000
+00100000 00100000 0
+src.antidote.org.apache.tools.ant.gui.wizard.WizardStep_java
+src.antidote.org.apache.tools.ant.gui.wizard.WizardData_java
+src.antidote.org.apache.tools.ant.gui.wizard.StateMachine_java

@@ -1,0 +1,6 @@
+[Call,Extend,Create,Use]
+2
+0 1010
+1100 0
+wicket.src.java.wicket.protocol.http.HttpRequest_java
+wicket.src.java.wicket.protocol.http.NullHttpRequest_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+4
+0 01100000 01010001 0
+0 0 01010000 0
+0 0 0 00000010
+01001101 0 0 0
+java.engine.org.apache.derby.impl.services.monitor.BaseMonitor_java
+java.engine.org.apache.derby.impl.services.monitor.ProtocolKey_java
+java.engine.org.apache.derby.iapi.services.monitor.Monitor_java
+java.engine.org.apache.derby.impl.services.monitor.FileMonitor_java

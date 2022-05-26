@@ -1,0 +1,8 @@
+[Call,Typed,Use,Create,Implement]
+3
+0 11100 01100
+11100 0 11110
+00100 11100 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.Memtable_java

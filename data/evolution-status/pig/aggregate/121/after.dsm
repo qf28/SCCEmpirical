@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+5
+0 0 1111110 1101010 0
+0 0 0 0 0001000
+0 0001010 0 0101100 0
+0 0 0 0 0101000
+0101000 0011010 0 0 0
+src.org.apache.pig.backend.hadoop.executionengine.mapreduceExec.PigInputFormat_java
+src.org.apache.pig.PigServer_java
+src.org.apache.pig.impl.io.ValidatingInputFileSpec_java
+src.org.apache.pig.backend.executionengine.PigSlicer_java
+src.org.apache.pig.impl.io.FileLocalizer_java

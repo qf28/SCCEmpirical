@@ -1,0 +1,28 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+13
+0 011000010 001100000 0 011000100 0 010000010 0 010100010 010100010 0 0 0
+0 0 0 0 0 0 0 011000100 0 010100000 0 0 0
+0 0 0 0 0 0 0 0 0 0 011100000 0 0
+0 011000000 0 0 0 0 0 0 0 0 0 0 0
+011100010 011000000 0 0 0 0 0 0 0 010100000 0 0 0
+011100000 0 0 011100010 0 0 0 0 0 0 0 0 0
+011000010 011000010 0 111000110 011000010 010000100 0 011000000 0 010100010 0 011001110 010000100
+0 011000010 0 010000100 0 0 0 0 0 0 0 0 0
+0 0 011000110 0 0 0 0 0 0 0 011100100 0 0
+011000010 0 0 0 0 0 0 0 010100010 0 0 0 0
+0 0 0 0 0 0 0 0 0 001100010 0 0 0
+001100000 011100010 0 011100010 0 010000100 0 011100010 0 0 0 0 010000100
+011100000 0 0 011100010 0 0 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.db.commitlog.CommitLogSegment_java
+src.java.org.apache.cassandra.io.sstable.SSTableIdentityIterator_java
+src.java.org.apache.cassandra.io.sstable.SSTableWriter_java
+src.java.org.apache.cassandra.io.LazilyCompactedRow_java
+src.java.org.apache.cassandra.db.CompactionManager_java
+src.java.org.apache.cassandra.io.sstable.SSTableScanner_java
+src.java.org.apache.cassandra.db.commitlog.CommitLog_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.io.CompactionIterator_java
+src.java.org.apache.cassandra.io.PrecompactedRow_java

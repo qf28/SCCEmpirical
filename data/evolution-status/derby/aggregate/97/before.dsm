@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+3
+0 0010000 0
+0010000 0 0
+0010011 0110000 0
+java.engine.org.apache.derby.iapi.types.XMLDataValue_java
+java.engine.org.apache.derby.iapi.types.SqlXmlUtil_java
+java.engine.org.apache.derby.iapi.types.XML_java

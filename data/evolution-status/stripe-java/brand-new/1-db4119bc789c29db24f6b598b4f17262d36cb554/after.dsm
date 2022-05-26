@@ -1,0 +1,8 @@
+[Call,Import,Return,Extend,Use,Parameter,Contain]
+3
+0 0010100 0
+0 0 0010100
+0000111 0 0
+src.main.java.com.stripe.model.SubscriptionSchedule_java
+src.main.java.com.stripe.model.SubscriptionScheduleRevisionCollection_java
+src.main.java.com.stripe.model.SubscriptionScheduleRevision_java

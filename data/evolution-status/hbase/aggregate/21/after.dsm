@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+9
+0 0 0 0 0 0010000000 0 0 0
+0111000100 0 0100000000 0001000000 0100000000 0 0 0100000000 0
+0111000110 0110000000 0 0 0100000000 0110001000 0100000000 0100000100 1100000100
+0111000100 0 0 0 0101000000 0 0 0101000000 0
+1111000100 0 0100001000 0 0 0 0 0 0
+0 0 0010000000 0 0 0 0 0 0
+0111000000 0 0 0 0100000000 0 0 0 0
+0001000100 0 0 0 0 0 0 0 0
+0110000010 0 0 0 0 0 0 0100000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLog_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogSplitter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.FSHLog_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.WALCoprocessorHost_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogPrettyPrinter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.SequenceFileLogWriter_java

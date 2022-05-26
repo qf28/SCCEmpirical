@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Create,Use,Implement]
+5
+0 00000010 0 01000100 01000100
+01000100 0 01010000 0 0
+0 00010000 0 0 0
+0 0 01010000 0 0
+0 0 01010000 0 0
+src.java.org.apache.cassandra.thrift.TServerCustomFactory_java
+src.java.org.apache.cassandra.thrift.CassandraDaemon_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.thrift.CustomTThreadPoolServer_java
+src.java.org.apache.cassandra.thrift.CustomTHsHaServer_java

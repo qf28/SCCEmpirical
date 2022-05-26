@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01110000
+01110100 0
+ambari-server.src.main.java.org.apache.ambari.server.state.host.HostImpl_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.TopologyManager_java

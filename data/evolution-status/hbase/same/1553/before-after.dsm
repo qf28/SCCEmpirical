@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Use,Create]
+4
+0 0 110011 110010
+0 0 011010 0
+011010 100001 0 110000
+111011 0 010000 0
+src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java
+src.main.java.org.apache.hadoop.hbase.regionserver.ScanWildcardColumnTracker_java
+src.main.java.org.apache.hadoop.hbase.regionserver.ScanQueryMatcher_java
+src.main.java.org.apache.hadoop.hbase.regionserver.Store_java

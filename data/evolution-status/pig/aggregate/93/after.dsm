@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Implement]
+4
+0 011000 0 011000
+010010 0 0 010010
+0 001000 0 0
+0 111010 011010 0
+src.org.apache.pig.tools.pigstats.PigStatsUtil_java
+src.org.apache.pig.tools.pigstats.JobStats_java
+src.org.apache.pig.tools.pigstats.PigProgressNotificationListener_java
+src.org.apache.pig.tools.pigstats.ScriptState_java

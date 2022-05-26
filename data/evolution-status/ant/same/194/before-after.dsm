@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 001010
+111011 0
+src.main.org.apache.tools.ant.types.FilterSet_java
+src.main.org.apache.tools.ant.Project_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+4
+0 0 0 0
+01001000 0 0 0
+0 0 0 01000000
+0 01000100 01000110 0
+src.java.org.apache.commons.math.linear.AbstractRealMatrix_java
+src.java.org.apache.commons.math.linear.DenseRealMatrix_java
+src.java.org.apache.commons.math.linear.BigMatrixImpl_java
+src.java.org.apache.commons.math.linear.MatrixUtils_java

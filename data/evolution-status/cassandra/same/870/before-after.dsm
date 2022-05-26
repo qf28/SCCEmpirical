@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+2
+0 0100000100
+0011000100 0
+src.java.org.apache.cassandra.io.sstable.format.SSTableReader_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java

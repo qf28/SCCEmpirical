@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 000001
+110010 0
+wicket-util.src.main.java.org.apache.wicket.util.diff.Revision_java
+wicket-util.src.main.java.org.apache.wicket.util.diff.Diff_java

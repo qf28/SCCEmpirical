@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0 0
+0 0 0
+0010010 1110000 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.StackDefinedPropertyProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariManagementController_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.metrics.RestMetricsPropertyProvider_java

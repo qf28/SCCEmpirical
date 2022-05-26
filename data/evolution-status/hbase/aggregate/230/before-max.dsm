@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+8
+0 0111000100 0 0 0 0010000000 0000001010 0
+0111000000 0 0 0111001000 0100000000 0 0 0
+0 0 0 0 0 0 0011000000 0
+0 0001000000 0 0 0110000100 0 0110001000 0110000000
+0 0111000100 0 0110000000 0 0 0110001000 0000000010
+0 0 1101001000 0 0 0 0010000000 0
+0 0011000000 0 0 0 0010000000 0 0
+0 0 0 0 0 0 0010000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.compactions.CompactionRequest_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coprocessor.RegionObserver_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionCoprocessorHost_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Store_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactionRequestor_java

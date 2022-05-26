@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+3
+0 011110000 111100010
+011100000 0 0
+0 010001100 0
+java.client.org.apache.derby.jdbc.ClientBaseDataSourceRoot_java
+java.client.org.apache.derby.client.am.LogWriter_java
+java.client.org.apache.derby.client.net.NetLogWriter_java

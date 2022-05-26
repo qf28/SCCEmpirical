@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Throw,Implement]
+2
+0 011010000
+110001000 0
+wicket-util.src.main.java.org.apache.wicket.util.parse.metapattern.Group_java
+wicket-util.src.main.java.org.apache.wicket.util.parse.metapattern.MetaPattern_java

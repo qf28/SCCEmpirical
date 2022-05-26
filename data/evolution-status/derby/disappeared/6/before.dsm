@@ -1,0 +1,16 @@
+[Typed,Import,Extend,Throw,Use,Implement]
+7
+0 0 0 100000 0 0 100000
+0 0 100000 0 001000 0 0
+0 0 0 0 0 0 100000
+100000 100000 100000 0 100000 100000 0
+001000 0 100000 0 0 0 100000
+0 0 0 100000 0 0 100000
+100000 0 100000 0 0 0 0
+java.stubs.jdbc4.java.sql.Statement_java
+java.stubs.jdbc4.java.sql.CallableStatement_java
+java.stubs.jdbc4.java.sql.Array_java
+java.stubs.jdbc4.java.sql.Connection_java
+java.stubs.jdbc4.java.sql.PreparedStatement_java
+java.stubs.jdbc4.java.sql.DatabaseMetaData_java
+java.stubs.jdbc4.java.sql.ResultSet_java

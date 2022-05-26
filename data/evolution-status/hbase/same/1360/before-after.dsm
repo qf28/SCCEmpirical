@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0100000
+0110010 0
+src.java.org.apache.hadoop.hbase.client.HTable_java
+src.java.org.apache.hadoop.hbase.client.HConnectionManager_java

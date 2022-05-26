@@ -1,0 +1,8 @@
+[Call,Typed,Use,Throw,Create]
+3
+0 0 0
+11111 0 11000
+01000 11100 0
+src.java.org.apache.cassandra.db.UnknownColumnException_java
+src.java.org.apache.cassandra.db.LegacyLayout_java
+src.java.org.apache.cassandra.db.ReadCommand_java

@@ -1,0 +1,10 @@
+[Call,Import,Extend,Use,Create]
+4
+0 0 0 11110
+0 0 0 01010
+11001 0 0 11001
+0 11000 11000 0
+src.java.org.apache.cassandra.security.streaming.SSLFileStreamTask_java
+src.java.org.apache.cassandra.io.compress.CompressedRandomAccessReader_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.streaming.FileStreamTask_java

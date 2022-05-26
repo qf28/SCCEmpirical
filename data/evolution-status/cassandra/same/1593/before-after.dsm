@@ -1,0 +1,10 @@
+[Call,Typed,Use,Create,Implement]
+4
+0 11000 0 0
+11010 0 10010 10010
+0 11000 0 0
+0 10000 0 0
+src.org.apache.cassandra.service.StorageLoadBalancer_java
+src.org.apache.cassandra.service.StorageService_java
+src.org.apache.cassandra.service.HttpRequestVerbHandler_java
+src.org.apache.cassandra.service.ConsistencyManager_java

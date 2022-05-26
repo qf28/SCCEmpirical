@@ -1,0 +1,14 @@
+[Call,Typed,Import,Extend,Create,Use]
+6
+0 111000 0 0 111000 111000
+0 0 110010 0 110000 110010
+0 0 0 0 0 100100
+100100 011000 0 0 0 011000
+0 110101 0 101010 0 010000
+0 010000 0 0 0 0
+wicket.src.main.java.org.apache.wicket.request.target.component.PageReferenceRequestTarget_java
+wicket.src.main.java.org.apache.wicket.Page_java
+wicket.src.main.java.org.apache.wicket.PageId_java
+wicket.src.main.java.org.apache.wicket.request.target.component.PageIdRequestTarget_java
+wicket.src.main.java.org.apache.wicket.RequestCycle_java
+wicket.src.main.java.org.apache.wicket.PageReference_java

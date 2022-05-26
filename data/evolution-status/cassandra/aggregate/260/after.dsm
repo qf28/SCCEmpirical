@@ -1,0 +1,6 @@
+[Call,Extend,Use,Create]
+2
+0 1001
+1110 0
+src.java.org.apache.cassandra.cql3.functions.UDFunction_java
+src.java.org.apache.cassandra.cql3.functions.ScriptBasedUDF_java

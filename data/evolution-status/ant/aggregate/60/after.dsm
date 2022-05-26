@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend]
+3
+0 1001 0010
+0 0 0110
+0100 1100 0
+src.main.org.apache.tools.ant.taskdefs.optional.j2ee.JonasHotDeploymentTool_java
+src.main.org.apache.tools.ant.taskdefs.optional.j2ee.GenericHotDeploymentTool_java
+src.main.org.apache.tools.ant.taskdefs.optional.j2ee.ServerDeploy_java

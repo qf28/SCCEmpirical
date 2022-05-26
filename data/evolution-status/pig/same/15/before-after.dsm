@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+3
+0 000000100 010000110
+010011101 0 0
+010011100 0 0
+src.org.apache.pig.data.DefaultAbstractBag_java
+src.org.apache.pig.data.DistinctDataBag_java
+src.org.apache.pig.data.SortedDataBag_java

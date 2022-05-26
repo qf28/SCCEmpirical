@@ -1,0 +1,50 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+24
+0 0 1110000001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1000010011 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010000010 0 0 0 0 0 0110100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0
+0 0 0000000010 0 0 0 0000000010 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0
+1100011010 0100001000 0 0100001000 1100001000 0100011000 0 0100001000 0010010010 0100001000 0 0 0100001000 0100001000 0100001000 0100001000 0 0100001000 0 0100001000 0100011000 0110001000 0100001000 0100001000
+0 0 0010000010 0 0 0 0000000010 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 1010000011 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0 0 0 0 0 0 0 0 0100100000 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010000010 0 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010000010 0 0 0100100000 0000000010 0 0 0 0 0 0 0 0 0 0110001000 0 0100010000 0 0 0 0 0
+0 0 1100000011 0 0 0 0101001010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0 0100100000 0 0 0 0 0 0 0000010000 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0 0 0 0 0 0 0 0 0100100000 0 0 0 0 0
+0 0 0 0 0 0 0110001010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010000010 0 0 0 0000000010 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+src.main.java.org.eclipse.yasson.internal.unmarshaller.AdaptedObjectDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.IntArrayDeserializer_java
+src.main.java.org.eclipse.yasson.internal.Unmarshaller_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.ByteArrayBase64Deserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.UserDeserializerDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.ObjectDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.DeserializerBuilder_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.FloatArrayDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractValueTypeDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.ObjectArrayDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.AbstractArrayDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.AbstractJsonpDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.JsonArrayDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.ByteArrayDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.MapDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.ShortArrayDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.StringTypeDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.TypeWrapperDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.AbstractContainerDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.JsonObjectDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.CollectionDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.OptionalObjectDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.LongArrayDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.DoubleArrayDeserializer_java

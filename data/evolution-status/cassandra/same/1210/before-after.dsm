@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use]
+2
+0 01101
+01101 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.io.sstable.format.SSTableReader_java

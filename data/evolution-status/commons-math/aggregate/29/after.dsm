@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Create,Implement]
+3
+0 10010 10100
+0 0 10000
+10010 0 0
+src.java.org.apache.commons.math.distribution.DistributionFactoryImpl_java
+src.java.org.apache.commons.math.distribution.PoissonDistributionImpl_java
+src.java.org.apache.commons.math.distribution.DistributionFactory_java

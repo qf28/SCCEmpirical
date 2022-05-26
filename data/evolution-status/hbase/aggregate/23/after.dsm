@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+10
+0 0 0 010000000 0 011000100 0 011000000 0 0
+0 0 0 0 0 0 0 000000010 0 0
+011100100 0 0 0 0 0 0 011000000 0 010000000
+0 0 0 0 0 010001000 0 001000010 0 0
+0 0 0 0 0 111000000 0 0 0 0
+011000100 0 010000100 010000000 011000100 0 0 001000001 0 010000100
+0 0 0 0 0 0 0 011100000 0 0
+001000000 0 0 0 0 0 0 0 0 0
+0 0 0 010000000 0 0 0 111000000 0 0
+0 010000000 0 0 011000000 111000000 010100100 111000000 000001010 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncProcess_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionFactory_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HTable_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionUtils_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ZooKeeperKeepAliveConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionImplementation_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.MetaTableLocator_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClusterConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.MasterCallable_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HBaseAdmin_java

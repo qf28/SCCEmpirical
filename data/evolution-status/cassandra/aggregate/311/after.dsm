@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0 1101011
+0 0 1101011
+0000010 0000010 0
+src.java.org.apache.cassandra.transport.messages.BatchMessage_java
+src.java.org.apache.cassandra.transport.messages.QueryMessage_java
+src.java.org.apache.cassandra.transport.Message_java

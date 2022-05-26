@@ -1,0 +1,38 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+18
+0 0 0 0 0 0 0000010010 0 0 0 0 0 0010010010 0 0 0 0111011011 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0101011011 0100000000
+0 0 0 0 0 0100110010 0 0 0 0 0 0 0010000000 0 0 0 0111011011 0100000000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110100000
+0 0 0 0 0 0 0101001000 0100100000 0 0 0 0 0 0 0 0 0 0100000000
+0 0 0 0 0 0 0 0 0 0 0 0 0010010010 0 0 0 0 0110110010
+0 0 0 0 0101011000 0 0 0000010010 0 0 0 0 0 0 0 0 0111011011 0
+0 0 0 0 0 0 0 0 0 0 0 0 0010010010 0 0 0 0 0110100000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110100000
+0 0 0 0010000000 0 0 0 0 0110010000 0 0100011011 0 0 1101011001 1101001001 0000010010 0 0100100000
+0 0010000000 0 0 0 0 0 0 0111011011 0 0 0 0010010010 0 0 0 0 0100100000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000010
+0 0 0 0 0 0 0 0 0101011011 0 0 0 0 0 0 0 0 0
+0010010010 0 0 0 0 0 0010010010 0 0 0 0 0 0010000000 0 0 0100110000 0110001010 0100000000
+0 0 0101011011 0 0 0 0010010010 0 0 0 0 0 0010000000 0 0 0100110000 0110001010 0100000000
+0 0 0 0 0 0100110010 0 0 0 0 0 0 0010000000 0 0 0 0111011011 0110010010
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110100000
+0 0 0 1111010011 0 0 0 0 0 0100010001 0 0010010010 0 0 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.type.TypeParameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.NameExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumConstantDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.Comment_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.PrimitiveType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.BodyDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ClassOrInterfaceType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.Type_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Name_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java
+javaparser-core.src.main.java.com.github.javaparser.ast.PackageDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.observing.AstObserver_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.AnnotationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.TypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.SimpleName_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

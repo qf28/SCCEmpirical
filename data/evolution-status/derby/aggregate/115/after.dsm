@@ -1,0 +1,6 @@
+[Call,Typed,Create,Use,Implement]
+2
+0 10100
+11000 0
+java.engine.org.apache.derby.impl.services.cache.ConcurrentCache_java
+java.engine.org.apache.derby.impl.services.cache.ClockPolicy_java

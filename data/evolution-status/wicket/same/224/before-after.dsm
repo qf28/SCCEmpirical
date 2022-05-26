@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+9
+0 0 010000000 001100000 0 0 0 0 111100100
+000100010 0 010000000 0 000100010 000100010 0 0 001000000
+0 011000000 0 0 0 0 011000000 0 000000100
+0 010000000 0 0 0 0 0 011100000 111011111
+0 010000000 0 001100000 0 0 0 0 011100100
+0 0 0 001100000 0 0 0 0 000100100
+0 011000000 011000000 0 0 0 0 0 011000000
+0 0 0 0 0 0 0 0 000100100
+0 011000000 011000000 111001100 0 0 011000000 011100000 0
+wicket.src.main.java.wicket.markup.resolver.AutoComponentResolver_java
+wicket.src.main.java.wicket.Application_java
+wicket.src.main.java.wicket.Session_java
+wicket.src.main.java.wicket.MarkupContainer_java
+wicket.src.main.java.wicket.markup.resolver.WicketMessageResolver_java
+wicket.src.main.java.wicket.markup.resolver.MarkupInheritanceResolver_java
+wicket.src.main.java.wicket.RequestCycle_java
+wicket.src.main.java.wicket.markup.MarkupFragment_java
+wicket.src.main.java.wicket.Component_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0 00000010
+01100010 0 00000010
+0 01100100 0
+wicket.src.main.java.org.apache.wicket.util.diff.Delta_java
+wicket.src.main.java.org.apache.wicket.util.diff.Revision_java
+wicket.src.main.java.org.apache.wicket.util.diff.Diff_java

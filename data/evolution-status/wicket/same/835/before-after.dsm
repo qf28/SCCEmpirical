@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 100000
+100100 0
+wicket-core.src.main.java.org.apache.wicket.markup.MarkupCache_java
+wicket-core.src.main.java.org.apache.wicket.markup.MarkupFactory_java

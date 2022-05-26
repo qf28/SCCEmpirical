@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01110100
+01100010 0
+src.main.java.org.apache.hadoop.hbase.regionserver.StoreFileScanner_java
+src.main.java.org.apache.hadoop.hbase.regionserver.StoreFile_java

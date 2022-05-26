@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 00110100
+01010010 0
+ambari-logsearch.ambari-logsearch-logfeeder.src.main.java.org.apache.ambari.logfeeder.input.monitor.DockerLogFileUpdateMonitor_java
+ambari-logsearch.ambari-logsearch-logfeeder.src.main.java.org.apache.ambari.logfeeder.input.InputFile_java

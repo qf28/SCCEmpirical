@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+2
+0 11100000
+01100000 0
+src.main.org.apache.tools.ant.types.resolver.ApacheCatalogResolver_java
+src.main.org.apache.tools.ant.types.resolver.ApacheCatalog_java

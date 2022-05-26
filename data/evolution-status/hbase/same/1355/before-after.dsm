@@ -1,0 +1,6 @@
+[Call,Typed,Implement]
+2
+0 110
+100 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.ServerMetricsBuilder_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.ServerLoad_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Set,Extend,Use,Create,Implement]
+3
+0 00000100 00000010
+00100000 0 0
+11000000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactingMemStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java

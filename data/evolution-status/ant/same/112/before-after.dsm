@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0100000 0
+0010010 0 0001010
+0111110 0 0
+src.main.org.apache.tools.ant.ProjectHelper_java
+src.main.org.apache.tools.ant.ProjectHelperRepository_java
+src.main.org.apache.tools.ant.helper.ProjectHelper2_java

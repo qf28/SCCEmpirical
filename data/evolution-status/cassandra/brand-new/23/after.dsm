@@ -1,0 +1,34 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+16
+0 0 001000000 0 0 0 001000000 0 0 0 0 0 0 0 0 001000000
+0 0 001000000 0 010010000 0 001000000 000000001 0 010000100 0 0 0 0 0 111000100
+0 010010000 0 0 0 011000000 0 0 0 0 0 0 011000100 0 0 011000000
+0 0 001000000 0 0 0 001000000 0 0 0 0 0 0 0 0 001000000
+0 0 001000000 0 0 0 001000000 0 0 010010000 0 000000001 0 0 0 001000000
+0 0 110000100 0 0 0 110000100 0 0 0 0 0 111000100 0 110000100 111001100
+0 0 0 0 0 011000000 0 0 0 0 010010000 0 0 0 011000000 011000000
+000010000 0 0 0 0 0 0 0 0 0 0 0 0 000010000 0 0
+0 0 001000000 0 0 0 001000000 0 0 0 0 0 0 0 0 001000000
+0 0 001000000 000000001 0 011000000 001000000 0 0 0 0 0 0 0 0 111000100
+000000001 0 001000000 0 0 0 001000000 0 0 010010100 0 0 0 0 0 111000100
+0 0 0 000010000 0 0 0 0 000010000 0 0 0 0 0 0 0
+0 0 011001000 0 0 001000000 0 0 0 0 0 0 0 0 0 0
+0 0 001000000 0 0 0 001000000 000000001 0 0 0 0 0 0 0 001000000
+0 0 0 0 0 011000000 011001000 0 0 0 010000000 0 0 0 0 010000000
+0 010000000 111000100 0 010000000 010000000 111000100 0 0 010000000 010000100 0 011000000 0 111000000 0
+src.java.org.apache.cassandra.cql3.functions.types.SettableByIndexData_java
+src.java.org.apache.cassandra.cql3.functions.types.AbstractData_java
+src.java.org.apache.cassandra.cql3.functions.types.UDTValue_java
+src.java.org.apache.cassandra.cql3.functions.types.GettableByIndexData_java
+src.java.org.apache.cassandra.cql3.functions.types.AbstractGettableData_java
+src.java.org.apache.cassandra.cql3.functions.types.CodecRegistry_java
+src.java.org.apache.cassandra.cql3.functions.types.TupleValue_java
+src.java.org.apache.cassandra.cql3.functions.types.SettableData_java
+src.java.org.apache.cassandra.cql3.functions.types.GettableByNameData_java
+src.java.org.apache.cassandra.cql3.functions.types.AbstractGettableByIndexData_java
+src.java.org.apache.cassandra.cql3.functions.types.AbstractAddressableByIndexData_java
+src.java.org.apache.cassandra.cql3.functions.types.GettableData_java
+src.java.org.apache.cassandra.cql3.functions.types.UserType_java
+src.java.org.apache.cassandra.cql3.functions.types.SettableByNameData_java
+src.java.org.apache.cassandra.cql3.functions.types.TupleType_java
+src.java.org.apache.cassandra.cql3.functions.types.TypeCodec_java

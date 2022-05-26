@@ -1,0 +1,6 @@
+[Call,Import,Create]
+2
+0 111
+110 0
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.DummyRequestLogger_java

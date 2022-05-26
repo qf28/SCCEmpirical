@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Create,Use,Implement,Parameter,Contain]
+2
+0 001001011
+010010000 0
+javaparser-core.src.main.java.com.github.javaparser.printer.configuration.ConfigurationOption_java
+javaparser-core.src.main.java.com.github.javaparser.printer.configuration.DefaultPrinterConfiguration_java

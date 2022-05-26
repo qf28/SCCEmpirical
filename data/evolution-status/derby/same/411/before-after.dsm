@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 1110101100
+0110001000 0
+java.engine.org.apache.derby.jdbc.EmbedXAResource_java
+java.engine.org.apache.derby.jdbc.XATransactionState_java

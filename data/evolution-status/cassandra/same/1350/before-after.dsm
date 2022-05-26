@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0100000
+0010010 0
+src.java.org.apache.cassandra.cql3.restrictions.CustomIndexExpression_java
+src.java.org.apache.cassandra.cql3.restrictions.IndexRestrictions_java

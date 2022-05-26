@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+5
+0 0001001000 0001001000 0001001000 0111000000
+0111000000 0 0 0 0
+0 0 0 0111000000 0
+0111001000 0001001000 0001001000 0 0000000001
+0011000000 0 0 0 0
+ambari-server.src.main.java.org.apache.ambari.server.state.ConfigHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.agent.stomp.AgentConfigsHolder_java
+ambari-server.src.main.java.org.apache.ambari.server.agent.stomp.MetadataHolder_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariManagementControllerImpl_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariManagementController_java

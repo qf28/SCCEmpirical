@@ -1,0 +1,8 @@
+[Call,Import,Return,Extend,Use,Implement,Contain]
+3
+0 0 0
+0001000 0 0
+0100010 0 0
+src.main.java.spoon.reflect.cu.SourcePositionHolder_java
+src.main.java.spoon.reflect.cu.CompilationUnit_java
+src.main.java.spoon.support.reflect.CtExtendedModifier_java

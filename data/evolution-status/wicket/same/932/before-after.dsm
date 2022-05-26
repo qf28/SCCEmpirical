@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+6
+0 0 0010000 0 0 0110001
+0111000 0 0011000 0 0001000 0
+0110000 1011000 0 0 0 0
+0111000 0 0111010 0 0 0
+0 1101010 0111010 0001100 0 0
+0010000 0 0 0 0 0
+wicket.src.java.wicket.Application_java
+wicket.src.java.wicket.markup.html.WebPage_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.request.compound.DefaultRequestTargetResolverStrategy_java
+wicket.src.java.wicket.protocol.http.request.urlcompressing.WebURLCompressingTargetResolverStrategy_java
+wicket.src.java.wicket.SharedResources_java

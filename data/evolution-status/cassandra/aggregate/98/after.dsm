@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 000001000
+110000000 0
+src.java.org.apache.cassandra.dht.IPartitioner_java
+src.java.org.apache.cassandra.dht.Splitter_java

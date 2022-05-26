@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+3
+0 0100010 1110010
+0110000 0 0
+0110100 0 0
+java.engine.org.apache.derby.impl.store.access.RAMAccessManager_java
+java.engine.org.apache.derby.impl.store.access.RAMAccessUndoHandler_java
+java.engine.org.apache.derby.impl.store.access.RAMTransaction_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 01100010 01000001
+01000000 0 0
+01000000 01100010 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.ZKUtil_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.MetaTableLocator_java

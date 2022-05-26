@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Extend,Create,Use]
+3
+0 011000 111101
+0 0 011001
+010010 011000 0
+hbase-protocol-shaded.src.main.java.org.apache.hadoop.hbase.shaded.com.google.protobuf.ByteInputByteString_java
+hbase-protocol-shaded.src.main.java.org.apache.hadoop.hbase.shaded.com.google.protobuf.CodedInputStream_java
+hbase-protocol-shaded.src.main.java.org.apache.hadoop.hbase.shaded.com.google.protobuf.ByteString_java

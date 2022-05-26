@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 011100000 011100000
+010100000 0 0
+0 001000000 0
+ambari-server.src.main.java.org.apache.ambari.server.utils.StageUtils_java
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.Stage_java
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.StageFactory_java

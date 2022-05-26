@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Modify]
+2
+0 011000000
+111000000 0
+src.java.main.org.apache.zookeeper.server.quorum.FollowerZooKeeperServer_java
+src.java.main.org.apache.zookeeper.server.quorum.Follower_java

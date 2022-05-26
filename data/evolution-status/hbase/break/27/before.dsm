@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+4
+0 0 0111010 0110001
+0 0 0110100 0
+0001000 0100000 0 0
+0 0 0011000 0
+src.main.java.org.apache.hadoop.hbase.client.HConnectionManager_java
+src.main.java.org.apache.hadoop.hbase.zookeeper.ZKUtil_java
+src.main.java.org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher_java
+src.main.java.org.apache.hadoop.hbase.client.HConnection_java

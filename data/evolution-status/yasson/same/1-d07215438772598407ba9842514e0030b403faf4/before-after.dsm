@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 1010000000
+1010000011 0
+src.main.java.org.eclipse.yasson.internal.Marshaller_java
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractValueTypeSerializer_java

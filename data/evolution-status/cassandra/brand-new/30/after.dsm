@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+3
+0 001000000 0
+001000100 0 000000100
+011000101 001000100 0
+src.java.org.apache.cassandra.db.IClock_java
+src.java.org.apache.cassandra.db.ClockType_java
+src.java.org.apache.cassandra.db.TimestampClock_java

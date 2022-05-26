@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Use,Create]
+7
+0 010001 0 011101 011000 011000 011000
+0 0 0 0 011000 0 011000
+010000 0 0 0 011010 011000 011010
+010000 0 0 0 011110 011100 011100
+011011 0 011001 0 0 011010 111010
+0 0 0 011101 0 0 011010
+0 0 0 011100 0 011011 0
+src.main.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java
+src.main.java.org.apache.hadoop.hbase.regionserver.SplitRequest_java
+src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreFlusher_java
+src.main.java.org.apache.hadoop.hbase.regionserver.compactions.CompactionRequest_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+src.main.java.org.apache.hadoop.hbase.regionserver.Store_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

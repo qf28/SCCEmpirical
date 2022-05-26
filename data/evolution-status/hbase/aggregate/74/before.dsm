@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 0
+1001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.mapreduce.HFileOutputFormat2_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.mapreduce.MultiTableHFileOutputFormat_java

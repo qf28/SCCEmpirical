@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 110010
+100000 0
+src.test.java.org.apache.hadoop.hbase.HBaseTestingUtility_java
+src.test.java.org.apache.hadoop.hbase.MiniHBaseCluster_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Create,Use]
+2
+0 111011
+011101 0
+java.engine.org.apache.derby.impl.sql.catalog.DataDictionaryImpl_java
+java.engine.org.apache.derby.impl.sql.catalog.DD_Version_java

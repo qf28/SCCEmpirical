@@ -1,0 +1,6 @@
+[Call,Create]
+2
+0 10
+11 0
+wicket-core.src.main.java.org.apache.wicket.markup.MarkupCache_java
+wicket-core.src.main.java.org.apache.wicket.markup.MarkupFactory_java

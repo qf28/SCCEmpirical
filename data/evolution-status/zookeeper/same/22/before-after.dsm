@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Modify]
+5
+0 000000010 0 0 0
+011000100 0 011000100 011000100 011000100
+0 011000010 0 0 0
+0 000000010 0 0 0
+0 011000010 0 0 0
+src.java.main.org.apache.jute.compiler.CSharpGenerator_java
+src.java.main.org.apache.jute.compiler.JFile_java
+src.java.main.org.apache.jute.compiler.CppGenerator_java
+src.java.main.org.apache.jute.compiler.JavaGenerator_java
+src.java.main.org.apache.jute.compiler.CGenerator_java

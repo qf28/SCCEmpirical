@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+3
+0 01010110010 0
+00000100000 0 00000100000
+0 00000000100 0
+src.test.java.org.eclipse.yasson.serializers.model.AnnotatedWithSerialzierTypeDeserializer_java
+src.test.java.org.eclipse.yasson.serializers.model.AnnotatedWithSerializerType_java
+src.test.java.org.eclipse.yasson.serializers.model.AnnotatedWithSerializerTypeSerializer_java

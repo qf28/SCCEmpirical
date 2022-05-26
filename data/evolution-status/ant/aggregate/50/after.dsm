@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 101000000 000100000 0
+0 0 000100100 0
+011100010 011100110 0 011100000
+011100000 0 000100100 0
+src.main.org.apache.tools.ant.types.FilterSetCollection_java
+src.main.org.apache.tools.ant.types.FilterSet_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.util.FileUtils_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 001000000
+010000010 0
+wicket.src.java.wicket.markup.html.list.ListItemModel_java
+wicket.src.java.wicket.markup.html.list.ListView_java

@@ -1,0 +1,14 @@
+[Call,Typed,Import,Use,Create]
+6
+0 11010 01110 0 10100 10010
+10010 0 10110 0 10100 0
+10110 0 0 11001 10100 0
+0 0 10010 0 10100 0
+10110 0 0 0 0 0
+10110 0 0 0 0 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.CassandraDaemon_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.compaction.Scrubber_java
+src.java.org.apache.cassandra.io.util.FileUtils_java
+src.java.org.apache.cassandra.gms.Gossiper_java

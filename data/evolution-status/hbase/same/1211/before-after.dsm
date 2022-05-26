@@ -1,0 +1,6 @@
+[Call]
+2
+0 1
+1 0
+src.main.java.org.apache.hadoop.hbase.protobuf.RequestConverter_java
+src.main.java.org.apache.hadoop.hbase.protobuf.ProtobufUtil_java

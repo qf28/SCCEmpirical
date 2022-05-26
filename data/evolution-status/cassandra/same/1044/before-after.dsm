@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend,Use,Create]
+7
+0 0 0 0 011000 0 0
+0 0 0 111010 001010 0 0
+0 0 0 0 011000 0 0
+0 111001 0 0 0 011000 100000
+101001 0 101001 011010 0 0 0
+0 0 0 111011 110010 0 101110
+0 0 0 0 111010 0 0
+src.java.org.apache.cassandra.index.sasi.sa.IntegralSA_java
+src.java.org.apache.cassandra.index.sasi.conf.ColumnIndex_java
+src.java.org.apache.cassandra.index.sasi.sa.SuffixSA_java
+src.java.org.apache.cassandra.index.sasi.plan.Expression_java
+src.java.org.apache.cassandra.index.sasi.disk.OnDiskIndexBuilder_java
+src.java.org.apache.cassandra.index.sasi.disk.OnDiskIndex_java
+src.java.org.apache.cassandra.index.sasi.Term_java

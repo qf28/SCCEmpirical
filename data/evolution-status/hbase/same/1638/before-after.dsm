@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+6
+0 0 01100000 0 0 0
+0 0 01100000 0 0 0
+0 0 0 0 11010010 0
+01100001 01100001 01100001 0 01011110 01100001
+0 0 0 11010010 0 0
+0 0 01000000 01100000 01000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.RegionServerTracker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.DrainingServerTracker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterMetaBootstrap_java

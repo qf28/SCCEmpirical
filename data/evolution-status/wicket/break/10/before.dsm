@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Implement]
+2
+0 00100
+00100 0
+wicket-core.src.main.java.org.apache.wicket.settings.IApplicationSettings_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.form.Form_java

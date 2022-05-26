@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01000000
+00000010 0
+src.java.org.apache.cassandra.db.composites.SimpleCType_java
+src.java.org.apache.cassandra.db.composites.AbstractSimpleCellNameType_java

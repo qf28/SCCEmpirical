@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Modify]
+2
+0 00100000
+11100100 0
+src.java.org.apache.cassandra.io.sstable.format.SSTableReader_java
+src.java.org.apache.cassandra.io.sstable.format.big.BigTableWriter_java

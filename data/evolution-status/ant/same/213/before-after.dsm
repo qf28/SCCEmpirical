@@ -1,0 +1,10 @@
+[Call,Typed,Create,Use]
+4
+0 1100 1100 1110
+0 0 0001 0
+0 0 0 1110
+1000 0 0 0
+src.main.org.apache.tools.ant.ProjectHelper_java
+src.main.org.apache.tools.ant.IntrospectionHelper_java
+src.main.org.apache.tools.ant.Task_java
+src.main.org.apache.tools.ant.RuntimeConfigurable_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01000000
+01000000 0
+hbase-zookeeper.src.main.java.org.apache.hadoop.hbase.zookeeper.ZKUtil_java
+hbase-zookeeper.src.main.java.org.apache.hadoop.hbase.zookeeper.MetaTableLocator_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Create]
+2
+0 01100
+00100 0
+src.antidote.org.apache.tools.ant.gui.ProjectProxy_java
+src.antidote.org.apache.tools.ant.gui.AppContext_java

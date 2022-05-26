@@ -1,0 +1,7 @@
+
+1. evolution-status directory contains instances of same, aggregagating, breaking, newly-formed and disappeared SCCs. In each instance, it contains detected SCCs before and after a commit, represented by a matrix(dsm).
+
+2. shape-transition directory contains shapes transition in aggregating and breaking SCCs. In each file, it lists the shapes before and after a commit, with a reference to the instance in evolution-status directory.
+
+3. dependency-changes directory contains 13 kinds of dependency changes in aggregating and breaking SCCs. In subfolder complete-break, it lists complete breaking cases of circle and star SCCs.
+

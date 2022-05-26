@@ -1,0 +1,6 @@
+[Call,Return,Extend,Use]
+2
+0 0100
+1111 0
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Expression_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.SwitchExpr_java

@@ -1,0 +1,6 @@
+[Return,Import,Use,Annotation]
+2
+0 0010
+1000 0
+src.test.java.spoon.test.annotation.testclasses.AnnotationRepeated_java
+src.test.java.spoon.test.annotation.testclasses.AnnotationContainer_java

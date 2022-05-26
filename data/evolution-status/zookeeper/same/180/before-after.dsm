@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0110000000
+0111001000 0
+src.java.main.org.apache.zookeeper.ClientCnxn_java
+src.java.main.org.apache.zookeeper.ClientCnxnSocket_java

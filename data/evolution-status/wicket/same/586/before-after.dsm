@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 01100010 01100010
+01100000 0 0
+01100000 0 0
+wicket.src.java.wicket.util.convert.ConverterRegistry_java
+wicket.src.java.wicket.util.convert.ConversionUtils_java
+wicket.src.java.wicket.util.convert.FormattingUtils_java

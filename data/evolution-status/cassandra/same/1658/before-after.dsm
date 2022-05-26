@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Create,Use]
+4
+0 001100 011001 0
+0 0 010100 0
+010100 011001 0 010001
+0 0 010001 0
+src.java.org.apache.cassandra.service.AntiEntropyService_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.StorageLoadBalancer_java

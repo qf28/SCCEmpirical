@@ -1,0 +1,6 @@
+[Cast,Call,Return,Import,Use,Implement,Parameter,Contain]
+2
+0 00101000
+01001000 0
+src.main.java.com.stripe.model.Customer_java
+src.main.java.com.stripe.model.Card_java

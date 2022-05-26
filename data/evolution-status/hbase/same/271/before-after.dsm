@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 1100000 0
+1000010 0 1110000
+0 1110000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HMobStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.snapshot.SnapshotManifest_java

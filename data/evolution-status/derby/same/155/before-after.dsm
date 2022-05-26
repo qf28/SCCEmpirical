@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1011
+0010 0
+java.engine.org.apache.derby.iapi.sql.dictionary.IndexRowGenerator_java
+java.engine.org.apache.derby.catalog.types.IndexDescriptorImpl_java

@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+6
+0 0110000 0 0100010 0 0
+0 0 0100000 0 0 0
+0 0010001 0 0 0 0001000
+0 0110000 0 0 0 0
+0 1110010 0100000 0100010 0 0
+0100000 1110100 1100100 0 0100000 0
+src.java.org.apache.cassandra.db.rows.RowIterators_java
+src.java.org.apache.cassandra.db.rows.Row_java
+src.java.org.apache.cassandra.db.rows.BTreeRow_java
+src.java.org.apache.cassandra.db.rows.WithOnlyQueriedData_java
+src.java.org.apache.cassandra.db.rows.UnfilteredRowIterators_java
+src.java.org.apache.cassandra.db.partitions.PartitionUpdate_java

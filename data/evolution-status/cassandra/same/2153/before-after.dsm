@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create,Implement]
+3
+0 101000 111011
+111000 0 0
+111100 101000 0
+src.java.org.apache.cassandra.service.CacheService_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.cache.AutoSavingCache_java

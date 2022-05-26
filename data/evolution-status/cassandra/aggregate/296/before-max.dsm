@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use]
+2
+0 00111
+00001 0
+src.java.org.apache.cassandra.db.marshal.IntegerType_java
+src.java.org.apache.cassandra.cql3.CQL3Type_java

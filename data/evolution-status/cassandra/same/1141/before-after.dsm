@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01010100
+01100010 0
+src.java.org.apache.cassandra.utils.btree.Cursor_java
+src.java.org.apache.cassandra.utils.btree.BTree_java

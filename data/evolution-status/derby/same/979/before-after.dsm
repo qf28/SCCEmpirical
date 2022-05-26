@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 11110
+01111 0
+java.engine.org.apache.derby.iapi.types.SQLTimestamp_java
+java.engine.org.apache.derby.iapi.types.SQLDate_java

@@ -1,0 +1,6 @@
+[Typed,Use,Create]
+2
+0 101
+110 0
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.EjbJar_java
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.JonasDeploymentTool_java

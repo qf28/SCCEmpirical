@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Use,Create,Implement]
+7
+0 0 001000 0 0 0 0
+0 0 000100 0 0 010000 0
+0 0 0 0 0 0 000100
+001000 0 0 0 0 0 0
+0 0 000100 0 0 010000 0
+0 0 011100 0 0 0 000100
+011100 011010 011110 000001 011010 011110 0
+src.java.org.apache.cassandra.gms.IEndpointStateChangeSubscriber_java
+src.java.org.apache.cassandra.gms.GossipDigestAckMessage_java
+src.java.org.apache.cassandra.gms.EndpointState_java
+src.java.org.apache.cassandra.gms.IEndpointStateChangePublisher_java
+src.java.org.apache.cassandra.gms.GossipDigestAck2Message_java
+src.java.org.apache.cassandra.gms.GossipDigestSynMessage_java
+src.java.org.apache.cassandra.gms.Gossiper_java

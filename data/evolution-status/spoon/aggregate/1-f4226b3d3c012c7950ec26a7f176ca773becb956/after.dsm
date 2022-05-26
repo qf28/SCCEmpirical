@@ -1,0 +1,6 @@
+[Call,Import,Create,Implement,Parameter]
+2
+0 01001
+11001 0
+src.main.java.spoon.reflect.visitor.CtImportVisitor_java
+src.main.java.spoon.experimental.CtUnresolvedImport_java

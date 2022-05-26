@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0000001000
+0100111000 0
+java.engine.org.apache.derby.impl.sql.compile.DMLModStatementNode_java
+java.engine.org.apache.derby.impl.sql.compile.UpdateNode_java

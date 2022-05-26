@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create,Implement]
+3
+0 110010 0
+010000 0 110101
+010000 0 0
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.ApplicationListenerCollection_java
+wicket-core.src.main.java.org.apache.wicket.IApplicationListener_java

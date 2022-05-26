@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+6
+0 0 0 0 010010000 0
+0 0 0 001001010 0 0
+0 0 0 0 011110000 0
+0 0 0 0 010010000 0
+0 0 111101011 0 0 010001001
+010001111 110101101 001000000 0 010010000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.ImportDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.Comment_java
+javaparser-core.src.main.java.com.github.javaparser.ast.TypeParameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

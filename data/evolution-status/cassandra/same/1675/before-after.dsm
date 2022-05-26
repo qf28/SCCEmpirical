@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Throw,Use]
+3
+0 000001 000001
+101000 0 0
+101000 0 0
+src.java.org.apache.cassandra.service.ClientState_java
+src.java.org.apache.cassandra.auth.PasswordAuthenticator_java
+src.java.org.apache.cassandra.auth.CassandraAuthorizer_java

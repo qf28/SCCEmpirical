@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend,Create,Use]
+7
+0 0 110010 110010 0 0 0
+101000 0 0 0 0 0 0
+110000 0 0 0 101010 101010 0
+110000 0 110000 0 0 0 0
+0 100100 0 0 0 0 0
+011000 0 0 0 0 0 100100
+011000 100100 0 0 0 0 0
+wicket.src.java.wicket.Application_java
+wicket.src.java.wicket.resource.AbstractStringResourceLoader_java
+wicket.src.java.wicket.ApplicationSettings_java
+wicket.src.java.wicket.Localizer_java
+wicket.src.java.wicket.resource.ComponentStringResourceLoader_java
+wicket.src.java.wicket.resource.ApplicationStringResourceLoader_java
+wicket.src.java.wicket.resource.ClassStringResourceLoader_java

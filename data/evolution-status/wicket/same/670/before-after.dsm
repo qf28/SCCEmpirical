@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 011000
+111010 0
+wicket.src.main.java.wicket.markup.html.form.Check_java
+wicket.src.main.java.wicket.markup.html.form.CheckGroup_java

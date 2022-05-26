@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Throw,Create,Use,Implement]
+5
+0 0100010010 0110000100 0 0110000000
+0 0 0 0 0110000000
+0 0100010000 0 0100000100 0110000000
+0 0 0100010000 0 0010000000
+0110000100 0100010000 0110000100 0110000100 0
+contrib.views.hive.src.main.java.org.apache.ambari.view.hive.client.DDLDelegator_java
+contrib.views.hive.src.main.java.org.apache.ambari.view.hive.client.HiveCall_java
+contrib.views.hive.src.main.java.org.apache.ambari.view.hive.client.Cursor_java
+contrib.views.hive.src.main.java.org.apache.ambari.view.hive.client.LogsCursor_java
+contrib.views.hive.src.main.java.org.apache.ambari.view.hive.client.Connection_java

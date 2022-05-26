@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 10000100
+00001000 0
+src.java.org.apache.commons.math.analysis.UnivariateRealSolverFactory_java
+src.java.org.apache.commons.math.analysis.UnivariateRealSolverFactoryImpl_java

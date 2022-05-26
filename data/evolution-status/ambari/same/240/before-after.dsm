@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+5
+0 0 0 0110000 0
+0 0 0 0000100 0
+0 0 0 0 0110000
+0000100 0110000 0 0 0110000
+0 0 0000100 0000100 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.TopologyHostTaskEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.TopologyLogicalRequestEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.TopologyHostInfoEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.TopologyHostRequestEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.TopologyHostGroupEntity_java

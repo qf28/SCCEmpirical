@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 001000000
+110100000 0 011100000
+0 000100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.consensus.BaseCoordinatedStateManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SplitTransaction_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.SplitTransactionCoordination_java

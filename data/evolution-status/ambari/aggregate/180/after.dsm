@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 01000010 01000010
+01001000 0 0
+01001000 0 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.AbstractControllerResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.RequestScheduleResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ConfigGroupResourceProvider_java

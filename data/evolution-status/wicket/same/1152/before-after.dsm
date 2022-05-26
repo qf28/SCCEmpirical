@@ -1,0 +1,6 @@
+[Typed,Import,Create,Use]
+2
+0 0100
+0100 0
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.request.cycle.IRequestCycleListener_java

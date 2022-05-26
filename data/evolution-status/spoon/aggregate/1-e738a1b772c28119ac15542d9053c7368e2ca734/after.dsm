@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Extend,Use,Implement,Parameter,Contain,Annotation]
+6
+0 0100010000 0 0 0100110000 0010000001
+0 0 0 0 0 0010000001
+0100110000 0100000000 0 0110010000 0100000000 0010000001
+0 0 0 0 0 0010000001
+0 0100110000 0 0 0 0010000001
+0 0 0010000000 0 0 0
+src.main.java.spoon.support.reflect.declaration.CtTypeImpl_java
+src.main.java.spoon.support.reflect.declaration.CtElementImpl_java
+src.main.java.spoon.support.reflect.declaration.CtClassImpl_java
+src.main.java.spoon.support.reflect.code.CtStatementImpl_java
+src.main.java.spoon.support.reflect.declaration.CtNamedElementImpl_java
+src.main.java.spoon.reflect.annotations.MetamodelPropertyField_java

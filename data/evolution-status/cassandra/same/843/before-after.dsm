@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 01000000
+01100011 0
+src.java.org.apache.cassandra.hadoop.ColumnFamilyRecordReader_java
+src.java.org.apache.cassandra.hadoop.ColumnFamilyInputFormat_java

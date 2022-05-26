@@ -1,0 +1,28 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+13
+0 0 110000100 0 110000100 0 0 0 0 0 0 111000100 0
+0 0 0 0 0 111100000 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 011100000
+0 0 0 0 0 001100000 0 0 0 0 0 0 0
+0 0 001000000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 010100010 0 0
+0 0 0 011000010 0 111100000 0 000010100 000000100 0 0 0 0
+0 0 0 011000010 0 111100000 000011100 0 0 0 0 0 0
+0 000000100 0 0 0 011100100 0 000000100 0 0 0 0 0
+0 0 011000010 0 011000010 011100000 0 0 0 0 0 011000010 011000010
+000100000 0 0 0 0 011100000 0 0 0 011100010 0 0 0
+0 0 0 0 011000010 011100010 0 000100100 0 0 0 0 0
+0 0 0 0 0 010100000 0 0 0 0 0 0 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PlanPrinter_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigCombiner_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POSort_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReducePOStoreImpl_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POForEach_java
+src.org.apache.pig.impl.PigContext_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapBase_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapReduce_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.LogToPhyTranslationVisitor_java
+src.org.apache.pig.backend.hadoop.executionengine.HExecutionEngine_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POFRJoin_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.expressionOperators.POUserComparisonFunc_java

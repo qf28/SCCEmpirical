@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+6
+0 0000000010 0000000010 0 0000000010 0000000010
+0110000010 0 0111001011 0110000010 0 0
+0110000010 0 0 0110000010 0100011000 0
+0 0000000010 0000000010 0 0000000010 0000000010
+0110000010 0 0101100000 0110000010 0 0
+0110000010 0100011011 0010000000 0110000010 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.ImportDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.NameExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.QualifiedNameExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

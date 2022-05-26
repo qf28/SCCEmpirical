@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+4
+0 0100101 0 1110001
+0 0 0 1110001
+0 0100101 0 1110001
+0010010 0110010 0010010 0
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.optional.ejb.WeblogicDeploymentTool_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.optional.ejb.GenericDeploymentTool_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.optional.ejb.WebsphereDeploymentTool_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.optional.ejb.EjbJar_java

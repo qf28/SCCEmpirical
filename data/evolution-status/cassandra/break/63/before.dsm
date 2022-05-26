@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 10100000 01000000
+01000001 0 0
+0 01100000 0
+src.java.org.apache.cassandra.db.CompactSerializerInvocationHandler_java
+src.java.org.apache.cassandra.db.ColumnFamily_java
+src.java.org.apache.cassandra.db.ColumnIndexer_java

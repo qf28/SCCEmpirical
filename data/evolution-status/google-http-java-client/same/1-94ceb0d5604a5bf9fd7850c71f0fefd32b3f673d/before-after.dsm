@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Parameter,Contain]
+3
+0 000100000 0
+010100000 0 010101000
+010000011 010100111 0
+google-http-client.src.main.java.com.google.api.client.json.JsonParser_java
+google-http-client.src.main.java.com.google.api.client.json.JsonFactory_java
+google-http-client.src.main.java.com.google.api.client.json.JsonObjectParser_java

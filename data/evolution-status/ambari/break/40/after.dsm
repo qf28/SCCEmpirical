@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 0 0 0 0
+1100000 0 0 0 0
+0 0 0 0 0
+0 1110000 1110000 0 0
+0 0 0 1110000 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.dao.AlertDispatchDAO_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.dao.AlertDefinitionDAO_java
+ambari-server.src.main.java.org.apache.ambari.server.metadata.AmbariServiceAlertDefinitions_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.AmbariMetaInfo_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.RootServiceResponseFactory_java

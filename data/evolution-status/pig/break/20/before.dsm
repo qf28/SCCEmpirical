@@ -1,0 +1,28 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+13
+0 0 010000010 010000010 010000010 010000010 010000010 0 011000000 0 011000010 0 010000010
+000100100 0 0 0 0 0 0 0 0 0 0 0 0
+0 000011100 0 0 0 0 0 0 0 0 0 0 0
+0 000011100 0 0 0 0 0 0 0 0 0 0 0
+0 000011100 0 0 0 0 0 0 0 0 0 0 0
+0 000011100 0 0 0 0 0 0 0 0 0 0 0
+0 000011100 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 011100000 111100000 0 0 0
+0 0 010000010 010000010 010000010 010000010 010000010 000100000 0 0 010000010 000000010 010000010
+0 0 0 0 0 0 0 0 011100000 0 0 0 0
+000100100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 000001000 0 0 0 0
+0 000011100 0 0 0 0 0 0 0 0 0 0 0
+src.org.apache.pig.data.BinInterSedes_java
+src.org.apache.pig.data.PrimitiveFieldTuple_java
+src.org.apache.pig.data.PBooleanTuple_java
+src.org.apache.pig.data.PLongTuple_java
+src.org.apache.pig.data.PIntTuple_java
+src.org.apache.pig.data.PDoubleTuple_java
+src.org.apache.pig.data.PStringTuple_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigTupleDefaultRawComparator_java
+src.org.apache.pig.data.TupleFactory_java
+src.org.apache.pig.impl.io.NullableTuple_java
+src.org.apache.pig.data.PrimitiveTuple_java
+src.org.apache.pig.data.BinSedesTupleFactory_java
+src.org.apache.pig.data.PFloatTuple_java

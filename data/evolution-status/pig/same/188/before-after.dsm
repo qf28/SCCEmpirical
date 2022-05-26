@@ -1,0 +1,10 @@
+[Call,Typed,Set,Import,Extend,Use,Create,Modify]
+4
+0 11000000 0 0
+0 0 0 10000010
+10101101 0 0 0
+0 10001000 10000010 0
+src.org.apache.pig.data.DefaultAbstractBag_java
+src.org.apache.pig.data.BagFactory_java
+src.org.apache.pig.data.DistinctDataBag_java
+src.org.apache.pig.data.DefaultBagFactory_java

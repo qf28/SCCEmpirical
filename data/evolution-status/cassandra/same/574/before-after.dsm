@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0 00110000
+00100001 0 00110010
+01100010 00000010 0
+src.java.org.apache.cassandra.db.composites.Composite_java
+src.java.org.apache.cassandra.db.composites.Composites_java
+src.java.org.apache.cassandra.db.filter.ColumnSlice_java

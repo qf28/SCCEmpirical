@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create]
+4
+0 101100 100001 0
+001010 0 0 100001
+0 011010 0 101100
+0 110010 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterAnnotationReadingPriorityFunction_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.AnnotationReadingPriorityFunction_java

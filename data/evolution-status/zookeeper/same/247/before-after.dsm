@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 1000010 1000010
+1111001 0 0
+1111001 0 0
+src.java.main.org.apache.zookeeper.server.quorum.QuorumPeer_java
+src.java.main.org.apache.zookeeper.server.quorum.LeaderElection_java
+src.java.main.org.apache.zookeeper.server.quorum.FastLeaderElection_java

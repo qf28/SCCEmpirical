@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 010100010 0
+0 0 010100000
+010100000 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.triggers.TriggerExecutor_java
+src.java.org.apache.cassandra.cql.QueryProcessor_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+3
+0 1111010 0110000
+0 0 0001010
+0110000 0 0
+ambari-server.src.main.java.org.apache.ambari.server.state.UpgradeContext_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.PreUpgradeCheckResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.state.UpgradeHelper_java

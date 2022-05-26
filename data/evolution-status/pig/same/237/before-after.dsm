@@ -1,0 +1,6 @@
+[Call,Import]
+2
+0 11
+01 0
+src.org.apache.pig.impl.io.SequenceFileInterStorage_java
+src.org.apache.pig.impl.util.Utils_java

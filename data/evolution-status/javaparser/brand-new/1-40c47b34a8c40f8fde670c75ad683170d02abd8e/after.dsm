@@ -1,0 +1,8 @@
+[Call,Return,Import,Use,Create,Parameter,Contain]
+3
+0 0101011 0
+1001110 0 1101011
+0 1001111 0
+javaparser-core.src.main.java.com.github.javaparser.model.FieldMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.model.NodeMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.model.JavaParserMetaModel_java

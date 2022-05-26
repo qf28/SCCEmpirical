@@ -1,0 +1,10 @@
+[Call,Import,Use]
+4
+0 0 110 0
+0 0 110 0
+010 010 0 010
+0 0 110 0
+src.org.apache.pig.impl.io.SequenceFileInterStorage_java
+src.org.apache.pig.impl.io.TFileStorage_java
+src.org.apache.pig.impl.util.Utils_java
+src.org.apache.pig.impl.io.InterStorage_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 0010010
+1110100 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.StackConfigurationResponse_java
+ambari-server.src.main.java.org.apache.ambari.server.state.PropertyInfo_java

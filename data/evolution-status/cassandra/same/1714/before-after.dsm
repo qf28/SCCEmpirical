@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0 1100010
+1100000 0 0
+1100010 1100010 0
+src.java.org.apache.cassandra.service.DataResolver_java
+src.java.org.apache.cassandra.service.AsyncRepairCallback_java
+src.java.org.apache.cassandra.service.ReadCallback_java

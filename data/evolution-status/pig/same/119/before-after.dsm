@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+5
+0 0001010 0 0111101 0101010
+0 0 0 0001000 0
+0 0 0 1011000 0
+0011010 0001000 0 0 0
+0011010 0 0111010 0111000 0
+src.org.apache.pig.PigServer_java
+src.org.apache.pig.impl.mapreduceExec.MapReduceLauncher_java
+src.org.apache.pig.impl.mapreduceExec.PigInputFormat_java
+src.org.apache.pig.impl.PigContext_java
+src.org.apache.pig.impl.io.FileLocalizer_java

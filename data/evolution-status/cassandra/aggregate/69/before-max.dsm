@@ -1,0 +1,24 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+11
+0 0 0 0 0 0 0 0 0 0 11101100
+0 0 0 01011000 0 01110000 0 0 0 0 01110000
+0 0 0 0 01001100 00100100 01100100 01100000 0 01100000 0
+0 0 0 0 01000000 00100100 0 0 01001000 0 11100110
+0 0 0 0 0 01000010 11100101 0 0 0 0
+0 01110000 0 0 01001100 0 01100100 0 0 0 0
+0 0 11100100 0 01000000 11100110 0 01100000 0 0 0
+0 0 0 0 01000000 00100000 01100100 0 0 01100000 0
+01001000 01110000 0 0 0 0 0 0 0 0 01100101
+0 0 01100100 0 0 01100110 0 01100000 0 0 0
+0 00110000 0 0 0 0 0 0 00000010 0 0
+src.java.org.apache.cassandra.db.rows.AbstractCell_java
+src.java.org.apache.cassandra.utils.memory.AbstractAllocator_java
+src.java.org.apache.cassandra.db.Slice_java
+src.java.org.apache.cassandra.db.rows.BTreeRow_java
+src.java.org.apache.cassandra.db.AbstractClusteringPrefix_java
+src.java.org.apache.cassandra.db.Clustering_java
+src.java.org.apache.cassandra.db.ClusteringPrefix_java
+src.java.org.apache.cassandra.db.ClusteringComparator_java
+src.java.org.apache.cassandra.db.rows.BufferCell_java
+src.java.org.apache.cassandra.db.CBuilder_java
+src.java.org.apache.cassandra.db.rows.Cell_java

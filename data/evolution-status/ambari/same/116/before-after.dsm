@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 000110
+010100 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.HostComponentResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariManagementControllerImpl_java

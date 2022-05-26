@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+8
+0 0 0 0 0 0 01000101 00000001
+0 0 0 0 0 0 01000101 00000001
+0 0 0 0 0 0 01000101 00000001
+0 0 0 0 0 0 01000101 00000001
+0 0 0 0 0 0 01000101 00000001
+0 0 0 0 0 0 01000101 00000001
+0 0 0 0 0 0 0 01100000
+00000001 00000001 00000001 00000001 00000001 00000001 00000001 0
+ambari-server.src.main.java.org.apache.ambari.server.checks.HostsRepositoryVersionCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.HiveDynamicServiceDiscoveryCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.HostsMasterMaintenanceCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.ServicesMapReduceDistributedCacheCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.ServicesTezDistributedCacheCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.ClientRetryPropertyCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.AbstractCheckDescriptor_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.CheckDescription_java

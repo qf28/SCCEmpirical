@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create]
+4
+0 0 111000 101000
+0 0 011010 001010
+111000 011000 0 0
+0 0 001000 0
+ambari-logsearch.ambari-logsearch-portal.src.main.java.org.apache.ambari.logsearch.dao.SolrDaoBase_java
+ambari-logsearch.ambari-logsearch-portal.src.main.java.org.apache.ambari.logsearch.query.QueryGeneration_java
+ambari-logsearch.ambari-logsearch-portal.src.main.java.org.apache.ambari.logsearch.manager.MgrBase_java
+ambari-logsearch.ambari-logsearch-portal.src.main.java.org.apache.ambari.logsearch.util.ConfigUtil_java

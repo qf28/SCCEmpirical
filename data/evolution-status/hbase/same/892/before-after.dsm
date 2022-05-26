@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 001000000
+001100001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.Cacheable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.CacheableDeserializer_java

@@ -1,0 +1,6 @@
+[Create,Use]
+2
+0 10
+01 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.tool.PreUpgradeValidator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.tool.DataBlockEncodingValidator_java

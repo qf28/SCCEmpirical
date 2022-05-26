@@ -1,0 +1,12 @@
+[Call,Typed,Use,Create]
+5
+0 0 1111 0 0
+0 0 0 1100 0
+0 0 0 1110 0
+0 0 0 0 0010
+1110 1001 1100 1101 0
+ambari-server.src.main.java.org.apache.ambari.server.topology.LogicalRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.ClusterTopologyImpl_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.HostRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.AmbariContext_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.TopologyManager_java

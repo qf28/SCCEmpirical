@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+6
+0 11100010 0 0 0 0
+01000000 0 0 0 0 0
+0 00010010 0 11100010 0 0
+0 01110000 11101011 0 00010000 0
+0 0 01011000 0 0 0
+0 0 01110010 0 0 0
+wicket.src.main.java.org.apache.wicket.Session_java
+wicket.src.main.java.org.apache.wicket.Page_java
+wicket.src.main.java.org.apache.wicket.markup.html.form.FormComponent_java
+wicket.src.main.java.org.apache.wicket.markup.html.form.Form_java
+wicket.src.main.java.org.apache.wicket.markup.html.form.upload.FileUploadField_java
+wicket.src.main.java.org.apache.wicket.markup.html.form.persistence.CookieValuePersister_java

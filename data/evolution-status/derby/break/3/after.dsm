@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Set,Use,Create]
+3
+0 111111 0
+001000 0 0
+011001 0 0
+java.engine.org.apache.derby.jdbc.EmbedXAResource_java
+java.engine.org.apache.derby.jdbc.XATransactionState_java
+java.engine.org.apache.derby.jdbc.EmbedXAConnection_java

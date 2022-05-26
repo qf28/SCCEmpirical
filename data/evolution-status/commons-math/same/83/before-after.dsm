@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0100010
+0100010 0
+src.main.java.org.apache.commons.math4.geometry.euclidean.threed.Vector3DFormat_java
+src.main.java.org.apache.commons.math4.geometry.euclidean.threed.Cartesian3D_java

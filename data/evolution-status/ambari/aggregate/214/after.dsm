@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+4
+0 0 0 0111000000
+0 0 0 0111000000
+0 0 0 0111000000
+0101000000 0101000000 0101000000 0
+ambari-logsearch.ambari-logsearch-logfeeder.src.main.java.org.apache.ambari.logfeeder.input.file.ResumeLineNumberHelper_java
+ambari-logsearch.ambari-logsearch-logfeeder.src.main.java.org.apache.ambari.logfeeder.input.file.ProcessFileHelper_java
+ambari-logsearch.ambari-logsearch-logfeeder.src.main.java.org.apache.ambari.logfeeder.input.file.FileCheckInHelper_java
+ambari-logsearch.ambari-logsearch-logfeeder.src.main.java.org.apache.ambari.logfeeder.input.InputFile_java

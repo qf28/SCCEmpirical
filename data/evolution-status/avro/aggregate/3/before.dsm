@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+5
+0 0 0 0 0
+0100110 0 0 0 0
+0 0011000 0 0 0
+0 0011000 0110001 0 0
+0 0111011 0 0111001 0
+lang.java.avro.src.main.java.org.apache.avro.JsonProperties_java
+lang.java.avro.src.main.java.org.apache.avro.Schema_java
+lang.java.avro.src.main.java.org.apache.avro.io.JsonEncoder_java
+lang.java.avro.src.main.java.org.apache.avro.io.EncoderFactory_java
+lang.java.avro.src.main.java.org.apache.avro.io.parsing.ResolvingGrammarGenerator_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+3
+0 0 0110000
+0 0 0110000
+0100010 0100010 0
+wicket-examples.src.java.wicket.examples.hangman.Lose_java
+wicket-examples.src.java.wicket.examples.hangman.Win_java
+wicket-examples.src.java.wicket.examples.hangman.Guess_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 0
+11000 0
+src.main.org.apache.tools.ant.util.FileUtils_java
+src.main.org.apache.tools.ant.util.SymbolicLinkUtils_java

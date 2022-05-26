@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+4
+0 00010001 0 01110000
+0 0 0 00110000
+0 00010001 0 01110000
+01010110 11010010 01010100 0
+wicket.src.java.wicket.request.target.PageRequestTarget_java
+wicket.src.java.wicket.request.target.mixin.IAccessCheck_java
+wicket.src.java.wicket.request.target.BookmarkablePageRequestTarget_java
+wicket.src.java.wicket.RequestCycle_java

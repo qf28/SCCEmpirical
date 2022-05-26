@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 0 111011
+001010 0 0
+0 101100 0
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.monkies.PolicyBasedChaosMonkey_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.actions.Action_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.policies.Policy_java

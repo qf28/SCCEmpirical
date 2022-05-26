@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Create,Use,Modify]
+2
+0 1100010
+1100010 0
+src.java.org.apache.cassandra.transport.Message_java
+src.java.org.apache.cassandra.transport.Frame_java

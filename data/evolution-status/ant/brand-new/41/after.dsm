@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+7
+0 00100000 00100000 0 00100000 00100000 00100000
+0 0 0 01001000 0 0 0
+0 0 0 01001000 0 0 0
+11100101 00100000 00100000 0 00100000 00100000 00100000
+0 0 0 01001000 0 0 0
+0 0 0 01001000 0 0 0
+0 01001000 0 01000000 0 0 0
+src.main.org.apache.tools.ant.types.selectors.SelectorContainer_java
+src.main.org.apache.tools.ant.types.selectors.NoneSelector_java
+src.main.org.apache.tools.ant.types.selectors.AndSelector_java
+src.main.org.apache.tools.ant.types.selectors.BaseSelectorContainer_java
+src.main.org.apache.tools.ant.types.selectors.OrSelector_java
+src.main.org.apache.tools.ant.types.selectors.MajoritySelector_java
+src.main.org.apache.tools.ant.types.selectors.NotSelector_java

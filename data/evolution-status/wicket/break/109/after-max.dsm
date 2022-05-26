@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+6
+0 0 0 01110000 00110000 0
+0 0 0 11110010 10110010 0
+01000100 0 0 11110000 01110000 01110100
+0 00010000 01010100 0 01111010 0
+0 0 0 01110000 0 0
+0 11010010 0 11110010 00010010 0
+wicket-core.src.main.java.org.apache.wicket.core.request.handler.ListenerInvocationNotAllowedException_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.form.Form_java
+wicket-core.src.main.java.org.apache.wicket.core.request.handler.ListenerInterfaceRequestHandler_java
+wicket-core.src.main.java.org.apache.wicket.Component_java
+wicket-core.src.main.java.org.apache.wicket.behavior.Behavior_java
+wicket-core.src.main.java.org.apache.wicket.core.request.handler.logger.ListenerInterfaceLogData_java

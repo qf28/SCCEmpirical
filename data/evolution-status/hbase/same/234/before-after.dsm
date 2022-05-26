@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Use,Create]
+2
+0 11010
+10001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.MetricsHBaseServerWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.RpcServer_java

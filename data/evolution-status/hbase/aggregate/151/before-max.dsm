@@ -1,0 +1,6 @@
+[Call,Typed,Set,Extend,Create,Use]
+2
+0 110000
+110000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionSplitPolicy_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

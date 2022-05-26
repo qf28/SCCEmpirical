@@ -1,0 +1,6 @@
+[Cast,Call,Return,Import,Use,Create,Parameter,Contain]
+2
+0 00111010
+11011001 0
+javaparser-core.src.main.java.com.github.javaparser.ast.nodeTypes.NodeWithVariables_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.VariableDeclarator_java

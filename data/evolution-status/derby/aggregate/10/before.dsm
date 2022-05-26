@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 0 0 0
+011000 0 0 0
+011011 011001 0 111010
+011011 0 011001 0
+java.engine.org.apache.derby.impl.services.bytecode.CodeChunk_java
+java.engine.org.apache.derby.impl.services.bytecode.Conditional_java
+java.engine.org.apache.derby.impl.services.bytecode.BCMethod_java
+java.engine.org.apache.derby.impl.services.bytecode.BCClass_java

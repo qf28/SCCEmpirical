@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Use]
+3
+0 10000 0
+0 0 11110
+10010 10000 0
+zookeeper-server.src.main.java.org.apache.zookeeper.server.NodeHashMapImpl_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.ZooKeeperServer_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.DataTree_java

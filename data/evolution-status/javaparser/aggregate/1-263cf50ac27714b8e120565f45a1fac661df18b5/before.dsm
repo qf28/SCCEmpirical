@@ -1,0 +1,6 @@
+[Call,Import,Return,Use,Implement,Parameter,Contain]
+2
+0 0
+0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.observing.Observable_java
+javaparser-core.src.main.java.com.github.javaparser.ast.NodeList_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 1100100
+0100000 0
+ambari-server.src.main.java.org.apache.ambari.server.serveraction.kerberos.stageutils.ResolvedKerberosKeytab_java
+ambari-server.src.main.java.org.apache.ambari.server.serveraction.kerberos.stageutils.ResolvedKerberosPrincipal_java

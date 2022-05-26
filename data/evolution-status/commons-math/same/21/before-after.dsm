@@ -1,0 +1,8 @@
+[Typed]
+3
+0 1 1
+0 0 1
+1 1 0
+src.main.java.org.apache.commons.math3.geometry.partitioning.Region_java
+src.main.java.org.apache.commons.math3.geometry.partitioning.SubHyperplane_java
+src.main.java.org.apache.commons.math3.geometry.partitioning.Hyperplane_java

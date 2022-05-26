@@ -1,0 +1,12 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+5
+0 0 110001000 0 0
+0 0 111001000 0 101000000
+0 011000000 0 100000000 111000000
+110001100 0 110001000 0 101000000
+0 0 011000000 0 0
+src.main.org.apache.tools.ant.AntTypeDefinition_java
+src.main.org.apache.tools.ant.types.Path_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.ComponentHelper_java
+src.main.org.apache.tools.ant.util.FileUtils_java

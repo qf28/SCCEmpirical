@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use]
+2
+0 11100
+01001 0
+src.java.org.apache.cassandra.db.ReadCommand_java
+src.java.org.apache.cassandra.index.Index_java

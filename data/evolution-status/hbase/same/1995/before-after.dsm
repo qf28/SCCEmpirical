@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Throw,Create,Use]
+3
+0 1010010 0
+1110010 0 1110001
+0 1010000 0
+src.java.org.apache.hadoop.hbase.master.HMaster_java
+src.java.org.apache.hadoop.hbase.LocalHBaseCluster_java
+src.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

@@ -1,0 +1,8 @@
+[Call,Import,Extend,Use,Create,Contain]
+3
+0 100100 100010
+100010 0 100010
+100110 100100 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistUtils_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistClassDeclaration_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 01100010 01000000
+00010010 0 0
+0 01100010 0
+src.java.org.apache.cassandra.db.Directories_java
+src.java.org.apache.cassandra.io.sstable.Descriptor_java
+src.java.org.apache.cassandra.io.sstable.SSTable_java

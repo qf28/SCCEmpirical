@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+3
+0 0 0110000
+0 0 0110000
+0110000 0010000 0
+src.org.apache.pig.impl.logicalLayer.LOSort_java
+src.org.apache.pig.impl.logicalLayer.LOLimit_java
+src.org.apache.pig.impl.logicalLayer.LOVisitor_java

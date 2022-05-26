@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 011000
+011100 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PhyPlanVisitor_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POLocalRearrange_java

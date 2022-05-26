@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use]
+4
+0 0 0 0
+01100 0 0 0
+01100 01100 0 0
+0 0 11111 0
+src.main.org.apache.tools.ant.IntrospectionHelper_java
+src.main.org.apache.tools.ant.RuntimeConfigurable_java
+src.main.org.apache.tools.ant.UnknownElement_java
+src.main.org.apache.tools.ant.taskdefs.PreSetDef_java

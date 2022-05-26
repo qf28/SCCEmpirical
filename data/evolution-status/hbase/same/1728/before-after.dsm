@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 11001 0 0
+11001 0 11001 11111
+0 0 0 11000
+0 11000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncProcess_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionImplementation_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.MetaCache_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.MetricsConnection_java

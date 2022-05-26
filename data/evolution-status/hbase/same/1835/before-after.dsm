@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 0 0 010100000
+0 0 011000100 0 0
+0 011000110 0 0 011100100
+0 0 0 0 010100000
+010100000 0 010100000 000100100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.FSHLog_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.ZKSplitLogManagerCoordination_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.WALSplitter_java

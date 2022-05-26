@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 00100000
+00100000 0
+ambari-server.src.main.java.org.apache.ambari.server.api.services.groups.GroupPrivilegeService_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.GroupPrivilegeResponse_java

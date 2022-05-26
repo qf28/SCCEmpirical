@@ -1,0 +1,6 @@
+[Cast,Call,Import,Use,Create]
+2
+0 11110
+01110 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ContextHelper_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java

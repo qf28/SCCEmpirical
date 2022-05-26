@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 0 10100
+10110 0 10000
+10110 01000 0
+src.main.java.org.apache.hadoop.hbase.regionserver.metrics.SchemaMetrics_java
+src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

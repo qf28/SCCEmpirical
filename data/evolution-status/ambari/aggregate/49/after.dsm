@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 00100
+11111 0
+ambari-server.src.main.java.org.apache.ambari.server.state.UpgradeHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.UpgradeResourceProvider_java

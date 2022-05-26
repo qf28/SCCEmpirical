@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 1110000 0000010
+0010000 0 0
+0 1100000 0
+wicket.src.java.wicket.protocol.http.WicketServlet_java
+wicket.src.java.wicket.protocol.http.WebApplication_java
+wicket.src.java.wicket.protocol.http.WebRequestCycle_java

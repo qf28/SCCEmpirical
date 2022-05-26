@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain,Annotation]
+2
+0 01000100000
+01000000100 0
+src.main.java.org.eclipse.persistence.json.bind.JsonBindingBuilder_java
+src.main.java.org.eclipse.persistence.json.bind.JsonBinding_java

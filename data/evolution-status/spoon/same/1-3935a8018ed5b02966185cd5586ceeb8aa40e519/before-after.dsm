@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+2
+0 00110000000
+00110000000 0
+src.main.java.spoon.reflect.code.CtCatchVariable_java
+src.main.java.spoon.reflect.reference.CtCatchVariableReference_java

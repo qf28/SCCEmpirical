@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 000001
+100010 0
+java.engine.org.apache.derby.iapi.types.SQLBlob_java
+java.engine.org.apache.derby.iapi.types.TypeId_java

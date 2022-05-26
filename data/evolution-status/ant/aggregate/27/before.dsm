@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Extend,Use,Create]
+4
+0 0 0 0
+001000 0 001011 0
+011001 001000 0 0
+011000 0 111110 0
+src.main.org.apache.tools.ant.RuntimeConfigurable_java
+src.main.org.apache.tools.ant.Target_java
+src.main.org.apache.tools.ant.Task_java
+src.main.org.apache.tools.ant.UnknownElement_java

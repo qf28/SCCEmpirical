@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+4
+0 1000000 1110010 1110010
+1010000 0 0 0
+0 1001101 0 0
+1010000 1001101 1100000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.shaded.protobuf.ProtobufUtil_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.Query_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.Get_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.Scan_java

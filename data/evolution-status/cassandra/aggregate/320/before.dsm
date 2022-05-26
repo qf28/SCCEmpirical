@@ -1,0 +1,20 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+9
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+0010001 1110100 0 0 0 0 0 0 0
+0 0 1110100 0 0 0 0 0 0
+0 0 0 1110010 0 0 0 0 0
+0000001 1100100 0 0 0 0 0 0 0
+0 0 0 0 0 1001000 0 0 0
+0 0 0 0 0 0 1011000 0 0
+0 1110110 0 1110010 0000100 1000000 0 1100010 0
+src.java.org.apache.cassandra.utils.concurrent.SharedCloseable_java
+src.java.org.apache.cassandra.utils.concurrent.Ref_java
+src.java.org.apache.cassandra.io.util.SafeMemory_java
+src.java.org.apache.cassandra.io.compress.CompressionMetadata_java
+src.java.org.apache.cassandra.io.util.CompressedSegmentedFile_java
+src.java.org.apache.cassandra.utils.concurrent.SharedCloseableImpl_java
+src.java.org.apache.cassandra.utils.concurrent.WrappedSharedCloseable_java
+src.java.org.apache.cassandra.io.sstable.IndexSummary_java
+src.java.org.apache.cassandra.io.sstable.format.SSTableReader_java

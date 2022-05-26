@@ -1,0 +1,8 @@
+[Call,Import,Create,Use,Parameter,Contain]
+3
+0 0 000111
+0 0 000111
+101000 101000 0
+google-http-client-android3.src.main.java.com.google.api.client.extensions.android3.json.AndroidJsonGenerator_java
+google-http-client-android3.src.main.java.com.google.api.client.extensions.android3.json.AndroidJsonParser_java
+google-http-client-android3.src.main.java.com.google.api.client.extensions.android3.json.AndroidJsonFactory_java

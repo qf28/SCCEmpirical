@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use]
+4
+0 1011 0 0
+1010 0 1101 1010
+1000 1001 0 1010
+1010 1011 0 0
+src.java.org.apache.cassandra.utils.JVMStabilityInspector_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.CassandraDaemon_java
+src.java.org.apache.cassandra.io.util.FileUtils_java

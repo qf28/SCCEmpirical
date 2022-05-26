@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+5
+0 0 0 0001010 0
+0100000 0 1111100 0 0
+0 0 0 0001100 0001100
+0 0111000 1101100 0 0
+0 0 0001010 0001100 0
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.MarkupContainer_java
+wicket-core.src.main.java.org.apache.wicket.markup.WicketTag_java
+wicket-core.src.main.java.org.apache.wicket.markup.resolver.WicketContainerResolver_java
+wicket-core.src.main.java.org.apache.wicket.markup.parser.filter.WicketTagIdentifier_java

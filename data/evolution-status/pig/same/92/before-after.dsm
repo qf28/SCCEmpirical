@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 01110010
+01110001 0
+src.org.apache.pig.backend.hadoop.executionengine.tez.plan.optimizer.TezOperDependencyParallelismEstimator_java
+src.org.apache.pig.backend.hadoop.executionengine.tez.plan.TezOperator_java

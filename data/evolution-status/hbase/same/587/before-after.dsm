@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw]
+6
+0 010100000 011100110 0 011000010 011000010
+000100000 0 0 0 0 0
+0 0 0 000100000 0 0
+0 010100010 011100010 0 0 0
+0 010100000 011100110 0 0 0
+0 0 011100100 0 0 0
+src.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+src.java.org.apache.hadoop.hbase.util.FSUtils_java
+src.java.org.apache.hadoop.hbase.KeyValue_java
+src.java.org.apache.hadoop.hbase.io.hfile.HFile_java
+src.java.org.apache.hadoop.hbase.regionserver.HLog_java
+src.java.org.apache.hadoop.hbase.regionserver.KeyValueHeap_java

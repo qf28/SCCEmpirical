@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+3
+0 0 0
+0 0 0
+0111000100 0111000100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.encoding.HFileBlockDefaultEncodingContext_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.encoding.HFileBlockDefaultDecodingContext_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlock_java

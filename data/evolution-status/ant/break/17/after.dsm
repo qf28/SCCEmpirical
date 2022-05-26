@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Create]
+3
+0 0111 0
+0110 0 0
+0111 0 0
+proposal.anteater.source.main.org.apache.ant.Project_java
+proposal.anteater.source.main.org.apache.ant.TaskManager_java
+proposal.anteater.source.main.org.apache.ant.ProjectBuilder_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+3
+0 0111000 0011010
+0 0 0111010
+0100001 0110011 0
+src.java.main.org.apache.zookeeper.server.quorum.LeaderBean_java
+src.java.main.org.apache.zookeeper.server.quorum.LearnerHandler_java
+src.java.main.org.apache.zookeeper.server.quorum.Leader_java

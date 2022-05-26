@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 10100100 0
+00000010 0 00000010
+0 10000100 0
+src.java.org.apache.cassandra.db.ReadVerbHandler_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.RangeSliceVerbHandler_java

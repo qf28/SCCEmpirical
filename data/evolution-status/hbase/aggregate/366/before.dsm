@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 011000100 011100010 011000010 000000101
+011000110 0 011100000 0 011000100
+011100000 011100000 0 0 0
+011000100 010000000 0 0 0
+0 001000000 001100000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.compactions.CompactionRequest_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Compactor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Store_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Modify]
+2
+0 00010101
+00000100 0
+java.client.org.apache.derby.jdbc.ClientBaseDataSource_java
+java.client.org.apache.derby.client.am.Configuration_java

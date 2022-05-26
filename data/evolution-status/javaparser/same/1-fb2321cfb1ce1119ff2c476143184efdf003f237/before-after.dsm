@@ -1,0 +1,8 @@
+[Call,Use,Create,Contain]
+3
+0 1010 0
+0 0 1111
+1100 0 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistUtils_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistMethodDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistMethodLikeDeclarationAdapter_java

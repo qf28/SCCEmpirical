@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 001100100 0 010001000 0 0 0
+001000000 0 001000000 001000000 001000000 001000000 0
+011000010 011000100 0 0 011000010 011000010 0
+0 001100000 0 0 0 0 0
+0 001100100 0 010001000 0 0 0
+0 001100100 0 010001000 0 0 0
+0 011100000 0 0 0 0 0
+java.engine.org.apache.derby.iapi.sql.dictionary.TablePermsDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.DataDictionary_java
+java.engine.org.apache.derby.iapi.sql.dictionary.DataDescriptorGenerator_java
+java.engine.org.apache.derby.iapi.sql.dictionary.PermissionsDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.RoutinePermsDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.ColPermsDescriptor_java
+java.engine.org.apache.derby.impl.sql.catalog.DDdependableFinder_java

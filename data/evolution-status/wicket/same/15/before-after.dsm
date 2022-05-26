@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 0 001000
+111000 0 101000
+111110 101001 0
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.session.HttpSessionStore_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.WebApplication_java

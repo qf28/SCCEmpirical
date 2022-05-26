@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement,Modify]
+2
+0 01101000
+11101100 0
+src.java.org.apache.cassandra.metrics.ConnectionMetrics_java
+src.java.org.apache.cassandra.net.OutboundTcpConnectionPool_java

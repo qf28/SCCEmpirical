@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 01100011
+01100001 0
+hbase-prefix-tree.src.main.java.org.apache.hadoop.hbase.codec.prefixtree.encode.tokenize.Tokenizer_java
+hbase-prefix-tree.src.main.java.org.apache.hadoop.hbase.codec.prefixtree.encode.tokenize.TokenizerNode_java

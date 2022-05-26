@@ -1,0 +1,30 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+14
+0 0 010000000 001000000 0 0 0 010000010 0 010000010 0 010100100 011000100 0
+0 0 0 0 0 001100100 0 0 0 0 0 0 011100100 0
+0 0 0 011000100 0 0 0 0 0 0 0 0 0 0
+0 0 010000000 0 0 0 0 0 0 0 0 010000000 011000000 0
+0 0 0 0 0 0 010000000 0 0 0 0 010000000 011000000 010001100
+0 010100000 0 0 0 0 0 0 011000010 0 0 0 0 0
+010000000 0 0 0 0 0 0 0 0 0 0 010000000 011000000 0
+010000000 0 0 010001100 0 0 010000000 0 0 0 0 011100100 011000100 0
+0 0 0 0 0 011000100 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 001000000 0
+0 0 0 0 0 0 0 0 0 0 0 000000100 011000000 010001100
+010000000 0 0 0 0 0 0 0 0 0 0 0 011000000 0
+011000010 011100010 011000110 0 010000010 000100000 0 0 0 0 010000010 011000010 0 010000000
+010000000 0 0 0 0 0 010000000 0 0 0 0 010000100 011000000 0
+src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+src.main.java.org.apache.hadoop.hbase.LocalHBaseCluster_java
+src.main.java.org.apache.hadoop.hbase.master.RegionServerOperationQueue_java
+src.main.java.org.apache.hadoop.hbase.master.RegionServerOperation_java
+src.main.java.org.apache.hadoop.hbase.master.ChangeTableState_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+src.main.java.org.apache.hadoop.hbase.master.BaseScanner_java
+src.main.java.org.apache.hadoop.hbase.master.ProcessServerShutdown_java
+src.main.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java
+src.main.java.org.apache.hadoop.hbase.master.ProcessRegionOpen_java
+src.main.java.org.apache.hadoop.hbase.master.ModifyTableMeta_java
+src.main.java.org.apache.hadoop.hbase.master.RegionManager_java
+src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+src.main.java.org.apache.hadoop.hbase.master.TableOperation_java

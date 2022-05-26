@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Set,Extend,Create,Use]
+5
+0 0110000 0 0110000 0101101
+0 0 0110000 0110000 0100000
+0 0010001 0 0 0100101
+0110000 0110001 0 0 0100101
+0 0110001 0 0 0
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.Parameter_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.ClassFile_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.Variable_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.Method_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.Field_java

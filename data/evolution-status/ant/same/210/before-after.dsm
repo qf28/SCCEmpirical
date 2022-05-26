@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Use,Create]
+5
+0 0 0 010000 0
+0 0 0 100010 100100
+0 0 0 010000 0
+100001 100001 100001 0 000001
+0 0 0 000100 0
+src.main.org.apache.tools.ant.taskdefs.launcher.PerlScriptCommandLauncher_java
+src.main.org.apache.tools.ant.taskdefs.launcher.VmsCommandLauncher_java
+src.main.org.apache.tools.ant.taskdefs.launcher.ScriptCommandLauncher_java
+src.main.org.apache.tools.ant.taskdefs.launcher.CommandLauncher_java
+src.main.org.apache.tools.ant.taskdefs.launcher.Java13CommandLauncher_java

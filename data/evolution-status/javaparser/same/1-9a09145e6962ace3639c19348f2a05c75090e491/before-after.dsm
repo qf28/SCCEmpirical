@@ -1,0 +1,16 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+7
+0 0110001000 0 0 0100001000 0010000110 0
+1110000001 0 0 0110001000 0 0111010011 0
+0 0010000000 0 0 0 0000100000 0
+0 1100011011 0101000101 0 0 0100010010 0100001000
+0 0110001000 0 0 0 0010000110 0
+0 0110001000 0001000000 0 0 0 0
+0 1100011011 0 0100001000 0 0100010010 0
+src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserTypeVariableDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.ReferenceTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.ClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserTypeParameter_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.TypeDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionInterfaceDeclaration_java

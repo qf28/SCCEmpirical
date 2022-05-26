@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0100110 0111010
+0 0 0111010
+0110010 0110001 0
+src.java.org.apache.cassandra.db.marshal.UserType_java
+src.java.org.apache.cassandra.db.marshal.TupleType_java
+src.java.org.apache.cassandra.cql3.CQL3Type_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use]
+2
+0 00010
+01010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

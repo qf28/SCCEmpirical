@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 01101
+11110 0
+src.main.org.apache.tools.ant.Task_java
+src.main.org.apache.tools.ant.RuntimeConfigurable_java

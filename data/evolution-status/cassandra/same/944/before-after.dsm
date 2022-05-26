@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0100010 0000010
+0000010 0 0000010
+0100010 0000010 0
+src.java.org.apache.cassandra.db.marshal.TimestampType_java
+src.java.org.apache.cassandra.db.marshal.LongType_java
+src.java.org.apache.cassandra.db.marshal.DateType_java

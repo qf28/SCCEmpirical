@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use]
+3
+0 1110 0011
+1101 0 0
+0110 0 0
+src.java.org.apache.cassandra.schema.IndexMetadata_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.index.Index_java

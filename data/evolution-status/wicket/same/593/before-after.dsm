@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Implement]
+2
+0 1110010
+1110110 0
+wicket-core.src.main.java.org.apache.wicket.Page_java
+wicket-core.src.main.java.org.apache.wicket.Component_java

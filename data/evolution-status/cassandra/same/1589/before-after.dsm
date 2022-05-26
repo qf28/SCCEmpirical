@@ -1,0 +1,20 @@
+[Call,Typed,Import,Use,Create,Implement]
+9
+0 0 110100 0 110100 0 0 0 100100
+0 0 110100 0 110100 0 0 0 101100
+111110 100100 0 0 100100 0 110010 0 100100
+0 0 0 0 101100 0 0 0 001000
+001100 101000 001100 100010 0 110000 001100 100010 0
+0 0 0 0 100100 0 0 0 001000
+0 0 100100 0 101100 0 0 0 100100
+0 0 0 0 100100 0 0 0 101100
+0 0 101100 0 101100 0 0 0 0
+src.java.org.apache.cassandra.service.AntiEntropyService_java
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.streaming.FileStreamTask_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.net.OutboundTcpConnection_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.net.IncomingTcpConnection_java
+src.java.org.apache.cassandra.gms.Gossiper_java

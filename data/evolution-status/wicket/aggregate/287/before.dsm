@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+5
+0 0 0 0 0
+0 0 0 0 0
+00010000 01110000 0 0 0
+0 00010010 0 0 0
+01100001 0 0 0 0
+wicket-core.src.main.java.org.apache.wicket.pageStore.IPageStore_java
+wicket-core.src.main.java.org.apache.wicket.page.IPageManager_java
+wicket-core.src.main.java.org.apache.wicket.Page_java
+wicket-core.src.main.java.org.apache.wicket.IPageManagerProvider_java
+wicket-core.src.main.java.org.apache.wicket.pageStore.AsynchronousPageStore_java

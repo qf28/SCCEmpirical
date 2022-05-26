@@ -1,0 +1,6 @@
+[Call,Import,Return,Extend,Use,Parameter,Contain]
+2
+0 0010100
+0000110 0
+src.main.java.com.stripe.model.Notification_java
+src.main.java.com.stripe.model.NotificationCollection_java

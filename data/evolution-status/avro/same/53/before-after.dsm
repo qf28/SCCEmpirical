@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+5
+0 0110011 0 0111010 0
+0100001 0 0 0 0
+0 0111000 0 0 0
+0 0 0 0 0101001
+0 0 1111010 0 0
+lang.java.avro.src.main.java.org.apache.avro.generic.GenericDatumReader_java
+lang.java.avro.src.main.java.org.apache.avro.generic.GenericData_java
+lang.java.avro.src.main.java.org.apache.avro.Resolver_java
+lang.java.avro.src.main.java.org.apache.avro.io.ResolvingDecoder_java
+lang.java.avro.src.main.java.org.apache.avro.io.parsing.ResolvingGrammarGenerator_java

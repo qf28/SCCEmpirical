@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use]
+4
+0 1110 1111 1001
+0 0 0 1011
+1011 1101 0 1001
+1010 1111 1111 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.config.KSMetaData_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java

@@ -1,0 +1,14 @@
+[Call,Typed,Import,Create,Use,Implement]
+6
+0 0 0 0 0 0
+110010 0 0 0 0 0
+110010 110110 0 0 0 0
+0 000010 010010 0 0 0
+110010 110010 110010 110000 0 0
+0 011000 0 0 001010 0
+ambari-server.src.main.java.org.apache.ambari.server.topology.HostOfferResponse_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.HostRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.LogicalRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.PersistedState_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.TopologyManager_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.tasks.TopologyHostTask_java

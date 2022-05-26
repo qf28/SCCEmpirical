@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 101010
+011001 0
+src.main.java.org.apache.commons.math.util.MathUtils_java
+src.main.java.org.apache.commons.math.exception.NonMonotonicSequenceException_java

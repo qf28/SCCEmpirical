@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use]
+2
+0 000101
+010100 0
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.locator.AbstractReplicationStrategy_java

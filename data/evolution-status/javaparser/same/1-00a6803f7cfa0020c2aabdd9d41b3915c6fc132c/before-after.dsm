@@ -1,0 +1,6 @@
+[Cast,Call,Return,Import,Create,Use,Contain]
+2
+0 0100100
+0100110 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserMethodDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserAnonymousClassDeclaration_java

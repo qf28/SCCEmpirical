@@ -1,0 +1,12 @@
+[Call,Typed,Import,Create,Use]
+5
+0 11010 11010 10010 0
+11001 0 10000 0 10010
+11001 10001 0 0 0
+01000 0 0 0 0
+01001 0 0 0 0
+src.java.org.apache.hadoop.hbase.master.HMaster_java
+src.java.org.apache.hadoop.hbase.master.ServerManager_java
+src.java.org.apache.hadoop.hbase.master.RegionManager_java
+src.java.org.apache.hadoop.hbase.master.ChangeTableState_java
+src.java.org.apache.hadoop.hbase.master.ProcessServerShutdown_java

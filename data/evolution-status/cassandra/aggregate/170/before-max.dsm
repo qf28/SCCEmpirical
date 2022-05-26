@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Use,Create,Modify]
+4
+0 1100010 0 0100100
+1100100 0 1110100 1110100
+0 0 0 0010100
+0110000 0 0 0
+src.java.org.apache.cassandra.streaming.StreamSession_java
+src.java.org.apache.cassandra.streaming.ConnectionHandler_java
+src.java.org.apache.cassandra.net.IncomingStreamingConnection_java
+src.java.org.apache.cassandra.streaming.messages.StreamMessage_java

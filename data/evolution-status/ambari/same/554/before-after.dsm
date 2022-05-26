@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 1100000
+0000010 0
+ambari-server.src.main.java.org.apache.ambari.server.checks.AbstractCheckDescriptor_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.CheckDescription_java

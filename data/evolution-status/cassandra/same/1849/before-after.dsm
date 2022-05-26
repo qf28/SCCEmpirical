@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 01000000 0
+10000010 0 10000010
+0 01000100 0
+test.distributed.org.apache.cassandra.distributed.impl.Coordinator_java
+test.distributed.org.apache.cassandra.distributed.impl.Instance_java
+test.distributed.org.apache.cassandra.distributed.impl.Listen_java

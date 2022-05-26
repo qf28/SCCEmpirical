@@ -1,0 +1,24 @@
+[Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+11
+0 0 0 0 0 0 0 100010000 110001000 0 110001000
+010000000 0 0 100001000 100001000 100001000 0 0 0 100001000 0
+0 0 0 0 0 0 100010000 0 0 0 0
+010000000 100001000 0 0 100001000 100001000 0 0 0 100001000 0
+0 100001000 100001000 100001000 0 0 100010000 0 0 100011000 0
+0 0 0 0 0 0 100010000 0 0 0 0
+0 100001000 0 100001000 0 0 0 0 0 100001000 0
+110010000 0 0 0 0 0 0 0 0 0 0
+110010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 100010000 0 0 0 0
+0 110001000 0 110001000 0 0 0 0 0 0 0
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionParameterDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionInterfaceDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionMethodDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionFieldDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionFactory_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserSymbolDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.contexts.MethodCallExprContext_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionTypeParameter_java
+src.main.java.me.tomassetti.symbolsolver.model.typesolvers.JreTypeSolver_java

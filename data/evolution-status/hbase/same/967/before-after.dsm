@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 00100
+11101 0
+src.main.java.org.apache.hadoop.hbase.zookeeper.ZKTable_java
+src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java

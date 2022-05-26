@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 100000
+100000 0
+src.java.org.apache.cassandra.diag.DiagnosticEventPersistence_java
+src.java.org.apache.cassandra.diag.DiagnosticEventService_java

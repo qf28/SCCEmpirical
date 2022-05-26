@@ -1,0 +1,8 @@
+[Call,Typed,Create]
+3
+0 111 111
+010 0 0
+010 0 0
+proposal.sandbox.junit.src.main.org.apache.tools.ant.taskdefs.optional.rjunit.RJUnitTask_java
+proposal.sandbox.junit.src.main.org.apache.tools.ant.taskdefs.optional.rjunit.ServerElement_java
+proposal.sandbox.junit.src.main.org.apache.tools.ant.taskdefs.optional.rjunit.ClientElement_java

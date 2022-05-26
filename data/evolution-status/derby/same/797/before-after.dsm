@@ -1,0 +1,6 @@
+[Call,Import,Use]
+2
+0 100
+100 0
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java
+java.testing.org.apache.derbyTesting.junit.JDBC_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+4
+0 01010100 01000100 0
+01101010 0 01000100 01000100
+01101000 0 0 0
+01101000 0 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.quotas.QuotaSettings_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.quotas.QuotaSettingsFactory_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.quotas.ThrottleSettings_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.quotas.SpaceLimitSettings_java

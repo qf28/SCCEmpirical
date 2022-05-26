@@ -1,0 +1,6 @@
+[Call,Use,Create,Contain]
+2
+0 1100
+1011 0
+src.main.java.org.eclipse.yasson.internal.VariableTypeInheritanceSearch_java
+src.main.java.org.eclipse.yasson.internal.ReflectionUtils_java

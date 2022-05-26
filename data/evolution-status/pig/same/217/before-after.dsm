@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Throw,Create]
+4
+0 011000000 0 010001100
+010000001 0 010000001 101000001
+0 011000000 0 110001100
+0 011000000 0 0
+src.org.apache.pig.backend.hadoop.datastorage.HFile_java
+src.org.apache.pig.backend.hadoop.datastorage.HDataStorage_java
+src.org.apache.pig.backend.hadoop.datastorage.HDirectory_java
+src.org.apache.pig.backend.hadoop.datastorage.HPath_java

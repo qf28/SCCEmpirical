@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01100000
+01000100 0
+wicket.src.java.wicket.markup.MarkupException_java
+wicket.src.java.wicket.markup.MarkupStream_java

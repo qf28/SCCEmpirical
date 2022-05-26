@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 0110
+1110 0
+src.org.apache.pig.impl.physicalLayer.plans.ExprPlanVisitor_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.expressionOperators.POMapLookUp_java

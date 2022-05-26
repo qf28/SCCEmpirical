@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+5
+0 0 0 0111000000 0001000000
+0 0 0 0 0110000000
+0 0 0 0111000000 0
+0101000100 0 0101000100 0 0
+0101000100 0110000100 0101000100 0110000100 0
+src.contrib.zooinspector.src.java.org.apache.zookeeper.inspector.gui.actions.AddNodeAction_java
+src.contrib.zooinspector.src.java.org.apache.zookeeper.inspector.gui.ZooInspectorConnectionPropertiesDialog_java
+src.contrib.zooinspector.src.java.org.apache.zookeeper.inspector.gui.actions.DeleteNodeAction_java
+src.contrib.zooinspector.src.java.org.apache.zookeeper.inspector.gui.ZooInspectorTreeViewer_java
+src.contrib.zooinspector.src.java.org.apache.zookeeper.inspector.gui.ZooInspectorPanel_java

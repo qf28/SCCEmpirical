@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+9
+0 10100010 0 11100011 0 0 00100000 11100000 11100000
+0 0 0 00100000 0 0 00100000 0 0
+0 0 0 00100000 0 0 00100000 01100000 0
+00100000 0 0 0 0 00000010 01100000 0 0
+11100010 0 0 0 0 0 10100000 11100000 0
+0 0 0 00100000 0 0 00100000 0 0
+11100010 0 0 11100000 0 0 0 01100000 11100000
+0 0 00000010 00100000 0 0 01100000 0 00100000
+0 0 11000000 00100000 10100010 0 10100000 11100000 0
+java.engine.org.apache.derby.impl.sql.compile.FromBaseTable_java
+java.engine.org.apache.derby.impl.sql.compile.LikeEscapeOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.AggregateNode_java
+java.engine.org.apache.derby.impl.sql.compile.PredicateList_java
+java.engine.org.apache.derby.impl.sql.compile.CursorNode_java
+java.engine.org.apache.derby.impl.sql.compile.ParameterNode_java
+java.engine.org.apache.derby.impl.sql.compile.FromList_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumnList_java
+java.engine.org.apache.derby.impl.sql.compile.ResultSetNode_java

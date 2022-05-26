@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create,Use]
+2
+0 11110
+00001 0
+wicket-auth-roles.src.main.java.wicket.authorization.strategies.role.metadata.MetaDataRoleAuthorizationStrategy_java
+wicket-auth-roles.src.main.java.wicket.authorization.strategies.role.metadata.InstantiationPermissions_java

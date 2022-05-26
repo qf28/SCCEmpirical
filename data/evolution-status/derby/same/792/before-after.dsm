@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+2
+0 01100000
+01100011 0
+java.drda.org.apache.derby.impl.drda.DDMWriter_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java

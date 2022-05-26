@@ -1,0 +1,6 @@
+[Call,Import,Use,Create,Implement,Parameter]
+2
+0 0
+010000 0
+src.main.java.me.tomassetti.symbolsolver.model.declarations.MethodDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.Context_java

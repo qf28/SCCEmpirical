@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Create]
+5
+0 0 00100 11000 0
+0 0 0 0 00100
+00100 11000 0 0 0
+0 0 0 0 00100
+10101 11100 10101 11100 0
+wicket-core.src.main.java.org.apache.wicket.coop.CrossOriginOpenerPolicyRequestCycleListener_java
+wicket-core.src.main.java.org.apache.wicket.coep.CrossOriginEmbedderPolicyConfiguration_java
+wicket-core.src.main.java.org.apache.wicket.coep.CrossOriginEmbedderPolicyRequestCycleListener_java
+wicket-core.src.main.java.org.apache.wicket.coop.CrossOriginOpenerPolicyConfiguration_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.WebApplication_java

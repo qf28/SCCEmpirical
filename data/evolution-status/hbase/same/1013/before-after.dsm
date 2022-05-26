@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 00100
+11111 0
+hbase-it.src.test.java.org.apache.hadoop.hbase.util.ChaosMonkey_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.IntegrationTestDataIngestWithChaosMonkey_java

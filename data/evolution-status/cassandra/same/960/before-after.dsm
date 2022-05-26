@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Use,Create,Implement]
+3
+0 011010 011110
+010000 0 0
+010000 110100 0
+src.org.apache.cassandra.db.RowMutation_java
+src.org.apache.cassandra.db.SuperColumn_java
+src.org.apache.cassandra.db.ColumnFamily_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0010001 1110010
+0010000 0 0000010
+0 0100010 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.SortRequestImpl_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.spi.SortRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.spi.SortRequestProperty_java

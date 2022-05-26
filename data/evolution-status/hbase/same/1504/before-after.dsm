@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Use]
+3
+0 11110 0
+10100 0 11010
+0 11001 0
+src.java.org.apache.hadoop.hbase.LocalHBaseCluster_java
+src.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+src.java.org.apache.hadoop.hbase.regionserver.Flusher_java

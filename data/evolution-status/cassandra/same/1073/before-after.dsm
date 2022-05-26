@@ -1,0 +1,10 @@
+[Call,Import,Use]
+4
+0 111 110 101
+110 0 100 111
+100 101 0 0
+0 100 0 0
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.db.DefsTable_java
+src.java.org.apache.cassandra.config.Schema_java

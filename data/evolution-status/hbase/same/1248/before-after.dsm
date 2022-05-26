@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Throw,Implement]
+4
+0 110101000 0 001100000
+000100000 0 0 0
+010100000 010100000 0 0
+000100000 0 011000100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.fs.HFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 111000100
+010000010 0
+java.engine.org.apache.derby.impl.store.raw.data.LogicalUndoOperation_java
+java.engine.org.apache.derby.impl.store.raw.data.LogicalPageOperation_java

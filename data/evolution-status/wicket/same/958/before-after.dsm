@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1111
+0010 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.resolver.EnclosureResolver_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.html.internal.Enclosure_java

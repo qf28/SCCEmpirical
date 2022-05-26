@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0001000000
+0001001000 0
+java.engine.org.apache.derby.iapi.store.access.TransactionController_java
+java.engine.org.apache.derby.iapi.store.raw.Transaction_java

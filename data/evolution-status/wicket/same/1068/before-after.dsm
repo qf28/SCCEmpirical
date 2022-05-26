@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use]
+2
+0 11111
+00011 0
+wicket-core.src.main.java.org.apache.wicket.markup.resolver.FragmentResolver_java
+wicket-core.src.main.java.org.apache.wicket.markup.WicketTag_java

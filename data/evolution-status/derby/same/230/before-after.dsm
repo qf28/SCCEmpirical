@@ -1,0 +1,6 @@
+[Call,Typed]
+2
+0 11
+10 0
+java.engine.org.apache.derby.impl.jdbc.Util_java
+java.engine.org.apache.derby.impl.jdbc.EmbedConnection_java

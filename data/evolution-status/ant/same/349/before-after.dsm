@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 110
+101 0
+src.main.org.apache.tools.ant.ProjectHelper_java
+src.main.org.apache.tools.ant.IntrospectionHelper_java

@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+10
+0 0 0 0 0 0 0 0 0 0
+0110001 0 0 0 0 0 0 0 0 0
+0 0 0 0 0010100 0 0 0 0 0
+0 0 0 0 0110111 0 0 0 0 0
+0 0011000 0000010 0000010 0 0000010 0 0 0 0
+0111001 0011000 0 0 0010000 0 0100100 0 0 0
+0111001 0111000 0 0 0110101 0 0 0 0 0
+0 0 0 0 0110101 0 0 0 0 0
+0111001 0 0 0 0111001 0 0001010 0001010 0 0
+0 1001000 0 0 0111000 0 0 0 0110001 0
+src.java.org.apache.cassandra.io.compress.CompressionMetadata_java
+src.java.org.apache.cassandra.io.compress.CompressedSequentialWriter_java
+src.java.org.apache.cassandra.io.util.BufferedPoolingSegmentedFile_java
+src.java.org.apache.cassandra.io.util.MmappedSegmentedFile_java
+src.java.org.apache.cassandra.io.util.SegmentedFile_java
+src.java.org.apache.cassandra.io.util.CompressedPoolingSegmentedFile_java
+src.java.org.apache.cassandra.io.util.CompressedSegmentedFile_java
+src.java.org.apache.cassandra.io.util.BufferedSegmentedFile_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.io.sstable.SSTableWriter_java

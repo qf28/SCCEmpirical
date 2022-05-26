@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement,Modify]
+2
+0 1100000100
+0100000000 0
+java.engine.org.apache.derby.impl.services.jce.JCECipherFactory_java
+java.engine.org.apache.derby.impl.services.jce.JCECipherProvider_java

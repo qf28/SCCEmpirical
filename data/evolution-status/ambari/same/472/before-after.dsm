@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 1010000
+1010000 0
+ambari-server.src.test.java.org.apache.ambari.server.orm.entities.ViewInstanceEntityTest_java
+ambari-server.src.test.java.org.apache.ambari.server.view.ViewRegistryTest_java

@@ -1,0 +1,32 @@
+[Cast,Call,Typed,Set,Extend,Use,Create]
+15
+0 0 0 0 0 0110000 1110010 0 1110000 0100000 0 0 0 0110000 0
+0010000 0 0 0 0 1000010 0 0 1110000 1010000 0 0000010 1100010 1110000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0010000 0
+1010000 1110000 0110001 0 0 0 1110011 0 1110000 0010000 0 1110000 0 1110000 0
+0 0 0 0 0 0000010 0 0 1110000 1110000 0 0 0 1110000 0
+1110000 1000010 0 1110000 0 0 1110011 0 1110000 1111110 0000010 1100010 0 1110000 0110000
+0 0 0 0 0 0 0 0 0110000 0010000 0 0 0 0 0
+0 0 0 0 0 0 0 0 1000010 0110010 0 0 0 1110000 0
+0 0 0 0 0 0 1110010 0 0 0 0 1000010 0 0 0
+0010000 0 0 0 0 1000010 0010000 0 1110000 0 0 0 0 1110000 0010000
+0 1000010 0 0 0 1110010 1110010 0 1110000 1111000 0 0000010 0 0110001 0
+0010000 0 0 0 1110000 0 1110010 0 1110000 1110000 0 0 0 1110000 0
+0010000 0 0 0 0 0 0 0 1110000 1111000 0 0 0 0010000 0110000
+0 0 0 0 0 0 1110010 0000010 1111001 0010000 0 0 0 0 0
+0 0 0 0 0 0 1110010 0 1110000 0110000 0 0 0 1110000 0
+java.engine.org.apache.derby.impl.sql.compile.GroupByList_java
+java.engine.org.apache.derby.impl.sql.compile.ProjectRestrictNode_java
+java.engine.org.apache.derby.impl.sql.compile.ReplaceAggregatesWithCRVisitor_java
+java.engine.org.apache.derby.impl.sql.compile.GroupByNode_java
+java.engine.org.apache.derby.impl.sql.compile.CreateViewNode_java
+java.engine.org.apache.derby.impl.sql.compile.SelectNode_java
+java.engine.org.apache.derby.impl.sql.compile.ColumnReference_java
+java.engine.org.apache.derby.impl.sql.compile.InsertNode_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumn_java
+java.engine.org.apache.derby.impl.sql.compile.ResultSetNode_java
+java.engine.org.apache.derby.impl.sql.compile.SubqueryNode_java
+java.engine.org.apache.derby.impl.sql.compile.FromBaseTable_java
+java.engine.org.apache.derby.impl.sql.compile.SetOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumnList_java
+java.engine.org.apache.derby.impl.sql.compile.OrderByList_java

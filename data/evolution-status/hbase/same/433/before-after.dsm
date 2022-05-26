@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Set,Import,Extend,Create,Use,Implement,Modify]
+7
+0 0 0 0 0 0 0100000000
+0 0 0110000100 0000000100 0 0 0
+0 0110001100 0 0 0 0 0
+0 0110000000 0 0 0100000000 0110001100 0101010100
+0110001000 0 0 0010000100 0 0 0
+0 0 0 0010000000 0100000000 0 0
+0 0 0 0 0100000000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompositeImmutableSegment_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactingMemStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SegmentFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactionPipeline_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.AbstractMemStore_java

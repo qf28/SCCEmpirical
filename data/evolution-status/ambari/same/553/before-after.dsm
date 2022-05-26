@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Implement]
+3
+0 0 0010010
+1100000 0 0
+1110000 1010110 0
+ambari-server.src.main.java.org.apache.ambari.server.scheduler.ExecutionScheduleManager_java
+ambari-server.src.main.java.org.apache.ambari.server.scheduler.AbstractLinearExecutionJob_java
+ambari-server.src.main.java.org.apache.ambari.server.state.scheduler.BatchRequestJob_java

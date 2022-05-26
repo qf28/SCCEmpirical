@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Throw]
+3
+0 0 011100010
+000100010 0 0
+001100010 001000010 0
+src.org.apache.pig.impl.mapReduceLayer.MapReduceOper_java
+src.org.apache.pig.impl.mapReduceLayer.plans.MROperPlan_java
+src.org.apache.pig.impl.mapReduceLayer.plans.MROpPlanVisitor_java

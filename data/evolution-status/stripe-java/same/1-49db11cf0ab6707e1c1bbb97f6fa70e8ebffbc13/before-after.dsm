@@ -1,0 +1,6 @@
+[Call,Return,Import,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 110010010
+100001001 0
+src.main.java.com.stripe.net.ApiRequestParamsConverter_java
+src.main.java.com.stripe.net.ApiRequestParams_java

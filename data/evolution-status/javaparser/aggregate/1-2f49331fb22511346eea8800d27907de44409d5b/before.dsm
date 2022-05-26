@@ -1,0 +1,10 @@
+[Call,Return,Import,Extend,Use,Create,Implement,Parameter,Contain]
+4
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 100011001 0
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.FieldSymbolDeclarator_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.ParameterSymbolDeclarator_java
+src.main.java.me.tomassetti.symbolsolver.model.SymbolSolver_java
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 000000100
+010011100 0
+java.testing.org.apache.derbyTesting.functionTests.tests.jdbcapi.metadata_test_java
+java.testing.org.apache.derbyTesting.functionTests.tests.jdbcapi.metadata_java

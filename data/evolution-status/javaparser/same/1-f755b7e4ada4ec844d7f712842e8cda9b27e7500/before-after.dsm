@@ -1,0 +1,6 @@
+[Cast,Call,Import,Use,Create,Parameter,Contain]
+2
+0 1101011
+0100101 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.DumpVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

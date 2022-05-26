@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0010000 1100110 0
+0110001 0 0010000 0100001
+0 0010000 0 0
+0 0010000 0100110 0
+src.org.apache.pig.backend.local.datastorage.LocalDir_java
+src.org.apache.pig.backend.local.datastorage.LocalDataStorage_java
+src.org.apache.pig.backend.local.datastorage.LocalPath_java
+src.org.apache.pig.backend.local.datastorage.LocalFile_java

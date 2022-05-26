@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+7
+0 0 0 0010001 0 0 0
+0 0 1110100 0110001 0001100 0 1110100
+0 0 0 0010001 0001100 0 0
+0100100 0100000 0100000 0 0001100 0100100 0100000
+0 0 0 0011000 0 0 0101010
+0 0 0 0010001 0 0 0
+0 0 0 0010001 0001100 0 0
+src.java.org.apache.cassandra.service.reads.NeverSpeculativeRetryPolicy_java
+src.java.org.apache.cassandra.service.reads.HybridSpeculativeRetryPolicy_java
+src.java.org.apache.cassandra.service.reads.FixedSpeculativeRetryPolicy_java
+src.java.org.apache.cassandra.service.reads.SpeculativeRetryPolicy_java
+src.java.org.apache.cassandra.schema.TableParams_java
+src.java.org.apache.cassandra.service.reads.AlwaysSpeculativeRetryPolicy_java
+src.java.org.apache.cassandra.service.reads.PercentileSpeculativeRetryPolicy_java

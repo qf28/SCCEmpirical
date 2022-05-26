@@ -1,0 +1,56 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+27
+0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0110010000 0100110000 0 0 0 0 0 0 0100000000 0 0 0
+0 0 0 0 0 0 0 0 0110001000 0 0110010000 0 0 0 0 0110010000 0100110000 0 0 0 0 0 0 0100000000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0100000000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0 0100110000 0 0 0 0 0 0 0110000011 0 0 0
+0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0110010000 0100110000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0 0 0 0110000011 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110010000 0100110000 0 0 0 0 0 0 0110000001 0 0 0
+0 1110010000 0 0 0 0 0 0 0111011001 0 0 0 0 0 0 0100010000 0 0 0100011001 0 0 0 0 0110000011 0 0 0
+0 0 0 0 0 0 0110010000 0 0 0100010000 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0110010000 0100110000 0 0 0 0 0 0 0 0 0 0
+0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0110010000 0 0 0100010000 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0
+0 0110001000 0110001000 0110001000 0110001000 0110001000 0 0110001000 0 0110001000 0 0110001000 0110001000 0110001000 0110001000 0 0 0110001000 0 0110001000 0110001000 0110001000 0110001000 0011000000 0110001000 0110001000 0110001000
+0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0110010000 0 0 0 0 0 0 0 0110010110 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0110010000 0 0110001000 0 0110010011 0 0 0 0 0100010000 0 0 0 0 0 0 0 0110000001 0 0 0
+0 0 0 0 0 0 0110010001 0 0 0100010000 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0110010000 0100110000 0 0 0 0 0 0 0100000000 0 0 0
+0 0 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0110010000 0100110000 0 0 0 0 0 0 0100000000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1110010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110010000 0100110000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100110000 0 0 0 0 0 0 0 0 0 0
+0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000010000 0 0 0 0 0 0 0 0 0 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.AbstractMethodLikeDeclarationContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.FieldAccessContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.VariableDeclarationExprContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.BlockStmtContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.MethodCallExprContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.LambdaExprContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserSymbolDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.VariableDeclaratorContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.SymbolSolver_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.StatementContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFacade_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ForEachStatementContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.SwitchEntryContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.MethodContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ForStatementContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFactory_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.AbstractJavaParserContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.AnnotationDeclarationContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.TypeExtractor_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.TryWithResourceContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.AnonymousClassDeclarationContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarators.VariableSymbolDeclarator_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ClassOrInterfaceDeclarationContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.core.resolution.Context_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.CatchClauseContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.EnumDeclarationContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ConstructorContext_java

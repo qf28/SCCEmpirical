@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00000010
+11100000 0
+wicket.src.main.java.org.apache.wicket.ng.page.common.RequestAdapter_java
+wicket.src.main.java.org.apache.wicket.ng.page.common.AbstractPageManager_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 00010000 0
+0 0 11010000
+01000100 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.BaseLoadBalancer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.FavoredNodeLoadBalancer_java

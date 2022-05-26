@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0110000
+0110010 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariActionExecutionHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariManagementControllerImpl_java

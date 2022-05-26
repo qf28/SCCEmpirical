@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 01100000 01110001
+01100000 0 0
+01100000 01000100 0
+src.org.apache.pig.impl.logicalLayer.LOJoin_java
+src.org.apache.pig.impl.logicalLayer.LOVisitor_java
+src.org.apache.pig.impl.logicalLayer.optimizer.SchemaRemover_java

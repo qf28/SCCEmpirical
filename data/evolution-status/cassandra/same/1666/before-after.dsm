@@ -1,0 +1,14 @@
+[Call,Typed,Import,Create,Use]
+6
+0 10100 10000 0 10000 10001
+11000 0 0 11010 0 10000
+11000 0 0 0 0 0
+0 11000 0 0 0 0
+11001 0 0 0 0 0
+11000 0 0 0 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.PeriodicFlushManager_java
+src.java.org.apache.cassandra.service.StorageLoadBalancer_java
+src.java.org.apache.cassandra.db.CompactionManager_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

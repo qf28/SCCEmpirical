@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 111
+100 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.ZKUtil_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 011100000 0
+0 0 011000000
+011000110 111000100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.ReplicationSourceShipper_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.ReplicationSourceWALReader_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.ReplicationSource_java

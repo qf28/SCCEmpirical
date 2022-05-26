@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 1110011 0110100
+0110001 0 0
+0 0010000 0
+src.main.java.org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet_java
+src.main.java.org.apache.commons.math3.geometry.euclidean.twod.Line_java
+src.main.java.org.apache.commons.math3.geometry.euclidean.twod.Segment_java

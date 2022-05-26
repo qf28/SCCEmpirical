@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Use,Create]
+6
+0 011010 010110 000110 0 000110
+011010 0 010100 0 011001 011010
+011000 011010 0 0 0 0
+0 0 0 0 011000 001010
+0 0 0 0 0 011010
+0 010000 010100 111011 001000 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.io.SSTableDeletingReference_java
+src.java.org.apache.cassandra.io.SSTableTracker_java
+src.java.org.apache.cassandra.io.SSTableReader_java

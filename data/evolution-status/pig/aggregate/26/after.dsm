@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+6
+0 00100000 00100000 00100000 00100000 00100000
+11000010 0 0 0 0 0
+11000010 0 0 0 0 0
+11000010 0 0 0 11100000 0
+11000010 0 0 0 0 0
+11000010 0 0 0 0 0
+src.org.apache.pig.experimental.logical.expression.LogicalExpressionVisitor_java
+src.org.apache.pig.experimental.logical.expression.BinCondExpression_java
+src.org.apache.pig.experimental.logical.expression.UserFuncExpression_java
+src.org.apache.pig.experimental.logical.expression.BagDereferenceExpression_java
+src.org.apache.pig.experimental.logical.expression.ProjectExpression_java
+src.org.apache.pig.experimental.logical.expression.RegexExpression_java

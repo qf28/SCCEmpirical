@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Parameter,Contain]
+5
+0 0 011001000 0 0
+001000100 0 000000111 010001100 0
+001000100 010101001 0 0 010001001
+001000100 0 010000111 0 0
+0 0 000000111 0 0
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.support.compiler.jdt.JDTBatchCompiler_java
+src.main.java.spoon.support.compiler.jdt.JDTBasedSpoonCompiler_java
+src.main.java.spoon.support.compiler.jdt.CompilationUnitWrapper_java
+src.main.java.spoon.support.compiler.jdt.TreeBuilderRequestor_java

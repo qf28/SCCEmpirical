@@ -1,0 +1,10 @@
+[Cast,Call,Return,Import,Use,Create,Parameter,Contain]
+4
+0 0 0 00000010
+0 0 0 01000010
+0 0 0 10101011
+01011000 01011000 01010100 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.HashCodeVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.EqualsVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

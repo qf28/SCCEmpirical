@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Extend,Use,Create]
+2
+0 1100001
+0010000 0
+java.engine.org.apache.derby.impl.io.URLStorageFactory_java
+java.engine.org.apache.derby.impl.io.URLFile_java

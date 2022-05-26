@@ -1,0 +1,44 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+21
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00110000 0 0 0 0
+0 0 0 0 0 0 0 00100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 01010100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00000100 00000100
+0 0 0 0 0 0 01100000 0 0 0 0 0 0 0 0 0 0 01100110 0 0 01000000
+0 0 01100110 0 01110110 0 0 0 0 0 0 0 0 0 0 0 0 01010100 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00110000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00110000 0 0 0 0
+0 0 0 0 01100100 0 0 0 0 0 0 0 0 0 0 0 0 01100000 0 0 0
+0 0 0 01000000 01110100 0 01110000 0 0 0 0 01001100 0 0 0 0 00110000 0 0 01010000 0
+0 0 0 0 00110000 0 0 0 0 0 0 0 0 0 0 0 0 0 01100010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01110000 0 0 0 0
+0 0 01100110 0 01100100 0 0 0 0 0 0 0 0 0 0 0 0 01100000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 01100100 0 0 0 0 00110000 0 0 0 0
+00100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 01000000 00110100 0 01000000 0 0 0 0 01001100 0 0 0 0 00110000 0 0 01010000 0
+0 0 0 01011100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 01100100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01000000
+0 0 0 0 01110000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00000100 0
+01110110 01110100 0 01000000 01100100 11100000 01110000 01110010 11100000 11100000 11100000 01100100 11100100 11100000 01110100 11100000 01110000 01100000 0 0 0
+0 0 0 01110000 0 0 00100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.cql.hooks.ExecutionContext_java
+src.java.org.apache.cassandra.cql.hooks.PostPreparationHook_java
+src.java.org.apache.cassandra.cql.CFPropDefs_java
+src.java.org.apache.cassandra.service.ClientState_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.cql.CreateColumnFamilyStatement_java
+src.java.org.apache.cassandra.db.composites.CellNameType_java
+src.java.org.apache.cassandra.cql.hooks.PreparationContext_java
+src.java.org.apache.cassandra.cql.DropIndexStatement_java
+src.java.org.apache.cassandra.cql.UpdateStatement_java
+src.java.org.apache.cassandra.cql.SelectStatement_java
+src.java.org.apache.cassandra.cql.AbstractModification_java
+src.java.org.apache.cassandra.cql.AlterTableStatement_java
+src.java.org.apache.cassandra.cql.BatchStatement_java
+src.java.org.apache.cassandra.cql.hooks.PreExecutionHook_java
+src.java.org.apache.cassandra.cql.DeleteStatement_java
+src.java.org.apache.cassandra.thrift.ThriftClientState_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java
+src.java.org.apache.cassandra.cql.WhereClause_java
+src.java.org.apache.cassandra.cql.QueryProcessor_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java

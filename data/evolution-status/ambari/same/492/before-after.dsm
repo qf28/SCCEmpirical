@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 01000010 01000010
+01000000 0 0
+01000000 0 0
+controller.src.main.java.org.apache.ambari.resource.statemachine.StateMachineInvoker_java
+controller.src.main.java.org.apache.ambari.resource.statemachine.ServiceImpl_java
+controller.src.main.java.org.apache.ambari.resource.statemachine.ClusterImpl_java

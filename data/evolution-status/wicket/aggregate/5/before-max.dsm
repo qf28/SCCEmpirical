@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+4
+0 0000010 0100010 0000010
+0100000 0 0100001 0
+0100000 0 0 0
+0100000 0 0100001 0
+wicket-devutils.src.main.java.org.apache.wicket.devutils.debugbar.WicketDebugBar_java
+wicket-devutils.src.main.java.org.apache.wicket.devutils.debugbar.SessionSizeDebugPanel_java
+wicket-devutils.src.main.java.org.apache.wicket.devutils.debugbar.IDebugBarContributor_java
+wicket-devutils.src.main.java.org.apache.wicket.devutils.debugbar.InspectorDebugPanel_java

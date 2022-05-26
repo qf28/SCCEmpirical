@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Throw,Use,Create,Implement]
+4
+0 0 0 001100000
+0 0 001000000 001100000
+001000000 0 0 000100000
+0 001100000 0 0
+proposal.frantic.src.org.apache.ant.engine.AntEvent_java
+proposal.frantic.src.org.apache.ant.engine.TaskEngine_java
+proposal.frantic.src.org.apache.ant.engine.AntEngineListener_java
+proposal.frantic.src.org.apache.ant.tasks.Task_java

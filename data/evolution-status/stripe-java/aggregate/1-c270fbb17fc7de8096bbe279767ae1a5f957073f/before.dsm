@@ -1,0 +1,8 @@
+[Call,Return,Import,Extend,Use,Parameter,Contain]
+3
+0 0 0
+1011100 0 0
+1011100 0 0
+src.main.java.com.stripe.net.APIResource_java
+src.main.java.com.stripe.model.BitcoinReceiver_java
+src.main.java.com.stripe.model.Card_java

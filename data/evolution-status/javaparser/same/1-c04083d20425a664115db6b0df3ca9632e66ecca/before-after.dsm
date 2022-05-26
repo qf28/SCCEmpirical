@@ -1,0 +1,24 @@
+[Cast,Call,Import,Return,Create,Use,Implement,Parameter,Contain]
+11
+0 0 011010000 0 010010000 0 001000110 0 0 0 0
+010010000 0 011111011 011001000 010011000 0 011001011 0 010010000 010010000 0
+111000001 0 0 0 0 011010000 011101011 0 0 0 0
+110000001 010010001 010010000 0 0 0 011101011 010010000 010010000 0 0
+0 0 011010000 011001000 0 0 001000110 0 0 0 0
+0 0 110011011 0 0 0 010001010 0 0 0 010010000
+0 0 001000000 0 0 0 0 0 0 0 0
+010010000 0 011011011 0 010011000 0 010001011 0 010010000 010010000 0
+0 0 011010000 0 0 0 010100010 0 0 010010000 0
+0 0 011010000 011001000 0 0 0 0 010010000 0 0
+0 0 110011011 0 0 010010000 010001010 0 0 0 0
+src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserTypeVariableDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.ReferenceTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserTypeParameter_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.TypeDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserInterfaceDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserEnumDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserFieldDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionInterfaceDeclaration_java

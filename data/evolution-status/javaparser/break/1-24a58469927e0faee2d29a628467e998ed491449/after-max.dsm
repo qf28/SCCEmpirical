@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+6
+0 0 0110000010 0110000010 0 0
+0 0 0110000010 0110000010 0 0
+0000000010 0000000010 0 0 0000000010 0000000010
+0000000010 0000000010 0 0 0000000010 0000000010
+0111011011 0 0110000010 0110000010 0 0
+0100001000 0100011011 0110000010 0110000010 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.VariableDeclarator_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.CatchClause_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java

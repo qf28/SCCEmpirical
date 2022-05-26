@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Modify]
+7
+0 0 0 010111000 0 0 0
+0 0 0 0 0 0 000000010
+0 0 0 0 0 001010011 000110010
+0 0 000100010 0 0 0 0
+0 0 000100010 0 0 0 0
+011000100 011100100 011000010 010000010 0 0 010111011
+0 011000000 0 0 010000000 0 0
+java.client.org.apache.derby.client.net.NetSqlca_java
+java.client.org.apache.derby.client.am.ClientClob_java
+java.client.org.apache.derby.client.net.Typdef_java
+java.client.org.apache.derby.client.am.Sqlca_java
+java.client.org.apache.derby.client.am.DateTime_java
+java.client.org.apache.derby.client.net.NetCursor_java
+java.client.org.apache.derby.client.am.Cursor_java

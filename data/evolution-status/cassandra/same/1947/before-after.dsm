@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 0110
+1111 0
+tools.stress.src.org.apache.cassandra.stress.util.SmartThriftClient_java
+tools.stress.src.org.apache.cassandra.stress.settings.StressSettings_java

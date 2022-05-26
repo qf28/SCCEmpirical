@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Use,Create]
+2
+0 11110
+10001 0
+src.main.java.org.apache.hadoop.hbase.master.HMasterCommandLine_java
+src.main.java.org.apache.hadoop.hbase.master.HMaster_java

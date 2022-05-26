@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 11011 10101
+11000 0 0
+11100 11100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.TransitRegionStateProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.ServerCrashProcedure_java

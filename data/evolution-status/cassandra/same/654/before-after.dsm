@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 0000100
+1100110 0
+src.java.org.apache.cassandra.gms.EndpointState_java
+src.java.org.apache.cassandra.gms.Gossiper_java

@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+6
+0 0 0 0 0 010011000
+0 0 0 0 0 010011000
+0 0 0 0 0 010011000
+0 0 0 0 0 010011000
+0 0 0 0 0 010011000
+100100000 100100000 100100000 100100000 100100000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleUsesStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleOpensStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleExportsStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleProvidesStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleRequiresStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleStmt_java

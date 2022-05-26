@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 010110 0
+110011 0 011001
+0 000110 0
+src.java.org.apache.cassandra.locator.DynamicEndpointSnitch_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.utils.BackgroundActivityMonitor_java

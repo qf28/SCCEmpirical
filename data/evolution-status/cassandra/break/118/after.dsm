@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create,Implement]
+4
+0 0 110000 101110
+001100 0 0 0
+101000 0 0 0
+101100 111110 0 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.net.io.StreamContextManager_java
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.io.Streaming_java

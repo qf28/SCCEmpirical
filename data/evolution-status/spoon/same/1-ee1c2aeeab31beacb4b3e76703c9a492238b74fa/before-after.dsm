@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain,Annotation]
+3
+0 01100010000 01010110110
+01010110110 0 01000000010
+01010010110 01100000000 0
+src.main.java.spoon.metamodel.MetamodelConcept_java
+src.main.java.spoon.metamodel.Metamodel_java
+src.main.java.spoon.metamodel.MetamodelProperty_java

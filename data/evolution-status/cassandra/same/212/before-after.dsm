@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Throw,Implement]
+2
+0 011000100
+010000000 0
+src.org.apache.cassandra.cli.CliMain_java
+src.org.apache.cassandra.cli.CliClient_java

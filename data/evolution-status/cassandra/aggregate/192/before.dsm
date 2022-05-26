@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0010001000
+0110001100 0
+tools.stress.src.org.apache.cassandra.stress.generate.Partition_java
+tools.stress.src.org.apache.cassandra.stress.generate.PartitionGenerator_java

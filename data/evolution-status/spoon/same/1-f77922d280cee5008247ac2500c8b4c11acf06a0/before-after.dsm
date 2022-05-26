@@ -1,0 +1,6 @@
+[Cast,Call,Return,Import,Extend,Create,Use,Throw,Implement,Parameter,Contain]
+2
+0 01010100001
+01010010011 0
+src.main.java.spoon.AbstractLauncher_java
+src.main.java.spoon.support.processing.SpoonletXmlHandler_java

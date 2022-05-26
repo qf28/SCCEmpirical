@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use]
+2
+0 1111
+0111 0
+src.java.org.apache.cassandra.transport.Message_java
+src.java.org.apache.cassandra.transport.Frame_java

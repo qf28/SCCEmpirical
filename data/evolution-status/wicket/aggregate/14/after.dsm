@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+3
+0 0 0001000
+0 0 0001000
+0101010 0101010 0
+jdk-1_4.wicket-datetime.src.main.java.wicket.datetime.util.PatternDateConverter_java
+jdk-1_4.wicket-datetime.src.main.java.wicket.datetime.util.StyleDateConverter_java
+jdk-1_4.wicket-datetime.src.main.java.wicket.datetime.markup.html.form.DateTextField_java

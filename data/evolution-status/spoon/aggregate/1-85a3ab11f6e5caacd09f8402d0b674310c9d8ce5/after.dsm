@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+6
+0 0110000010 0010000000 0110110000 0110000010 0
+0 0 0 0 0010000000 0
+0 0010000010 0 0 0 0
+0 0110000010 0000000100 0 0110010011 0101011001
+0010000000 0010000010 0011000000 0 0 0
+0 1110000010 0 0100010011 0110010011 0
+src.main.java.spoon.support.sniper.SniperJavaPrettyPrinter_java
+src.main.java.spoon.reflect.declaration.CtElement_java
+src.main.java.spoon.reflect.visitor.PrettyPrinter_java
+src.main.java.spoon.reflect.visitor.DefaultJavaPrettyPrinter_java
+src.main.java.spoon.compiler.Environment_java
+src.main.java.spoon.reflect.visitor.ElementPrinterHelper_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 11100
+11111 0
+src.java.org.apache.cassandra.index.sasi.plan.Expression_java
+src.java.org.apache.cassandra.index.sasi.disk.OnDiskIndex_java

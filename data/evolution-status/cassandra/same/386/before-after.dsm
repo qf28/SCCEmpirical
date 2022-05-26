@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Extend,Create,Use]
+2
+0 0100000
+1110000 0
+src.java.org.apache.cassandra.cql3.statements.SelectStatement_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java

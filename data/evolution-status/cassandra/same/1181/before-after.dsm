@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement]
+2
+0 00000100
+00010100 0
+src.java.org.apache.cassandra.schema.CompressionParams_java
+src.java.org.apache.cassandra.io.compress.DeflateCompressor_java

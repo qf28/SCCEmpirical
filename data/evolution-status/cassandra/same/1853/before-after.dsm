@@ -1,0 +1,6 @@
+[Call,Typed,Use,Implement]
+2
+0 1110
+1010 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.CassandraDaemon_java

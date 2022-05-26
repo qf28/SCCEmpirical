@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01100010
+11100010 0
+src.main.java.org.apache.commons.math3.geometry.spherical.oned.LimitAngle_java
+src.main.java.org.apache.commons.math3.geometry.spherical.oned.ArcsSet_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 00000010
+01100010 0
+src.java.org.apache.cassandra.db.AtomicBTreeColumns_java
+src.java.org.apache.cassandra.db.Memtable_java

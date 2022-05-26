@@ -1,0 +1,8 @@
+[Call,Use,Create,Contain]
+3
+0 1010 1111
+0 0 1111
+1010 1010 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassAdapter_java

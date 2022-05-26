@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1111
+1110 0
+src.main.org.apache.tools.ant.types.Mapper_java
+src.main.org.apache.tools.ant.util.ContainerMapper_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import]
+2
+0 111
+101 0
+wicket.src.main.java.org.apache.wicket.Application_java
+wicket.src.main.java.org.apache.wicket.markup.MarkupFactory_java

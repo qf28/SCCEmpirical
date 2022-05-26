@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 01101000 01000000
+0 0 01101000
+01000100 00100000 0
+wicket-core.src.main.java.org.apache.wicket.protocol.http.servlet.MultipartServletWebRequestImpl_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.servlet.MultipartServletWebRequest_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.servlet.ServletWebRequest_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0 0100000
+1100011 0 0100000
+0 1100100 0
+wicket.src.main.java.org.apache.wicket.request.cycle.IRequestCycleListener_java
+wicket.src.main.java.org.apache.wicket.request.cycle.RequestCycleListenerCollection_java
+wicket.src.main.java.org.apache.wicket.request.cycle.RequestCycle_java

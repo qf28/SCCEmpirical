@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Parameter,Contain]
+5
+0 010010000 011000000 0 011001010
+100100000 0 011000000 011110000 011001010
+0 0 0 001000100 0
+0 111100111 011100110 0 011001111
+0 0 011100111 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.LineComment_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.Comment_java
+javaparser-core.src.main.java.com.github.javaparser.Position_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.Range_java

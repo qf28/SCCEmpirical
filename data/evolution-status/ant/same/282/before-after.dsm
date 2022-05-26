@@ -1,0 +1,10 @@
+[Cast,Call,Typed]
+4
+0 0 0 101
+0 0 0 101
+0 0 0 101
+001 001 001 0
+src.main.org.apache.tools.ant.types.optional.image.Draw_java
+src.main.org.apache.tools.ant.types.optional.image.Scale_java
+src.main.org.apache.tools.ant.types.optional.image.Rotate_java
+src.main.org.apache.tools.ant.types.optional.image.ImageOperation_java

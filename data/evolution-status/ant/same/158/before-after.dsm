@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Extend,Use,Create]
+4
+0 010110 0 011000
+010001 0 010001 001000
+0 010110 0 011000
+111010 111000 111010 0
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.FieldRefCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPoolEntry_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.InterfaceMethodRefCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool_java

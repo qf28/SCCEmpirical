@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+2
+0 001000000
+001000000 0
+java.client.org.apache.derby.client.am.StatementCacheInteractor_java
+java.client.org.apache.derby.client.am.LogicalCallableStatement_java

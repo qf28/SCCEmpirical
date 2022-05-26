@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+3
+0 0111000100 0
+0 0 0111001000
+0110001100 0111000000 0
+hbase-prefix-tree.src.main.java.org.apache.hbase.codec.prefixtree.encode.row.RowNodeWriter_java
+hbase-prefix-tree.src.main.java.org.apache.hbase.codec.prefixtree.encode.PrefixTreeEncoder_java
+hbase-prefix-tree.src.main.java.org.apache.hbase.codec.prefixtree.encode.row.RowSectionWriter_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create]
+3
+0 0 01100
+0 0 11110
+01101 01011 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RemoteProcedureResultReporter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.handler.RSProcedureHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

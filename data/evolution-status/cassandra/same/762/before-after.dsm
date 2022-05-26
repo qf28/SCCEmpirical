@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0111010 0001000
+0100001 0 1110000
+0 0101000 0
+src.java.org.apache.cassandra.dht.BootStrapper_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.locator.AbstractReplicationStrategy_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Create,Use,Implement]
+3
+0 111010 0
+0 0 001000
+001100 0 0
+src.main.org.apache.tools.ant.taskdefs.optional.junit.FormatterElement_java
+src.main.org.apache.tools.ant.taskdefs.optional.junit.JUnitResultFormatter_java
+src.main.org.apache.tools.ant.taskdefs.optional.junit.JUnitTest_java

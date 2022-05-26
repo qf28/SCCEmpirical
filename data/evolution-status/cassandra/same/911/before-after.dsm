@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Create]
+5
+0 0 11010 0 0
+11001 0 11010 11010 0
+10000 0 0 11011 0
+0 10000 00010 0 10011
+11001 0 10000 11000 0
+src.org.apache.cassandra.db.RowMutation_java
+src.org.apache.cassandra.db.HintedHandOffManager_java
+src.org.apache.cassandra.db.Table_java
+src.org.apache.cassandra.db.ColumnFamilyStore_java
+src.org.apache.cassandra.db.Memtable_java

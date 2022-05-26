@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0011000 0
+0101000 0 0
+0100000 0 0
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.dht.Range_java
+src.java.org.apache.cassandra.utils.ByteBufferUtil_java

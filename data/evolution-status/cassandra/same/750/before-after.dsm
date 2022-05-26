@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Implement]
+3
+0 10100 0
+10100 0 11110
+10100 0 0
+src.org.apache.cassandra.service.StorageService_java
+src.org.apache.cassandra.db.Memtable_java
+src.org.apache.cassandra.io.SSTable_java

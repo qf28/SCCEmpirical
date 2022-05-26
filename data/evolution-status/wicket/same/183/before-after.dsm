@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 1100010
+0100000 0
+wicket-devutils.src.main.java.org.apache.wicket.devutils.debugbar.DebugBar_java
+wicket-devutils.src.main.java.org.apache.wicket.devutils.debugbar.IDebugBarContributor_java

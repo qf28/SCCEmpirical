@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 001100
+101000 0
+src.java.org.apache.hadoop.hbase.util.Bytes_java
+src.java.org.apache.hadoop.hbase.HConstants_java

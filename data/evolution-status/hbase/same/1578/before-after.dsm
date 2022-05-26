@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 000000100 011011100
+0 0 011011100
+010000010 010000010 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.nio.MultiByteBuff_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.nio.SingleByteBuff_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.nio.ByteBuff_java

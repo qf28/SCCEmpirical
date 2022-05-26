@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+3
+0 0101000 0111100
+0 0 0110000
+0101000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.shaded.protobuf.ProtobufUtil_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.PackagePrivateFieldAccessor_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.Scan_java

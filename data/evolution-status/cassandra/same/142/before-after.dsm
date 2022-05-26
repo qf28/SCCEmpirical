@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 010000 111010 011001
+010100 0 011100 0
+0 000110 0 0
+0 010100 011001 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.service.RowRepairResolver_java

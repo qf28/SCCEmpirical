@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create,Throw]
+4
+0 110100 111100 110000
+110100 0 111100 0
+001100 0 0 0
+100000 0 111100 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.RowMutation_java

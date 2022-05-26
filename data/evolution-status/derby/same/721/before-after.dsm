@@ -1,0 +1,6 @@
+[Call,Typed,Set,Import,Extend,Use,Create,Implement,Modify]
+2
+0 000001000
+101011001 0
+java.engine.org.apache.derby.impl.store.access.btree.BTreeScan_java
+java.engine.org.apache.derby.impl.store.access.btree.BTreeMaxScan_java

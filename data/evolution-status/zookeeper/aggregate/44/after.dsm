@@ -1,0 +1,8 @@
+[Call,Typed,Create,Use,Implement]
+3
+0 0 10000
+0 0 10000
+00010 00010 0
+src.java.main.org.apache.zookeeper.server.persistence.FileTxnLog_java
+src.java.main.org.apache.zookeeper.server.persistence.FileSnap_java
+src.java.main.org.apache.zookeeper.server.persistence.Util_java

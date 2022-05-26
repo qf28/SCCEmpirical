@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 1100000
+1000100 0
+wicket-examples.src.main.java.org.apache.wicket.examples.ajax.builtin.modal.ModalContent1Page_java
+wicket-examples.src.main.java.org.apache.wicket.examples.ajax.builtin.modal.ModalWindowPage_java

@@ -1,0 +1,8 @@
+[Cast,Call,Return,Import,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0 0001000010
+0100010110 0 1101010010
+0001010010 0101010000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.observer.AstObserver_java
+javaparser-core.src.main.java.com.github.javaparser.ast.observer.PropagatingAstObserver_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

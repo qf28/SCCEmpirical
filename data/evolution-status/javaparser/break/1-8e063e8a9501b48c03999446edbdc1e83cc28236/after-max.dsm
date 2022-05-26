@@ -1,0 +1,6 @@
+[Call,Return,Import,Extend,Use,Create,Contain]
+2
+0 1100011
+1000101 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java

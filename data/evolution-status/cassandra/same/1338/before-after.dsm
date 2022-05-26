@@ -1,0 +1,12 @@
+[Call,Typed,Import,Create,Use,Implement]
+5
+0 0 111010 111000 110010
+0 0 0 0 001010
+101100 000001 0 110100 111110
+0 0 101000 0 111110
+0 0 101000 0 0
+src.java.org.apache.cassandra.dht.BootStrapper_java
+src.java.org.apache.cassandra.service.StorageServiceMBean_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.locator.TokenMetadata_java
+src.java.org.apache.cassandra.dht.Range_java

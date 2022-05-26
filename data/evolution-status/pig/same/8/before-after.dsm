@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create,Implement]
+4
+0 101100 0 111000
+111110 0 0 111100
+0 101100 0 0
+111110 101100 111100 0
+src.org.apache.pig.impl.logicalLayer.schema.Schema_java
+src.org.apache.pig.data.DataType_java
+src.org.apache.pig.newplan.logical.relational.LogicalSchema_java
+src.org.apache.pig.ResourceSchema_java

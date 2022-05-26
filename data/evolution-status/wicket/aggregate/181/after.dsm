@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 111010
+101000 0
+wicket-core.src.main.java.org.apache.wicket.protocol.http.WebApplication_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.servlet.FilterFactoryManager_java

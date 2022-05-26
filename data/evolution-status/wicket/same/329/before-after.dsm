@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 0010010 0 1010010
+1010000 0 0 0
+0 0010010 0 1010010
+0 0 1010000 0
+wicket.src.main.java.org.apache.wicket.Session_java
+wicket.src.main.java.org.apache.wicket.pageManager.DefaultPageManagerContext_java
+wicket.src.main.java.org.apache.wicket.ng.Application_java
+wicket.src.main.java.org.apache.wicket.ng.page.persistent.disk.DiskDataStore_java

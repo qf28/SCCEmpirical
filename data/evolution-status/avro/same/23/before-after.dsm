@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 1100010
+1000011 0
+lang.java.avro.src.main.java.org.apache.avro.file.DataFileReader12_java
+lang.java.avro.src.main.java.org.apache.avro.file.DataFileReader_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Set,Extend,Use]
+4
+0 001000 0 101000
+111011 0 110001 0
+111010 0 0 000001
+001000 0 001000 0
+java.engine.org.apache.derby.impl.sql.compile.ValueNode_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumn_java
+java.engine.org.apache.derby.impl.sql.compile.UnaryOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.IsNullNode_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 010000010
+010000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.SharedAsyncConnection_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.SharedConnection_java

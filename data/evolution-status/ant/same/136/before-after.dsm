@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+7
+0 0 1100100 0 0110000 1111100 0110000
+0 0 0 0 0 0010110 0010000
+0 0 0 0 0 0101000 0
+0 0 1100100 0 0110000 0 0
+0 0 0 0 0 0000100 0
+0110010 0010000 0 0 0 0 0110010
+0 0 0 0100000 0 1110100 0
+src.main.org.apache.tools.ant.UnknownElement_java
+src.main.org.apache.tools.ant.Target_java
+src.main.org.apache.tools.ant.TaskAdapter_java
+src.main.org.apache.tools.ant.ProjectHelper_java
+src.main.org.apache.tools.ant.IntrospectionHelper_java
+src.main.org.apache.tools.ant.Task_java
+src.main.org.apache.tools.ant.RuntimeConfigurable_java

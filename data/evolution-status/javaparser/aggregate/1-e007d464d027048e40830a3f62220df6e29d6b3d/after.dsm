@@ -1,0 +1,16 @@
+[Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+7
+0 0 0 0 0 0 01000000
+0 0 0 0 0 0 11010000
+0 0 0 0 0 0 01000000
+0 0 0 0 0 0 11010000
+0 0 0 0 0 0 11010000
+0 0 0 0 0 0 01000000
+10001000 10101000 10101000 10001000 10101000 10001000 0
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmAttribute_java
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmChild_java
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmToken_java
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmComment_java
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmList_java
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmConditional_java
+javaparser-core.src.main.java.com.github.javaparser.printer.ConcreteSyntaxModel_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 0
+01010010 0
+src.java.org.apache.cassandra.metrics.CassandraMetricsRegistry_java
+src.java.org.apache.cassandra.metrics.ThreadPoolMetrics_java

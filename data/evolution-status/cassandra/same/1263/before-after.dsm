@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 001
+111 0
+src.java.org.apache.cassandra.io.sstable.Descriptor_java
+src.java.org.apache.cassandra.io.sstable.SSTable_java

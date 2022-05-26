@@ -1,0 +1,6 @@
+[Call,Import,Extend,Create]
+2
+0 0
+1001 0
+wicket-examples.src.java.wicket.examples.WicketExampleHeader_java
+wicket-examples.src.java.wicket.examples.WicketExamplePage_java

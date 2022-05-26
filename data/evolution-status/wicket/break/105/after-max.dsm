@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 11100100
+01100000 0
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.markup.html.ajax.AbstractAjaxHandler_java

@@ -1,0 +1,8 @@
+[Call,Use,Create,Implement,Parameter,Contain]
+3
+0 0 110111
+0 0 110111
+111000 111000 0
+src.main.java.org.eclipse.yasson.internal.serializer.MapToObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.MapToEntriesArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.MapSerializer_java

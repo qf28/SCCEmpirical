@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 11100000
+0 0 11100000
+10100010 10100010 0
+src.main.java.org.apache.hadoop.hbase.master.handler.OpenedRegionHandler_java
+src.main.java.org.apache.hadoop.hbase.master.handler.ClosedRegionHandler_java
+src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java

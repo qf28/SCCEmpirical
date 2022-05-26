@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 101
+110 0
+wicket-core.src.main.java.org.apache.wicket.csp.ContentSecurityPolicySettings_java
+wicket-core.src.main.java.org.apache.wicket.csp.CSPRequestCycleListener_java

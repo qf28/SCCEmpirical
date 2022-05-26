@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+6
+0 0 0 0 0 0110000
+0100010 0 0110010 0 0100010 0110010
+0 0110100 0 0110010 0 0
+0 0010100 0 0 0 0
+0 0010000 0 0 0 0
+0 0110100 0 0 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncHBaseAdmin_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncConnectionImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.RawAsyncTableImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.RegionCoprocessorRpcChannelImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncTableImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.RawAsyncHBaseAdmin_java

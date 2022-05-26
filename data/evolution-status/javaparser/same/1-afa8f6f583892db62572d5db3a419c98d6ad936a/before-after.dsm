@@ -1,0 +1,42 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+20
+0 0 0 0 0 0 0 0 0 0 0000100000 0 0 0011000000 0 0 0 0 0 0
+0 0 0 0 0 0 0000100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001000000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0000100000 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0110000011 0 0 0110010000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0000100000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0100000000 0100000001 0 0101000000 0 0100100000 0 0101000000 0 0 0 0 0
+0001000000 0 0 0 0 0001000000 0 0 0001000000 0 0001010010 0 0100100000 0 0 0001000000 0 0 0 0
+0 1000010000 0 0 0 0 0 0000100000 0 0 1000010000 0 0 0 0 0 0 1000010000 0 0
+0 0111010011 0010000100 0100000000 0 0 0100000000 0 0010010010 0 0011000000 0 0100000000 0 0 0 0 0 0111010011 0
+0 0 0 0 0 0 0 0100100000 0100000001 0010000000 0 0 0 0110010011 0 0 0 0 0 0001010010
+0 0 0 0 0 0 0 0 0010000010 0 0 0 0 0 0 0 0 0 0 0
+0 0001000000 0 0 0 0 0 0001000000 0 0 0 0 0 0 0001000000 0 0 0 0 0001000000
+0 0 0010000100 0100000000 0110000100 0 0 0100000000 0110010011 0010000000 0111010011 1100000001 0100000000 0 0 0 1100011000 0 0111011011 0
+0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0000100000 0 0 0110010011 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0111010011 0 0 0 0 0 0 0 0 0 0 0
+0001000000 0 0 0 0 0 0000100000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0110010011 0 0 0 0 0 0 0 0110001000 0 0 0
+0 0 0 0000100000 0 0 0 0001000000 0 0 0 0 0 0 0 0 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedClassDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedMethodDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.parametrization.ResolvedTypeParametrized_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedValueDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.parametrization.ResolvedTypeParameterValueProvider_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedEnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedMethodLikeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedTypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedTypeParameterDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.MethodUsage_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedReferenceTypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.ResolvedWildcard_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.ResolvedReferenceType_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedParameterDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.ResolvedTypeVariable_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedConstructorDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.parametrization.ResolvedTypeParametersMap_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedFieldDeclaration_java

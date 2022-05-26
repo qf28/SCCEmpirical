@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create]
+3
+0 01010 0
+0 0 01001
+01011 01100 0
+wicket.src.main.java.org.apache.wicket.pageStore.DiskDataStore_java
+wicket.src.main.java.org.apache.wicket.Application_java
+wicket.src.main.java.org.apache.wicket.DefaultPageManagerProvider_java

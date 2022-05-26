@@ -1,0 +1,6 @@
+[Call,Import,Use,Contain]
+2
+0 1001
+1010 0
+src.main.java.spoon.support.compiler.jdt.JDTTreeBuilderHelper_java
+src.main.java.spoon.support.compiler.jdt.ReferenceBuilder_java

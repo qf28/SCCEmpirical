@@ -1,0 +1,6 @@
+[depend]
+2
+0 0
+0 0
+src.java.org.apache.cassandra.hadoop.AbstractBulkRecordWriter_java
+src.java.org.apache.cassandra.hadoop.AbstractBulkOutputFormat_java

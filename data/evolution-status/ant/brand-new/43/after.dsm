@@ -1,0 +1,30 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+14
+0 1110000 0 0101100 0 0 0 1110000 0 0 0 0 0 0110000
+0 0 0 0101100 0 0 0 0 0 1100000 0 0 0 0110000
+0 0 0 0000100 0101000 0 0 0 0 0 0 0 0 0
+0100010 0100010 0100010 0 0 0100010 0100010 0100010 0100010 0100010 0100010 0100010 0100010 0010000
+0 0 0 0101000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0000100 0101000 0 0 0 0 0 0 0 0 0
+0 0 0 0100100 0101000 0 0 0 0 1100000 0 0 0 0110000
+0 0 0 0101100 0 0 0 0 0 1100000 0 0 0 0110000
+0 0 0 0000100 0101000 0 0 0 0 0 0 0 0 0
+0 0 0 0101100 0 0 0 0 0 0 0 0 0 0
+0 1110000 0 0101100 0 0 0 1110000 0 0 0 0 0 0110000
+0 0 0 0000100 0101000 0 0 0 0 0 0 0 0 0
+0 1110000 0 0101100 0 0 0 1110000 0 0 0 0 0 0110000
+1110100 1110100 0 1110000 1110100 0 0 1110100 0 1110100 1110100 0 1110100 0
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.FieldRefCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.ClassCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.IntegerCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPoolEntry_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.FloatCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.StringCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.NameAndTypeCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.LongCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.Utf8CPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodRefCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.DoubleCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.InterfaceMethodRefCPInfo_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPool_java

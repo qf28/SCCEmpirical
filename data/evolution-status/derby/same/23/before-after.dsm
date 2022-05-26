@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement,Modify]
+2
+0 00010010000
+01110011000 0
+java.org_apache_derby_server.org.apache.derby.impl.drda.NetworkServerControlImpl_java
+java.org_apache_derby_server.org.apache.derby.drda.NetworkServerControl_java

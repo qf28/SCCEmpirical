@@ -1,0 +1,8 @@
+[Call,Return,Import,Create,Use,Implement,Parameter,Contain]
+3
+0 01000010 0
+10000010 0 0
+00100100 11111011 0
+src.main.java.spoon.reflect.eval.SymbolicEvaluator_java
+src.main.java.spoon.reflect.eval.SymbolicInstance_java
+src.main.java.spoon.support.reflect.eval.VisitorSymbolicEvaluator_java

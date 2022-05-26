@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01110000
+01010010 0
+wicket.src.java.wicket.request.PageClassRequestTarget_java
+wicket.src.java.wicket.Page_java

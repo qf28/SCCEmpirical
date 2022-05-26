@@ -1,0 +1,66 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Throw,Parameter,Contain]
+32
+0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100010000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0100101000 0 0 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0100010000 0 0 0 0 0 0 0 0
+0 0 0100010000 0 0 0 0100010000 0 0110010000 0 0 0 0100011000 0 0 0 0 0 0 0 0 0 0100010000 0100010000 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0100101000 0 0 0 0 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0 0 0 0110010000 0 0 0 0100010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0100101000 0 0 0 0 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0 1110000001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 1111011001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100010000 0 0
+0 0 0100010000 0 0 0 0100010000 0 0111011001 0 0 0 0100011000 0 0110001000 0 0 0 0 0 0 0 0100010000 0100010000 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0100101000 0 0 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000
+0 0 0 0100010000 0 0 1100000001 0 1100010000 0 0100010001 0 0 0 0 0 0 0 0 0 0 0 0100011001 0100010000 0 0 0 0 0 0 0100001000 0100001000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000
+0 0 0 0 0 0100101000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100001000 0 0 0 0 0110001000
+0 0 0 0110010000 0 0100101000 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0100101000 0 0 1010000001 0 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0010000000 0 0100010000 0 0100011000 0 0110001000 0100010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0100101000 0 0 0100010000 0110010000 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0110010001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0100010000 0 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0100101000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100001000 0 0 0 0 0110001000
+0110010000 0 0 0 0 0100101000 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0110010000 0 0 0110010000 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0100101000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000
+0 0 0 0110010000 0 0100101000 0 0 0 0 0110010000 0 0110010000 0 0 0 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0 0 0 1110010001 0100010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0100010000 0 0 0100010000 0 0 0100010000 0 0 0 0100010000 0 0110010000 0 0 0110010000 0100010000 0100010000 0100010000 0 0100010000 0 0 0100010000 0100010000 0100010000 0110010000 0100010000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserEnumConstantDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.ConstructorContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserFieldDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.LambdaExprContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.AbstractJavaParserContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserTypeVariableDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.FieldAccessContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.model.typesystem.ReferenceTypeUsageImpl_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserClassDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.MethodContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserTypeParameter_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarators.VariableSymbolDeclarator_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.JavaParserFacade_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserParameterDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarators.ParameterSymbolDeclarator_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.ForStatementContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.CompilationUnitContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.SwitchEntryContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserMethodDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.MethodCallExprContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.SymbolSolver_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserEnumDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.ForechStatementContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.EnumDeclarationContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.StatementContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarators.FieldSymbolDeclarator_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.contexts.ClassOrInterfaceDeclarationContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.reflectionmodel.ReflectionInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.JavaParserFactory_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.javaparser.declarations.JavaParserSymbolDeclaration_java

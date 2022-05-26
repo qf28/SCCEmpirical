@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 00001
+11010 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.MeteredFlusher_java

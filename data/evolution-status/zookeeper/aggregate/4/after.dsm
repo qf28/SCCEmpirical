@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create,Implement]
+3
+0 110010 110010
+000010 0 0
+010100 100100 0
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.bookie.Bookie_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.bookie.LedgerCache_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.bookie.EntryLogger_java

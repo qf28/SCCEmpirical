@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Use]
+3
+0 0 10010
+10100 0 0
+0 11100 0
+src.main.org.apache.tools.ant.taskdefs.optional.jsp.compilers.JspCompilerAdapterFactory_java
+src.main.org.apache.tools.ant.taskdefs.optional.jsp.JspC_java
+src.main.org.apache.tools.ant.taskdefs.optional.jsp.compilers.JasperC_java

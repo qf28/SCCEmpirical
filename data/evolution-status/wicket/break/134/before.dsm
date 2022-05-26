@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0110010
+0000001 0
+wicket-extensions.src.java.wicket.extensions.markup.html.datepicker.DatePicker_java
+wicket-extensions.src.java.wicket.extensions.markup.html.datepicker.DatePickerSettings_java

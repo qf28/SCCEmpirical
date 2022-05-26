@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 0
+11010100 0
+wicket-core.src.main.java.org.apache.wicket.markup.html.panel.BorderMarkupSourcingStrategy_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.border.Border_java

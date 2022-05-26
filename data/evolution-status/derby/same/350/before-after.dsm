@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Use]
+3
+0 0100 0
+1100 0 1101
+1010 1101 0
+java.engine.org.apache.derby.impl.sql.compile.DMLModStatementNode_java
+java.engine.org.apache.derby.impl.sql.compile.MatchingClauseNode_java
+java.engine.org.apache.derby.impl.sql.compile.MergeNode_java

@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+5
+0 0100010001 0 0100000000 0100010001
+0 0 0100100000 0 0
+0 0 0 0010000100 0
+1111011001 0 0010000000 0 0
+0 0 0100100000 0 0
+javaparser-symbol-solver-testing.src.test.test_sourcecode.javaparser_new_src.javaparser-core.com.github.javaparser.ast.body.FieldDeclaration_java
+javaparser-symbol-solver-testing.src.test.test_sourcecode.javaparser_new_src.javaparser-core.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-symbol-solver-testing.src.test.test_sourcecode.javaparser_new_src.javaparser-core.com.github.javaparser.ast.body.TypeDeclaration_java
+javaparser-symbol-solver-testing.src.test.test_sourcecode.javaparser_new_src.javaparser-core.com.github.javaparser.ast.nodeTypes.NodeWithMembers_java
+javaparser-symbol-solver-testing.src.test.test_sourcecode.javaparser_new_src.javaparser-core.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java

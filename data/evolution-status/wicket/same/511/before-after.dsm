@@ -1,0 +1,6 @@
+[Call,Import,Create,Use]
+2
+0 0101
+0100 0
+wicket.src.java.wicket.markup.resolver.EnclosureResolver_java
+wicket.src.java.wicket.markup.parser.filter.EnclosureHandler_java

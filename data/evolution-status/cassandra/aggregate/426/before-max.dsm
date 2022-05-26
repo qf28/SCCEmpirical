@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Throw,Create,Implement]
+2
+0 011001000
+010000000 0
+src.org.apache.cassandra.db.RowMutation_java
+src.org.apache.cassandra.db.Table_java

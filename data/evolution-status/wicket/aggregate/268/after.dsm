@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 111110 011100
+000100 0 011001
+0 011010 0
+wicket-core.src.main.java.org.apache.wicket.markup.repeater.AbstractRepeater_java
+wicket-core.src.main.java.org.apache.wicket.MarkupContainer_java
+wicket-core.src.main.java.org.apache.wicket.DequeueContext_java

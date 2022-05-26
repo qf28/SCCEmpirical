@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement]
+4
+0 0 0 0
+000010100 0 0 0
+010010000 011001000 0 0
+010010000 011001000 110000100 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.ByteBufferUtils_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.nio.ByteBuff_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.nio.SingleByteBuff_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.nio.MultiByteBuff_java

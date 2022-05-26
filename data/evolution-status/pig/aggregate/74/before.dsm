@@ -1,0 +1,12 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+5
+0 0 0 0 0
+1010100 0 0 0 0
+0 0 0 0 0
+1010100 0 1110010 0 0
+1010100 1000001 1101010 1110010 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PhyPlanVisitor_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PhyPlanSetter_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceOper_java
+src.org.apache.pig.tools.pigstats.ScriptState_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler_java

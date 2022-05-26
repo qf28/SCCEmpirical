@@ -1,0 +1,16 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+7
+0 0 0 0 0 0 010110111
+0 0 0 011001000 0 0 011110010
+0 0 0 0 0 010000000 010100110
+0 0 0 0 0 0 010100110
+0 0 0 0 0 0 010110111
+110000001 010111011 0 010011000 0 0 010110111
+000100000 0 000100000 0 010100000 000100000 0
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.usages.typesystem.Wildcard_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.usages.TypeParametersMap_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.usages.typesystem.PrimitiveType_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.usages.typesystem.TypeVariable_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.usages.typesystem.ArrayType_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.usages.typesystem.ReferenceType_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.usages.typesystem.Type_java

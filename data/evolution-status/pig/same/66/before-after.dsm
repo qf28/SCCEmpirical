@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Create,Use]
+5
+0 111101 0 101100 0
+0 0 0 001100 010100
+0 0 0 011110 0
+000100 0 000100 0 0
+0 0 0 011100 0
+src.org.apache.pig.backend.hadoop.executionengine.mapreduceExec.PigMapReduce_java
+src.org.apache.pig.backend.hadoop.executionengine.SplitSpec_java
+src.org.apache.pig.Main_java
+src.org.apache.pig.impl.PigContext_java
+src.org.apache.pig.impl.io.FileLocalizer_java

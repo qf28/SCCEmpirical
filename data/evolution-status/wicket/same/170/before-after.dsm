@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Create,Use]
+5
+0 0 0 0 010000
+0 0 0 0 011000
+0 0 0 111000 011000
+0 0 111000 0 011000
+100100 101000 0 101011 0
+wicket.src.main.java.org.apache.wicket.ng.request.cycle.RequestHandlerStack_java
+wicket.src.main.java.org.apache.wicket.ng.ThreadContext_java
+wicket.src.main.java.org.apache.wicket.ng.request.handler.impl.render.RenderPageRequestHandlerDelegate_java
+wicket.src.main.java.org.apache.wicket.ng.request.handler.impl.RenderPageRequestHandler_java
+wicket.src.main.java.org.apache.wicket.ng.request.cycle.RequestCycle_java

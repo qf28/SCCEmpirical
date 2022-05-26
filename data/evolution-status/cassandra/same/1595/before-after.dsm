@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 10000
+11011 0
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

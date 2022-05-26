@@ -1,0 +1,6 @@
+[Call,Typed,Set,Extend,Use,Create]
+2
+0 110000
+110001 0
+java.engine.org.apache.derby.impl.services.reflect.JarLoader_java
+java.engine.org.apache.derby.impl.services.reflect.UpdateLoader_java

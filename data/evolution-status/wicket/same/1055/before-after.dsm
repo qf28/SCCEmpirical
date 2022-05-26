@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create]
+3
+0 11001 11101
+11000 0 0
+11100 0 0
+wicket.src.java.wicket.Application_java
+wicket.src.java.wicket.ApplicationSettings_java
+wicket.src.java.wicket.markup.MarkupCache_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0 0100100
+0001000 0 0 0
+0 0 0 0100100
+0 0100000 0100001 0
+src.org.apache.pig.scripting.groovy.GroovyAlgebraicEvalFunc_java
+src.org.apache.pig.scripting.groovy.GroovyScriptEngine_java
+src.org.apache.pig.scripting.groovy.GroovyEvalFuncObject_java
+src.org.apache.pig.scripting.groovy.GroovyEvalFunc_java

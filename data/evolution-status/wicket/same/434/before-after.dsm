@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 01100000 11100100
+11101111 0 01100000
+11100101 11101000 0
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.MarkupContainer_java
+wicket.src.java.wicket.Page_java

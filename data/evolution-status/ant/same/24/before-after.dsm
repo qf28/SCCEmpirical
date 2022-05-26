@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0110001
+0110000 0
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.ExecutionFrame_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.ExecutionContext_java

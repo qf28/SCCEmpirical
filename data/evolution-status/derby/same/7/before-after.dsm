@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+2
+0 0100000
+0100000 0
+java.testing.org.apache.derbyTesting.junit.BaseTestCase_java
+java.testing.org.apache.derbyTesting.junit.DropDatabaseSetup_java

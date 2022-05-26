@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use]
+2
+0 00100
+11100 0
+src.org.apache.pig.builtin.OutputSchema_java
+src.org.apache.pig.EvalFunc_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+2
+0 000100000
+010101000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.server.errorhandling.exception.OperationAttemptTimeoutException_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.server.errorhandling.OperationAttemptTimer_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Create,Use]
+2
+0 0001001
+0111010 0
+src.org.apache.pig.newplan.logical.optimizer.LogicalPlanPrinter_java
+src.org.apache.pig.newplan.logical.expression.LogicalExpressionPlan_java

@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+6
+0 0 0 0 0010000000 0
+0 0 0000001000 0 0 0
+0 0 0 0 0000001000 0
+0 0 0 0 0 0010000000
+0 0 0100010000 0100000000 0 0110000000
+0110000100 0100000000 0100000000 0110000100 0110001100 0
+test.distributed.org.apache.cassandra.distributed.Coordinator_java
+test.distributed.org.apache.cassandra.distributed.InstanceClassLoader_java
+test.distributed.org.apache.cassandra.distributed.InvokableInstance_java
+test.distributed.org.apache.cassandra.distributed.MessageFilters_java
+test.distributed.org.apache.cassandra.distributed.Instance_java
+test.distributed.org.apache.cassandra.distributed.TestCluster_java

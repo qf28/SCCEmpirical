@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create,Implement]
+2
+0 001000
+001000 0
+hbase-hadoop-compat.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsTableSource_java
+hbase-hadoop-compat.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsTableAggregateSource_java

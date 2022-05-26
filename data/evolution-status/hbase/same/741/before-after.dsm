@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+2
+0 111101000
+010100100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.DefaultWALProvider_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.FSHLog_java

@@ -1,0 +1,8 @@
+[Cast,Call,Import,Use,Create]
+3
+0 0 01110
+10000 0 0
+01001 01001 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ObjectCreationContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.MethodCallExprContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFactory_java

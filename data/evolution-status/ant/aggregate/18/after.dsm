@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement]
+8
+0 010101100 0 0 0 0 0 0
+0 0 0 0 011000000 0 0 000000001
+000000010 0 0 000000010 0 000000010 000000010 101000000
+0 010101100 0 0 0 0 0 0
+0 0 010000000 0 0 0 0 011000000
+0 010001100 0 0 0 0 0 0
+0 010001100 0 0 0 0 0 0
+0 0 0 0 001010000 0 0 0
+src.main.org.apache.tools.ant.taskdefs.compilers.Jvc_java
+src.main.org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter_java
+src.main.org.apache.tools.ant.taskdefs.compilers.CompilerAdapterFactory_java
+src.main.org.apache.tools.ant.taskdefs.compilers.Jikes_java
+src.main.org.apache.tools.ant.taskdefs.Javac_java
+src.main.org.apache.tools.ant.taskdefs.compilers.Javac13_java
+src.main.org.apache.tools.ant.taskdefs.compilers.Javac12_java
+src.main.org.apache.tools.ant.taskdefs.compilers.CompilerAdapter_java

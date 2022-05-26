@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 0
+0100 0
+src.main.org.apache.tools.ant.types.CommandlineJava_java
+src.main.org.apache.tools.ant.types.Assertions_java

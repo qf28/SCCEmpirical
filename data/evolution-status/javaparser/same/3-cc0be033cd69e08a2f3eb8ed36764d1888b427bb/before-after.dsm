@@ -1,0 +1,18 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+8
+0 0 0 010111000 0 0 0 0
+0 0 0 010011000 0 0 0 0
+0 0 0 010011010 0 0 0 0
+000100000 000100000 000100000 0 000100000 000100000 000100000 000100000
+0 0 0 010111000 0 0 0 0
+0 0 0 010011010 0 0 0 0
+0 0 0 010111000 0 0 0 0
+0 0 0 010111000 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.MethodReferenceExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.LambdaExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.ObjectCreationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Expression_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.AssignExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.MethodCallExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.EnclosedExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.ConditionalExpr_java

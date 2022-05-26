@@ -1,0 +1,8 @@
+[Call,Typed,Create]
+3
+0 0 110
+0 0 110
+101 101 0
+wicket-examples.src.java.wicket.examples.hangman.Lose_java
+wicket-examples.src.java.wicket.examples.hangman.Win_java
+wicket-examples.src.java.wicket.examples.hangman.Guess_java

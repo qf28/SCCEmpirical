@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Implement]
+3
+0 111110 001001
+111000 0 001001
+011000 0 0
+wicket-core.src.main.java.org.apache.wicket.Component_java
+wicket-core.src.main.java.org.apache.wicket.behavior.Behavior_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.IHeaderContributor_java

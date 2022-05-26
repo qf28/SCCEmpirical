@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+4
+0 0111000 0 0
+0 0 0110000 0
+0110010 0111000 0 0
+0 0000100 0010000 0
+java.engine.org.apache.derby.impl.jdbc.TransactionResourceImpl_java
+java.engine.org.apache.derby.jdbc.InternalDriver_java
+java.engine.org.apache.derby.impl.jdbc.EmbedConnection_java
+java.engine.org.apache.derby.jdbc.Driver169_java

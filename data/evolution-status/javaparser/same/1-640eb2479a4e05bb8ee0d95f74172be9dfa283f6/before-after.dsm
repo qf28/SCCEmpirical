@@ -1,0 +1,6 @@
+[Call,Import,Create,Use]
+2
+0 1110
+1101 0
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.contexts.MethodCallExprContext_java

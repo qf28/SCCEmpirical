@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 110010
+100000 0
+java.org_apache_derby_tests.org.apache.derbyTesting.functionTests.tests.upgradeTests.UpgradeClassLoader_java
+java.org_apache_derby_tests.org.apache.derbyTesting.functionTests.tests.upgradeTests.Version_java

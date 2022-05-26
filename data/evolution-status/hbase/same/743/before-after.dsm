@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 010100110 011100100
+010100000 0 0
+010100000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.shaded.protobuf.ProtobufUtil_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.ServerLoad_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.TableDescriptorBuilder_java

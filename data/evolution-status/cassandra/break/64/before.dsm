@@ -1,0 +1,28 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+13
+0 0011001100 0 0010000000 0 0 0 0110000000 0 0101000000 0 0 0
+0 0 0 0010001000 0 0 0 0010000000 0 0 0110000000 0 0
+0 0 0 0110011000 0 0 0 0 0 0 0 0 0
+0 0 1110001000 0 0 0 1110001100 0110000000 0 0 0110000000 0 0
+0 0 0 0 0 0011000000 0 0011000000 0 0 0 0010000000 0
+0010001000 0111001100 0 0 0 0 0 0010000000 0 0 0 0 0
+0 0 0 0100001000 0 0 0 0 0 0 0010000000 0 0
+0 0 0 0 0 0 0 0 0 0 0 0111001000 0
+0 0 0000001000 0 0 0110001000 0 0100000000 0 0101000000 0 0011001000 0111000110
+0 0 0 0 0011001000 0 0 0 0111000000 0 0 0 0
+0 0001001000 0010000000 0110001000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0110001000 0 1110000000 0001001000 0101000000 0110000000 0 0
+0 0 0 0 0 0 0 0 0111001000 0101000000 0 0 0
+src.java.org.apache.cassandra.db.ColumnIndex_java
+src.java.org.apache.cassandra.io.sstable.IndexHelper_java
+src.java.org.apache.cassandra.db.Clustering_java
+src.java.org.apache.cassandra.db.ClusteringPrefix_java
+src.java.org.apache.cassandra.io.sstable.format.SSTableFormat_java
+src.java.org.apache.cassandra.db.RowIndexEntry_java
+src.java.org.apache.cassandra.db.RangeTombstone_java
+src.java.org.apache.cassandra.db.SerializationHeader_java
+src.java.org.apache.cassandra.service.CacheService_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.db.ClusteringComparator_java
+src.java.org.apache.cassandra.io.sstable.format.SSTableReader_java
+src.java.org.apache.cassandra.cache.AutoSavingCache_java

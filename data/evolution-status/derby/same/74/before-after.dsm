@@ -1,0 +1,6 @@
+[Call,Import,Use,Modify]
+2
+0 1000
+1000 0
+java.client.org.apache.derby.jdbc.ClientDriver_java
+java.client.org.apache.derby.jdbc.ClientBaseDataSourceRoot_java

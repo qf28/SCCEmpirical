@@ -1,0 +1,6 @@
+[Call,Import,Use,Create]
+2
+0 1100
+0110 0
+src.java.org.apache.cassandra.thrift.CassandraDaemon_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

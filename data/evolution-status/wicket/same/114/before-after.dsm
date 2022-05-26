@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 000100
+010001 0
+wicket-experimental.wicket-native-websocket.wicket-native-websocket-core.src.main.java.org.apache.wicket.protocol.ws.IWebSocketSettings_java
+wicket-experimental.wicket-native-websocket.wicket-native-websocket-core.src.main.java.org.apache.wicket.protocol.ws.WebSocketSettings_java

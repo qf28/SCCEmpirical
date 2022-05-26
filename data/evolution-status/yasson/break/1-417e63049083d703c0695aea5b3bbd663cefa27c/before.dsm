@@ -1,0 +1,86 @@
+[Cast,Call,Return,Import,Extend,Create,Use,Implement,Parameter,Contain]
+42
+0 0 0 0 0 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0100101000 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0000000010 0 0 0 0 0 0 0 0 0111001011 0101010000 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010001101 0 0011001001 0 0 0 0 0 0 0101001000 0 0 0 0 0 0101001000 0011001001 0 0 0 0100000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0101001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0101001000 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0100100000 0000000010 0000000010 0 0
+0 0 0100000000 0 0 0 0 0101010000 0 0 0 0100101000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1110001110 0000000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0100001000 0 0 0 0 0 0 0 0 0 0 0100001001 0 0 0100000000 0 0100000000 0 0 0 0 0100001000 0 0 0 0 0 0 0
+0 0 0 0 0 0101001011 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0101001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0100000000 0 0 0 0 0 0 0 0 0100100000 0 0101001000 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0101001000 0101000001 0 0 0010000110 0100000010 0 0
+0 0 0100000000 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0001000001 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0100101000 0 0010000000 0100000010 0 0
+0 0111001001 0100100000 0 0 0 0 0 0 0 0 0 0 0101001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0101001000 0 0 0 1110001101 0110010010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0101001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000000 0101001000 0110001011 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0100000000 0 0 0 0 0 0 0 0 0100100000 0 0101001000 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0101001000 0101000001 0 0 0010000110 0000000010 0 0
+0 0 0 0 0 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000000010 0 0
+0 0 0 0 0 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000000010 0 0
+0 0 0 0 0 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000000 0 0011000000 0 0 0 0 0 0 0 0 0 0 0000000100 0 0 0011000000 0 0 0110001111 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000000010 0 0
+0 0 0 0 0 0 0101001001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001011 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100101000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0101001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0101000010 0 0 0 0 0 0 0 0100000010 0 0 0 0 0100001000 0100000000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0101011001 0 0 0 0 0 0 0 0 0 0 0 0 0 0101000010 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100010001 0 0 0101001000 0 0 0 0 0 0 0111011011 0 0 0 0 0 0
+0 0 0 0100010000 0 0 0 0 0100010000 0 0 0 0100010000 0 0 0 0 0 0 0 0 0 0 0100010000 0 0 0 0 0 0 0100010000 0100010000 0 0 0 0 0 0 0 0 0 0100010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110011001 0 0 0010001011 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0101001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0101001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000000 0 0 0
+0 0 0100000000 0 0 0 0 0 0 0 0 0100100000 0 0101001000 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0101001000 0101000001 0 0 0010000110 0000000010 0 0
+0 0 0001000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0101001001 0 0 0 0 0 0 0101001000 0 0 0 0 0 0 0 0110001011 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0100000000 0 0 0 0 0 0 0 0 0100100000 0 0101001000 0 0 0 0 0 0100000000 0 0101000001 0 0 0100000000 0 0 0100000000 0 0100000000 0 0 0 0 0101001000 0101001010 0 0 0010000110 0100000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000100 0100000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0100010000 0011001011 0 0 0100010000 1100010000 0 0 0 0 0100010000 0 0 0101001000 0100010000 0100010000 0100010000 0100010000 1100011010 0010000000 0100010000 0111001011 0100010000 0 0101000001 0 0100010000 0100000000 0101001000 0100000000 0 0 0 0100011000 0101001000 0011001001 0100010001 0 0010001011 0 0100010000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0101001000 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0100100000 0000000010 0000000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0101001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.FloatArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.Unmarshaller_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AbstractItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.conversion.CalendarTypeConverter_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.JsonArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.DeserializerItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.AnnotationIntrospector_java
+src.main.java.org.eclipse.persistence.json.bind.serializer.JsonbRiParser_java
+src.main.java.org.eclipse.persistence.json.bind.internal.conversion.JsonObjectTypeConverter_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AbstractArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.TypeWrapperItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AbstractUnmarshallerItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.conversion.ByteArrayTypeConverter_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ProcessingContext_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.MapItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ByteArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.DoubleArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.IntArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AdaptedObjectItemDecorator_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CurrentItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ShortArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.model.PropertyModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ObjectArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.conversion.JsonStringTypeConverter_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ComponentMatcher_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ClassParser_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.LongArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.MappingContext_java
+src.main.java.org.eclipse.persistence.json.bind.internal.conversion.ConvertersMapTypeConverter_java
+src.main.java.org.eclipse.persistence.json.bind.internal.JsonbContext_java
+src.main.java.org.eclipse.persistence.json.bind.internal.conversion.JsonNumberTypeConverter_java
+src.main.java.org.eclipse.persistence.json.bind.internal.conversion.StringTypeConverter_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.DecoratorItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CollectionItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ReflectionUtils_java
+src.main.java.org.eclipse.persistence.json.bind.model.ClassModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ObjectItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AbstractJsonpItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.UnmarshallerItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.UnmarshallerItemBuilder_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.JsonObjectItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.conversion.JsonStructureTypeConverter_java

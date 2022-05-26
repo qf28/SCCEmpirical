@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+5
+0 0 0 0 0110001000
+0 0 0 0 1101000000
+0 0110001000 0 0 0
+0 0110000100 0110000100 0 0
+1111001100 0 0 0001000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.rsgroup.RSGroupAdminServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.rsgroup.RSGroupAdminServiceImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.rsgroup.RSGroupAdminEndpoint_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java

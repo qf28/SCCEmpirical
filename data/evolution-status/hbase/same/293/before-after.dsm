@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 0 11000000 0 0
+01110000 0 0 0 0
+01100010 0 0 01110010 0
+01110000 01100010 0 0 01100010
+0 0 0 01100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.RestoreSnapshotHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.SnapshotManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.EnabledTableSnapshotHandler_java

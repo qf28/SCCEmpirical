@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 1010010 1010010
+1110000 0 0
+1110000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.SplitRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.MergedRegionHandler_java

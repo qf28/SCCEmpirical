@@ -1,0 +1,22 @@
+[Cast,Call,Return,Import,Use,Create,Implement,Parameter,Contain]
+10
+0 0 0 0 0 0 0 0 0 000000110
+0 0 0 0 0 0 0 0 0 000000110
+100000000 100000000 0 010101000 010011000 0 0 110100001 010010011 011010111
+100000000 100000000 110001001 0 0 010001000 010010000 0 010011011 011010011
+0 0 0 0 0 0 0 0 000010010 011000110
+100000000 100000000 110011011 010001000 0 0 010010000 0 010011011 011010010
+0 0 010101000 010101000 0 0 0 0 010110011 011110011
+0 0 000100000 0 0 0 0 0 0 011100010
+0 0 0 0 0 0 0 0 0 011010011
+0 0 001000000 0 0 0 0 0 0 0
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.NullTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.LambdaTypeUsagePlaceholder_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.ReferenceTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.TypeUsageOfTypeParameter_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionInterfaceDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.MethodResolutionLogic_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserTypeVariableDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.MethodUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.TypeUsage_java

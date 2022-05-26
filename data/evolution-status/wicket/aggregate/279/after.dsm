@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Implement]
+3
+0 01100 0
+10100 0 01100
+00100 0 0
+wicket.src.java.wicket.Resource_java
+wicket.src.java.wicket.Application_java
+wicket.src.java.wicket.ISharedResourceFactory_java

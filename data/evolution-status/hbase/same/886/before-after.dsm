@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 011000110
+010000000 0
+contrib.stargate.src.java.org.apache.hadoop.hbase.stargate.ScannerResource_java
+contrib.stargate.src.java.org.apache.hadoop.hbase.stargate.ScannerInstanceResource_java

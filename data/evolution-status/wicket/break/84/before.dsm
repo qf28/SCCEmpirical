@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create]
+4
+0 011101 111100 0
+001100 0 0 010010
+0 001000 0 0
+101100 0 0 0
+wicket.src.java.wicket.Session_java
+wicket.src.java.wicket.session.SessionAttributeEvent_java
+wicket.src.java.wicket.session.ISessionAttributeListener_java
+wicket.src.java.wicket.session.SessionEvent_java

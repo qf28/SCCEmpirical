@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 0 110000100 0 0 0 0
+0 0 110000100 0 0 0 0
+001000000 001000000 0 001000000 001000000 0 0
+0 0 110000100 0 0 0 0
+0 0 110000100 0 0 0 0
+0 0 0 0 0 0 110000100
+0 0 0 0 0 001000000 0
+src.org.apache.pig.experimental.logical.expression.AndExpression_java
+src.org.apache.pig.experimental.logical.expression.ConstantExpression_java
+src.org.apache.pig.experimental.logical.expression.LogicalExpressionVisitor_java
+src.org.apache.pig.experimental.logical.expression.EqualExpression_java
+src.org.apache.pig.experimental.logical.expression.ProjectExpression_java
+src.org.apache.pig.experimental.logical.relational.LOLoad_java
+src.org.apache.pig.experimental.logical.relational.LogicalPlanVisitor_java

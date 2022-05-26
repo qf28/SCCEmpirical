@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create]
+2
+0 0011
+1111 0
+src.main.java.org.apache.commons.math.geometry.euclidean.twod.Line_java
+src.main.java.org.apache.commons.math.geometry.euclidean.twod.SubLine_java

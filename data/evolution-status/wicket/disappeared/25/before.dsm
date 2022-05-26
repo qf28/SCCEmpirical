@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 111000000
+010100100 0
+wicket.src.main.disabled.org.apache.wicket.protocol.https.SwitchProtocolRequestTarget_java
+wicket.src.main.disabled.org.apache.wicket.protocol.https.HttpsRequestCycleProcessor_java

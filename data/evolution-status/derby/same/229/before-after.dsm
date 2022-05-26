@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Modify]
+4
+0 010101100 011000100 011000110
+001000100 0 011000100 011100100
+111000100 111100100 0 0
+111000100 011100100 011000100 0
+java.client.org.apache.derby.client.am.ClientPreparedStatement_java
+java.client.org.apache.derby.client.am.ClientStatement_java
+java.client.org.apache.derby.client.am.ClientConnection_java
+java.client.org.apache.derby.client.am.ClientResultSet_java

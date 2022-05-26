@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 0
+1111 0
+wicket-core.src.main.java.org.apache.wicket.protocol.http.mock.MockHttpSession_java
+wicket-core.src.main.java.org.apache.wicket.util.tester.BaseWicketTester_java

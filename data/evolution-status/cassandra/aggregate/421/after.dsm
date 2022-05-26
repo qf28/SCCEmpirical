@@ -1,0 +1,40 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+19
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 01101000 0 00110010 0 0 0 0 01000100 0 0 0 0 0 0 0
+0 0 0 0 01110000 0 0 0 0 0 0 00010100 0 0 0 0 0 0 0
+0 0 00010100 0 00101000 0 00110100 0 0 0 0 01000000 0 00000100 0 0 0 0 0
+0 0 00010100 0 0 0 00110010 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 0 0 0 0 0 0 0 0
+00000100 00100100 0 00000100 01100000 00000100 0 00000100 00000100 00000100 00000100 00000100 00000100 00000100 00000100 00000100 00000100 00000100 00000100
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 0 0 0 0 0 00000100 0 0
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 00010100 00000100 00101000 0 00110100 0 0 0 0 0 0 00000100 0 0 0 0 0
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 01000000 0 0 0 0 0 0 0
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 00010100 0 0 0 00110100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 0 0 0 01000000 0 0 0 0
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 00010100 0 00001000 0 00110100 0 0 0 0 0 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.db.marshal.DecimalType_java
+src.java.org.apache.cassandra.db.marshal.CollectionType_java
+src.java.org.apache.cassandra.cql3.Term_java
+src.java.org.apache.cassandra.db.marshal.UTF8Type_java
+src.java.org.apache.cassandra.db.marshal.AbstractType_java
+src.java.org.apache.cassandra.db.marshal.InetAddressType_java
+src.java.org.apache.cassandra.cql3.ParsedType_java
+src.java.org.apache.cassandra.db.marshal.FloatType_java
+src.java.org.apache.cassandra.db.marshal.UUIDType_java
+src.java.org.apache.cassandra.db.marshal.Int32Type_java
+src.java.org.apache.cassandra.db.marshal.IntegerType_java
+src.java.org.apache.cassandra.db.marshal.BytesType_java
+src.java.org.apache.cassandra.db.marshal.LongType_java
+src.java.org.apache.cassandra.db.marshal.AsciiType_java
+src.java.org.apache.cassandra.db.marshal.DateType_java
+src.java.org.apache.cassandra.db.marshal.CounterColumnType_java
+src.java.org.apache.cassandra.db.marshal.TimeUUIDType_java
+src.java.org.apache.cassandra.db.marshal.BooleanType_java
+src.java.org.apache.cassandra.db.marshal.DoubleType_java

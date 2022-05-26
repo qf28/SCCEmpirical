@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 001000000 011000100
+001100000 0 0
+010000000 011000010 0
+java.engine.org.apache.derby.iapi.store.access.BackingStoreHashtable_java
+java.engine.org.apache.derby.iapi.store.access.TransactionController_java
+java.engine.org.apache.derby.iapi.store.access.DiskHashtable_java

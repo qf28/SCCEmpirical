@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0001000
+0001001 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.SecondLevelCacheSessionStore_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.pagestore.DiskPageStore_java

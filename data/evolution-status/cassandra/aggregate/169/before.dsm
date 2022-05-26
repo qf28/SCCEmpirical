@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+7
+0 0 0110010 0 0110110 0000010 0
+0100110 0 0110010 0 0110010 0000010 0
+0110001 0110010 0 1100000 0110010 0 1100000
+0 0 0 0 0110010 0 0
+0 0 0011001 0 0 0 0
+0 0 1110010 0 0110000 0 0
+0 0 0 0 0110010 0 0
+src.java.org.apache.cassandra.db.marshal.TupleType_java
+src.java.org.apache.cassandra.db.marshal.UserType_java
+src.java.org.apache.cassandra.cql3.CQL3Type_java
+src.java.org.apache.cassandra.db.marshal.ListType_java
+src.java.org.apache.cassandra.db.marshal.AbstractType_java
+src.java.org.apache.cassandra.cql3.Constants_java
+src.java.org.apache.cassandra.db.marshal.MapType_java

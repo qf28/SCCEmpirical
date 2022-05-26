@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 100100
+100000 0
+lang.java.compiler.src.main.java.org.apache.avro.compiler.idl.SchemaResolver_java
+lang.java.compiler.src.main.java.org.apache.avro.compiler.idl.ResolvingVisitor_java

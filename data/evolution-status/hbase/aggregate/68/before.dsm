@@ -1,0 +1,8 @@
+[Call,Typed,Set,Import,Extend,Use,Create]
+3
+0 0 0
+1100001 0 1101000
+0 1101000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.compactions.CompactionConfiguration_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.compactions.CompactionPolicy_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java

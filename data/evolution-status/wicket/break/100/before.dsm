@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend,Create,Implement]
+7
+0 101000 0 0 101000 0 0
+0 0 0 101010 111000 0 0
+0 0 0 0 001000 0 0
+101010 111000 101010 0 001001 101010 111010
+0 0 0 0 0 0 011000
+0 0 0 0 001000 0 0
+0 100000 0 0 111000 0 0
+wicket-core.src.main.java.org.apache.wicket.core.util.resource.locator.ResourceStreamLocator_java
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.SecurePackageResourceGuard_java
+wicket-core.src.main.java.org.apache.wicket.settings.def.ResourceSettings_java
+wicket-core.src.main.java.org.apache.wicket.settings.IResourceSettings_java
+wicket-core.src.main.java.org.apache.wicket.resource.PropertiesFactory_java
+wicket-core.src.main.java.org.apache.wicket.Localizer_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0100000
+0000010 0
+src.main.java.org.apache.commons.math4.util.Precision_java
+src.main.java.org.apache.commons.math4.util.FastMath_java

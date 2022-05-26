@@ -1,0 +1,10 @@
+[Call,Import,Extend,Create]
+4
+0 1000 1001 0010
+1000 0 0 0
+1000 0 0 0
+1000 0 0 0
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java
+java.testing.org.apache.derbyTesting.junit.BaseJDBCTestCase_java
+java.testing.org.apache.derbyTesting.junit.DropDatabaseSetup_java
+java.testing.org.apache.derbyTesting.junit.DatabasePropertyTestSetup_java

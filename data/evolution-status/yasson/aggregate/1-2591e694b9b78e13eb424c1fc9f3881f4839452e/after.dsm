@@ -1,0 +1,30 @@
+[Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+14
+0 0 100100000 100010010 0 0 0 110001000 0 0 0 101000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 110001000 0
+0 0 0 100010010 0 0 0 110001000 0 0 0 001001101 0 011001001
+100010000 110001000 001001000 0 0 0 100010000 110001000 100010000 100010001 100011000 001001011 110001001 111001011
+0 0 0 0 0 0 0 100001000 0 0 0 0 110001000 0
+0 0 0 0 0 0 0 100001000 0 0 0 0 0 0
+0 0 100100000 000000010 0 0 0 110001000 0 0 0 101000010 0 0
+0 0 010000000 0 0 100010001 0 0 0 0 0 0 0 0
+0 0 100100000 000000010 0 0 0 110001000 0 0 0 101000010 0 0
+0 0 100100000 100010010 0 0 0 110001000 0 0 0 101000010 110001000 110000001
+0 0 0 100010000 0 0 0 0 0 0 0 101001111 0 011000001
+0 0 0 0 0 0 0 0 0 0 0 0 0 011000000
+0 110001000 0 0 0 110010000 0 110001000 0 0 0 0 0 110000010
+0 0 0 0 110001001 0 0 0 0 0 0 0 0 0
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.JsonbContext_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AbstractItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CurrentItemBuilder_java
+src.main.java.org.eclipse.persistence.json.bind.internal.AnnotationIntrospector_java
+src.main.java.org.eclipse.persistence.json.bind.internal.VariableTypeInheritanceSearch_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CollectionItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ReflectionUtils_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.MapItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ObjectItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AdaptedObjectItemDecorator_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CurrentItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.adapter.AdapterMatcher_java
+src.main.java.org.eclipse.persistence.json.bind.model.PropertyModel_java

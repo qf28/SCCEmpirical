@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Implement]
+2
+0 110100
+001100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.coprocessor.BaseEnvironment_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.HTableWrapper_java

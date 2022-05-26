@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 11011 11001 10110
+10110 0 0 0
+10110 11110 0 0
+10110 10000 0 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.locator.TokenMetadata_java
+src.java.org.apache.cassandra.dht.RangeStreamer_java
+src.java.org.apache.cassandra.batchlog.BatchlogManager_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00100000
+01100010 0
+wicket-threadtest.src.main.java.wicket.threadtest.tester.Command_java
+wicket-threadtest.src.main.java.wicket.threadtest.tester.CommandRunner_java

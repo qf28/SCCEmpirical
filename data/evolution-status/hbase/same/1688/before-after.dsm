@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use]
+3
+0 010010 010010
+111001 0 0
+111001 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HMobStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ReversedMobStoreScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MobStoreScanner_java

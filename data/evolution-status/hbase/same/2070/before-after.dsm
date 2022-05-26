@@ -1,0 +1,10 @@
+[Call,Typed,Import,Create,Use,Implement]
+4
+0 0 111000 110000
+0 0 001010 0
+001000 110100 0 0
+0 0 111000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.CombinedBlockCache_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.bucket.BucketAllocator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.bucket.BucketCache_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.LruBlockCache_java

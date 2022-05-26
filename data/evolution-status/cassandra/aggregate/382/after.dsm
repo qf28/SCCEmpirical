@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 110000
+100000 0
+src.java.org.apache.cassandra.db.partitions.UnfilteredPartitionIterators_java
+src.java.org.apache.cassandra.db.SinglePartitionReadCommand_java

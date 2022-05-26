@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+5
+0 0 0 0110000 0
+0 0 0 0 0001010
+0 0 0 1011000 0
+0 0100000 0 0 0
+1111010 0101100 1110010 0111010 0
+src.main.org.apache.tools.ant.UnknownElement_java
+src.main.org.apache.tools.ant.ProjectHelper_java
+src.main.org.apache.tools.ant.helper.AntXMLContext_java
+src.main.org.apache.tools.ant.RuntimeConfigurable_java
+src.main.org.apache.tools.ant.helper.ProjectHelper2_java

@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Create]
+2
+0 0101
+1110 0
+wicket-util.src.main.java.org.apache.wicket.util.file.File_java
+wicket-util.src.main.java.org.apache.wicket.util.file.Folder_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 1110011
+0100010 0
+lang.java.avro.src.main.java.org.apache.avro.specific.SpecificDatumReader_java
+lang.java.avro.src.main.java.org.apache.avro.specific.SpecificData_java

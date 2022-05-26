@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+8
+0 0110000100 0 0 0110000100 0 0 0
+0 0 0 0 0 0 0 0100000000
+0011000000 0 0 0110001100 0 0 0110000100 0
+0110000110 0110000100 0 0 0010001000 0100000000 0100000000 0
+0 0 0100000000 0 0 0 0 0
+0010001000 0110000000 0 0 0010001000 0 0 0
+0110000010 0 0 0 0000001000 0100000000 0 0
+0 0 0100000000 0 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLog_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.WALEdit_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.Compressor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.SequenceFileLogReader_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogKey_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.SequenceFileLogWriter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.KeyValueCompression_java

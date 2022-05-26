@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Create,Use]
+3
+0 11001 0
+10010 0 10010
+0 11001 0
+java.client.org.apache.derby.client.am.ClobOutputStream_java
+java.client.org.apache.derby.client.am.Clob_java
+java.client.org.apache.derby.client.am.ClobWriter_java

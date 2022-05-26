@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Use,Create]
+6
+0 0 0 010001 010110 0
+010010 0 111110 010000 010100 011101
+0 011101 0 0 0 000010
+0 011110 0 0 0 0
+0 011000 0 0 0 001010
+0 011110 0 0 0 0
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.cql3.statements.CreateColumnFamilyStatement_java
+src.java.org.apache.cassandra.db.Column_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java
+src.java.org.apache.cassandra.cql3.CFDefinition_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create,Use,Implement]
+2
+0 010110
+011000 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.Memtable_java

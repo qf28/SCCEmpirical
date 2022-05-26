@@ -1,0 +1,6 @@
+[Call,Import,Extend,Create,Use]
+2
+0 10010
+10010 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionInterfaceDeclaration_java

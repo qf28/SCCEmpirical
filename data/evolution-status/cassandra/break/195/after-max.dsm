@@ -1,0 +1,6 @@
+[Call,Typed,Create,Use]
+2
+0 1111
+0101 0
+contrib.stress.src.org.apache.cassandra.contrib.stress.Stress_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.Session_java

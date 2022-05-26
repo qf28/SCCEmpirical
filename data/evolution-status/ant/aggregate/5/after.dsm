@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Implement]
+3
+0 0110010 0110010
+0010000 0 0
+0010000 0 0
+proposal.sandbox.junit.src.main.org.apache.tools.ant.taskdefs.optional.junit.JUnitTask_java
+proposal.sandbox.junit.src.main.org.apache.tools.ant.taskdefs.optional.junit.ServerElement_java
+proposal.sandbox.junit.src.main.org.apache.tools.ant.taskdefs.optional.junit.ClientElement_java

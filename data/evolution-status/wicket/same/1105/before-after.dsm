@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create]
+2
+0 01011
+11110 0
+wicket-core.src.main.java.org.apache.wicket.protocol.http.WebSession_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.pages.BrowserInfoPage_java

@@ -1,0 +1,6 @@
+[Call,Import,Create,Use,Contain]
+2
+0 11111
+11001 0
+src.main.java.org.eclipse.yasson.internal.AnnotationIntrospector_java
+src.main.java.org.eclipse.yasson.internal.model.CreatorModel_java

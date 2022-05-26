@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 110000
+010000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.slab.SingleSizeCache_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.slab.SlabItemActionWatcher_java

@@ -1,0 +1,18 @@
+[Call,Typed,Import,Extend,Use,Create]
+8
+0 001110 011000 111000 111000 000110 011000 011000
+001100 0 0 0 0 0 0 0
+111010 100110 0 0 0 0 0 0
+111010 100110 0 0 0 111000 0 0
+111010 100110 0 0 0 111000 0 0
+0 101100 0 0 0 0 0 0
+111010 100100 0 0 0 0 0 0
+111010 100110 0 0 0 0 0 0
+src.org.apache.pig.impl.physicalLayer.plans.PhyPlanVisitor_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.PhysicalOperator_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.POPackage_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.POForEach_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.POLocalRearrange_java
+src.org.apache.pig.impl.physicalLayer.plans.PhysicalPlan_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.POLoad_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.POStore_java

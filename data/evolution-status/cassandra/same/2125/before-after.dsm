@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use]
+2
+0 010000
+010100 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.db.BatchlogManager_java

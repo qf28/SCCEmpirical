@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 1100010
+0110000 0
+hbase-hadoop2-compat.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionAggregateSourceImpl_java
+hbase-hadoop2-compat.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionSourceImpl_java

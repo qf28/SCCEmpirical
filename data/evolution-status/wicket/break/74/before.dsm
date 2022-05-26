@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 101100
+001000 0
+wicket-core.src.main.java.org.apache.wicket.ajax.markup.html.form.AjaxButton_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.form.Button_java

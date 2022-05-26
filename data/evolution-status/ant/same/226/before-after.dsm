@@ -1,0 +1,18 @@
+[Call,Typed,Import,Set,Extend,Throw,Create,Use,Implement]
+8
+0 0 0 100000000 0 0 0 0
+0 0 0 100000000 001000000 0 0 0
+0 0 0 100000000 0 0 0 0
+0 0 0 0 101000000 0 0 0
+0 0 0 0 0 0 111000100 0
+0 0 0 100000000 0 0 0 0
+0 0 0 0 0 0 0 111000100
+001000100 001000100 001000100 0 0 101000100 0 0
+proposal.myrmidon.src.java.org.apache.myrmidon.framework.exec.launchers.WinNTCommandLauncher_java
+proposal.myrmidon.src.java.org.apache.myrmidon.framework.exec.launchers.DefaultCommandLauncher_java
+proposal.myrmidon.src.java.org.apache.myrmidon.framework.exec.launchers.MacCommandLauncher_java
+proposal.myrmidon.src.java.org.apache.myrmidon.framework.exec.launchers.ExecUtil_java
+proposal.myrmidon.src.java.org.apache.myrmidon.framework.exec.Environment_java
+proposal.myrmidon.src.java.org.apache.myrmidon.framework.exec.launchers.ScriptCommandLauncher_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.exec.Execute_java
+proposal.myrmidon.src.java.org.apache.myrmidon.framework.exec.impl.DefaultExecManager_java

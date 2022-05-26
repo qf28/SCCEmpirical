@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Throw]
+2
+0 111000110
+011010100 0
+zookeeper-server.src.main.java.org.apache.zookeeper.server.NIOServerCnxnFactory_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.NIOServerCnxn_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0010001000
+1110000000 0
+java.client.org.apache.derby.client.net.NetDatabaseMetaData_java
+java.client.org.apache.derby.client.net.NetConnection_java

@@ -1,0 +1,10 @@
+[Call,Typed,Extend,Use,Create]
+4
+0 0 11000 0
+0 0 0 00001
+0 10000 0 0
+10110 0 0 0
+src.main.org.apache.tools.ant.taskdefs.compilers.DefaultCompilerAdapter_java
+src.main.org.apache.tools.ant.taskdefs.compilers.CompilerAdapterFactory_java
+src.main.org.apache.tools.ant.taskdefs.Javac_java
+src.main.org.apache.tools.ant.taskdefs.compilers.JavacExternal_java

@@ -1,0 +1,6 @@
+[Call,Typed,Create,Use]
+2
+0 0101
+1110 0
+ambari-logsearch.ambari-logsearch-solr-client.src.main.java.org.apache.ambari.logsearch.solr.AmbariSolrCloudClient_java
+ambari-logsearch.ambari-logsearch-solr-client.src.main.java.org.apache.ambari.logsearch.solr.AmbariSolrCloudClientBuilder_java

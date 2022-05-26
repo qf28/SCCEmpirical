@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend]
+2
+0 1100
+0100 0
+jdk-1_4.wicket.src.test.java.org.apache.wicket.util.io.PageA_java
+jdk-1_4.wicket.src.test.java.org.apache.wicket.util.io.PageB_java

@@ -1,0 +1,24 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+11
+0 0000000010 0 0000000010 0000000010 0000000010 0000000010 0000000010 0 0000000010 0000000010
+0110000010 0 0110000010 0 0 0 0 0100011000 0 0 0
+0 0000000010 0 0000000010 0000000010 0000000010 0000000010 0000000010 0 0000000010 0000000010
+0110000010 0 0110000010 0 0 0 0 0 0100100000 0 0
+0110000010 0111001011 0110000010 0 0 0 0 0 0101100000 0 0
+0110000010 0 0110000010 0 0 0 0 0 0100100000 0 0
+0110000010 0 0110000010 0 0 0 0 0 0100100000 0 0
+0110000010 0101100000 0110000010 0 0 0 0 0 0 0 0
+0 0110000010 0 0100010000 0100010000 0100010000 0100010000 1110001001 0 0 0010000000
+0110000010 0 0110000010 0 0 0 0 0 0100100000 0 0
+0110000010 0 0110000010 0 0 0 0 0 0100001011 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.NameExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.SingleStaticImportDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.TypeImportOnDemandDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.StaticImportOnDemandDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.SingleTypeImportDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.QualifiedNameExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.ImportDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.EmptyImportDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

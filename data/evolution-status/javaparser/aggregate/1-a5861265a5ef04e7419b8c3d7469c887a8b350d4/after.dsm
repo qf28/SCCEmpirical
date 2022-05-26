@@ -1,0 +1,60 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+29
+0 0110000010 0010010011 0110000010 0110000010 0 0 0100000000 0110010011 0010000010 0110010011 0110000010 0110000010 0110010011 0 0 0110000001 0110000010 0110000010 0110000010 0110000010 0110010010 0110000010 0110000010 0110000010 0110010010 0110010011 0110000010 0010000010
+0 0 0 0 0 0 0 0 0100000000 0 0100001000 0 0 0 0010000100 0110010000 0100100000 0100001000 0 0101000001 0 0 0100010001 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0110100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0100100000 0 0 0 0 0 0 0 0 0 0000000010 0 0 0 0 0 0 0 0 0 0 0
+0 0101001001 0 0 0 0 0 0 0100000000 0 0 0 0 0101011011 0 0110010000 0100000000 0100001000 0 0101001001 0 0 0 0 0 0100100000 0 0 0
+0 1110000011 0 1110000011 1110000011 0 0 0110000011 0110000010 0010000010 1110000011 0010000010 1110000011 1110000011 0 0 0100000000 1110000011 1110000011 1110000011 1110000011 1110000011 1110000011 1110000011 1110000011 0100000000 1110000011 1110000011 1010000011
+0 0110001011 0010010011 0110001011 0110001011 0 0 0100000000 0111000001 0110001011 0110011011 0110001011 0110001011 0110011011 0 0 0110010010 0110001011 0110001011 0110001011 0110001010 0110011011 0110001011 0110001011 0110001011 0110010011 0110011011 0110001011 0110001011
+0 0 0 0 0 0 0 0 0110100000 0 0 0 0 0 0 0 0 0101010011 0 0 0 0 0 0 0 0 0 0 0
+0110001001 0 0 0 0 0110010000 0110001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0100010001 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100100000 0 0 0
+0 0 0 0 0 0 0 0100100000 0100000000 0 0 0 0 0 0 0 0 0000000010 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0010000100 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010010010 0 0 0 0 0 0100000000 0 0 0 0 0 0010000100 0110010000 0100110010 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 1100010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0111001000 0010010010 0 0 0 0 0 0110000011 0 0111011010 0 0111001001 0 0 0 0010010010 0110001001 0 0110000010 0110000010 0111001000 0 0 0 0110010010 0 0 0
+0 0 0 0 0 0 0 0 0110100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0110100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0100000000 0 0100010011 0 0111011011 0 0010000100 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0100000000 0 0100010011 0 0111011011 0 0010000100 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0111001001 0 0 0 0100100000 0010000000 0 0 0 0 0 0110010000 0 0 0 0 0 0 0111001001 0 0 0010010010 0 0 0111001001
+0 0 0100100000 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0101001001 0 0 0 0 0 0 0100000000 0 0 0 0 0 0 0110010000 0100000000 0100001000 0 0101001001 0 0 0 0 0 0100100000 0 0 0
+0 0 0101110010 0 0 0 0 0 0100000000 0 0 0 0 0 0 0 0010010010 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0100000000 0 0 0 0 0 0010000100 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0100000000 0 0 0 0111011011 0 0010000100 0 0100110010 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0001010011 0 0 0 0 0 0110100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0011010011 0 0 0 0 0 0100000000 0 0 0 0 0 0010000100 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100100000 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.DumpVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Expression_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.MultiTypeParameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.EqualsVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.BaseParameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EmptyTypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EmptyMemberDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.NameExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumConstantDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.DocumentableNode_java
+javaparser-core.src.main.java.com.github.javaparser.ASTHelper_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.BodyDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.VariableDeclaratorId_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ConstructorDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.MethodDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.VariableDeclarationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.ObjectCreationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.InitializerDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.TypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.MemberValuePair_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.AnnotationMemberDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.AnnotationDeclaration_java

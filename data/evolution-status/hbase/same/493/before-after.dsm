@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0110010
+0100000 0
+src.java.org.apache.hadoop.hbase.regionserver.HStore_java
+src.java.org.apache.hadoop.hbase.regionserver.Memcache_java

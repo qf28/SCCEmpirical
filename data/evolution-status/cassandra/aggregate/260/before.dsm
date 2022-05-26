@@ -1,0 +1,4 @@
+[Call,Extend]
+1
+0
+src.java.org.apache.cassandra.cql3.functions.UDFunction_java

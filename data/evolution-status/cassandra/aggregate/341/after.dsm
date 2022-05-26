@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+8
+0 0 0 0 001100100 001100000 0 0
+0 0 0 0 001100100 011100100 0 0
+010001100 0 0 0 001100100 001100100 0 0
+0 011000100 0 0 011100100 0 0 001100000
+0 0 0 011100010 0 0 011100000 0
+0 0 0 0 001100100 0 0 0
+0 0 0 0 011100110 011000100 0 0
+000000010 000000100 000000010 011100000 001100000 0 0 0
+src.java.org.apache.cassandra.index.sasi.conf.view.RangeTermTree_java
+src.java.org.apache.cassandra.index.sasi.conf.IndexMode_java
+src.java.org.apache.cassandra.index.sasi.conf.view.PrefixTermTree_java
+src.java.org.apache.cassandra.index.sasi.conf.ColumnIndex_java
+src.java.org.apache.cassandra.index.sasi.plan.Expression_java
+src.java.org.apache.cassandra.index.sasi.disk.OnDiskIndexBuilder_java
+src.java.org.apache.cassandra.index.sasi.disk.OnDiskIndex_java
+src.java.org.apache.cassandra.index.sasi.conf.view.View_java

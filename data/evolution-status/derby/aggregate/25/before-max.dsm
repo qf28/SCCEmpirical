@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create]
+3
+0 0 01110
+0 0 01100
+01001 01001 0
+java.engine.org.apache.derby.impl.jdbc.EmbedClob_java
+java.engine.org.apache.derby.impl.jdbc.EmbedBlob_java
+java.engine.org.apache.derby.impl.jdbc.EmbedConnection_java

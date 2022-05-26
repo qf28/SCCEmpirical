@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 110
+111 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.util.io.ClassStreamHandler_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.util.io.WicketObjectInputStream_java

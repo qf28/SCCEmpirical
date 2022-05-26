@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Create,Use]
+4
+0 0 0 101000
+0 0 0 101001
+0 0 0 100000
+001001 001000 100001 0
+hbase-http.src.main.java.org.apache.hadoop.hbase.http.log.LogLevel_java
+hbase-http.src.main.java.org.apache.hadoop.hbase.http.conf.ConfServlet_java
+hbase-http.src.main.java.org.apache.hadoop.hbase.http.ProfileServlet_java
+hbase-http.src.main.java.org.apache.hadoop.hbase.http.HttpServer_java

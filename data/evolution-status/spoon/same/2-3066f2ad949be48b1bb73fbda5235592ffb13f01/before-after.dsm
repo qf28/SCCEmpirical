@@ -1,0 +1,16 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+7
+0 0110010000 0 0110010000 0110010000 0 0110010000
+0010001000 0 0 0 0 0 0
+0 0 0 0 0 0100101000 0
+0010001000 0 0 0 0 0 0
+0 0 0110010000 0 0 0110010000 0
+0010001000 0 0 0 0 0 0
+0 0 0 0110011000 0110011000 0 0
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.support.compiler.jdt.JDTBasedSpoonCompiler_java
+src.main.java.spoon.support.reflect.reference.CtTypeParameterReferenceImpl_java
+src.main.java.spoon.support.StandardEnvironment_java
+src.main.java.spoon.support.DefaultCoreFactory_java
+src.main.java.spoon.support.reflect.reference.CtTypeReferenceImpl_java
+src.main.java.spoon.reflect.factory.FactoryImpl_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 00001000 0
+0 0 00000001
+01000000 0 0
+src.java.org.apache.cassandra.cql3.ColumnConditions_java
+src.java.org.apache.cassandra.cql3.AbstractConditions_java
+src.java.org.apache.cassandra.cql3.Conditions_java

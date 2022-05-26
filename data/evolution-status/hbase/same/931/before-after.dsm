@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Implement]
+2
+0 11110
+11100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.normalizer.RegionNormalizerChore_java

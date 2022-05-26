@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+7
+0 0 0 0 0 0 0
+00001000 0 0 0 00110000 0 0
+01110000 0 0 0 01100000 0 0
+00001000 0 0 0 00110000 0 0
+01110000 11010010 01100000 11010010 0 00000010 0
+01110000 0 0 0 00100000 0 0
+0 0 0 00001000 0 0 0
+wicket.src.java.wicket.model.IModel_java
+wicket.src.java.wicket.model.IAssignmentAware_java
+wicket.src.java.wicket.Localizer_java
+wicket.src.java.wicket.model.IInhertanceAware_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.AttributeModifier_java
+wicket.src.java.wicket.model.ICompoundModel_java

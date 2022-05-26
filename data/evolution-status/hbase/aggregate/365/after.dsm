@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+2
+0 0110100
+0101000 0
+src.java.org.apache.hadoop.hbase.HStoreKey_java
+src.java.org.apache.hadoop.hbase.HRegionInfo_java

@@ -1,0 +1,26 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+12
+0 0 0100000000 0100000000 1110000000 0 0 0111000100 0100000100 0 0 0100000100
+0 0 0 0 0010000000 0 0 0 0 0100010000 0 0
+0 0100000000 0 0 0010000000 0 0 0 0 0100001000 0 0
+0000000100 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0010000000 0 0 0 0
+0 0 0 0 0010000000 0 0 0 0 0 0 0
+0 0 0 0 0010000000 0 0 0 0 0 0 0
+0 0100000000 0 0 0110000000 0110000100 0 0 0 0110000100 0 0
+0 0 0 0 0010000000 0 0110000100 0 0 0 0 0
+0100000100 0100000000 0 0111010000 1010000001 0 0 0111000100 0 0 0100000100 0100000100
+0 0 0 0111010000 1110000000 0 0 0 0 1110000000 0 0
+0 0 0 0 0010000000 0 0 0 0 0 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HTable_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionUtils_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HConnectionManager_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.MetaScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClusterConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.MultiServerCallable_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ScannerCallable_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncProcess_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClientScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionManager_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HBaseAdmin_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClientSmallReversedScanner_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+2
+0 1101000000
+0111000000 0
+src.org.apache.pig.backend.hadoop.executionengine.tez.plan.operator.NativeTezOper_java
+src.org.apache.pig.tools.pigstats.tez.TezStats_java

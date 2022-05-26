@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 1010010 0110000
+1010000 0 0000001
+0010000 0110000 0
+wicket.src.main.java.wicket.Application_java
+wicket.src.main.java.wicket.protocol.http.RequestLogger_java
+wicket.src.main.java.wicket.protocol.http.IRequestLogger_java

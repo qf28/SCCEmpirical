@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Throw,Implement,Parameter,Contain]
+5
+0 01000010000 0 01100100000 0
+00000100011 0 0 0 0
+0 0 0 01100100000 01000010000
+01100010000 0 01100010000 0 01100010000
+0 0 0 01100100000 0
+src.main.java.spoon.support.builder.support.ZipFolder_java
+src.main.java.spoon.support.builder.support.ZipFile_java
+src.main.java.spoon.support.builder.support.FileSystemFolder_java
+src.main.java.spoon.support.builder.FileFactory_java
+src.main.java.spoon.support.builder.support.FileSystemFile_java

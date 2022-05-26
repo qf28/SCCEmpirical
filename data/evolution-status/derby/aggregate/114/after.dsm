@@ -1,0 +1,6 @@
+[Call,Typed,Create,Use,Implement]
+2
+0 11000
+01000 0
+java.engine.org.apache.derby.impl.services.cache.CacheEntry_java
+java.engine.org.apache.derby.impl.services.cache.ReplacementPolicy_java

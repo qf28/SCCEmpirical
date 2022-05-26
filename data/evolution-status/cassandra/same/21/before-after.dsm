@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create]
+5
+0 011001 0 0 110110
+011010 0 0 0 0
+001100 0 0 0 0
+011110 0 0 0 0
+011100 0 011011 011000 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.CollationController_java
+src.java.org.apache.cassandra.db.compaction.LeveledCompactionTask_java
+src.java.org.apache.cassandra.db.compaction.LeveledManifest_java
+src.java.org.apache.cassandra.db.compaction.LeveledCompactionStrategy_java

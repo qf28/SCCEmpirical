@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+4
+0 011000110 011000100 0
+001100100 0 011000000 0
+011100110 0 0 011000100
+011000000 0 011000110 0
+src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java
+src.main.java.org.apache.hadoop.hbase.regionserver.ScanQueryMatcher_java
+src.main.java.org.apache.hadoop.hbase.regionserver.Store_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

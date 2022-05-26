@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+2
+0 111100101
+000100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.server.errorhandling.impl.ExceptionOrchestrator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.server.errorhandling.ExceptionVisitor_java

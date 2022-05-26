@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 10100000 01100010
+01100000 0 0
+01100001 0 0
+java.engine.org.apache.derby.impl.store.raw.data.BaseDataFileFactory_java
+java.engine.org.apache.derby.impl.store.raw.data.FileContainer_java
+java.engine.org.apache.derby.impl.store.raw.data.StreamFileContainer_java

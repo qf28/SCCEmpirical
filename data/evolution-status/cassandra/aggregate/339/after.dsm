@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Use]
+2
+0 00001
+01000 0
+src.java.org.apache.cassandra.db.marshal.BytesType_java
+src.java.org.apache.cassandra.db.marshal.UTF8Type_java

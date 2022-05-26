@@ -1,0 +1,16 @@
+[Call,Typed,Import,Create,Use]
+7
+0 0 0 0 10000 0 0
+0 0 11010 11010 11010 11010 11010
+0 11000 0 0 0 0 0
+0 11000 0 0 0 0 0
+11011 11000 0 0 0 0 0
+0 11000 0 0 0 0 0
+0 11000 0 0 0 0 0
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.ScannerInstanceResource_java
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.TableResource_java
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.RegionsResource_java
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.SchemaResource_java
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.ScannerResource_java
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.MultiRowResource_java
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.RowResource_java

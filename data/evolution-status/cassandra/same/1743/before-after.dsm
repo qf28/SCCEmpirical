@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 10101 0 10010
+0 0 01110 0
+0 11001 0 00110
+11011 11101 0 0
+src.java.org.apache.cassandra.tracing.TraceState_java
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.config.KSMetaData_java
+src.java.org.apache.cassandra.tracing.Tracing_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Set,Extend,Use,Create]
+5
+0 1111010 0 0 0110000
+0100000 0 0100000 0 1111011
+0 0010000 0 0 0010000
+0 0 0100100 0 0010000
+1010000 0110000 1010000 1010000 0
+java.client.org.apache.derby.client.net.NetConnectionReply_java
+java.client.org.apache.derby.client.net.NetConnection_java
+java.client.org.apache.derby.client.net.NetConnectionRequest_java
+java.client.org.apache.derby.client.net.NetPackageRequest_java
+java.client.org.apache.derby.client.net.NetAgent_java

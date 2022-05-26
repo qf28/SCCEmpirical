@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 01100001
+00100000 0
+hbase-thrift.src.main.java.org.apache.hadoop.hbase.thrift.ThriftHBaseServiceHandler_java
+hbase-thrift.src.main.java.org.apache.hadoop.hbase.thrift.IncrementCoalescer_java

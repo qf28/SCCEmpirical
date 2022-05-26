@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 1000100
+1000100 0
+src.java.org.apache.cassandra.schema.SchemaKeyspace_java
+src.java.org.apache.cassandra.config.Schema_java

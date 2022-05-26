@@ -1,0 +1,6 @@
+[Call,Typed,Create,Use]
+2
+0 1110
+1101 0
+src.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+src.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 0100000
+0100100 0
+test.org.apache.pig.pigunit.pig.GruntParser_java
+test.org.apache.pig.pigunit.pig.PigServer_java

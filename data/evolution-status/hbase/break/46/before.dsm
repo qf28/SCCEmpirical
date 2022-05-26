@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 011000010 0
+111010000 0 011100010
+111010100 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionMergeTransaction_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SplitTransaction_java

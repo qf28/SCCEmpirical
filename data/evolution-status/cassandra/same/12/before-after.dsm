@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0010010 0100010
+1110011 0 0100110
+0 0110010 0
+src.java.org.apache.cassandra.io.sstable.SSTableDeletingReference_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.io.sstable.SSTable_java

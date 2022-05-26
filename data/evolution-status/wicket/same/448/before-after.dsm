@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+4
+0 0010000 0010000 0010000
+0010000 0 0 0
+0010000 0 0 0
+0010000 0 0 0
+wicket-examples.src.main.java.org.apache.wicket.examples.niceurl.Home_java
+wicket-examples.src.main.java.org.apache.wicket.examples.niceurl.mounted.Page3_java
+wicket-examples.src.main.java.org.apache.wicket.examples.niceurl.mounted.Page4_java
+wicket-examples.src.main.java.org.apache.wicket.examples.niceurl.mounted.Page5_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 1110100000
+0110000000 0
+java.client.org.apache.derby.client.net.NetResultSet_java
+java.client.org.apache.derby.client.net.NetCursor_java

@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+5
+0 0 0 0 0100010000
+0 0 0 0 0100010000
+0100001000 0 0 0100001000 0100010000
+0 0100001000 0100001000 0 0
+0 0 0 0100001000 0
+src.main.java.me.tomassetti.symbolsolver.resolution.javassist.JavassistParameterDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.javassist.JavassistFieldDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.javassist.JavassistMethodDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.javassist.JavassistClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.javassist.JavassistFactory_java

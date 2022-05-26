@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Use,Implement]
+3
+0 11000 11010
+01000 0 11000
+0 11000 0
+wicket-util.src.main.java.org.apache.wicket.util.time.TimeOfDay_java
+wicket-util.src.main.java.org.apache.wicket.util.time.Time_java
+wicket-util.src.main.java.org.apache.wicket.util.time.Duration_java

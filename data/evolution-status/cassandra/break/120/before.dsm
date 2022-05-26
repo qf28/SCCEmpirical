@@ -1,0 +1,22 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+10
+0 101001000 110001100 110001000 100000000 001000000 0 100001000 110001100 110001000
+110001000 0 0 0 101000000 101000000 0 0 0 0
+0 0 0 0 0 101000000 0 100000000 0 101000000
+010001000 0 001001000 0 111000000 100000000 0 100111000 0 0
+000001000 0 111011111 011000000 0 101001000 0 111001000 110001000 0
+0 101001000 0 0 0 0 0 0 0 0
+0 0 0 111001000 110001100 0 0 0 0 0
+0 0 0 0 0 001000000 0 0 0 0
+111001000 0 101000000 111001000 110001100 101000000 101000000 100001000 0 110000100
+000001000 0 011001000 111001000 110001100 0 101000000 111001000 110001100 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.Directories_java
+src.java.org.apache.cassandra.io.sstable.format.SSTableReader_java
+src.java.org.apache.cassandra.db.lifecycle.TransactionLog_java
+src.java.org.apache.cassandra.io.util.FileUtils_java
+src.java.org.apache.cassandra.db.lifecycle.Helpers_java
+src.java.org.apache.cassandra.io.sstable.SSTable_java
+src.java.org.apache.cassandra.db.lifecycle.Tracker_java
+src.java.org.apache.cassandra.db.lifecycle.LifecycleTransaction_java

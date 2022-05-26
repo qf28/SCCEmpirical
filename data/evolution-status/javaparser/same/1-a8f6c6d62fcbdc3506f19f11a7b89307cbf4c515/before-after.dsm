@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0101000000 0100110000
+1100010000 0 0
+0 0100100000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ArrayType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.Type_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ReferenceType_java

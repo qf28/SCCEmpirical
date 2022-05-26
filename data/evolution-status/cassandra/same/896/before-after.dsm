@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 01000010 01000010
+01100100 0 0
+01100100 0 0
+src.java.org.apache.cassandra.io.CompactionController_java
+src.java.org.apache.cassandra.io.LazilyCompactedRow_java
+src.java.org.apache.cassandra.io.PrecompactedRow_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed]
+2
+0 0
+111 0
+src.main.org.apache.tools.ant.taskdefs.optional.script.ScriptDef_java
+src.main.org.apache.tools.ant.taskdefs.optional.script.ScriptDefBase_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+3
+0 0001010 1111001
+0 0 0100100
+0111000 0 0
+src.main.org.apache.tools.ant.types.Mapper_java
+src.main.org.apache.tools.ant.util.CompositeMapper_java
+src.main.org.apache.tools.ant.util.ContainerMapper_java

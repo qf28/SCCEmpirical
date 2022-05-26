@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+6
+0 0 0 011011100 011100010 011000001
+010100000 0 000100000 0 0 011100000
+010101000 0 0 010001100 010100010 011000000
+0 0 0 0 0 011000000
+0 0 0 011101100 0 001100000
+0 000100000 0 001000000 0 0
+src.main.java.org.apache.hadoop.hbase.client.HConnectionManager_java
+src.main.java.org.apache.hadoop.hbase.catalog.CatalogTracker_java
+src.main.java.org.apache.hadoop.hbase.client.HTable_java
+src.main.java.org.apache.hadoop.hbase.client.ServerCallable_java
+src.main.java.org.apache.hadoop.hbase.ipc.ExecRPCInvoker_java
+src.main.java.org.apache.hadoop.hbase.client.HConnection_java

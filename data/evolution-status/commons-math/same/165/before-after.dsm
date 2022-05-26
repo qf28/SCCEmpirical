@@ -1,0 +1,12 @@
+[Call,Import,Create]
+5
+0 100 0 0 0
+001 0 001 001 001
+0 100 0 0 0
+0 100 0 0 0
+0 100 0 0 0
+src.main.java.org.apache.commons.math3.stat.interval.ClopperPearsonInterval_java
+src.main.java.org.apache.commons.math3.stat.interval.IntervalUtils_java
+src.main.java.org.apache.commons.math3.stat.interval.AgrestiCoullInterval_java
+src.main.java.org.apache.commons.math3.stat.interval.NormalApproximationInterval_java
+src.main.java.org.apache.commons.math3.stat.interval.WilsonScoreInterval_java

@@ -1,0 +1,6 @@
+[Cast,Call,Set,Extend,Use]
+2
+0 01111
+10000 0
+src.main.org.apache.tools.ant.types.resources.JavaResource_java
+src.main.org.apache.tools.ant.types.resources.AbstractClasspathResource_java

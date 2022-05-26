@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use]
+3
+0 0 0
+0100010 0 0
+0100010 1110001 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.expressionOperators.ExpressionOperator_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.expressionOperators.POProject_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.expressionOperators.POUserFunc_java

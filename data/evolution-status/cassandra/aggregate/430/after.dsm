@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 10101 11000
+0 0 11000
+10000 01010 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.filter.TimeQueryFilter_java
+src.java.org.apache.cassandra.db.Memtable_java

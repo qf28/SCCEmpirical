@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00100000
+00100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.ProcedureMemberRpcs_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.ProcedureMember_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 01100010 00100000
+00000100 0 0
+0 00100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLog_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogKey_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.WALActionsListener_java

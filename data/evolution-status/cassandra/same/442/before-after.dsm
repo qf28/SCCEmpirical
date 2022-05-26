@@ -1,0 +1,8 @@
+[Call,Typed,Use,Create]
+3
+0 1000 1100
+1100 0 1111
+1101 0010 0
+src.java.org.apache.cassandra.net.TcpConnection_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.net.TcpConnectionManager_java

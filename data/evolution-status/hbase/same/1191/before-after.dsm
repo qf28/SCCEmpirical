@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 00100000
+01100001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ClusterSchema_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.TableNamespaceManager_java

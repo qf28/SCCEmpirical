@@ -1,0 +1,6 @@
+[Call,Return,Extend,Use,Create,Parameter,Contain]
+2
+0 1100100
+1101100 0
+javaparser-core.src.main.java.com.github.javaparser.ast.type.PrimitiveType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ClassOrInterfaceType_java

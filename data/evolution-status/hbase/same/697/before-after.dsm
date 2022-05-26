@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01100000
+11000110 0
+hbase-hadoop2-compat.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsUserSourceImpl_java
+hbase-hadoop2-compat.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsUserAggregateSourceImpl_java

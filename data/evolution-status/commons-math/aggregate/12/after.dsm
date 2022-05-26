@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 01000 0
+0 0 11001
+11011 11001 0
+src.main.java.org.apache.commons.math.geometry.euclidean.threed.Segment_java
+src.main.java.org.apache.commons.math.geometry.euclidean.threed.Line_java
+src.main.java.org.apache.commons.math.geometry.euclidean.threed.SubLine_java

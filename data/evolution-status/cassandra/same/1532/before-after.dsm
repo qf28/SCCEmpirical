@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Use,Create,Implement]
+2
+0 0100000
+0100100 0
+src.java.org.apache.cassandra.net.async.OutboundConnectionParams_java
+src.java.org.apache.cassandra.net.async.NettyFactory_java

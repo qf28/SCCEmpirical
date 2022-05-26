@@ -1,0 +1,12 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 11000100 11100010 11000010 00000101
+11000110 0 11100000 0 11000100
+11100000 11100000 0 0 0
+11000100 10000000 0 0 0
+0 01000000 01100000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.compactions.CompactionRequest_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Compactor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Store_java

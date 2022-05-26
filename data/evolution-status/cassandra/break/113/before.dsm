@@ -1,0 +1,20 @@
+[Call,Typed,Import,Use,Create,Implement]
+9
+0 101100 0 0 111010 101000 0 0 0
+110010 0 101000 0 0 101000 0 0 0
+0 001000 0 110110 0 101000 110100 100010 110010
+0 0 110010 0 0 0 0 0 0
+0 0 110000 110000 0 0 000001 0 0
+110100 0 0 0 0 0 0 0 0
+0 0 010000 0 0 0 0 0 0
+0 001000 110000 110000 0 001000 000001 0 0
+0 0 010000 0 0 0 0 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.analytics.AnalyticsContext_java
+src.java.org.apache.cassandra.analytics.MetricsRecord_java
+src.java.org.apache.cassandra.analytics.DBAnalyticsSource_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.analytics.IAnalyticsSource_java
+src.java.org.apache.cassandra.analytics.VMAnalyticsSource_java
+src.java.org.apache.cassandra.analytics.OutputRecord_java

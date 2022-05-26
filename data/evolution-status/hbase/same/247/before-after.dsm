@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use]
+2
+0 11100
+01000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.RegionTransitionProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.RegionStates_java

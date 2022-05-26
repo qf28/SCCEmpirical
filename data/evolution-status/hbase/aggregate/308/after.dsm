@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+2
+0 011001000
+111000000 0
+src.main.java.org.apache.hadoop.hbase.client.HConnectionManager_java
+src.main.java.org.apache.hadoop.hbase.client.ZooKeeperKeepAliveConnection_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement]
+2
+0 00000100
+01000100 0
+java.testing.org.apache.derbyTesting.functionTests.tests.upgradeTests.UpgradeRun_java
+java.testing.org.apache.derbyTesting.functionTests.tests.upgradeTests._Suite_java

@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Create,Use]
+4
+0 0 010001 111000
+0 0 001001 000001
+000001 0 0 0
+0 110000 111000 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ClusterResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.AmbariContext_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ProvisionClusterRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.TopologyManager_java

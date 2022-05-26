@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 010111
+100100 0
+wicket-core.src.main.java.org.apache.wicket.request.cycle.RequestCycle_java
+wicket-core.src.main.java.org.apache.wicket.core.request.handler.RenderPageRequestHandler_java

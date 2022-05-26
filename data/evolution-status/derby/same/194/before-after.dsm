@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 011100 011000
+0 0 010110
+111010 011101 0
+java.engine.org.apache.derby.iapi.types.TypeId_java
+java.engine.org.apache.derby.catalog.TypeDescriptor_java
+java.engine.org.apache.derby.iapi.types.DataTypeDescriptor_java

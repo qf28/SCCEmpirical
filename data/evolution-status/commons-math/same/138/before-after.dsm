@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 01010
+10000 0
+src.main.java.org.apache.commons.math4.util.Decimal64Field_java
+src.main.java.org.apache.commons.math4.util.Decimal64_java

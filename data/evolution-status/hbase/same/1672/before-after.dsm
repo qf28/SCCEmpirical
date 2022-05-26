@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01000000
+01100010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.example.HFileArchiveManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.example.ZKTableArchiveClient_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 1111110
+0111110 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.TableDescriptorBuilder_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.HTableDescriptor_java

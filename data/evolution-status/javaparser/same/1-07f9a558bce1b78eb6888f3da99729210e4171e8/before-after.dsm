@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 0100010000
+0101010000 0
+javaparser-core.src.main.java.com.github.javaparser.JavaToken_java
+javaparser-core.src.main.java.com.github.javaparser.TokenTypes_java

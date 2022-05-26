@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 0110
+1101 0
+src.org.apache.pig.backend.hadoop.executionengine.tez.TezPOUserFuncVisitor_java
+src.org.apache.pig.backend.hadoop.executionengine.tez.TezOperPlan_java

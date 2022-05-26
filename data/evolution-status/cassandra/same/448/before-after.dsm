@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create]
+4
+0 110010 0 0
+100000 0 100001 100010
+0 000010 0 0
+0 100000 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.ConsistencyChecker_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

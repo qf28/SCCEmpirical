@@ -1,0 +1,6 @@
+[Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+2
+0 10000101
+11001011 0
+src.main.java.spoon.pattern.PatternBuilder_java
+src.main.java.spoon.pattern.PatternParameterConfigurator_java

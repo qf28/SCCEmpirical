@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1011
+1010 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.DBAccessorImpl_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.helpers.dbms.GenericDbmsHelper_java

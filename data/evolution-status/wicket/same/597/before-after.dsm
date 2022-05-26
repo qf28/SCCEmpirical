@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use]
+2
+0 0001000
+0111001 0
+wicket.src.main.java.org.apache.wicket.Component_java
+wicket.src.main.java.org.apache.wicket.ajax.AjaxRequestTarget_java

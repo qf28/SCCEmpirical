@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0111001
+0110010 0
+src.main.java.org.apache.hadoop.hbase.client.HTable_java
+src.main.java.org.apache.hadoop.hbase.client.MetaScanner_java

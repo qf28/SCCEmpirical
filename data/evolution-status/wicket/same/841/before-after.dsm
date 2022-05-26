@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 10001
+10010 0
+wicket-core.src.main.java.org.apache.wicket.markup.renderStrategy.AbstractHeaderRenderStrategy_java
+wicket-core.src.main.java.org.apache.wicket.markup.renderStrategy.ChildFirstHeaderRenderStrategy_java

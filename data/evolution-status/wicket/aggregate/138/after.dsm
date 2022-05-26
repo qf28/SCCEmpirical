@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1011
+0110 0
+wicket.src.java.wicket.RequestCycle_java
+wicket.src.java.wicket.request.ComponentRequestTarget_java

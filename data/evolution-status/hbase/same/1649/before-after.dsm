@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0110000
+0110010 0
+src.contrib.transactional.src.java.org.apache.hadoop.hbase.client.transactional.JtaXAResource_java
+src.contrib.transactional.src.java.org.apache.hadoop.hbase.client.transactional.TransactionManager_java

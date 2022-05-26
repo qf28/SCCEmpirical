@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 0 00000010
+11100010 0 01100010
+0 11100000 0
+java.drda.org.apache.derby.impl.drda.EXTDTAInputStream_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java
+java.drda.org.apache.derby.impl.drda.NetworkServerControlImpl_java

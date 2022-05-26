@@ -1,0 +1,16 @@
+[Call,Typed,Import,Use,Create]
+7
+0 11100 0 0 0 11001 0
+0 0 0 0 11000 0 0
+0 10000 0 0 0 0 10010
+10100 11010 10100 0 0 0 10100
+0 11000 0 0 0 0 10010
+10000 11100 0 00100 0 0 00100
+10100 11011 10000 0 10000 0 0
+controller.src.main.java.org.apache.ambari.resource.statemachine.StateMachineInvoker_java
+controller.src.main.java.org.apache.ambari.controller.Cluster_java
+controller.src.main.java.org.apache.ambari.controller.Nodes_java
+controller.src.main.java.org.apache.ambari.controller.HeartbeatHandler_java
+controller.src.main.java.org.apache.ambari.controller.Stacks_java
+controller.src.main.java.org.apache.ambari.resource.statemachine.ClusterImpl_java
+controller.src.main.java.org.apache.ambari.controller.Clusters_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create]
+3
+0 1010 1010
+1010 0 0
+1010 0 0
+java.tools.org.apache.derby.tools.dblook_java
+java.tools.org.apache.derby.impl.tools.dblook.DB_GrantRevoke_java
+java.tools.org.apache.derby.impl.tools.dblook.DB_Roles_java

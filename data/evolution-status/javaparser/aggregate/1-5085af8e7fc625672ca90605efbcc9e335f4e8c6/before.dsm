@@ -1,0 +1,6 @@
+[Import,Implement]
+2
+0 0
+01 0
+javaparser-core.src.main.java.com.github.javaparser.ast.nodeTypes.NodeWithVariables_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java

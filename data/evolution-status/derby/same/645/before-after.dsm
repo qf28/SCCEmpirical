@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1101
+1000 0
+java.testing.org.apache.derbyTesting.functionTests.harness.RunTest_java
+java.testing.org.apache.derbyTesting.functionTests.harness.FileCompare_java

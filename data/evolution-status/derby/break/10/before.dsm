@@ -1,0 +1,14 @@
+[Call,Typed,Import,Use,Create]
+6
+0 0 11000 0 0 0
+0 0 0 10000 0 0
+0 10001 0 0 10001 10001
+10100 0 0 0 0 0
+0 0 0 10000 0 0
+0 0 0 10000 0 0
+java.engine.org.apache.derby.impl.sql.execute.JarDDL_java
+java.engine.org.apache.derby.impl.sql.execute.AddJarConstantAction_java
+java.engine.org.apache.derby.impl.sql.execute.GenericConstantActionFactory_java
+java.engine.org.apache.derby.impl.sql.execute.JarUtil_java
+java.engine.org.apache.derby.impl.sql.execute.ReplaceJarConstantAction_java
+java.engine.org.apache.derby.impl.sql.execute.DropJarConstantAction_java

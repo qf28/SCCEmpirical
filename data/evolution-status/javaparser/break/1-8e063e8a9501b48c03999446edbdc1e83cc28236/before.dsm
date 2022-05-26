@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Contain]
+4
+0 0 01010011 11100101
+0 0 01010011 11100101
+01000101 0 0 01100101
+01110011 01110011 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

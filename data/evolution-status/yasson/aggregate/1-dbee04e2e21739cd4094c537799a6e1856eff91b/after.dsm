@@ -1,0 +1,14 @@
+[Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+6
+0 0 0 0 0 001001011
+110001000 0 0 0 0 0
+110001000 0 0 101001011 0 100000000
+0 100001001 101001011 0 0 0
+0 0 111010011 110011001 0 0
+0 0 011001010 0 100010001 0
+src.main.java.org.eclipse.persistence.json.bind.internal.JsonbContext_java
+src.main.java.org.eclipse.persistence.json.bind.model.PropertyValuePropagation_java
+src.main.java.org.eclipse.persistence.json.bind.model.ClassModel_java
+src.main.java.org.eclipse.persistence.json.bind.model.PropertyModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ClassParser_java
+src.main.java.org.eclipse.persistence.json.bind.internal.MappingContext_java

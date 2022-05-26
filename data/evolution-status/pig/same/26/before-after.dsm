@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 00100000
+01100000 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POStoreImpl_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POStore_java

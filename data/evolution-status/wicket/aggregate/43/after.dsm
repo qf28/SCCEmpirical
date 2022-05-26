@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Implement]
+2
+0 011110
+010000 0
+wicket-ioc.src.main.java.org.apache.wicket.proxy.ObjenesisProxyFactory_java
+wicket-ioc.src.main.java.org.apache.wicket.proxy.LazyInitProxyFactory_java

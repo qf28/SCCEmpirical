@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+5
+0 01100010 00000001 01100001 01100001
+01100011 0 0 0 0
+11000000 01000000 0 0 0
+01000000 0 0 0 0
+0 0 0 01100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.GetClosestRowBeforeTracker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStore_java

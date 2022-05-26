@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Implement]
+3
+0 11010 10010
+10010 0 10010
+10110 0 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.CassandraDaemon_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java

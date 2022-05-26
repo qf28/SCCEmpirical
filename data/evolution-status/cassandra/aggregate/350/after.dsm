@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+5
+0 0 0101000 0 0
+0 0 0000010 0 0
+1110000 0 0 1110010 1110000
+0 0 0101000 0 0
+0 0110001 0 0 0
+src.java.org.apache.cassandra.cql.DeleteStatement_java
+src.java.org.apache.cassandra.cql.WhereClause_java
+src.java.org.apache.cassandra.cql.QueryProcessor_java
+src.java.org.apache.cassandra.cql.UpdateStatement_java
+src.java.org.apache.cassandra.cql.SelectStatement_java

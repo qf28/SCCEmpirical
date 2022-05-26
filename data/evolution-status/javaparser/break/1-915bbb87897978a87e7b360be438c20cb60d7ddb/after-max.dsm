@@ -1,0 +1,16 @@
+[Cast,Call,Import,Extend,Use,Create,Implement,Parameter,Contain]
+7
+0 000000010 0 000000010 000000010 000000010 000000010
+011000010 0 011000010 0 0 0 0
+0 000000010 0 000000010 000000010 000000010 000000010
+011000010 0 011000010 0 0 0 0
+011000010 0 011000010 0 0 0 0
+011000010 0 011000010 0 0 0 0
+011000010 0 011000010 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.BadImportDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.SingleStaticImportDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.TypeImportOnDemandDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.StaticImportOnDemandDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.SingleTypeImportDeclaration_java

@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 110
+111 0
+wicket-core.src.main.java.org.apache.wicket.util.tester.FormTester_java
+wicket-core.src.main.java.org.apache.wicket.util.tester.BaseWicketTester_java

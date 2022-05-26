@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 001000001
+001000000 0
+src.java.org.apache.hadoop.hbase.io.hfile.HFile_java
+src.java.org.apache.hadoop.hbase.io.hfile.HFileScanner_java

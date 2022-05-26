@@ -1,0 +1,12 @@
+[Call,Typed,Create,Use,Implement]
+5
+0 11010 0 11100 11100
+10000 0 10100 0 0
+0 00010 0 0 11100
+0 0 0 0 10000
+0 10010 0 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.ConsistencyChecker_java
+src.java.org.apache.cassandra.service.RangeSliceResponseResolver_java
+src.java.org.apache.cassandra.service.ReadResponseResolver_java

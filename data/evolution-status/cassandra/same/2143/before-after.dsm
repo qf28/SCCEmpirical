@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Use,Implement]
+2
+0 011000
+111010 0
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.db.DataTracker_java

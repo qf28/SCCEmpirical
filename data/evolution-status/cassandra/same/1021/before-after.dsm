@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Use,Create]
+3
+0 01100 00101
+01001 0 01001
+0 01100 0
+src.java.org.apache.cassandra.db.rows.RangeTombstoneBoundaryMarker_java
+src.java.org.apache.cassandra.db.rows.RangeTombstoneMarker_java
+src.java.org.apache.cassandra.db.rows.RangeTombstoneBoundMarker_java

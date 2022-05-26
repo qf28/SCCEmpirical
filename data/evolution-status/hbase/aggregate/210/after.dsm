@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0110101
+1100100 0
+core.src.main.java.org.apache.hadoop.hbase.regionserver.wal.SequenceFileLogWriter_java
+core.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLog_java

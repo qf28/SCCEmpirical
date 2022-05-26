@@ -1,0 +1,8 @@
+[Call,Create]
+3
+0 11 11
+11 0 11
+11 11 0
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionInterfaceDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionMethodDeclaration_java

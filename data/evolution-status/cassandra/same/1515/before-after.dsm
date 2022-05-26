@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use]
+2
+0 010010
+000001 0
+src.java.org.apache.cassandra.db.index.PerRowSecondaryIndex_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java

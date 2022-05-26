@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01100010
+01000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.ChecksumUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlock_java

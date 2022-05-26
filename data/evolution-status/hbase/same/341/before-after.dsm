@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+5
+0 1111001 0 0100000 0110001
+0 0 0 0 1100001
+0000001 0 0 0100000 0110001
+0 1100001 0 0 0110001
+0110011 1110001 0100010 0110011 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionServerWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreFlusher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

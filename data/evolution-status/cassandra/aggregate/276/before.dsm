@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+9
+0 0 0 0 0 0 0 0 0
+0111000 0 0 0 0100100 0 0 0001100 0101000
+0 0 0 0100000 0 0 0 0 0
+0 0 0 0 0101000 0 0 0 0100000
+0 0110010 0 0 0 0100100 0 0100100 0
+0111000 0 0 0 0101100 0 0 0100100 0101000
+0 0 0110100 0 0 0 0 0 0
+0111000 0 0 0 0101000 0 0 0 0101100
+0110000 0 0 1110000 0 0 0110000 0 0
+src.java.org.apache.cassandra.cql3.UntypedResultSet_java
+src.java.org.apache.cassandra.service.ScheduledRangeTransferExecutorService_java
+src.java.org.apache.cassandra.cql3.statements.ModificationStatement_java
+src.java.org.apache.cassandra.cql3.statements.SelectStatement_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.BatchlogManager_java
+src.java.org.apache.cassandra.cql3.statements.BatchStatement_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java

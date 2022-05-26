@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 11110000
+01100010 0
+src.java.main.org.apache.zookeeper.server.ConnectionBean_java
+src.java.main.org.apache.zookeeper.server.NIOServerCnxn_java

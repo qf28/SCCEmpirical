@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 0100000 0
+0 0 0010000
+0100110 1100000 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.Grouping_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.Condition_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.ClusterGrouping_java

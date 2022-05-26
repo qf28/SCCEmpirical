@@ -1,0 +1,6 @@
+[Call,Import,Use,Create]
+2
+0 0100
+0110 0
+wicket-core.src.main.java.org.apache.wicket.markup.resolver.HtmlHeaderResolver_java
+wicket-core.src.main.java.org.apache.wicket.markup.parser.filter.WicketTagIdentifier_java

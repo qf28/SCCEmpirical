@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create]
+2
+0 111000
+011001 0
+src.main.java.org.apache.commons.math.geometry.euclidean.threed.SubPlane_java
+src.main.java.org.apache.commons.math.geometry.euclidean.threed.Plane_java

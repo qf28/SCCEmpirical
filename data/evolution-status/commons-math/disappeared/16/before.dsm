@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Create,Use]
+2
+0 010010
+010100 0
+src.java.org.apache.commons.math.stat.inference.TestFactory_java
+src.java.org.apache.commons.math.stat.inference.TestFactoryImpl_java

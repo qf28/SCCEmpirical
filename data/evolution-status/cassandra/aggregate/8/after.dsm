@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 1111000 0
+0100001 0 0100001
+0 1111000 0
+src.java.org.apache.cassandra.service.DatacenterSyncWriteResponseHandler_java
+src.java.org.apache.cassandra.locator.DatacenterShardStrategy_java
+src.java.org.apache.cassandra.service.DatacenterWriteResponseHandler_java

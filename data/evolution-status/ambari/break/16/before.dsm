@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 01000 00010
+00010 0 00010
+01000 01000 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RequestEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.StageEntity_java

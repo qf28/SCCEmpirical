@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use]
+2
+0 111001
+010010 0
+wicket.src.java.wicket.protocol.http.portlet.PortletSessionStore_java
+wicket.src.java.wicket.protocol.http.portlet.PortletApplication_java

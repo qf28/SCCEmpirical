@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0 1110000
+0 0 1100010
+1010000 1100110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.ServerRegionReplicaUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

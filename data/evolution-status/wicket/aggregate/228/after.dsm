@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 11111
+10110 0
+wicket-core.src.main.java.org.apache.wicket.AttributeModifier_java
+wicket-core.src.main.java.org.apache.wicket.behavior.AttributeAppender_java

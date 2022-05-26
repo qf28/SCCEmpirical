@@ -1,0 +1,6 @@
+[Call,Import,Return,Extend,Use]
+2
+0 10011
+00100 0
+javaparser-core.src.main.java.com.github.javaparser.ast.type.UnknownType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.Type_java

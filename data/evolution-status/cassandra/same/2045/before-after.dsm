@@ -1,0 +1,6 @@
+[Call,Use,Create]
+2
+0 111
+100 0
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java

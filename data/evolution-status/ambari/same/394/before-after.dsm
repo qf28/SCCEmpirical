@@ -1,0 +1,36 @@
+[Call,Typed,Use]
+17
+0 0 0 0 110 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 010 0 0 0 0 0 0 0 0 0 0 110
+0 0 0 0 110 0 0 0 0 0 0 110 0 0 0 0 0
+0 0 0 0 001 0 001 011 0 001 001 0 001 001 001 001 0
+001 0 001 001 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 010 0 0 0 0
+0 0 0 010 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 110 0 0 0 0 0 0 0 110 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 111 0 0 0 111
+0 0 0 010 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 010 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 001 0 0 0 0 001 0 0 0 0 0 0 0 0 0
+0 0 0 010 0 0 0 0 111 0 0 0 0 0 0 0 0
+0 0 0 010 0 0 0 0 0 0 0 0 0 0 0 001 0
+0 0 0 010 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 010 0 0 0 0 0 0 0 0 0 001 0 0 0
+0 011 0 0 0 0 0 0 111 0 0 0 0 0 0 0 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostRoleCommandEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.AlertNoticeEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostVersionEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.AlertHistoryEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.WidgetLayoutEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterVersionEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.AlertGroupEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RequestScheduleEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.WidgetEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RepositoryVersionEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.AlertDefinitionEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterConfigEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ConfigGroupEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ServiceConfigEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.AlertTargetEntity_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use]
+2
+0 1000
+1101 0
+src.main.java.org.apache.hadoop.hbase.catalog.CatalogTracker_java
+src.main.java.org.apache.hadoop.hbase.catalog.MetaReader_java

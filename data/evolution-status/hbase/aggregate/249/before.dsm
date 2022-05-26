@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 0 01100100 0 01100000
+0 0 0 01100100 00110000
+01100110 0 0 0 01100000
+0 0 0 0 00110000
+0 00110000 00100000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.RegionServerSpaceQuotaManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.SpaceViolationPolicyEnforcement_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionServerServices_java

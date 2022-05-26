@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Use,Create]
+3
+0 111101 101000
+101010 0 0
+101110 0 0
+java.testing.org.apache.derbyTesting.system.nstest.NsTest_java
+java.testing.org.apache.derbyTesting.system.nstest.utils.SequenceReader_java
+java.testing.org.apache.derbyTesting.system.nstest.init.DbSetup_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 11100
+10000 0
+src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogPrettyPrinter_java
+src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLog_java

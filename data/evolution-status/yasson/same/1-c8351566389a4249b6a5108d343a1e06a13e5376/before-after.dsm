@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Parameter,Contain]
+4
+0 0 100000111 0
+0 0 010010100 000000010
+0 0 0 010101010
+110001110 010001000 0 0
+src.main.java.org.eclipse.yasson.internal.serializer.AdaptedObjectDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.UserDeserializerDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractContainerDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.DeserializerBuilder_java

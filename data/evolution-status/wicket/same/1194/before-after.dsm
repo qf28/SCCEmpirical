@@ -1,0 +1,6 @@
+[Cast,Call,Create,Use]
+2
+0 0001
+0110 0
+jdk-1_5.wicket-examples.src.main.java.org.apache.wicket.authorization.strategies.role.example.RolesSession_java
+jdk-1_5.wicket-examples.src.main.java.org.apache.wicket.authorization.strategies.role.example.RolesApplication_java

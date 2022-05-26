@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 0 01010000
+01010000 0 0
+01010000 11111011 0
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.config.Config_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

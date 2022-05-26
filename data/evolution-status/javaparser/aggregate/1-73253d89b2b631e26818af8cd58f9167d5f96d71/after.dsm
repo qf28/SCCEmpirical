@@ -1,0 +1,10 @@
+[Call,Import,Use,Create,Contain]
+4
+0 0 11011 11100
+0 0 10010 11100
+0 10110 0 11100
+10010 0 0 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.AnonymousClassDeclarationContext_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserMethodDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserAnonymousClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFactory_java

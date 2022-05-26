@@ -1,0 +1,30 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Throw,Implement,Modify]
+14
+0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 01000100000 0
+0 0 0 0 0 0 0 00100000000 0 0 0 0 0 0
+01000000000 0 0 0 0 0 0 01111001001 0 0 0 00010000010 01110001000 00000001000
+01000000000 0 0 0 0 0 0 01100001000 0 0 0 01110000000 0 00000001000
+0 0 0 0 0 0 0 0 0 0 0 0 01000100000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 01100000000
+0 01000000000 11100010000 01000010000 01100011000 0 01000000000 0 01000010000 0 0 01110000010 01100000000 01110001000
+01000000000 0 0 0 0 0 0 00100001000 0 0 0 01110000000 01000000000 00000001000
+0 0 0 0 0 0 01000000000 01100010000 0 0 0 01110000000 0 01110001000
+0 0 0 0 0 0 0 01100010000 0 0 0 01110000000 0 01110000000
+0 0 0 0 0 0 0 00100000000 0 0 0 0 0 0
+0 01000010000 0 0 0 01000010000 0 0 0 0 0 0 0 00110001000
+01110010000 0 11110010000 0 0 0 01100010000 00100000000 0 01000010000 01000010000 00110000010 0 0
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.proto.BookieClient_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.MacDigestManager_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.SyncCounter_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.LedgerRecoveryOp_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.PendingAddOp_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.CRC32DigestManager_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.BookieWatcher_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.LedgerHandle_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.PendingReadOp_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.LedgerCreateOp_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.LedgerOpenOp_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.AsyncCallback_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.DigestManager_java
+src.contrib.bookkeeper.src.java.org.apache.bookkeeper.client.BookKeeper_java

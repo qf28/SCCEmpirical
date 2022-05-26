@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 0 010001000
+0 0 010001000
+010000100 101000010 0
+java.testing.org.apache.derbyTesting.functionTests.util.SubInterfaceClass_java
+java.testing.org.apache.derbyTesting.functionTests.util.SubClass_java
+java.testing.org.apache.derbyTesting.functionTests.util.ManyMethods_java

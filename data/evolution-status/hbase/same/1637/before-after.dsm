@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+5
+0 0 01000000 00100000 0
+01000110 0 01000000 01100000 0
+0 01000000 0 01100000 01000001
+0 0 01000000 0 0
+0 0 01000000 01100000 0
+hbase-zookeeper.src.main.java.org.apache.hadoop.hbase.zookeeper.ZKNodeTracker_java
+hbase-zookeeper.src.main.java.org.apache.hadoop.hbase.zookeeper.MasterAddressTracker_java
+hbase-zookeeper.src.main.java.org.apache.hadoop.hbase.zookeeper.ZKUtil_java
+hbase-zookeeper.src.main.java.org.apache.hadoop.hbase.zookeeper.ZKWatcher_java
+hbase-zookeeper.src.main.java.org.apache.hadoop.hbase.zookeeper.MetaTableLocator_java

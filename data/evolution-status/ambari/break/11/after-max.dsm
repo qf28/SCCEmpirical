@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+5
+0 0 0 0 011001000
+0 0 0 010010000 0
+010110100 0 0 0 0
+010110100 0 0 0 0
+010000000 010101000 001100000 001100000 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.metrics.MetricsPropertyProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.metrics.ganglia.GangliaHostPropertyProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.metrics.timeline.AMSPropertyProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.metrics.ganglia.GangliaPropertyProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.metrics.MetricsPropertyProviderProxy_java

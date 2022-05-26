@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+8
+0 0 0 0 0 0 011000010 0
+0 0 0 0 011000010 0 010000100 0
+0 010011010 0 0 011000000 0 0 0
+0 0 0 0 011000000 0 0 0
+0 011000110 010000100 010000000 0 011000100 0 0
+0 0 0 0 011000000 0 0 0
+011000100 001000000 0 0 0 011000000 0 011000100
+0 0 0 0 0 011000000 010000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreCompactor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HMobStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.FlushPolicyFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionServicesForStores_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactingMemStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactionPipeline_java

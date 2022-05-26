@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01100100
+00110000 0
+src.java.org.apache.cassandra.cql3.selection.Selection_java
+src.java.org.apache.cassandra.cql3.selection.Selector_java

@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+2
+0 010111010
+010010000 0
+src.main.java.spoon.javadoc.internal.Javadoc_java
+src.main.java.spoon.javadoc.internal.JavadocBlockTag_java

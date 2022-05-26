@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+6
+0 0 0 0 0 0
+0 0 0 01100000 0 0
+01100000 01001100 0 0 0 0
+0 0 0 0 00000010 0
+0 0 01000010 00001000 0 0
+01100001 0 0 01100000 0 0
+src.org.apache.pig.data.InterSedes_java
+src.org.apache.pig.data.DefaultTuple_java
+src.org.apache.pig.data.BinSedesTuple_java
+src.org.apache.pig.data.TupleFactory_java
+src.org.apache.pig.data.BinSedesTupleFactory_java
+src.org.apache.pig.data.BinInterSedes_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 00110000 0
+01110000 0 01110000
+00100000 00110000 0
+wicket.src.java.wicket.request.compound.IRequestParametersFactory_java
+wicket.src.java.wicket.RequestCycle_java
+wicket.src.java.wicket.IRequestCycleProcessor_java

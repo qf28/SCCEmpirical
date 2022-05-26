@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Use,Create]
+8
+0 0 011010 0 010010 010110 010100 0
+010000 0 0 0 010010 010010 0 0
+010000 011010 0 0 000010 010010 0 0
+0 011110 011110 0 010110 010010 010000 0
+0 001010 011010 010100 0 010000 0 0
+010100 011110 011110 0 010110 0 010000 0
+010100 011110 011110 010110 010110 010010 0 0
+0 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.config.KSMetaData_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.config.Schema_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java
+src.java.org.apache.cassandra.db.DefsTables_java
+src.java.org.apache.cassandra.cql3.CQL3Type_java

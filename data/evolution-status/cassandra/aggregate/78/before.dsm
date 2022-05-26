@@ -1,0 +1,12 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 00000001 0 0
+0 0 00000001 0 0
+src.org.apache.cassandra.locator.IReplicaPlacementStrategy_java
+src.org.apache.cassandra.locator.TokenMetadata_java
+src.org.apache.cassandra.dht.IPartitioner_java
+src.org.apache.cassandra.dht.OrderPreservingPartitioner_java
+src.org.apache.cassandra.dht.RandomPartitioner_java

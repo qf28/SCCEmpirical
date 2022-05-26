@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+4
+0 0 0 0110010100
+0 0 0110000100 0100011000
+0 0110010100 0 0110000000
+0110000100 0100001100 0 0
+java.engine.org.apache.derby.iapi.types.CollatorSQLChar_java
+java.engine.org.apache.derby.iapi.types.SQLVarchar_java
+java.engine.org.apache.derby.iapi.types.CollatorSQLVarchar_java
+java.engine.org.apache.derby.iapi.types.SQLChar_java

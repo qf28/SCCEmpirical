@@ -1,0 +1,6 @@
+[Import,Return,Use,Annotation]
+2
+0 0010
+0100 0
+src.test.java.spoon.test.annotation.testclasses.repeatandarrays.TagArrays_java
+src.test.java.spoon.test.annotation.testclasses.repeatandarrays.TagsArrays_java

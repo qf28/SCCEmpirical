@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0 0
+0 0 0 0
+0 0 0 0000010
+0111010 0111011 0110001 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.HostResponse_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.HostRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ScaleClusterRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.HostResourceProvider_java

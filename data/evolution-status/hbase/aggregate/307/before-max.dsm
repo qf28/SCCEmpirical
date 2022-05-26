@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+2
+0 011000100
+010000000 0
+src.main.java.org.apache.hadoop.hbase.zookeeper.ZKUtil_java
+src.main.java.org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher_java

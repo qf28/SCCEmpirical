@@ -1,0 +1,8 @@
+[Call,Typed,Set,Import,Use,Create,Implement]
+3
+0 0 0
+0000001 0 1100000
+0 1101110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreLAB_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HeapMemStoreLAB_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreChunkPool_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+5
+0 01110000 0 0 0
+0 0 0 0 00100000
+0 0 0 00110000 00110000
+0 0 01110000 0 0
+01010110 11100001 01110000 0 0
+src.org.apache.pig.data.ReadOnceBag_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.Packager_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PhyPlanVisitor_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POPartialAgg_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POPackage_java

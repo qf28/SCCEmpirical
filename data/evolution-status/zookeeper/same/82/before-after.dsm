@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+2
+0 1100100
+0110000 0
+zookeeper-server.src.main.java.org.apache.zookeeper.server.ZooKeeperServer_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.SyncRequestProcessor_java

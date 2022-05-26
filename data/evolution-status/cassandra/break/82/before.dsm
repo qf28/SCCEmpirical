@@ -1,0 +1,16 @@
+[Call,Typed,Import,Create,Use]
+7
+0 10101 0 10001 0 0 10110
+0 0 11011 10101 0 0 0
+0 0 0 10101 11000 0 0
+10001 10101 0 0 0 00110 10101
+0 0 0 10101 0 0 0
+0 10001 0 10101 0 0 0
+0 10101 0 10101 0 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.hints.HintsService_java
+src.java.org.apache.cassandra.hints.HintsDispatchExecutor_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.hints.HintsDispatcher_java
+src.java.org.apache.cassandra.hints.HintVerbHandler_java
+src.java.org.apache.cassandra.batchlog.BatchlogManager_java

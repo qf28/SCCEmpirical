@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 1010000
+0010000 0
+src.org.apache.pig.impl.streaming.PigStreaming_java
+src.org.apache.pig.impl.util.StorageUtil_java

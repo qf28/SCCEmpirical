@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+4
+0 0110010 0 1100100
+0110100 0 0 0
+0 0 0 0110100
+1110100 0 0100010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionServerWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

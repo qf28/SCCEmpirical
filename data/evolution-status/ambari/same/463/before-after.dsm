@@ -1,0 +1,6 @@
+[Import,Use]
+2
+0 10
+11 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.ViewPrivilegeResponse_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.views.ViewPrivilegeService_java

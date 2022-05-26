@@ -1,0 +1,8 @@
+[Call,Import,Create,Use]
+3
+0 0 1100
+1010 0 1100
+0 0101 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.InputSizeReducerEstimator_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler_java
+src.org.apache.pig.backend.hadoop.executionengine.util.MapRedUtil_java

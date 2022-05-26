@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 0
+11111 0
+java.engine.org.apache.derby.impl.store.raw.xact.TransactionTable_java
+java.engine.org.apache.derby.impl.store.raw.xact.XactFactory_java

@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 110
+111 0
+src.java.org.apache.cassandra.io.sstable.SSTableScanner_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java

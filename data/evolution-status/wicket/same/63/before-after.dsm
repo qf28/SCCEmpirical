@@ -1,0 +1,6 @@
+[Cast,Call,Create]
+2
+0 011
+110 0
+wicket-examples.src.main.java.org.apache.wicket.examples.ajax.builtin.modal.ModalWindowPage_java
+wicket-examples.src.main.java.org.apache.wicket.examples.ajax.builtin.modal.ModalContent1Page_java

@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+8
+0 0 0 0 0 0 000100100 0
+0 0 0 0 010000000 0 0 011100000
+0 0 0 0 0 0 001000000 0
+0 0 0 0 0 0 0 110100000
+0 011100000 0 0 0 011100000 0 0
+0 0 111000100 0 0 0 001000000 110000000
+011000110 011100000 0 0 0 011100000 0 0
+001000000 011100000 0 011100000 0 111100000 011000110 0
+src.org.apache.pig.tools.pigstats.tez.TezVertexStats_java
+src.org.apache.pig.backend.hadoop.executionengine.tez.TezJob_java
+src.org.apache.pig.tools.pigstats.tez.PigTezProgressNotificationListener_java
+src.org.apache.pig.backend.hadoop.executionengine.tez.plan.operator.NativeTezOper_java
+src.org.apache.pig.backend.hadoop.executionengine.tez.TezSessionManager_java
+src.org.apache.pig.tools.pigstats.tez.TezScriptState_java
+src.org.apache.pig.tools.pigstats.tez.TezDAGStats_java
+src.org.apache.pig.tools.pigstats.tez.TezPigScriptStats_java

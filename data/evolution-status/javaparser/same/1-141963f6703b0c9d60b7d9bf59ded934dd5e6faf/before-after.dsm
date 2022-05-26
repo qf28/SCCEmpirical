@@ -1,0 +1,28 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+13
+0 0 011000100 0 0 0 0 101001010 0 0 0 011011000 0
+0 0 100001010 0 0 0 0 001000000 0 0 0 001000010 0
+0 0 0 0 0 0 0 001000000 0 0 0 001000010 0
+0 0 0 0 0 0 0 100001010 0 0 0 011011000 0
+0 0 0 011000100 0 110001111 100101011 0 0 101101010 101001011 011011000 0
+0 0 0 111101111 0 0 0 101001010 0 0 0 011011000 0
+0 0 0 111101111 0 0 0 0 0 0 0 011011000 0
+0 0 0 110101111 0 0 0 0 0 0 0 011000010 0
+0 0 0 0 0 0 0 011001010 0 0 0 001000010 0
+0 0 0 0 100001000 0 0 001000000 0 0 0 001000010 100001010
+0 0 0 111101111 0 0 0 101001010 0 0 0 011011000 0
+0 0 0 0 010001000 0 0 0 0 0 0 0 0
+110001010 101001010 0 0 0 0 0 001000000 011001100 0 0 001000010 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.TypeParameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ClassOrInterfaceType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Name_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java
+javaparser-core.src.main.java.com.github.javaparser.ast.PackageDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.ImportDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.AnnotationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ArrayType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.TypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.CallableDeclaration_java

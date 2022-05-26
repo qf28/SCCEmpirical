@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 10100000 0
+01000010 0 01000010
+0 10100000 0
+src.java.jmx.com.yahoo.zookeeper.server.quorum.ObservableFollower_java
+src.java.jmx.com.yahoo.zookeeper.server.quorum.ObservableQuorumPeer_java
+src.java.jmx.com.yahoo.zookeeper.server.quorum.ObservableLeader_java

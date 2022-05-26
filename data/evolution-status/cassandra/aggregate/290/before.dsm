@@ -1,0 +1,16 @@
+[Call,Typed,Import,Set,Use,Create]
+7
+0 100010 0 0 0 0 0
+110011 0 0 0 0 110010 0
+0 0 0 0 0 0 011000
+110010 000001 0 0 0 0 0
+0 0 111001 0 0 0 011000
+0 110011 0 0 111011 0 110001
+0 110011 0 100001 0 110011 0
+src.java.org.apache.cassandra.db.lifecycle.LogFile_java
+src.java.org.apache.cassandra.db.lifecycle.LogTransaction_java
+src.java.org.apache.cassandra.io.sstable.SSTableTxnWriter_java
+src.java.org.apache.cassandra.db.lifecycle.LogAwareFileLister_java
+src.java.org.apache.cassandra.db.Memtable_java
+src.java.org.apache.cassandra.db.lifecycle.Tracker_java
+src.java.org.apache.cassandra.db.lifecycle.LifecycleTransaction_java

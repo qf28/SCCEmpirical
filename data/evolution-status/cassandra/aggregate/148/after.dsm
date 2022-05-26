@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 11010 11000
+11001 0 01000
+0 00010 0
+tools.fqltool.src.org.apache.cassandra.fqltool.ResultComparator_java
+tools.fqltool.src.org.apache.cassandra.fqltool.ResultHandler_java
+tools.fqltool.src.org.apache.cassandra.fqltool.MismatchListener_java

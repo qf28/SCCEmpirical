@@ -1,0 +1,8 @@
+[Call,Import,Return,Extend,Create,Use,Contain]
+3
+0 1100010 1010100
+1000010 0 0
+0 1100010 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserSymbolDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFacade_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserFieldDeclaration_java

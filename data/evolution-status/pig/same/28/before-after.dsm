@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw]
+2
+0 011000100
+001000000 0
+src.org.apache.pig.impl.logicalLayer.LogicalPlan_java
+src.org.apache.pig.impl.logicalLayer.LogicalOperator_java

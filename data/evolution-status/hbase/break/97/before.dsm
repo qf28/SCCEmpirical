@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 111100100 010000000 011000100 0 0 0
+0 0 0 110000100 0 0 0
+0 110000100 0 011000100 0 0 0
+011000110 111000100 011000110 0 0 011000000 011000000
+0 0 0 0 0 0 111100100
+0 0 001000100 0 0 0 0
+0 0 0 0 000000100 000100001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreFlusher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HeapMemStoreLAB_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HeapMemoryManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreChunkPool_java

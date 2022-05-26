@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0000010000 0000010000
+0000000010 0 0
+0101011001 0 0
+src.test.java.org.eclipse.persistence.json.bind.serializers.model.AnnotatedWithSerializerType_java
+src.test.java.org.eclipse.persistence.json.bind.serializers.model.AnnotatedWithSerializerTypeSerializer_java
+src.test.java.org.eclipse.persistence.json.bind.serializers.model.AnnotatedWithSerialzierTypeDeserializer_java

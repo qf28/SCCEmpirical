@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create]
+3
+0 1101 1110
+0 0 1110
+1110 0 0
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.PhoenixHBaseAccessor_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.TimelineMetricSplitPointComputer_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.discovery.TimelineMetricMetadataManager_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01000000
+01000100 0
+src.main.org.apache.tools.ant.types.selectors.TokenizedPattern_java
+src.main.org.apache.tools.ant.types.selectors.SelectorUtils_java

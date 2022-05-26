@@ -1,0 +1,10 @@
+[Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+4
+0 100100000 0 010000010
+0 0 0 110010011
+0 100100000 0 010000010
+110001000 010010010 110001000 0
+spoon-dataflow.src.main.java.fr.inria.spoon.dataflow.checkers.NullDereferenceChecker_java
+spoon-dataflow.src.main.java.fr.inria.spoon.dataflow.checkers.AbstractChecker_java
+spoon-dataflow.src.main.java.fr.inria.spoon.dataflow.checkers.AlwaysTrueFalseChecker_java
+spoon-dataflow.src.main.java.fr.inria.spoon.dataflow.scanners.CheckersScanner_java

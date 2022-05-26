@@ -1,0 +1,18 @@
+[Call,Typed,Import,Extend,Use,Create]
+8
+0 110011 101010 110001 110010 110010 0 110011
+111010 0 0 0 100010 100000 0 011000
+110010 0 0 0 111010 110010 0 0
+110010 0 101010 0 0 100000 0 0
+110010 110000 101010 0 0 110000 110001 0
+110010 100000 101010 0 101010 0 0 0
+110010 100000 0 0 100010 0 0 0
+110011 100000 0 0 0 100000 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.compaction.CompactionStrategyManager_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.DiskBoundaryManager_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.Keyspace_java
+src.java.org.apache.cassandra.db.compaction.Scrubber_java
+src.java.org.apache.cassandra.db.Memtable_java

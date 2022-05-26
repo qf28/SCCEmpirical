@@ -1,0 +1,10 @@
+[Call,Import,Extend,Create]
+4
+0 0 0 0100
+0 0 0 0100
+0 0 0 0100
+0100 0100 0100 0
+wicket-examples.src.java.wicket.examples.niceurl.mounted.Page3_java
+wicket-examples.src.java.wicket.examples.niceurl.mounted.Page5_java
+wicket-examples.src.java.wicket.examples.niceurl.mounted.Page4_java
+wicket-examples.src.java.wicket.examples.niceurl.Home_java

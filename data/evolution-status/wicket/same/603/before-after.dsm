@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 10010
+11001 0
+wicket-core.src.main.java.org.apache.wicket.markup.head.CssContentHeaderItem_java
+wicket-core.src.main.java.org.apache.wicket.markup.head.CssHeaderItem_java

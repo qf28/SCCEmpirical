@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+4
+0 0101000 0 0
+0 0 0101010 0
+0100010 0 0 0100010
+0 0101000 0 0
+wicket.src.main.java.org.apache.wicket.markup.loader.SimpleMarkupLoader_java
+wicket.src.main.java.org.apache.wicket.markup.MarkupFactory_java
+wicket.src.main.java.org.apache.wicket.markup.loader.DefaultMarkupLoader_java
+wicket.src.main.java.org.apache.wicket.markup.loader.InheritedMarkupMarkupLoader_java

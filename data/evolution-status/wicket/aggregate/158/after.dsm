@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 00010000 11010000
+0 0 11000000
+01010010 0 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.pagestore.DiskPageStore_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.FilePageStore_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.WebApplication_java

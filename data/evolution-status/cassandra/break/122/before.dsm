@@ -1,0 +1,34 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+16
+0 000000010 0 0 000000010 0 0 0 0 000000010 0 0 0 000000010 0 0
+010001100 0 0 0 0 0 0 0 010001100 100000100 0 0 0 0 0 0
+0 0 0 0 0 0 011100110 011000100 0 0 0 000100100 010100000 0 0 0
+0 010000010 0 0 0 011000110 011000100 0 0 0 0 0 0 0 0 0
+010001100 0 0 0 0 0 0 0 010001100 100000100 0 0 0 000000010 0 0
+0 0 0 0 0 0 0 011100100 0 0 0 0 0 0 0 0
+0 0 111100100 0 0 0 0 0 0 0 0 010000100 0 0 010000000 0
+0 0 0 010000000 0 011000000 0 0 0 0 0 000100100 0 0 0 0
+0 010000010 0 0 010000010 0 0 0 0 000000010 0 0 0 010000010 0 0
+010001100 0 0 0 0 0 0 111000100 010001100 0 0 0 0 0 0 0
+0 0 0 0 0 0 011000100 0 0 0 0 000000100 0 0 010000000 0
+0 0 0 011000010 0 001100000 011000100 0 0 0 011000100 0 010100000 0 0 0
+0 0 0 010100000 0 001100000 011100100 0 0 0 011100100 010100100 0 0 0 010000000
+010001100 0 0 0 0 0 0 0 010001100 100000100 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 011000100 010000100 0 0 0 010100000
+0 0 0 010100000 0 001100100 011100100 0 0 0 011100100 010100100 010100100 0 010100000 0
+src.java.org.apache.cassandra.cql3.AbstractMarker_java
+src.java.org.apache.cassandra.cql3.Lists_java
+src.java.org.apache.cassandra.cql3.statements.CreateTableStatement_java
+src.java.org.apache.cassandra.config.UTMetaData_java
+src.java.org.apache.cassandra.cql3.Sets_java
+src.java.org.apache.cassandra.db.marshal.UserType_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.cql3.CQL3Type_java
+src.java.org.apache.cassandra.cql3.Operation_java
+src.java.org.apache.cassandra.cql3.Constants_java
+src.java.org.apache.cassandra.config.KSMetaData_java
+src.java.org.apache.cassandra.config.Schema_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.cql3.Maps_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.db.DefsTables_java

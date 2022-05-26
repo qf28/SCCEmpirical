@@ -1,0 +1,8 @@
+[Cast,Call,Import,Create,Use,Parameter,Contain]
+3
+0 0 1100111
+0101001 0 0010010
+0 0111001 0
+javaparser-core.src.main.java.com.github.javaparser.printer.PrettyPrintVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.printer.PrettyPrinter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

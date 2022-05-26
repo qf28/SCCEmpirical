@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 10001
+01110 0
+src.main.java.org.apache.hadoop.hbase.regionserver.ScanQueryMatcher_java
+src.main.java.org.apache.hadoop.hbase.regionserver.ExplicitColumnTracker_java

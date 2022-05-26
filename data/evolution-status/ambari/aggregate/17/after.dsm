@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0 0101100
+0 0 0101100
+0100001 0100001 0
+ambari-server.src.main.java.org.apache.ambari.server.state.svccomphost.ServiceComponentHostStoppedEvent_java
+ambari-server.src.main.java.org.apache.ambari.server.state.svccomphost.ServiceComponentHostStartedEvent_java
+ambari-server.src.main.java.org.apache.ambari.server.state.ServiceComponentHostEvent_java

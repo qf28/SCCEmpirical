@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 001010
+110011 0
+src.org.apache.pig.tools.pigstats.tez.TezTaskStats_java
+src.org.apache.pig.tools.pigstats.tez.TezStats_java

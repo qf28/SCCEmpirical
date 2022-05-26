@@ -1,0 +1,8 @@
+[Call,Import,Use]
+3
+0 0 110
+001 0 110
+0 011 0
+src.java.org.apache.cassandra.db.marshal.AsciiType_java
+src.java.org.apache.cassandra.db.marshal.UTF8Type_java
+src.java.org.apache.cassandra.cql3.Json_java

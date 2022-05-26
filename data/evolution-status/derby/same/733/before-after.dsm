@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 011
+110 0
+java.client.org.apache.derby.client.net.NetXAConnection_java
+java.client.org.apache.derby.client.net.NetXAResource_java

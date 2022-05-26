@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 1000000 0 0
+0 0 1100000 1100010
+0100000 1000000 0 0
+0 0 0100100 0
+src.java.org.apache.cassandra.auth.AuthenticatedUser_java
+src.java.org.apache.cassandra.auth.Roles_java
+src.java.org.apache.cassandra.auth.IRoleManager_java
+src.java.org.apache.cassandra.auth.RolesCache_java

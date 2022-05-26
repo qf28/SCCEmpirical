@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Implement]
+2
+0 11000
+01100 0
+src.main.org.apache.tools.ant.taskdefs.Rmic_java
+src.main.org.apache.tools.ant.taskdefs.rmic.RmicAdapter_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Extend,Use,Create,Implement]
+2
+0 00100000
+01100010 0
+src.main.org.apache.tools.ant.taskdefs.optional.perforce.FStatP4OutputHandler_java
+src.main.org.apache.tools.ant.taskdefs.optional.perforce.P4Fstat_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Throw,Implement]
+2
+0 0111001000
+0101000000 0
+contrib.views.pig.src.main.java.org.apache.ambari.view.pig.resources.jobs.utils.JobPolling_java
+contrib.views.pig.src.main.java.org.apache.ambari.view.pig.resources.jobs.JobResourceManager_java

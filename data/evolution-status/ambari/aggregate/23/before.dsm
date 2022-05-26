@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use]
+3
+0 0 0
+0 0 101000
+100111 111000 0
+ambari-server.src.main.java.org.apache.ambari.server.upgrade.AbstractUpgradeCatalog_java
+ambari-server.src.main.java.org.apache.ambari.server.state.ConfigHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.upgrade.UpgradeCatalog170_java

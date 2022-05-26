@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+6
+0 00101000 0 00101000 00101000 00101000
+01101010 0 0 0 0 0
+0 01010110 0 0 0 0
+01101010 0 0 0 0 0
+01101010 00100000 11100000 0 0 0
+01101010 0 0 0 0 0
+src.org.apache.pig.impl.physicalLayer.plans.PhyPlanVisitor_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.POUserFunc_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.POUserComparisonFunc_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.PORead_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.POSort_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.PODistinct_java

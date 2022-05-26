@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+2
+0 0100010
+0100001 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigRecordReader_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigInputFormat_java

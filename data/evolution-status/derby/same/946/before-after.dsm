@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Use]
+3
+0 01000 0
+10010 0 10010
+0 01000 0
+java.client.org.apache.derby.client.am.BlobLocatorInputStream_java
+java.client.org.apache.derby.client.am.Blob_java
+java.client.org.apache.derby.client.am.BlobLocatorOutputStream_java

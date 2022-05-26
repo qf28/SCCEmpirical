@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Use,Create]
+2
+0 00001
+11110 0
+src.java.org.apache.cassandra.db.ReadCommand_java
+src.java.org.apache.cassandra.db.SliceFromReadCommand_java

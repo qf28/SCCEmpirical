@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01100010
+01100000 0
+src.java.org.apache.cassandra.cql3.selection.SelectorFactories_java
+src.java.org.apache.cassandra.cql3.selection.Selectable_java

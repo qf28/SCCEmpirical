@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 111
+110 0
+contrib.zebra.src.java.org.apache.hadoop.zebra.pig.comparator.KeyGenerator_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.pig.comparator.LeafGenerator_java

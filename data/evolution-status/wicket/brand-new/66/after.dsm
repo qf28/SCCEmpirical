@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Create,Use]
+2
+0 001000
+011010 0
+wicket.src.test.wicket.protocol.http.portlet.MockPortletRequest_java
+wicket.src.test.wicket.protocol.http.portlet.MockPortletApplication_java

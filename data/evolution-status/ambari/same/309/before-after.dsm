@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 1100010
+1100010 0
+ambari-server.src.main.java.org.apache.ambari.server.api.resources.ComponentResourceDefinition_java
+ambari-server.src.main.java.org.apache.ambari.server.api.resources.HostComponentResourceDefinition_java

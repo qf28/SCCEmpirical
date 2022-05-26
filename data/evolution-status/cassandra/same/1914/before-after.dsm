@@ -1,0 +1,6 @@
+[Call,Typed,Use,Implement]
+2
+0 1010
+0010 0
+src.java.org.apache.cassandra.gms.FailureDetector_java
+src.java.org.apache.cassandra.gms.Gossiper_java

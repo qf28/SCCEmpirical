@@ -1,0 +1,20 @@
+[Call,Typed,Extend,Use,Create]
+9
+0 11010 0 0 0 10010 00010 0 10110
+0 0 0 11011 0 11001 11010 0 0
+0 01010 0 0 0 0 0 0 0
+10001 11010 0 0 0 10000 0 10001 0
+0 11010 0 0 0 0 0 0 0
+0 11010 11001 10010 0 0 10100 0 0
+0 11010 0 0 0 10000 0 0 0
+0 11010 0 10000 10110 10010 10110 0 0
+0 11010 0 0 0 10000 10110 0 0
+src.java.org.apache.hadoop.hbase.master.ProcessRegionOpen_java
+src.java.org.apache.hadoop.hbase.master.HMaster_java
+src.java.org.apache.hadoop.hbase.master.RootScanner_java
+src.java.org.apache.hadoop.hbase.master.ServerManager_java
+src.java.org.apache.hadoop.hbase.master.RetryableMetaOperation_java
+src.java.org.apache.hadoop.hbase.master.RegionManager_java
+src.java.org.apache.hadoop.hbase.master.RegionServerOperation_java
+src.java.org.apache.hadoop.hbase.master.ProcessServerShutdown_java
+src.java.org.apache.hadoop.hbase.master.ProcessRegionStatusChange_java

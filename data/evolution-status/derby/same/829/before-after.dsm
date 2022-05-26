@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 110
+111 0
+java.drda.org.apache.derby.impl.drda.DDMWriter_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java

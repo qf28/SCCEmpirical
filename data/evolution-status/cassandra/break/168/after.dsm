@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Use,Create]
+3
+0 0 0
+11111 0 01010
+01111 01000 0
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

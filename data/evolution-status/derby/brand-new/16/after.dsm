@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use]
+3
+0 011000 0
+011010 0 011010
+0 011000 0
+java.engine.org.apache.derby.impl.io.vfmem.BlockedByteArrayInputStream_java
+java.engine.org.apache.derby.impl.io.vfmem.BlockedByteArray_java
+java.engine.org.apache.derby.impl.io.vfmem.BlockedByteArrayOutputStream_java

@@ -1,0 +1,6 @@
+[Call,Create,Parameter]
+2
+0 101
+110 0
+src.main.java.org.eclipse.yasson.internal.serializer.CharArrayDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.DeserializerBuilder_java

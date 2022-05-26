@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+7
+0 0 0 010011010 0 0 0
+0 0 010000000 0 010100010 011100000 011100100
+0 010000000 0 0 0 0 0
+0 000100010 0 0 0 000100000 0
+111000010 000100010 0 010000000 0 0 011000000
+0 011100000 0 0 0 0 0
+0 0 0 010000000 0 0 0
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.query.TransientMetricCondition_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.PhoenixHBaseAccessor_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.TransientMetricReadHelper_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.query.DefaultCondition_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.query.PhoenixTransactSQL_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.discovery.TimelineMetricMetadataManager_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.ambari.metrics.core.timeline.query.SplitByMetricNamesCondition_java

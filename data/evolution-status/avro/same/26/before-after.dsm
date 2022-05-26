@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 110010
+100001 0
+lang.java.avro.src.main.java.org.apache.avro.reflect.ReflectDatumReader_java
+lang.java.avro.src.main.java.org.apache.avro.reflect.ReflectData_java

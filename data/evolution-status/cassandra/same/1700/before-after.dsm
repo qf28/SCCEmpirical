@@ -1,0 +1,14 @@
+[Call,Typed,Import,Use,Create,Implement]
+6
+0 0 100100 0 100100 101100
+0 0 101100 110000 0 0
+100100 110100 0 0 100100 100100
+0 0 101100 0 0 0
+100000 110000 100100 0 0 111100
+0 0 101100 0 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.Directories_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java
+src.java.org.apache.cassandra.gms.Gossiper_java

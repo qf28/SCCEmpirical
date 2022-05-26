@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0 1110000
+1010100 0 1110000
+1110100 1110100 0
+src.org.apache.pig.validator.BlackAndWhitelistFilter_java
+src.org.apache.pig.tools.grunt.GruntParser_java
+src.org.apache.pig.PigServer_java

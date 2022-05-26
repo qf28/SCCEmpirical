@@ -1,0 +1,18 @@
+[Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+8
+0 0 0 110000000 0 0 0 0
+0 0 0 0 011000000 0 0 0
+0 0 0 111000100 0 0 0 0
+0 0 0 0 010000000 0 0 0
+0 111000000 0 110000100 0 101010000 0 110001101
+0 000000010 0 0 011000000 0 0 0
+101001000 0 0 111000000 0 0 0 0
+100001000 111000000 111001000 111000110 110001100 0 111001000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.hbck.TableIntegrityErrorHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.hbck.ReplicationChecker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.HbckErrorReporter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.HbckTableInfo_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.hbck.TableIntegrityErrorHandlerImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.hbck.HFileCorruptionChecker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.HBaseFsck_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use]
+4
+0 01100 00110 01110
+0 0 00011 01110
+01010 0 0 01010
+0 01000 01110 0
+src.org.apache.pig.tools.pigstats.PigStatsUtil_java
+src.org.apache.pig.tools.pigstats.ScriptState_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.NativeMapReduceOper_java
+src.org.apache.pig.tools.pigstats.PigStats_java

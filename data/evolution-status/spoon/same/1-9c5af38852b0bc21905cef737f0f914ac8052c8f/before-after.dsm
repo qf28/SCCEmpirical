@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Parameter,Contain]
+2
+0 00010000
+00001000 0
+src.main.java.spoon.reflect.visitor.chain.CtQueryable_java
+src.main.java.spoon.reflect.visitor.chain.CtQuery_java

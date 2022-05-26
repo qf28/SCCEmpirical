@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+4
+0 0 011100100 0
+000100000 0 0 0
+0 011000010 0 010000100
+010100000 011001110 0 0
+wicket.src.main.java.org.apache.wicket.Application_java
+wicket.src.main.java.org.apache.wicket.ng.resource.ResourceReference_java
+wicket.src.main.java.org.apache.wicket.ng.resource.ResourceReferenceRegistry_java
+wicket.src.main.java.org.apache.wicket.ng.resource.PackageResourceReference_java

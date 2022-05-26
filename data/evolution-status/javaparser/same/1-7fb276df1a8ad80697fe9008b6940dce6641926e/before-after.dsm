@@ -1,0 +1,6 @@
+[Call,Use,Create,Contain]
+2
+0 1100
+1011 0
+javaparser-core-metamodel-generator.src.main.java.com.github.javaparser.generator.metamodel.NodeMetaModelGenerator_java
+javaparser-core-metamodel-generator.src.main.java.com.github.javaparser.generator.metamodel.MetaModelGenerator_java

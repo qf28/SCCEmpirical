@@ -1,0 +1,8 @@
+[Call,Import,Return,Create,Use,Parameter,Contain]
+3
+0 1100100 0
+0 0 1000100
+0100010 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.JavadocComment_java
+javaparser-core.src.main.java.com.github.javaparser.JavaParser_java
+javaparser-core.src.main.java.com.github.javaparser.JavadocParser_java

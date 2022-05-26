@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+6
+0 00110000 11000011 11000011 0 0
+01010001 0 0 0 0 0
+00100000 0 0 01000100 0 0
+00100000 0 0 0 0 0
+00100001 00110000 0 0 0 0
+01100001 0 0 0 0 0
+java.client.org.apache.derby.client.net.NetConnection_java
+java.client.org.apache.derby.jdbc.ClientDataSource_java
+java.client.org.apache.derby.client.net.NetCallableStatement_java
+java.client.org.apache.derby.client.net.NetPreparedStatement_java
+java.client.org.apache.derby.client.ClientPooledConnection_java
+java.client.org.apache.derby.jdbc.ClientDriver_java

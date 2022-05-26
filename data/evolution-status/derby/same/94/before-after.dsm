@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use]
+2
+0 001001
+011000 0
+java.client.org.apache.derby.client.am.LogWriter_java
+java.client.org.apache.derby.client.am.Connection_java

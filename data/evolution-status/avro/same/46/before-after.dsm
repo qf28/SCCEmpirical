@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0101000 0100110
+0111010 0 0001010
+0 0101000 0
+lang.java.avro.src.main.java.org.apache.avro.Schema_java
+lang.java.avro.src.main.java.org.apache.avro.util.internal.JacksonUtils_java
+lang.java.avro.src.main.java.org.apache.avro.JsonProperties_java

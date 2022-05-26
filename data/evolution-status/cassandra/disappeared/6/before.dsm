@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create,Use]
+2
+0 00001
+01010 0
+test.unit.org.apache.cassandra.hadoop.SampleColumnFamilyOutputTool_java
+test.unit.org.apache.cassandra.hadoop.ColumnFamilyOutputFormatTest_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 1100000
+0010000 0
+src.org.apache.pig.newplan.logical.relational.LOCube_java
+src.org.apache.pig.newplan.logical.relational.LogicalRelationalNodesVisitor_java

@@ -1,0 +1,6 @@
+[Call,Return,Use,Implement,Parameter,Contain]
+2
+0 111111
+010000 0
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.Wildcard_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.Type_java

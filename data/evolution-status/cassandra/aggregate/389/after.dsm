@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 1011110
+1110001 0
+src.java.org.apache.cassandra.io.compress.CompressedSequentialWriter_java
+src.java.org.apache.cassandra.io.util.SequentialWriter_java

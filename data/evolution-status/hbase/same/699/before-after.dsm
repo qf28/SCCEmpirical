@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 0 0 11010
+0 0 0 01010
+0 0 0 11011
+10001 11001 11010 0
+core.src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java
+core.src.main.java.org.apache.hadoop.hbase.regionserver.MinorCompactingStoreScanner_java
+core.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+core.src.main.java.org.apache.hadoop.hbase.regionserver.Store_java

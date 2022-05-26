@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 010000000 011000100
+010000000 0 001000100
+010000000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.ZKUtil_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.RootRegionTracker_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher_java

@@ -1,0 +1,14 @@
+[Call,Import,Return,Use,Create,Parameter,Contain]
+6
+0 0 1000000 1001000 1001011 1000001
+1001001 0 1001001 1101000 1001111 1000001
+1101011 0 0 0 1001011 0
+0000010 0 0 0 0 0
+1111101 1011101 1011101 1100000 0 1011101
+1001001 1001000 0 1101000 1001111 0
+src.main.java.spoon.support.compiler.jdt.ContextBuilder_java
+src.main.java.spoon.support.compiler.jdt.JDTTreeBuilderHelper_java
+src.main.java.spoon.support.compiler.jdt.PositionBuilder_java
+src.main.java.spoon.support.compiler.jdt.JDTTreeBuilderQuery_java
+src.main.java.spoon.support.compiler.jdt.JDTTreeBuilder_java
+src.main.java.spoon.support.compiler.jdt.ReferenceBuilder_java

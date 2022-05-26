@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 110000
+110010 0
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.hadoop.yarn.server.applicationhistoryservice.metrics.timeline.MetricsCacheCommitterThread_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.hadoop.yarn.server.applicationhistoryservice.metrics.timeline.PhoenixHBaseAccessor_java

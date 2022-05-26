@@ -1,0 +1,18 @@
+[Call,Typed,Set,Import,Extend,Use,Create,Implement]
+8
+0 0 11000010 0 11000010 10000010 0 0
+11000100 0 0 10101100 0 0 0 0
+11000100 0 0 0 10000000 0 10000010 0
+11000100 0 10000000 0 10000100 0 0 0
+11000100 11000010 10000100 10000000 0 0 0 11000010
+01000000 0 0 0 0 0 0 0
+01000100 0 0 0 0 0 0 0
+11000100 0 0 10101100 10000000 0 0 0
+src.java.org.apache.hadoop.hbase.master.HMaster_java
+src.java.org.apache.hadoop.hbase.master.RootScanner_java
+src.java.org.apache.hadoop.hbase.master.ServerManager_java
+src.java.org.apache.hadoop.hbase.master.BaseScanner_java
+src.java.org.apache.hadoop.hbase.master.RegionManager_java
+src.java.org.apache.hadoop.hbase.master.ChangeTableState_java
+src.java.org.apache.hadoop.hbase.master.ProcessServerShutdown_java
+src.java.org.apache.hadoop.hbase.master.MetaScanner_java

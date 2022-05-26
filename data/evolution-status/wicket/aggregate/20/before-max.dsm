@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 10010
+10000 0
+wicket-core.src.main.java.org.apache.wicket.ajax.form.AjaxFormChoiceComponentUpdatingBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.form.AjaxFormComponentUpdatingBehavior_java

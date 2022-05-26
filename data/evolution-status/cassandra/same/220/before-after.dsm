@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement,Modify]
+3
+0 010101000 010100000
+111001000 0 010100000
+010000100 0 0
+src.java.org.apache.cassandra.locator.DynamicEndpointSnitch_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

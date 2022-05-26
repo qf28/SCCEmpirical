@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 0 10010
+01100 0 10100
+11110 11101 0
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.service.paxos.PaxosState_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java

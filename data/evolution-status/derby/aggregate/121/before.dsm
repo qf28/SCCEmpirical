@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement]
+2
+0 0
+0 0
+java.engine.org.apache.derby.impl.sql.execute.rts.ResultSetStatistics_java
+java.engine.org.apache.derby.iapi.sql.execute.RunTimeStatistics_java

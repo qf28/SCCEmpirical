@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 001100010
+000100000 0
+src.main.java.org.apache.hadoop.hbase.LocalHBaseCluster_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

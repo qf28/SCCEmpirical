@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use]
+2
+0 110001
+110000 0
+src.java.org.apache.cassandra.io.util.DataIntegrityMetadata_java
+src.java.org.apache.cassandra.io.util.SequentialWriter_java

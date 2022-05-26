@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 010000000
+000000100 0
+zookeeper-server.src.main.java.org.apache.zookeeper.server.persistence.FileSnap_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.persistence.SnapStream_java

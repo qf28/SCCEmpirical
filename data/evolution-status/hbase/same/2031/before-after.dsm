@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+2
+0 0111001000
+0111000100 0
+src.java.org.apache.hadoop.hbase.regionserver.LogRoller_java
+src.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

@@ -1,0 +1,6 @@
+[Call,Use]
+2
+0 11
+01 0
+google-http-client.src.main.java.com.google.api.client.http.HttpRequest_java
+google-http-client.src.main.java.com.google.api.client.http.OpenCensusUtils_java

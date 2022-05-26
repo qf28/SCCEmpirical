@@ -1,0 +1,16 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+7
+0 0000000010 0 0 0 0 0
+0110000010 0 0110000010 0 0010010000 0110001000 0100110000
+0 0000000010 0 0 0 0 0
+0 0010010000 0 0 0 0 0
+0 0 0 0100011001 0 0 0000010000
+0000000100 0000000010 0 0 0 0 0000010011
+0 0001000000 0 0 0010010000 0110001000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.LocalRecordDeclarationStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.LocalRecordDeclarationStmtMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.Statement_java

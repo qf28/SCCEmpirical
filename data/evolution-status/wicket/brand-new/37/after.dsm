@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create]
+2
+0 001000
+111000 0
+wicket-examples.src.java.wicket.examples.cdapp.model.Track_java
+wicket-examples.src.java.wicket.examples.cdapp.model.CD_java

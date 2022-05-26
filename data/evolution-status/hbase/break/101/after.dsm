@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 0 0
+000010 0 100100
+111011 101010 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.MetricsConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionUtils_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionImplementation_java

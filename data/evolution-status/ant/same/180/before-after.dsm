@@ -1,0 +1,6 @@
+[Call,Extend,Create]
+2
+0 100
+101 0
+src.main.org.apache.tools.ant.types.selectors.TokenizedPattern_java
+src.main.org.apache.tools.ant.types.selectors.SelectorUtils_java

@@ -1,0 +1,6 @@
+[Call,Create,Use]
+2
+0 100
+110 0
+wicket-extensions.src.main.java.org.apache.wicket.extensions.ajax.markup.html.form.upload.MultipartRequest_java
+wicket-extensions.src.main.java.org.apache.wicket.extensions.ajax.markup.html.form.upload.UploadWebRequest_java

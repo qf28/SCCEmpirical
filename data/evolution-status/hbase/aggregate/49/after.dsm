@@ -1,0 +1,6 @@
+[Call,Import]
+2
+0 11
+01 0
+src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+src.main.java.org.apache.hadoop.hbase.util.VersionInfo_java

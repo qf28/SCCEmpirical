@@ -1,0 +1,8 @@
+[Extend,Create,Use]
+3
+0 0 100
+0 0 100
+011 010 0
+lang.java.avro.src.main.java.org.apache.avro.file.XZCodec_java
+lang.java.avro.src.main.java.org.apache.avro.file.SnappyCodec_java
+lang.java.avro.src.main.java.org.apache.avro.file.CodecFactory_java

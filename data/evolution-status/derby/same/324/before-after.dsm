@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+5
+0 010011010 010000010 0 011000000
+0 0 010011010 0 011000010
+0 001000010 0 0 011000010
+0 111000000 0 0 011010010
+001000000 011000000 011010010 001000010 0
+java.client.org.apache.derby.client.am.CallableStatement_java
+java.client.org.apache.derby.client.am.PreparedStatement_java
+java.client.org.apache.derby.client.am.Statement_java
+java.client.org.apache.derby.client.am.DatabaseMetaData_java
+java.client.org.apache.derby.client.am.Connection_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Implement]
+3
+0 0 0001000
+0011000 0 0010000
+0111000 0110000 0
+jdk-1_4.wicket-extensions.src.main.java.org.apache.wicket.extensions.breadcrumb.IBreadCrumbModel_java
+jdk-1_4.wicket-extensions.src.main.java.org.apache.wicket.extensions.breadcrumb.panel.IBreadCrumbPanelFactory_java
+jdk-1_4.wicket-extensions.src.main.java.org.apache.wicket.extensions.breadcrumb.panel.BreadCrumbPanel_java

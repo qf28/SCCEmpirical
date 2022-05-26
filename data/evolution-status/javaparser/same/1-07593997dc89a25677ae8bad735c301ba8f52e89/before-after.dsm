@@ -1,0 +1,12 @@
+[Call,Import,Return,Use,Create,Contain]
+5
+0 0 011000 010100 0
+0 0 0 0 000100
+000100 0 0 0 0
+0 100111 100111 0 000100
+0 011000 0 010100 0
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.LambdaExpr_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.UnaryExprMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.LambdaExprMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.UnaryExpr_java

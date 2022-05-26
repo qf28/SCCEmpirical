@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+3
+0 0 0
+0100100000 0 0101010001
+0 0100001001 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.TypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java

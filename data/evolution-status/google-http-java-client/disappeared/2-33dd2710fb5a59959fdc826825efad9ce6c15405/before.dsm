@@ -1,0 +1,8 @@
+[Call,Return,Import,Extend,Use,Create,Parameter,Contain]
+3
+0 0 11001011
+0 0 01001011
+10000100 10000100 0
+google-http-client.src.main.java.com.google.api.client.json.jackson.JacksonParser_java
+google-http-client.src.main.java.com.google.api.client.json.jackson.JacksonGenerator_java
+google-http-client.src.main.java.com.google.api.client.json.jackson.JacksonFactory_java

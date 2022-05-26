@@ -1,0 +1,12 @@
+[Call,Typed,Import,Create]
+5
+0 0100 0 0 0
+1001 0 1001 1001 1001
+0 0100 0 0 0
+0 0100 0 0 0
+0 0100 0 0 0
+java.client.org.apache.derby.client.am.ClobLocatorInputStream_java
+java.client.org.apache.derby.client.am.Clob_java
+java.client.org.apache.derby.client.am.ClobLocatorReader_java
+java.client.org.apache.derby.client.am.ClobLocatorOutputStream_java
+java.client.org.apache.derby.client.am.ClobLocatorWriter_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Implement]
+2
+0 1010000
+1010000 0
+wicket-extensions.src.java.wicket.extensions.markup.html.form.select.SelectOption_java
+wicket-extensions.src.java.wicket.extensions.markup.html.form.select.Select_java

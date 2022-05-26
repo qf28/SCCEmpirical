@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Use,Create]
+2
+0 111010
+000010 0
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.BorlandDeploymentTool_java
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.BorlandGenerateClient_java

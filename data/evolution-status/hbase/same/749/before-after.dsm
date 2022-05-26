@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Create,Use]
+2
+0 11010
+11000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.RecoveredReplicationSource_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.RecoveredReplicationSourceShipper_java

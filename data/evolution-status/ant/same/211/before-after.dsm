@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 001000000
+000001000 0
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.condition.ConditionBase_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.condition.And_java

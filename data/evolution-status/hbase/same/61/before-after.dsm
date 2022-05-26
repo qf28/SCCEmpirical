@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Extend,Use,Create]
+5
+0 011011 0 0 0
+011000 0 010001 010001 011000
+011000 001000 0 0 010110
+011000 001000 0 0 010110
+011000 111000 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.TransitRegionStateProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.CloseRegionProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.OpenRegionProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.RegionRemoteProcedureBase_java

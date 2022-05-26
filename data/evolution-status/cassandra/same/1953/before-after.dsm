@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 100000
+010000 0
+src.java.org.apache.cassandra.service.reads.repair.AbstractReadRepair_java
+src.java.org.apache.cassandra.service.reads.repair.ReadRepairDiagnostics_java

@@ -1,0 +1,16 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+7
+0 0 0 0110010000 0 0 0
+0111001001 0 0 0110010000 0 0101001001 1110010001
+0 0 0 0110010000 0 0 0
+0 0 0 0 0 0111001000 0110000010
+0111001001 0 0101011011 0110010000 0 0101001001 1110010001
+0111001001 0100010001 0 0110010000 0 0 0110010001
+0 0111001001 0 0110010000 0111001001 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.NormalAnnotationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumConstantDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ASTHelper_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

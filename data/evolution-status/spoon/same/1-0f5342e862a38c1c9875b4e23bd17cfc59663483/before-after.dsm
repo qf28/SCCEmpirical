@@ -1,0 +1,6 @@
+[Import,Return]
+2
+0 11
+11 0
+src.main.java.spoon.reflect.reference.CtPackageReference_java
+src.main.java.spoon.reflect.declaration.CtPackage_java

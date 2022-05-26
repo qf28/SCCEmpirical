@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 01111110
+00010010 0
+src.java.main.org.apache.zookeeper.server.quorum.ReadOnlyZooKeeperServer_java
+src.java.main.org.apache.zookeeper.server.ZooKeeperServer_java

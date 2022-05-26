@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01010100
+00010000 0
+wicket-core.src.main.java.org.apache.wicket.ajax.markup.html.AjaxFallbackLink_java
+wicket-core.src.main.java.org.apache.wicket.ajax.calldecorator.CancelEventIfNoAjaxDecorator_java

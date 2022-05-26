@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01001100
+01000010 0
+src.java.org.apache.cassandra.cql3.selection.AggregateFunctionSelector_java
+src.java.org.apache.cassandra.cql3.selection.AbstractFunctionSelector_java

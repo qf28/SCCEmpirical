@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create,Implement]
+3
+0 110000 100000
+010100 0 010000
+010000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionServerServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HeapMemoryManager_java

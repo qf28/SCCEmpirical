@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create,Implement]
+3
+0 110100 0
+100100 0 110010
+101100 111000 0
+src.java.org.apache.cassandra.service.ActiveRepairService_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.repair.RepairRunnable_java

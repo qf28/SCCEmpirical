@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 110
+100 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.Memtable_java

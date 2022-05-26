@@ -1,0 +1,38 @@
+[Cast,Call,Typed,Import,Use,Create]
+18
+0 0 0 0 0 0 0 0 011000 0 0 011010 0 0 010010 111010 0 0
+0 0 0 0 111110 0 0 0 011010 000110 011101 010110 0 010110 0 0 0 0
+0 011000 0 0 010101 0 0 0 011010 0 0 010100 0 0 0 011011 000110 0
+0 011000 010010 0 0 011110 010100 0 011010 0 0 010110 0 0 000110 011000 0 0
+0 0 0 0 0 0 0 0 0 0 0 010100 0 0 0 0 0 0
+0 0 010010 0 0 0 0 0 000010 0 0 0 0 0 0 011011 0 0
+0 010000 010010 010000 0 0 0 0 0 0 0 000010 0 0 010110 011010 0 0
+0 0 0 0 0 0 0 0 011000 0 0 010100 0 0 0 0 0 0
+0 011010 0 0 0 001010 0 0 0 0 010000 010110 0 0 0 011000 0 0
+0 000100 0 0 0 0 0 0 000100 0 0 0 0 0 0 0 0 0
+0 011010 010000 0 0 0 0 0 0 0 0 0 0 010110 0 0 0 0
+010010 011010 010000 0 011111 001010 011001 0 011110 0 0 0 0 0 010100 0 0 000001
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011101 010100 0
+0 011010 0 0 011110 0 0 0 011010 0 010000 010110 0 0 0 0 0 0
+010100 0 0 0 0 0 0 0 0 0 0 001110 0 0 0 011100 0 0
+0 0 0 0 0 001110 0 0 010010 0 0 001110 0 0 000110 0 0 0
+010110 0 0 0 0 010000 0 000001 010000 0 0 010100 111000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 010100 0 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.db.DefsTable_java
+src.java.org.apache.cassandra.dht.Range_java
+src.java.org.apache.cassandra.config.KSMetaData_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.db.SliceByNamesReadCommand_java
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.service.CacheService_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexManager_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.cql.DeleteStatement_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.cql.QueryProcessor_java
+src.java.org.apache.cassandra.gms.GossipDigestSynVerbHandler_java

@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Modify]
+6
+0 0 0 011100111 0 0
+0 0 0 010100000 0 011100010
+0 0 0 011000010 0 0
+010000100 0 010000100 0 001000000 001110110
+0 0 0 011000010 0 0
+0 011000110 0 0 0 0
+src.java.main.org.apache.zookeeper.server.PrepRequestProcessor_java
+src.java.main.org.apache.zookeeper.server.quorum.FollowerHandler_java
+src.java.main.org.apache.zookeeper.server.SyncRequestProcessor_java
+src.java.main.org.apache.zookeeper.server.ZooKeeperServer_java
+src.java.main.org.apache.zookeeper.server.NIOServerCnxn_java
+src.java.main.org.apache.zookeeper.server.quorum.Leader_java

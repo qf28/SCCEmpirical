@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+8
+0 0 0 0 00010000 0 0 0
+00100000 0 0 0 0 0 0 0
+0 0 0 0 0 01010000 0 0
+0 01100010 0 0 0 0 0 0
+01110100 0 0 0 0 0 0 01110000
+0 0 0 00110100 0 0 00110000 01110101
+0 0 01110000 0 0 01010000 0 00110000
+0 0 01110100 0 0 0 01010110 0
+wicket.src.main.java.org.apache.wicket.ng.resource.Resource_java
+wicket.src.main.java.org.apache.wicket.ng.resource.ResourceReference_java
+wicket.src.main.java.org.apache.wicket.ng.request.handler.PageProvider_java
+wicket.src.main.java.org.apache.wicket.ng.resource.ResourceReferenceRegistry_java
+wicket.src.main.java.org.apache.wicket.ng.request.handler.resource.ResourceRequestHandler_java
+wicket.src.main.java.org.apache.wicket.ng.Application_java
+wicket.src.main.java.org.apache.wicket.ng.request.handler.impl.RenderPageRequestHandler_java
+wicket.src.main.java.org.apache.wicket.ng.request.cycle.RequestCycle_java

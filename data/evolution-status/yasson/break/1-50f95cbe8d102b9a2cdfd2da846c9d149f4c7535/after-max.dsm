@@ -1,0 +1,20 @@
+[Call,Import,Extend,Use,Create,Parameter,Contain]
+9
+0 0 0 0 0 0000010 0 1010000 0
+0 0 0 0 0 0000010 0 1010000 0
+0 0 0 0 0 0000010 0 1010000 0
+0 0 0 0 0 0000010 0 1010000 0
+0 0 0 0 0 0000010 0 1010000 0
+1000100 1000100 1000100 1000100 1000100 0 1000100 0 1000100
+0 0 0 0 0 0000010 0 1011000 0
+0 0 0 0 0 1000110 0 0 0
+0 0 0 0 0 0000010 0 1010000 0
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.FloatArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ByteArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.DoubleArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.IntArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ShortArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.UnmarshallerItemBuilder_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ObjectArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.AbstractArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.LongArrayItem_java

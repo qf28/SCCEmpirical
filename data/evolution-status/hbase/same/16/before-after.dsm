@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement]
+2
+0 01100000
+00100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionServerServices_java

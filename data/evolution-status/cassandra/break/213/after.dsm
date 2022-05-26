@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Use,Create]
+5
+0 0 0 0 0
+0 0 0 001000 0
+0 0 0 101000 0
+101001 111011 101001 0 101010
+0 0 0 101000 0
+src.org.apache.cassandra.locator.RackUnawareStrategy_java
+src.org.apache.cassandra.dht.Range_java
+src.org.apache.cassandra.locator.RackAwareStrategy_java
+src.org.apache.cassandra.service.StorageService_java
+src.org.apache.cassandra.db.SystemTable_java

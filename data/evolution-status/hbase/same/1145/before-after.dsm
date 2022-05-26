@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+7
+0 01100010 01100010 01000010 01010010 0 0
+01100100 0 01000000 0 0 01000010 0
+00100100 01000100 0 0 0 0 0
+00100000 0 0 0 0 0 0
+01110010 0 0 0 0 0 01110010
+00100000 0 0 0 0 0 0
+0 0 0 0 01010000 0 0
+src.java.org.apache.hadoop.hbase.master.HMaster_java
+src.java.org.apache.hadoop.hbase.master.ServerManager_java
+src.java.org.apache.hadoop.hbase.master.RegionManager_java
+src.java.org.apache.hadoop.hbase.master.ChangeTableState_java
+src.java.org.apache.hadoop.hbase.LocalHBaseCluster_java
+src.java.org.apache.hadoop.hbase.master.ProcessRegionClose_java
+src.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

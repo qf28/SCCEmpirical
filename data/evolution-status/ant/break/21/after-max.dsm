@@ -1,0 +1,10 @@
+[Call,Typed,Import,Create]
+4
+0 0 0010 0
+0 0 0010 0
+1111 1111 0 1111
+0 0 0010 0
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestSetElement_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestSetAttribute_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.DefaultConfigurerTestCase_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestIgnoreStringMethods_java

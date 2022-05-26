@@ -1,0 +1,6 @@
+[Call,Import,Use]
+2
+0 0
+110 0
+src.main.org.apache.tools.ant.ComponentHelper_java
+src.main.org.apache.tools.ant.taskdefs.Definer_java

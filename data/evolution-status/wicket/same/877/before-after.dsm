@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 0 0100100 0010000 0010000
+0 0 1110000 0 0
+1100000 0 0 0 0
+1010000 0110000 0 0 0
+1111100 0 0 1000010 0
+wicket.src.main.java.org.apache.wicket.Application_java
+wicket.src.main.java.org.apache.wicket.markup.html.WebPage_java
+wicket.src.main.java.org.apache.wicket.Component_java
+wicket.src.main.java.org.apache.wicket.protocol.http.WebSession_java
+wicket.src.main.java.org.apache.wicket.protocol.http.WebApplication_java

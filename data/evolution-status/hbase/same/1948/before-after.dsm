@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+2
+0 0111000100
+0001000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.compactions.Compactor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFile_java

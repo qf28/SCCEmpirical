@@ -1,0 +1,8 @@
+[Call,Import,Return,Extend,Use,Create,Contain]
+3
+0 0100100 1100010
+1101000 0 0
+0 1010001 0
+src.main.java.com.stripe.net.APIResource_java
+src.main.java.com.stripe.model.OrderItem_java
+src.main.java.com.stripe.model.OrderItemDeserializer_java

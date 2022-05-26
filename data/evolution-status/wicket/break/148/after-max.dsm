@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Implement]
+4
+0 0 000001 011000
+001100 0 0 010000
+0 0 0 011000
+0 000010 111010 0
+wicket.src.main.java.wicket.behavior.AbstractBehavior_java
+wicket.src.main.java.wicket.AttributeModifier_java
+wicket.src.main.java.wicket.behavior.IBehavior_java
+wicket.src.main.java.wicket.Component_java

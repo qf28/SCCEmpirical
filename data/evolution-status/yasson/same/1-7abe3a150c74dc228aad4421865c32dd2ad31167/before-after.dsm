@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Use,Create,Parameter,Contain]
+4
+0 01100001 0 0
+0 0 0 01011111
+10100010 01111011 0 0
+0 01011011 01100100 0
+src.main.java.org.eclipse.yasson.internal.Marshaller_java
+src.main.java.org.eclipse.yasson.internal.model.ClassModel_java
+src.main.java.org.eclipse.yasson.internal.serializer.AdaptedObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.model.PropertyModel_java

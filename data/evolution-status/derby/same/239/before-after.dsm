@@ -1,0 +1,38 @@
+[Cast,Call,Typed,Set,Extend,Use,Create]
+18
+0 0 0 0000010 1100010 0 1110000 0010000 0 0 0 0 0 0 0 1110010 0100000 0
+0010000 0 0 0100100 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0110000 0 0 0 1110010 0 0 0100000 0 0 0 0 0 0 0 0 0 0110110
+0110100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1110100 0 0 0000010 0 0 0 0110000 0 0 0 0 0 0 1110000 1100000 0 0
+0110100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1110100 0000010 0 1110010 1110010 0 0 0 0 0 0 0 0 0 0 0 0 0
+1110100 0 1110000 0000010 1110010 0 0 1110000 0 0 0 1110000 0 0 1110000 1110000 1110000 0
+1110100 0000010 0 1100010 0 0 0 0 0 0 0 0 0 1100000 0 0 0 0
+1110000 0 0 1110010 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1110000 0 0 0 1110010 0 0 0 0 0 1110000 0 0101100 0 0 1010010 0101010 0
+0110000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100110 0
+0110000 0 0 0101110 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1110000 0 0 0 0 0 0 0 1100010 1100000 0 0 0 0 0 0 0111110 0
+1110000 0 0 0 0 0 0 0 0 0 0 1100010 0101100 0 0 0 0101010 0
+1110000 0 0 0 0 0 0 0 0 0 0 0 0 1100010 0 0 0 0
+1110000 0000010 0 0 0 1010010 0 0 0 0 0 0 0 0 0 0 0 0
+java.engine.org.apache.derby.impl.sql.compile.ValueNode_java
+java.engine.org.apache.derby.impl.sql.compile.UntypedNullConstantNode_java
+java.engine.org.apache.derby.impl.sql.compile.UnaryComparisonOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.ConstantNode_java
+java.engine.org.apache.derby.impl.sql.compile.ColumnReference_java
+java.engine.org.apache.derby.impl.sql.compile.ParameterNode_java
+java.engine.org.apache.derby.impl.sql.compile.JavaValueNode_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumn_java
+java.engine.org.apache.derby.impl.sql.compile.SubqueryNode_java
+java.engine.org.apache.derby.impl.sql.compile.CastNode_java
+java.engine.org.apache.derby.impl.sql.compile.ValueNodeList_java
+java.engine.org.apache.derby.impl.sql.compile.OrNode_java
+java.engine.org.apache.derby.impl.sql.compile.BinaryLogicalOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.CharConstantNode_java
+java.engine.org.apache.derby.impl.sql.compile.BinaryComparisonOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.AndNode_java
+java.engine.org.apache.derby.impl.sql.compile.BinaryOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.UnaryOperatorNode_java

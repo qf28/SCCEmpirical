@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 1110010 0 0
+0100001 0 1110011 0100001
+0 1110000 0 0
+0 1110000 0010000 0
+wicket.src.java.wicket.protocol.http.portlet.PortletSessionStore_java
+wicket.src.java.wicket.protocol.http.portlet.PortletApplication_java
+wicket.src.java.wicket.protocol.http.portlet.WicketPortletSession_java
+wicket.src.java.wicket.protocol.http.portlet.PortletRenderRequestCycle_java

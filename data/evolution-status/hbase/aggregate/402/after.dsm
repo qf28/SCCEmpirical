@@ -1,0 +1,6 @@
+[Call,Use]
+2
+0 01
+10 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionFactory_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionManager_java

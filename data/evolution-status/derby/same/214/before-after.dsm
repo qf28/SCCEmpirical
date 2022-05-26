@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+2
+0 0110000
+1110000 0
+java.engine.org.apache.derby.impl.sql.compile.GroupByList_java
+java.engine.org.apache.derby.impl.sql.compile.SelectNode_java

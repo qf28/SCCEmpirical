@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01000000
+01000100 0
+wicket-extensions.src.main.java.org.apache.wicket.extensions.ajax.markup.html.form.upload.MultipartRequest_java
+wicket-extensions.src.main.java.org.apache.wicket.extensions.ajax.markup.html.form.upload.UploadWebRequest_java

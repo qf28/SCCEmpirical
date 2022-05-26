@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+3
+0 0001001 0
+0111000 0 0
+0011000 0010000 0
+src.java.org.apache.cassandra.cql3.ColumnIdentifier_java
+src.java.org.apache.cassandra.cql3.statements.Selectable_java
+src.java.org.apache.cassandra.cql3.statements.RawSelector_java

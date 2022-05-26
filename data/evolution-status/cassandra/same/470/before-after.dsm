@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Extend,Use,Create,Implement]
+2
+0 01100110
+00000100 0
+src.java.org.apache.cassandra.hints.HintsService_java
+src.java.org.apache.cassandra.hints.HintsDispatchExecutor_java

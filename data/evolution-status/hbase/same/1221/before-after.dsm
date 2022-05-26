@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create,Implement]
+2
+0 10000
+11110 0
+src.main.java.org.apache.hadoop.hbase.rest.ScannerInstanceResource_java
+src.main.java.org.apache.hadoop.hbase.rest.ScannerResource_java

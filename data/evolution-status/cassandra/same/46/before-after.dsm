@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01000010
+11000000 0
+src.java.org.apache.cassandra.db.index.keys.KeysIndex_java
+src.java.org.apache.cassandra.db.index.keys.KeysSearcher_java

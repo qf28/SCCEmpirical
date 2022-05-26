@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 001000
+111010 0
+src.java.org.apache.hadoop.hbase.KeyValue_java
+src.java.org.apache.hadoop.hbase.io.hfile.HFile_java

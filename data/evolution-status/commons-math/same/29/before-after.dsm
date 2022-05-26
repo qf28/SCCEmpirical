@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 11100010
+01100010 0
+src.main.java.org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet_java
+src.main.java.org.apache.commons.math3.geometry.euclidean.oned.OrientedPoint_java

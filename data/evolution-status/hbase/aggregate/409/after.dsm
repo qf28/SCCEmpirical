@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 01101
+11010 0
+src.main.java.org.apache.hadoop.hbase.regionserver.PriorityCompactionQueue_java
+src.main.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java

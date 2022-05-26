@@ -1,0 +1,6 @@
+[Use,Implement]
+2
+0 10
+01 0
+src.main.org.apache.tools.ant.types.ResourceCollection_java
+src.main.org.apache.tools.ant.types.Resource_java

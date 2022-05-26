@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+8
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+src.org.apache.pig.backend.hadoop.executionengine.POMapreduce_java
+src.org.apache.pig.backend.local.executionengine.POSplit_java
+src.org.apache.pig.backend.local.executionengine.POUnion_java
+src.org.apache.pig.backend.local.executionengine.POStore_java
+src.org.apache.pig.backend.local.executionengine.POSort_java
+src.org.apache.pig.backend.local.executionengine.POEval_java
+src.org.apache.pig.backend.local.executionengine.POCogroup_java
+src.org.apache.pig.backend.local.executionengine.POLoad_java

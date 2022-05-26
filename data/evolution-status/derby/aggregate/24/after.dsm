@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01101100
+01100010 0
+java.engine.org.apache.derby.impl.sql.compile.OffsetOrderVisitor_java
+java.engine.org.apache.derby.impl.sql.compile.QueryTreeNode_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 11110
+01101 0
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.GenericDeploymentTool_java
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.EjbJar_java

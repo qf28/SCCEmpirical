@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 10000 0
+11011 0 10000
+00010 0 0
+client.src.main.java.org.apache.ambari.common.rest.entities.Node_java
+client.src.main.java.org.apache.ambari.common.rest.entities.Clusters_java
+client.src.main.java.org.apache.ambari.common.rest.entities.Nodes_java

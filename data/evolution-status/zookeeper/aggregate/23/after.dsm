@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+4
+0 0110010 0110010 0110010
+0110100 0 0 0
+0000100 0 0 0
+0110100 0 0 0
+src.java.main.org.apache.jute.compiler.JFile_java
+src.java.main.org.apache.jute.compiler.CppGenerator_java
+src.java.main.org.apache.jute.compiler.JavaGenerator_java
+src.java.main.org.apache.jute.compiler.CGenerator_java

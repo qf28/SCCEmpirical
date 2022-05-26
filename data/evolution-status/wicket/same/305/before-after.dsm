@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+3
+0 0 0011000
+0 0 0111000
+0111000 1101110 0
+wicket.src.main.java.wicket.request.IRequestCodingStrategy_java
+wicket.src.main.java.wicket.request.target.component.BookmarkablePageRequestTarget_java
+wicket.src.main.java.wicket.RequestCycle_java

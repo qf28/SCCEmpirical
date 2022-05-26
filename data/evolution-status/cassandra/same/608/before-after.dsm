@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0010000 0
+0000010 0 0000010
+0 0010000 0
+src.java.org.apache.cassandra.db.filter.ClusteringIndexSliceFilter_java
+src.java.org.apache.cassandra.db.filter.ClusteringIndexFilter_java
+src.java.org.apache.cassandra.db.filter.ClusteringIndexNamesFilter_java

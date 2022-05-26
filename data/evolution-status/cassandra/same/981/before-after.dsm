@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 011011
+000010 0
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.db.RowMutation_java

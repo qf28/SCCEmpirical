@@ -1,0 +1,8 @@
+[Call,Import,Return,Use,Create,Contain]
+3
+0 0 000100
+100011 0 0
+011000 010100 0
+javaparser-core.src.main.java.com.github.javaparser.metamodel.UnparsableStmtMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.UnparsableStmt_java

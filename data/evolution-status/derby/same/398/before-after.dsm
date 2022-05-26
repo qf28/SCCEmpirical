@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Throw,Create]
+10
+0 0 0 0 0 011000001 011100000 011000100 0 0
+0 0 0 111100000 0 0 0 0 0 0
+0 0 0 0 010011100 0 001100000 001000000 0 0
+0 010100000 001100100 0 001100100 0 011100000 010111100 0 001100000
+0 010100000 0 0 0 0 011100000 001000000 011000101 0
+011000000 0 0 0 0 0 0 0 0 110000000
+011100000 010100000 0 0 0 0 0 011100100 0 0
+0 0 001000000 0 111000100 0 0 0 0 001000100
+0 0 0 0 111000100 0 0 011000100 0 0
+0 0 0 0 111000000 0 0 011010100 111000000 0
+java.client.org.apache.derby.client.am.LogicalConnection_java
+java.client.org.apache.derby.jdbc.ClientDriver_java
+java.client.org.apache.derby.client.am.ClientCallableStatement_java
+java.client.org.apache.derby.client.net.NetConnection_java
+java.client.org.apache.derby.client.am.ClientPreparedStatement_java
+java.client.org.apache.derby.client.am.LogicalDatabaseMetaData_java
+java.client.org.apache.derby.client.ClientPooledConnection_java
+java.client.org.apache.derby.client.am.ClientConnection_java
+java.client.org.apache.derby.client.am.ClientResultSet_java
+java.client.org.apache.derby.client.am.ClientDatabaseMetaData_java

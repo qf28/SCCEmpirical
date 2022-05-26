@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 011100000
+010100000 0
+src.java.org.apache.cassandra.utils.CLibrary_java
+src.java.org.apache.cassandra.io.util.BufferedRandomAccessFile_java

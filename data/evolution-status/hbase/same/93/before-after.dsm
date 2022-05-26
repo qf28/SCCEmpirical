@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 010000010 0 010000010
+001100010 0 0 010000010 0
+0 111000100 0 0 0
+0 111000100 0 0 0
+0 111000000 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.mob.MobStoreEngine_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HMobStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.mob.DefaultMobCompactor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ReversedMobStoreScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.mob.DefaultMobStoreFlusher_java

@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Use]
+2
+0 0
+1000 0
+wicket.src.java.wicket.RequestCycle_java
+wicket.src.java.wicket.RedirectException_java

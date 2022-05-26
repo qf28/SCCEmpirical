@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0 0
+0100110 0 0 0
+0001010 0001000 0 0
+0 0 0110011 0
+src.java.org.apache.cassandra.locator.AbstractReplicationStrategy_java
+src.java.org.apache.cassandra.locator.NetworkTopologyStrategy_java
+src.java.org.apache.cassandra.config.KSMetaData_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

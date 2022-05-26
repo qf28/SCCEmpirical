@@ -1,0 +1,6 @@
+[Call,Import,Create]
+2
+0 101
+100 0
+java.testing.org.apache.derbyTesting.perf.clients.Runner_java
+java.testing.org.apache.derbyTesting.perf.clients.GroupByClient_java

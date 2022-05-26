@@ -1,0 +1,24 @@
+[Cast,Call,Typed,Extend,Throw]
+11
+0 00100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 00100 0 0 0
+0 00100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 00100 0 0 0
+00100 00100 00100 0 0 0 00100 00100 00100 0 00100
+0 00100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 00100 0
+0 00100 0 0 00100 0 0 0 0 0 0
+0 0 0 00100 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 00100 0 0 0
+0 0 0 0 0 00100 0 0 0 0 0
+java.stubs.felix.org.osgi.framework.Filter_java
+java.stubs.felix.org.osgi.framework.ServiceReference_java
+java.stubs.felix.org.osgi.framework.ServiceRegistration_java
+java.stubs.felix.org.osgi.framework.BundleEvent_java
+java.stubs.felix.org.osgi.framework.BundleContext_java
+java.stubs.felix.org.osgi.framework.ServiceEvent_java
+java.stubs.felix.org.osgi.framework.FrameworkListener_java
+java.stubs.felix.org.osgi.framework.Bundle_java
+java.stubs.felix.org.osgi.framework.BundleListener_java
+java.stubs.felix.org.osgi.framework.FrameworkEvent_java
+java.stubs.felix.org.osgi.framework.ServiceListener_java

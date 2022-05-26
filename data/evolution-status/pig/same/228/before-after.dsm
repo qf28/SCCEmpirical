@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+2
+0 00000110
+00010010 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapReduce_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapBase_java

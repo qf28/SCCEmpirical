@@ -1,0 +1,6 @@
+[Call,Return,Import,Create,Use,Contain]
+2
+0 110111
+000001 0
+src.main.java.com.stripe.net.RequestMetrics_java
+src.main.java.com.stripe.net.ClientTelemetryPayload_java

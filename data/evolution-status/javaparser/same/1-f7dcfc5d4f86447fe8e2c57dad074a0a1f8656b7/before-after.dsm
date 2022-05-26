@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 0000100000
+0001000000 0
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.TypeParameterDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.TypeDeclaration_java

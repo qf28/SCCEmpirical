@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+9
+0 0 0 0 0 0 01110010 0 0
+0 0 0 01110010 01100010 01100010 01110010 01100110 01110110
+01100110 0 0 0 0 01110010 00110010 0 0
+0 0 0 0 0 01110010 0 00110010 0
+0 01110000 0 0 0 01110010 0 00110000 0
+11100010 00100010 0 0 0 0 00010000 0 01110010
+00000010 0 0 0 0 01110010 0 0 0
+0 01100010 01110100 0 0 00110000 01111010 0 0
+0 01110010 0 01110110 0 01110010 00110000 01110110 0
+src.java.org.apache.cassandra.io.sstable.metadata.StatsMetadata_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.io.sstable.metadata.MetadataCollector_java
+src.java.org.apache.cassandra.db.lifecycle.View_java
+src.java.org.apache.cassandra.db.compaction.AbstractCompactionStrategy_java
+src.java.org.apache.cassandra.io.sstable.format.SSTableReader_java
+src.java.org.apache.cassandra.db.commitlog.ReplayPosition_java
+src.java.org.apache.cassandra.db.Memtable_java
+src.java.org.apache.cassandra.db.lifecycle.Tracker_java

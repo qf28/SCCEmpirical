@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create]
+3
+0 0 10001
+10100 0 0
+11000 10101 0
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.pageStore.DiskDataStore_java
+wicket-core.src.main.java.org.apache.wicket.DefaultPageManagerProvider_java

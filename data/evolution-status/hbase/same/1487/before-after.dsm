@@ -1,0 +1,12 @@
+[Call,Typed,Import,Create,Use]
+5
+0 0 10100 0 0
+0 0 10100 11011 11001
+0 0 0 0 00100
+0 0 10100 0 10000
+11111 11011 10100 11001 0
+src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLog_java
+src.main.java.org.apache.hadoop.hbase.regionserver.Store_java
+src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+src.main.java.org.apache.hadoop.hbase.regionserver.StoreFile_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

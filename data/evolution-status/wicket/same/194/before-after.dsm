@@ -1,0 +1,6 @@
+[Call,Typed,Import,Implement]
+2
+0 0011
+0010 0
+wicket.src.main.java.org.apache.wicket.Component_java
+wicket.src.main.java.org.apache.wicket.request.component.IRequestableComponent_java

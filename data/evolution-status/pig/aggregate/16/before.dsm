@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+6
+0 01100001 0 0 0 0
+00100000 0 00100000 00100000 0 0
+0 01100001 0 0 0 0
+0 01100001 0 0 0 0
+0 01100001 0 0 0 0
+0 01100001 0 0 0 0
+src.org.apache.pig.impl.logicalLayer.LOSort_java
+src.org.apache.pig.impl.logicalLayer.TopLevelProjectFinder_java
+src.org.apache.pig.impl.logicalLayer.LOFilter_java
+src.org.apache.pig.impl.logicalLayer.LOForEach_java
+src.org.apache.pig.impl.logicalLayer.LOCogroup_java
+src.org.apache.pig.impl.logicalLayer.LOSplitOutput_java

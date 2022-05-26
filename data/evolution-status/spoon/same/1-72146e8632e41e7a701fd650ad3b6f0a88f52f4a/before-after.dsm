@@ -1,0 +1,6 @@
+[Call,Create,Use,Contain]
+2
+0 1100
+0011 0
+src.main.java.spoon.support.compiler.jdt.JDTBasedSpoonCompiler_java
+src.main.java.spoon.support.compiler.jdt.FileCompilerConfig_java

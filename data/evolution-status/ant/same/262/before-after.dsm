@@ -1,0 +1,8 @@
+[Call,Typed,Set,Extend,Create,Use]
+3
+0 100101 100000
+000010 0 110001
+0 110000 0
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.optional.junit.Xalan2Executor_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.optional.junit.XalanExecutor_java
+proposal.myrmidon.src.main.org.apache.tools.ant.taskdefs.optional.junit.AggregateTransformer_java

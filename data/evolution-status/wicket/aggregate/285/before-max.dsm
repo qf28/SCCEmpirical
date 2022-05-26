@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Implement]
+2
+0 0001000
+0001001 0
+jdk-1_4.wicket.src.main.java.wicket.IConverterLocator_java
+jdk-1_4.wicket.src.main.java.wicket.util.convert.ConverterLocator_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 010101001
+110000100 0
+src.main.org.apache.tools.bzip2.BlockSort_java
+src.main.org.apache.tools.bzip2.CBZip2OutputStream_java

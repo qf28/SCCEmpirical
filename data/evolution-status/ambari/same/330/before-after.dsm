@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Create]
+2
+0 1001
+1010 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.gsinstaller.GSInstallerResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.gsinstaller.GSInstallerNoOpProvider_java

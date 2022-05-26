@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Use]
+3
+0 0 11100
+11100 0 00001
+0 00001 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.PrerequisiteCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.HostsHeartbeatCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.CheckDescription_java

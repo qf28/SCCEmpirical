@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+9
+0 0101100 0110000 0010000 0 0 0011000 0 0110000
+0011000 0 0011000 0 0 0011000 0011000 0 0011000
+0010000 0 0 0010000 0110000 0110000 0 0 1110010
+0 0 0 0 0 0010000 0 0 0
+0 0 0 0 0 0 0 0 0010000
+0010000 0101100 0110000 1110000 0 0 0111100 0 0110000
+0111000 0 0 0 0 0 0 0101000 0
+0111000 0 0111010 0011000 0 0111000 0111100 0 0111010
+0010000 0 1110011 0 0 0110000 0111000 0 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.RequestListenerInterface_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.request.target.component.listener.ListenerInterfaceRequestTarget_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Component_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.IRequestTarget_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.IPageFactory_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.RequestCycle_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.request.RequestParameters_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.request.WebRequestCodingStrategy_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Page_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create]
+3
+0 1110 0110
+0 0 1100
+1011 1100 0
+wicket.src.main.java.org.apache.wicket.request.target.component.listener.BehaviorRequestTarget_java
+wicket.src.main.java.org.apache.wicket.Component_java
+wicket.src.main.java.org.apache.wicket.RequestCycle_java

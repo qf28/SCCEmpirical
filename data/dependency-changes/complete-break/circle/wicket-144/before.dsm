@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create]
+3
+0 11111 01001
+00010 0 0
+0 11110 0
+wicket.src.java.wicket.markup.html.debug.LiveSessionsPage_java
+wicket.src.java.wicket.protocol.http.RequestLogger_java
+wicket.src.java.wicket.markup.html.debug.RequestsPage_java

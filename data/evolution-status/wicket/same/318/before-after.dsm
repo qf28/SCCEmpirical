@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0110010
+0110000 0
+wicket-core.src.main.java.org.apache.wicket.util.io.WicketObjectOutputStream_java
+wicket-core.src.main.java.org.apache.wicket.util.io.ClassStreamHandler_java

@@ -1,0 +1,34 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+16
+0 110100010 010001000 0 0 0 011100000 0 0 0 0 000000001 0 0 0 0
+0 0 0 011100000 111000010 010101100 011100010 0 000100010 010101000 0 0 0 0 0 010101000
+0 0 0 111000010 0 0 011100000 0 0 0 0 0 0 0 010001000 0
+0 0 0 0 0 0 001100000 0 0 0 0 0 0 0 0 0
+0 111000011 0 001100000 0 010100000 111100011 011100000 011100000 010101000 0 0 0 0 0 0
+0 0 0 001000000 0 0 001100000 0 0 0 0 0 010001000 0 0 0
+000100010 0 0 011100000 0 0 0 111000010 111000010 0 0 000100010 0 0 0 000000010
+0 0 0 001100000 0 0 111011111 0 011000000 0 0 000100010 0 0 0 0
+0 0 0 001100000 111100010 0 011000011 111001010 0 0 010100100 0 0 011100000 0 0
+0 0 0 001100000 0 0 010100000 010101000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 001100000 0 001100000 0 0 0 0 000100001 0 0
+0 0 0 000001000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 001000001 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 001100000 0 001100000 0 0 0 0 0 0 0
+0 0 0 001000001 0 0 001100000 0 0 0 0 0 0 0 0 0
+0 0 0 011100000 0 0 001000000 0 0 0 0 0 0 0 0 0
+wicket.src.java.wicket.model.CompoundPropertyModel_java
+wicket.src.java.wicket.markup.html.form.FormComponent_java
+wicket.src.java.wicket.model.AbstractPropertyModel_java
+wicket.src.java.wicket.model.IModel_java
+wicket.src.java.wicket.markup.html.form.Form_java
+wicket.src.java.wicket.model.Model_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.MarkupContainer_java
+wicket.src.java.wicket.Page_java
+wicket.src.java.wicket.markup.html.WebMarkupContainer_java
+wicket.src.java.wicket.version.undo.UndoPageVersionManager_java
+wicket.src.java.wicket.model.ICompoundModel_java
+wicket.src.java.wicket.model.AbstractModel_java
+wicket.src.java.wicket.version.IPageVersionManager_java
+wicket.src.java.wicket.model.AbstractDetachableModel_java
+wicket.src.java.wicket.AttributeModifier_java

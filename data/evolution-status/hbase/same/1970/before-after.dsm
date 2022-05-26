@@ -1,0 +1,6 @@
+[Call,Import,Create]
+2
+0 100
+100 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.PrivateCellUtil_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.CellUtil_java

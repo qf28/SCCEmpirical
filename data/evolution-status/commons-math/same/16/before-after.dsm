@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Extend,Create,Use,Implement]
+7
+0 0110100 0 0 0100100 0 0100100
+0100000 0 0101000 0 0 0 0
+0100000 0 0 0 1100100 0 0
+0 0000100 0 0 1100110 0100100 0
+0100000 0 0 0111000 0 0 0
+0100000 0 0101000 0 0 0 0110100
+0100000 0 0101000 0 1100100 0 0
+src.main.java.org.apache.commons.math.linear.MatrixUtils_java
+src.main.java.org.apache.commons.math.linear.Array2DRowRealMatrix_java
+src.main.java.org.apache.commons.math.linear.AbstractRealMatrix_java
+src.main.java.org.apache.commons.math.linear.AbstractRealVector_java
+src.main.java.org.apache.commons.math.linear.ArrayRealVector_java
+src.main.java.org.apache.commons.math.linear.OpenMapRealMatrix_java
+src.main.java.org.apache.commons.math.linear.BlockRealMatrix_java

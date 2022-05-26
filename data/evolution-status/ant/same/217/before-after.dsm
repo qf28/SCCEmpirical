@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Throw,Use,Create,Implement]
+2
+0 000000100
+011000000 0
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.antlib.AntLibrarySpec_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.antlib.AntLibrary_java

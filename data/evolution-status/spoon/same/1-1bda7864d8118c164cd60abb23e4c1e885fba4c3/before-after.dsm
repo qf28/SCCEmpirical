@@ -1,0 +1,6 @@
+[Call,Import,Create,Use,Contain]
+2
+0 00010
+10010 0
+src.main.java.spoon.reflect.visitor.CommentHelper_java
+src.main.java.spoon.reflect.visitor.DefaultJavaPrettyPrinter_java

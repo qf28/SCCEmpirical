@@ -1,0 +1,6 @@
+[Call,Typed]
+2
+0 10
+11 0
+src.java.org.apache.cassandra.cql3.QueryOptions_java
+src.java.org.apache.cassandra.cql3.Json_java

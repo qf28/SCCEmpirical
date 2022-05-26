@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 110000100 011000000 0 0
+011000101 0 0 0 0
+011100100 0 0 0 000100000
+0 0 0 0 011000100
+011100110 0 0 010000000 0
+src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLog_java
+src.main.java.org.apache.hadoop.hbase.regionserver.wal.SequenceFileLogWriter_java
+src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogSplitter_java
+src.main.java.org.apache.hadoop.hbase.regionserver.SplitTransaction_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

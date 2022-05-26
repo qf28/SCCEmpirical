@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+10
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0101000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0111000 0 0 0 0 1100000 0 0 0 0
+0001100 0000001 0100010 0 0 0 0 0110000 0 0
+0111000 0 0 0 0 1100001 0 0 0 0
+0 0000001 0 0110000 0000010 0100010 0100010 0 0 0
+0101010 0 0 0111010 0 0 0 0111010 0 0000010
+0 0 0 0 0 0 0 0 0110001 0
+wicket.src.main.java.org.apache.wicket.RequestContext_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.WicketPortlet_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.EmbeddedPortletHeaderResponse_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.FilterRequestContext_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.PortletInvalidMarkupFilter_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.PortletRequestContext_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.PortletRenderServletResponseWrapper_java
+wicket.src.main.java.org.apache.wicket.protocol.http.portlet.WicketFilterPortletContext_java
+wicket.src.main.java.org.apache.wicket.protocol.http.WicketFilter_java
+wicket.src.main.java.org.apache.wicket.protocol.http.ContextParamWebApplicationFactory_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 100001
+000010 0
+src.org.apache.pig.impl.logicalLayer.optimizer.LogicalOptimizer_java
+src.org.apache.pig.impl.logicalLayer.optimizer.TypeCastInserter_java

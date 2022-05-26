@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01000000
+01100110 0
+java.tools.org.apache.derby.impl.tools.ij.AttributeHolder_java
+java.tools.org.apache.derby.impl.tools.ij.URLCheck_java

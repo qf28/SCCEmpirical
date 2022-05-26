@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+5
+0 0000000010 0000000010 0001000010 0011000000
+0 0 0 0 0011000010
+0 0 0 0 0010000010
+0001000000 0 0 0 0
+0011000000 0 0 0 0
+src.main.java.spoon.reflect.declaration.CtModule_java
+src.main.java.spoon.reflect.declaration.CtModuleRequirement_java
+src.main.java.spoon.reflect.declaration.CtPackageExport_java
+src.main.java.spoon.reflect.declaration.CtPackage_java
+src.main.java.spoon.reflect.reference.CtModuleReference_java

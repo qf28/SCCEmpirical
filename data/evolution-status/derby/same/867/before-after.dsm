@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create]
+2
+0 011000
+010001 0
+java.engine.org.apache.derby.impl.jdbc.LOBInputStream_java
+java.engine.org.apache.derby.impl.jdbc.LOBStreamControl_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use]
+2
+0 001001
+111000 0
+src.main.org.apache.tools.ant.FileUtils_java
+src.main.org.apache.tools.ant.Project_java

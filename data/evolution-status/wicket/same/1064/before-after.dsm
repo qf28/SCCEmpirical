@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use]
+3
+0 0011 0
+1110 0 0011
+0 0011 0
+wicket-core.src.main.java.org.apache.wicket.MarkupContainer_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.border.Border_java
+wicket-core.src.main.java.org.apache.wicket.markup.parser.filter.WicketTagIdentifier_java

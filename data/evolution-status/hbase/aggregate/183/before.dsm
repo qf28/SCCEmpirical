@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Create]
+3
+0 1100 0
+0111 0 0
+0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.HBaseFsckRepair_java

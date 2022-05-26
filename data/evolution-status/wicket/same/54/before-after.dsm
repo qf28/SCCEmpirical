@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0011000
+0111000 0
+wicket.src.java.wicket.request.IRequestCodingStrategy_java
+wicket.src.java.wicket.RequestCycle_java

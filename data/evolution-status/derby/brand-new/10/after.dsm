@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 00100000
+00100000 0
+java.engine.org.apache.derby.impl.sql.compile.WindowDefinitionNode_java
+java.engine.org.apache.derby.impl.sql.compile.WindowList_java

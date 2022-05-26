@@ -1,0 +1,8 @@
+[Cast,Call,Return,Import,Create,Use,Parameter,Contain]
+3
+0 01001000 01001000
+01000100 0 01001100
+01000100 01001000 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistUtils_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistMethodDeclaration_java

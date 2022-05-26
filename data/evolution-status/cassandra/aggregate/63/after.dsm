@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+4
+0 001000010 011000100 111100000
+010100000 0 0 101100000
+011000010 0 0 010000000
+010100000 0 0 0
+src.java.org.apache.cassandra.db.view.View_java
+src.java.org.apache.cassandra.config.ViewDefinition_java
+src.java.org.apache.cassandra.db.view.ViewBuilder_java
+src.java.org.apache.cassandra.cql3.statements.SelectStatement_java

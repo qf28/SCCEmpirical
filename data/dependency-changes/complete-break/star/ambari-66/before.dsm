@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create]
+4
+0 100001 100001 100001
+100100 0 0 0
+100100 0 0 0
+100100 0 0 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.AbstractControllerResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.AlertTargetResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.AlertDefinitionResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.AlertGroupResourceProvider_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 01100100 0 00000001
+00000010 0 11000100 11100000
+0 0 0 00001000
+0 00100000 0 0
+wicket-core.src.main.java.org.apache.wicket.protocol.http.ContextParamWebApplicationFactory_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.WicketFilter_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.IDestroyableWebApplicationFactory_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.IWebApplicationFactory_java

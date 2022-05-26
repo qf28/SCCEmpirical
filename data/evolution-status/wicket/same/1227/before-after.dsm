@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 10001
+11000 0
+wicket-core.src.main.java.org.apache.wicket.markup.html.list.ListView_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.list.ListItemModel_java

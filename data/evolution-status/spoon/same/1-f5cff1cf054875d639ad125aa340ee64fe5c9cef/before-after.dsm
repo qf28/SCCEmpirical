@@ -1,0 +1,6 @@
+[Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+2
+0 100011001
+100001011 0
+src.main.java.spoon.support.compiler.jdt.JDTTreeBuilder_java
+src.main.java.spoon.support.compiler.jdt.ParentExiter_java

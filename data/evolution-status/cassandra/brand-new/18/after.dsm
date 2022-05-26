@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+4
+0 0100011000 0 0011000000
+0 0 0 0011000000
+0 0100011000 0 0011000000
+0101000100 0111000000 0101000100 0
+src.java.org.apache.cassandra.index.sasi.sa.IntegralSA_java
+src.java.org.apache.cassandra.index.sasi.sa.SA_java
+src.java.org.apache.cassandra.index.sasi.sa.SuffixSA_java
+src.java.org.apache.cassandra.index.sasi.disk.OnDiskIndexBuilder_java

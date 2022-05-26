@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+5
+0 0110000 0000100 0 0
+0110110 0 0110100 0110110 0
+0110000 1110010 0 0110000 0100010
+0 0110100 0100100 0 0
+0 0 0110000 0 0
+java.drda.org.apache.derby.impl.drda.DDMWriter_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java
+java.drda.org.apache.derby.impl.drda.NetworkServerControlImpl_java
+java.drda.org.apache.derby.impl.drda.DDMReader_java
+java.drda.org.apache.derby.impl.drda.NetworkServerMBeanImpl_java

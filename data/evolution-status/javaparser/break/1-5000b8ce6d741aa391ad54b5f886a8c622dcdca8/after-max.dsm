@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Create,Use,Implement,Parameter]
+2
+0 11000100
+00000001 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.core.resolution.Context_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.core.resolution.TypeVariableResolutionCapability_java

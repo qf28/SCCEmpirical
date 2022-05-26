@@ -1,0 +1,34 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement]
+16
+0 001000100 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 001000000 0 0 0 0
+0 000010100 0 111010100 0 0 0 010010010 0 011000100 010000000 011000000 0 010000000 0 010000000
+0 011000101 0 0 0 0 0 0 011000000 100000100 0 011000010 010000000 0 0 0
+010000000 0 0 111010000 0 0 010000000 0 011010010 0 0 0 0 0 0 0
+0 0 000000100 011000100 0 0 0 0 0 011000100 0 0 0 0 0 010000000
+000001000 0 0 001000000 0 0 0 0 0 0 0 0 0 0 0 0
+010000000 000010000 0 011010000 0 0 010000000 0 011010010 0 0 0 0 0 0 0
+0 0 0 001000100 0 0 000001000 0 0 0 0 0 001000000 001000000 0 0
+0 011000000 011000110 111000100 011010010 010000010 0 0 011000011 0 011000010 010000000 011000000 011000010 011000010 011000010
+010000000 0 0 111000000 0 0 0 0 011000000 0 0 0 011000000 0 0 0
+0 011010000 0 011000000 0 0 0 0 001000000 0 0 0 0 0 0 0
+0 0 0 001000000 0 0 0 0 0 0 0 0 0 0 0 0
+0 011000000 0 011010001 0 0 0 0 0 0 0 010000000 0 0 0 0
+010000000 0 0 011000100 0 0 0 0 011000000 0 0 0 0 0 0 0
+0 011000100 0 111010100 0 0 0 0 0 011000100 0 0 000000001 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ImmutableOnlineRegions_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Region_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.handler.CloseRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionServerWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.OnlineRegions_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.handler.OpenRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionServerServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.LogRoller_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionCoprocessorHost_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.FlushRequester_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SecureBulkLoadManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactedHFilesDischarger_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreFlusher_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+3
+0 001000000 0
+0 0 001000000
+000000100 0 0
+ambari-server.src.main.java.org.apache.ambari.server.topology.TopologyValidator_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.ClusterTopology_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.TopologyRequest_java

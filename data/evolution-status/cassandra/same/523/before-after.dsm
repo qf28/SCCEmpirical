@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use]
+2
+0 0011
+1111 0
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.tracing.Tracing_java

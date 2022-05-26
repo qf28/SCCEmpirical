@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 0 10010
+0 0 10010
+11001 11001 0
+java.optional.org.apache.derby.optional.lucene.LuceneListIndexesVTI_java
+java.optional.org.apache.derby.optional.lucene.LuceneQueryVTI_java
+java.optional.org.apache.derby.optional.lucene.LuceneSupport_java

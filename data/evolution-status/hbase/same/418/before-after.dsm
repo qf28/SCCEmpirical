@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Create]
+5
+0 01110 0 0 0
+01011 0 01101 01100 0
+0 0 0 01100 0
+0 0 0 0 11000
+0 01101 01100 01101 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.OpenedRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.RegionStates_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Modify]
+2
+0 011000000
+011000100 0
+src.contrib.zooinspector.src.java.org.apache.zookeeper.inspector.gui.ZooInspectorConnectionPropertiesDialog_java
+src.contrib.zooinspector.src.java.org.apache.zookeeper.inspector.gui.ZooInspectorPanel_java

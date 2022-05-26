@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 011100010 011100000 0 011100100
+001000100 0 011000100 011000100 0
+011100100 0 0 001000000 0
+001000000 001000100 0 0 0
+011000000 0 0 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexManager_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexSearcher_java
+src.java.org.apache.cassandra.db.filter.ExtendedFilter_java

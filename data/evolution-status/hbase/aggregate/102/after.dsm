@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement,Modify]
+2
+0 0000001000
+0110011000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Segment_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ImmutableSegment_java

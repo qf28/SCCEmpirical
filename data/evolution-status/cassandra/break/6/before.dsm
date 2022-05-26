@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 11000000
+11000010 0
+src.java.org.apache.cassandra.db.commitlog.CommitLogHeader_java
+src.java.org.apache.cassandra.db.commitlog.CommitLogSegment_java

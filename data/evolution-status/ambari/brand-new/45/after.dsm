@@ -1,0 +1,10 @@
+[Call,Typed,Import,Create,Use]
+4
+0 0 10100 0
+00100 0 00100 0
+0 10100 0 10100
+00100 0 00100 0
+contrib.views.hueambarimigration.src.main.java.org.apache.ambari.view.huetoambarimigration.controller.configurationcheck.ConfigurationCheck_java
+contrib.views.hueambarimigration.src.main.java.org.apache.ambari.view.huetoambarimigration.datasource.DataSourceAmbariDatabase_java
+contrib.views.hueambarimigration.src.main.java.org.apache.ambari.view.huetoambarimigration.service.configurationcheck.ConfFileReader_java
+contrib.views.hueambarimigration.src.main.java.org.apache.ambari.view.huetoambarimigration.datasource.DataSourceHueDatabase_java

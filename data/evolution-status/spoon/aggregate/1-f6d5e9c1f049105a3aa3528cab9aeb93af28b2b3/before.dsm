@@ -1,0 +1,10 @@
+[Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+4
+0 0 0 0
+0 0 0 0
+110010001 100010000 0 0
+0 0 110010000 0
+src.main.java.spoon.support.SerializationModelStreamer_java
+src.main.java.spoon.support.gui.SpoonObjectFieldsTable_java
+src.main.java.spoon.support.gui.SpoonModelTree_java
+src.main.java.spoon.Launcher_java

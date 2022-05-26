@@ -1,0 +1,8 @@
+[Import,Return,Use,Parameter]
+3
+0 0 0111
+0110 0 0
+0 0110 0
+src.main.java.com.stripe.model.Capability_java
+src.main.java.com.stripe.model.CapabilityCollection_java
+src.main.java.com.stripe.model.Account_java

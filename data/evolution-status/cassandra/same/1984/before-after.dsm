@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0100101
+0111000 0
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsCommandPreDefinedMixed_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsCommandPreDefined_java

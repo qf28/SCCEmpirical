@@ -1,0 +1,10 @@
+[Cast,Call,Import,Extend,Use,Create,Implement,Parameter,Contain]
+4
+0 0 000000010 000000010
+0 0 000000010 000000010
+011000010 011000010 0 011011011
+011000010 011000010 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ArrayType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.ArrayBracketPair_java

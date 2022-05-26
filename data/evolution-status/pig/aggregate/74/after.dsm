@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+8
+0 00010010 0 0 01110000 0 0 0
+00010000 0 00010000 01101010 01010100 01110010 01000001 00000010
+0 0 0 0 01110000 0 0 01010010
+11010010 0 0 0 0 0 0 0
+00100000 0 00100000 0 0 0 0 0
+00010000 0 00010000 01110010 01010100 0 0 0
+00100000 0 0 0 01010100 0 0 0
+0 00000010 11010010 0 0 0 0 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.PORank_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POCounter_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReduceOper_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PhyPlanVisitor_java
+src.org.apache.pig.tools.pigstats.ScriptState_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PhyPlanSetter_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapReduceCounter_java

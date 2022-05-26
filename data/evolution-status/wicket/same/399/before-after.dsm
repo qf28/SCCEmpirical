@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01000100
+00000010 0
+wicket-auth-roles-examples.src.main.java.wicket.authorization.strategies.role.example.RolesApplication_java
+wicket-auth-roles-examples.src.main.java.wicket.authorization.strategies.role.example.RolesSession_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create,Implement]
+3
+0 110110 111000
+100000 0 0
+011000 0 0
+src.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+src.java.org.apache.hadoop.hbase.regionserver.Store_java
+src.java.org.apache.hadoop.hbase.ipc.HRegionInterface_java

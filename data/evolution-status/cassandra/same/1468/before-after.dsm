@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Use]
+5
+0 0 0 10001 0
+0 0 10001 0 10100
+0 11001 0 10101 0
+0 11101 10101 0 0
+00101 0 10101 10001 0
+src.java.org.apache.cassandra.transport.Server_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.config.Schema_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java

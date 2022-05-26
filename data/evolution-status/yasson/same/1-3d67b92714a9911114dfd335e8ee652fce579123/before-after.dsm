@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+2
+0 01000000100
+01010010000 0
+src.main.java.org.eclipse.yasson.internal.model.customization.PropertyCustomization_java
+src.main.java.org.eclipse.yasson.internal.model.customization.PropertyCustomizationBuilder_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 11000000
+01100010 0
+src.java.org.apache.cassandra.cql3.restrictions.MultiColumnRestriction_java
+src.java.org.apache.cassandra.cql3.restrictions.SingleColumnRestriction_java

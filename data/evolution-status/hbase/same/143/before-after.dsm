@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 000000001 0 001000100
+0 0 000000001 0 001000000
+0 0 0 0 001000000
+010001100 0 000001000 0 000000100
+011000100 000000010 011100100 010000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.AbstractFSWALProvider_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.DisabledWALProvider_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.WALProvider_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.FSHLogProvider_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.WALFactory_java

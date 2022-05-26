@@ -1,0 +1,8 @@
+[Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+3
+0 0 01100000
+0 0 10001011
+11010010 11001000 0
+javaparser-core.src.main.java.com.github.javaparser.JavaParser_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

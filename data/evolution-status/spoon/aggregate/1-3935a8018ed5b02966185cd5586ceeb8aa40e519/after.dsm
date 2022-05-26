@@ -1,0 +1,46 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+22
+0 0 0 0 0 0 0 0 0 0 00110000000 00010000000 0 0 0 0 0 00100000001 00001100100 0 0 0
+0 0 00001000000 0 0 0 0 0 0 0 0 0 00110000000 0 0 0 0 00100000001 0 0 0 0
+0 0 0 0 00111100100 0 0 0 0 0 0 0 0 0 0 0 0 00100000001 0 0 0 0
+0 0 0 0 00001000000 0 0 0 00110000100 0 0 0 0 0 0 0 0 00100000001 0 0 0 0
+0 0 00100100100 0 0 0 0 00010000100 00100000100 0 0 0 0 0 0 0 0 00100000001 0 0 0 0
+0 0 0 0 0 0 00010000000 0 0 0 0 0 0 0 0 0 0 00100000001 0 0 0 0
+0 0 0 0 0 00001000100 0 0 00110000100 0 0 0 00010000000 0 00001000000 00001000000 0 00100000001 0 0 0 00010000100
+0 0 0 0 00010000000 0 0 0 00110000100 0 0 0 0 0 0 0 0 00100000001 0 0 0 0
+0 00010000100 00001000000 0 00100000000 0 00110000000 0 0 00010000000 0 0 0 0 00101000000 0 0 00100000001 0 0 0 0
+0 0 0 0 0 0 0 0 00001000100 0 0 0 0 0 0 0 0 0 0 0 0 0
+00110000000 0 0 0 0 0 0 0 0 0 0 0 0 00010000100 0 0 0 00100000001 0 00001000000 0 0
+00000000100 0 0 00001000000 0 0 0 0 00100000100 0 0 0 0 00110000000 0 00001000000 0 00100000001 0 0 0 0
+0 00110000000 0 0 0 0 00000100100 0 0 0 0 0 0 0 0 00001000000 0 00100000001 0 0 0 0
+0 0 00001000000 0 0 0 0 0 00010000100 0 0 00110000000 0 0 0 0 0 00100000001 0 0 0 0
+0 0 0 0 0 0 0 0 00110000100 0 0 0 0 00100000000 0 0 00100000000 00100000001 0 0 0 0
+0 0 00110000000 0 00001000000 0 0 0 0 0 0 0 0 0 0 0 0 00100000001 0 0 0 0
+0 0 0 0 0 0 0 0 00010000100 0 0 0 0 0 0 0 0 00100000001 0 00001000000 0 00110000000
+0 0 0 0 0 0 00100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 00001000000 0 0 0 0 0 0 0 0 0 0 0 00001000000 0 00100000001 0 00110000000 0 0
+0 0 00001000000 0 0 0 0 0 00010000100 0 0 0 0 0 0 0 0 00100000001 00110000000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00100000001 0 0 0 00100000000
+0 0 0 0 0 00001000000 0 0 0 0 0 0 0 0 0 0 00110000000 00100000001 00001000000 0 00101000000 0
+src.main.java.spoon.reflect.declaration.CtParameter_java
+src.main.java.spoon.reflect.reference.CtPackageReference_java
+src.main.java.spoon.reflect.reference.CtReference_java
+src.main.java.spoon.reflect.declaration.CtTypedElement_java
+src.main.java.spoon.reflect.declaration.CtElement_java
+src.main.java.spoon.reflect.declaration.CtTypeMember_java
+src.main.java.spoon.reflect.declaration.CtType_java
+src.main.java.spoon.reflect.declaration.CtAnnotation_java
+src.main.java.spoon.reflect.reference.CtTypeReference_java
+src.main.java.spoon.reflect.reference.CtIntersectionTypeReference_java
+src.main.java.spoon.reflect.reference.CtParameterReference_java
+src.main.java.spoon.reflect.declaration.CtExecutable_java
+src.main.java.spoon.reflect.declaration.CtPackage_java
+src.main.java.spoon.reflect.reference.CtExecutableReference_java
+src.main.java.spoon.reflect.declaration.CtTypeInformation_java
+src.main.java.spoon.reflect.declaration.CtNamedElement_java
+src.main.java.spoon.reflect.reference.CtFieldReference_java
+src.main.java.spoon.support.DerivedProperty_java
+src.main.java.spoon.reflect.declaration.CtVariable_java
+src.main.java.spoon.reflect.reference.CtVariableReference_java
+src.main.java.spoon.reflect.code.CtRHSReceiver_java
+src.main.java.spoon.reflect.declaration.CtField_java

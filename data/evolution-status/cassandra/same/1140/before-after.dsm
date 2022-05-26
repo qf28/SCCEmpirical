@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 01100010 01110100 01000000
+01100100 0 0 0
+01100000 0 0 0
+01100100 0 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.CollationController_java
+src.java.org.apache.cassandra.db.filter.ExtendedFilter_java
+src.java.org.apache.cassandra.db.RowIteratorFactory_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Extend,Create,Use,Throw]
+4
+0 0 0 0110100
+0 0 0100000 0
+0000010 0 0 0
+0 0110100 0 0
+src.java.org.apache.commons.cli.PatternOptionBuilder_java
+src.java.org.apache.commons.cli.CommandLine_java
+src.java.org.apache.commons.cli.TypeHandler_java
+src.java.org.apache.commons.cli.Options_java

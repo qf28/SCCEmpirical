@@ -1,0 +1,6 @@
+[Call,Create,Use,Parameter,Contain]
+2
+0 00111
+11000 0
+src.main.java.spoon.support.compiler.ZipFile_java
+src.main.java.spoon.support.compiler.ZipFolder_java

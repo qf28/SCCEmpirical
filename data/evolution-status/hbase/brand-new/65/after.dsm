@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00010000
+00010100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.server.errorhandling.exception.UnknownErrorException_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.server.errorhandling.impl.ExceptionSnare_java

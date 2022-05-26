@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use]
+5
+0 0 0 0 010100
+0 0 010100 0 010001
+111100 000001 0 0 010001
+0 010101 0 0 010101
+0 000001 0 010000 0
+src.java.org.apache.cassandra.cql3.statements.CreateTableStatement_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.auth.Auth_java
+src.java.org.apache.cassandra.db.DefsTables_java
+src.java.org.apache.cassandra.service.MigrationManager_java

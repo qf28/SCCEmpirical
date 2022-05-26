@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+6
+0 0 01110000 0 0 01101101
+0 0 01110000 0 0 01101101
+00100000 00100000 0 00100000 00100000 00100000
+0 0 01110000 0 0 0
+0 0 01110000 0 0 01101101
+0 0 01110000 0 0 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POMultiQueryPackage_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POCombinerPackage_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PhyPlanVisitor_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POPartialAgg_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POJoinPackage_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POPackage_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Use,Create,Implement]
+5
+0 011100 0 0 001100
+010100 0 011000 010110 111110
+0 001000 0 0 0
+010000 011110 000001 0 0
+010000 011110 000001 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.IFlushable_java
+src.java.org.apache.cassandra.db.BinaryMemtable_java
+src.java.org.apache.cassandra.db.Memtable_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 0011
+1111 0
+src.java.org.apache.hadoop.hbase.Shell_java
+src.java.org.apache.hadoop.hbase.shell.ShellSecurityManager_java

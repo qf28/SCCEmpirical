@@ -1,0 +1,26 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+12
+0 0 0100010 0 1000110 0 0 0 0 0 0 0000010
+0 0 0100010 0000010 0 1000110 0 0 0 0 0 0
+1000001 1000001 0 1100010 1000001 0 1100001 1100001 0 1000001 1000001 1000000
+0 0 0100010 0 0 0 0 0 0 0 0 0
+0 0 0100010 0 0 0 0 0 0 0 0 1000110
+0 0 0100010 1000110 0 0 0 0 0 0 0 0
+0 0 1101010 0 0 0 0 0 1001110 0 0 0
+0 0 1101010 0 0 0 0 0 1001110 0 0 0
+0 0 1100010 0 0 0 0 0 0 0 0 0
+0 0 1100010 1000110 0 0 0 0 0 0 0 0
+0 0 0100010 0000010 0 1000110 0 0 0 0 0 0
+0 0 1100010 0 0 0 1000000 0 0 0 0 0
+src.java.org.apache.hadoop.hbase.master.TableDelete_java
+src.java.org.apache.hadoop.hbase.master.ProcessRegionOpen_java
+src.java.org.apache.hadoop.hbase.master.HMaster_java
+src.java.org.apache.hadoop.hbase.master.RegionServerOperation_java
+src.java.org.apache.hadoop.hbase.master.ChangeTableState_java
+src.java.org.apache.hadoop.hbase.master.ProcessRegionStatusChange_java
+src.java.org.apache.hadoop.hbase.master.MetaScanner_java
+src.java.org.apache.hadoop.hbase.master.RootScanner_java
+src.java.org.apache.hadoop.hbase.master.BaseScanner_java
+src.java.org.apache.hadoop.hbase.master.ProcessServerShutdown_java
+src.java.org.apache.hadoop.hbase.master.ProcessRegionClose_java
+src.java.org.apache.hadoop.hbase.master.TableOperation_java

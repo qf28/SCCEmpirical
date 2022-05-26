@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 00100100 0 0
+01000010 0 11100000 01000010
+0 01100000 0 0
+0 00100100 0 0
+java.engine.org.apache.derby.impl.store.raw.data.TruncateOnCommit_java
+java.engine.org.apache.derby.impl.store.raw.data.BaseContainerHandle_java
+java.engine.org.apache.derby.impl.store.raw.data.BasePage_java
+java.engine.org.apache.derby.impl.store.raw.data.SyncOnCommit_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create,Implement]
+3
+0 0 0
+001100 0 0
+110110 000001 0
+src.java.org.apache.cassandra.dht.Range_java
+src.java.org.apache.cassandra.service.StorageServiceMBean_java
+src.java.org.apache.cassandra.service.StorageService_java

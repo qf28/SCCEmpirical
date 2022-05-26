@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+3
+0 011001000 010001000
+000000100 0 0
+0 011000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.regionserver.LogRollRegionServerProcedureManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.regionserver.LogRollBackupSubprocedurePool_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.regionserver.LogRollBackupSubprocedure_java

@@ -1,0 +1,10 @@
+[Import,Return,Use,Parameter,Contain]
+4
+0 01110 01110 0
+01110 0 01111 0
+0 01110 0 01110
+0 00001 01110 0
+src.main.java.com.stripe.model.Invoice_java
+src.main.java.com.stripe.model.Charge_java
+src.main.java.com.stripe.model.PaymentMethod_java
+src.main.java.com.stripe.model.SetupAttempt_java

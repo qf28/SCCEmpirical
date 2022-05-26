@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 1000100 1000000
+0 0 1000000
+1100000 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.CountFilter_java
+src.java.org.apache.cassandra.db.RowMutation_java

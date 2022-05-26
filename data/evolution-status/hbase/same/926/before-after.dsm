@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 1000100
+1100111 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.tool.BulkLoadHFiles_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.tool.BulkLoadHFilesTool_java

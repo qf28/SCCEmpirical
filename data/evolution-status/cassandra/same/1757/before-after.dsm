@@ -1,0 +1,8 @@
+[Call,Typed,Use,Create]
+3
+0 1100 0
+1101 0 1001
+1101 1110 0
+src.java.org.apache.cassandra.service.pager.SinglePartitionPager_java
+src.java.org.apache.cassandra.db.SinglePartitionReadCommand_java
+src.java.org.apache.cassandra.service.pager.MultiPartitionPager_java

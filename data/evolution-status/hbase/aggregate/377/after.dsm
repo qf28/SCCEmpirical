@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 0 0 110101000 0 0 001000100
+0 0 0 0 010001000 0 0
+010100100 011100110 0 010000100 0 0 001000100
+000100100 0 0 0 0 0 010100000
+0 0 0 010011100 0 010100000 0
+010001100 0 0 0 011100110 0 000000100
+011000100 0 010000010 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.AbstractFSWALProvider_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.DualAsyncFSWAL_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.SynchronousReplicationWALProvider_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.AbstractFSWAL_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.AsyncFSWAL_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.AsyncFSWALProvider_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.WALFactory_java

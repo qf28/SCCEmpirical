@@ -1,0 +1,6 @@
+[Import,Return,Use,Annotation]
+2
+0 0100
+0010 0
+src.test.java.spoon.test.annotation.testclasses.repeatable.Tags_java
+src.test.java.spoon.test.annotation.testclasses.repeatable.Tag_java

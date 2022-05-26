@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 1100000 0
+0 0 0000010
+0000100 0 0
+wicket-examples.src.main.java.org.apache.wicket.examples.repeater.ExamplePage_java
+wicket-examples.src.main.java.org.apache.wicket.examples.repeater.RepeaterApplication_java
+wicket-examples.src.main.java.org.apache.wicket.examples.repeater.Index_java

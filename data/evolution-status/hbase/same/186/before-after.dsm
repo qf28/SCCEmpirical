@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 101001
+110000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.FixedFileTrailer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFile_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Set,Extend,Throw,Use,Create]
+3
+0 01100000 0
+01100011 0 01100001
+01100000 01100000 0
+src.main.com.ice.tar.TarBuffer_java
+src.main.com.ice.tar.TarArchive_java
+src.main.com.ice.tar.TarEntry_java

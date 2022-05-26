@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 0 001000
+111011 0 001000
+0 011000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.bucket.BucketCache_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.CacheConfig_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFile_java

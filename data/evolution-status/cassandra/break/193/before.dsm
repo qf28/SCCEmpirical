@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Use]
+3
+0 0 000001
+0 0 010101
+010001 011001 0
+src.java.org.apache.cassandra.service.GCInspector_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java

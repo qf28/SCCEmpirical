@@ -1,0 +1,6 @@
+[Call,Import,Create,Use,Contain]
+2
+0 11010
+10100 0
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserClassDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.JavaParserFacade_java

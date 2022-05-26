@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement]
+2
+0 00100000
+00100000 0
+src.org.apache.pig.backend.local.datastorage.LocalDataStorage_java
+src.org.apache.pig.backend.local.datastorage.LocalPath_java

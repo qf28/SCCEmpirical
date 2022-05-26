@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Use,Create]
+3
+0 111111 101000
+011010 0 0
+011010 111000 0
+src.org.apache.pig.PigServer_java
+src.org.apache.pig.impl.PigContext_java
+src.org.apache.pig.impl.io.FileLocalizer_java

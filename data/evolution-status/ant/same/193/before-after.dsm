@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Use,Create]
+7
+0 0 110010 0 0 001000 011000
+0 0 0 0 0 011100 0
+0 0 0 0 0 011010 0
+0 0 0 0 0 011010 0
+0 001001 0 0 0 011100 0
+111010 0 110010 0 000100 0 010000
+011000 0 0 111001 0 011010 0
+src.main.org.apache.tools.ant.UnknownElement_java
+src.main.org.apache.tools.ant.helper.SingleCheckExecutor_java
+src.main.org.apache.tools.ant.ProjectComponent_java
+src.main.org.apache.tools.ant.AntTypeDefinition_java
+src.main.org.apache.tools.ant.helper.DefaultExecutor_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.ComponentHelper_java

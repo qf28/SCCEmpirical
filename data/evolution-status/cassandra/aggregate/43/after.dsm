@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Create]
+5
+0 0 11011 11010 10000
+0 0 0 11100 0
+0 0 0 01010 0
+01010 11110 00010 0 0
+0 10000 0 11010 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.cql3.ColumnIdentifier_java
+src.java.org.apache.cassandra.db.Directories_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.ColumnFamilyStoreCQLHelper_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 01100010
+11100001 0
+zookeeper.java.src.com.yahoo.zookeeper.server.quorum.FollowerZooKeeperServer_java
+zookeeper.java.src.com.yahoo.zookeeper.server.quorum.Follower_java

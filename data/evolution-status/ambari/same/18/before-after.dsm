@@ -1,0 +1,8 @@
+[Call,Use]
+3
+0 0 11
+0 0 11
+10 10 0
+controller.src.main.java.org.apache.ambari.controller.Blueprints_java
+controller.src.main.java.org.apache.ambari.controller.Nodes_java
+controller.src.main.java.org.apache.ambari.controller.Clusters_java

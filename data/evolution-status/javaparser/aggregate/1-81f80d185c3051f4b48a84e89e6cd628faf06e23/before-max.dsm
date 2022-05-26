@@ -1,0 +1,18 @@
+[Call,Import,Return,Extend,Create,Use,Implement,Contain]
+8
+0 0 0 0 0 0 0 10010100
+0 0 0 0 0 0 0 10010100
+0 0 0 0 0 0 0 10010100
+0 0 0 0 0 0 0 10010100
+0 0 0 0 0 0 0 10010100
+10001000 10001000 10001000 10001000 10001000 0 10001000 0
+0 0 0 0 0 11000100 0 10010100
+0 0 0 0 0 11000100 0 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.TryWithResourceContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.CompilationUnitContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ForechStatementContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ForStatementContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ClassOrInterfaceDeclarationContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFactory_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.CatchClauseContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.AbstractJavaParserContext_java

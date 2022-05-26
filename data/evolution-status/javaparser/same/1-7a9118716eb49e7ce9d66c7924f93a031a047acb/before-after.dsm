@@ -1,0 +1,10 @@
+[Call,Import,Return,Extend,Use,Implement,Parameter,Contain]
+4
+0 00010000 01100000 0
+00100000 0 11001011 01000010
+0 11101011 0 10101111
+0 0 00100000 0
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.ClassDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.TypeDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.usages.typesystem.ReferenceType_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.usages.typesystem.Type_java

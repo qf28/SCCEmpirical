@@ -1,0 +1,24 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+11
+0 0 0 0 0 0 0 0 0100010010 0 0
+0 0 0 0 0 0 0 0 0110010000 0 0
+0 1100000001 0 0 0 0 0 0 0010000010 0 0
+0 0 0110100000 0 0 0 0 0 0000000010 0 0
+0 0 0110100000 0 0 0 0 0 0000000010 0 0
+0 0 0110100000 0 0 0 0 0 0100010010 0 0
+0 0 0 0 0 0 0 0 0100010010 0 0
+0 0 0110100000 0 0 0 0 0 0100010010 0 0
+0100010000 0 0 0 1100010000 0100010000 0100010000 0100010000 0 0100010000 0100010000
+0 0 0110100000 0 0 0 0 0 0100010010 0 0
+0 0 0100000000 0100101000 0 0 0 0 0100010010 0 0
+src.main.java.org.eclipse.yasson.internal.serializer.OptionalObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.Marshaller_java
+src.main.java.org.eclipse.yasson.internal.AbstractContainerSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.UserSerializerSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.CollectionSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.AdaptedObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.SerializerBuilder_java
+src.main.java.org.eclipse.yasson.internal.serializer.MapSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ObjectArraySerializer_java

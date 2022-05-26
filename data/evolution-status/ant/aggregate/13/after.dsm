@@ -1,0 +1,8 @@
+[Call,Typed,Use,Create]
+3
+0 1101 1000
+0 0 1000
+1000 1111 0
+src.main.org.apache.tools.ant.Diagnostics_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.Main_java

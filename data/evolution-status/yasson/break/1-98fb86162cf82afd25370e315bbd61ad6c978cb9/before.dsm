@@ -1,0 +1,36 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+17
+0 0 0 0 0 0 0000000100 0 0 0 0 0 0 0010000000 0 0 0
+0 0 0 0 0 0100000000 0 0100000000 0 0 0 0 0 0101001011 0110001000 0 0
+0 0 0 0 0 0 0 0100000000 0 0 0 0100000000 0100001000 0 0100001000 0 0
+0 0 0 0 0 0 0000000100 0 0 0 0 0 0 0010000000 0 0 0
+0 0 0 0 0 0 0000000100 0 0 0 0 0 0 0010000000 0 0 0
+0 0111011011 0100001001 0 0 0 0 0 0 0 0 0 0 0 0 0 0100010001
+0 0 0 0 0 0 0 0 0 0 0 0 0 0010000000 0 0 0
+0110010000 0 0 0110010000 0110010000 0001001011 0010001010 0 0 0 0 0101011001 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0100100010 0 0 0 0 0 0
+0 0111001001 0 0 0 0100000000 0 0 0 0 0 0 0110001000 0 0110001000 0110000010 0
+0 0 0110001000 0 0 0 0 0100000000 0100010000 0 0 0 0 0 0110001000 0 0
+0 0100000000 0 0 0 0 0 0100000010 0 0 0 0 0100001000 1110001000 0100001000 0 0
+0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0 0 0 0
+0 0101001011 0110001001 0 0 0 0 0100000000 0 0 0100001001 0 0 0 0110001000 0 0
+0 0 0 0 0 0001000000 0 0101001011 0 0 0 0 0 0 0 0 0
+0 0011001001 0 0 0 0100000000 0 0 0 0 0 0 0 0 0100001000 0 0
+0 0110000010 0100001000 0 0 0 0 0 0 0 0 0 0 0110011001 0 0 0
+src.main.java.org.eclipse.yasson.internal.internalOrdering.LexicographicalOrderStrategy_java
+src.main.java.org.eclipse.yasson.model.ClassModel_java
+src.main.java.org.eclipse.yasson.internal.AnnotationIntrospector_java
+src.main.java.org.eclipse.yasson.internal.internalOrdering.ReverseOrderStrategy_java
+src.main.java.org.eclipse.yasson.internal.internalOrdering.AnyOrderStrategy_java
+src.main.java.org.eclipse.yasson.internal.MappingContext_java
+src.main.java.org.eclipse.yasson.internal.internalOrdering.PropOrderStrategy_java
+src.main.java.org.eclipse.yasson.internal.JsonbContext_java
+src.main.java.org.eclipse.yasson.model.MethodHandleValuePropagation_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.AbstractDeserializer_java
+src.main.java.org.eclipse.yasson.model.PropertyValuePropagation_java
+src.main.java.org.eclipse.yasson.internal.ComponentMatcher_java
+src.main.java.org.eclipse.yasson.internal.ReflectionUtils_java
+src.main.java.org.eclipse.yasson.model.PropertyModel_java
+src.main.java.org.eclipse.yasson.internal.ProcessingContext_java
+src.main.java.org.eclipse.yasson.internal.AbstractSerializerBuilder_java
+src.main.java.org.eclipse.yasson.internal.ClassParser_java

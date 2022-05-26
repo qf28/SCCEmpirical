@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+3
+0 0 0110000
+0101000 0 0
+0 0011000 0
+lang.java.avro.src.main.java.org.apache.avro.io.BinaryData_java
+lang.java.avro.src.main.java.org.apache.avro.util.Utf8_java
+lang.java.avro.src.main.java.org.apache.avro.io.Decoder_java

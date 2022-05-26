@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 00101
+11111 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.HFileLink_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFile_java

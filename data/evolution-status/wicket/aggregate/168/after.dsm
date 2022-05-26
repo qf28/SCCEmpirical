@@ -1,0 +1,26 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+12
+0 0 0100000 0 0 0100000 0011000 0110001 0 0 0 0101000
+0 0 0001000 0 0101100 0000001 0011000 0111000 0 0100100 1110010 0111000
+0 0 0 0 0 0011000 0 0 0 0 0 0
+0 0101100 0000001 0 0 0011000 0 0 0 0 0 0011000
+0100100 0 0 0 0 0 0011000 0110001 0100100 0 0 0
+0 0 0001000 0 0 0 0011000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0100000
+0 0001000 0 0 0 0 0011000 0 0 0 0 0
+0 0 0100000 0 0 0 0011000 0010001 0 0 0 0101000
+0 0 0 0 0 0 0111000 0 0 0 0000001 0
+0 0 0 0 0 0 0011000 0 0 0 0 0
+0 0 0111000 0111100 0 0011000 0 0 0 0 0 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.loader.InheritedMarkupMarkupLoader_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.MarkupCache_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.settings.IMarkupSettings_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.settings.Settings_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.loader.DefaultMarkupLoader_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.IMarkupCache_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.MarkupContainer_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.loader.IMarkupLoader_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.loader.SimpleMarkupLoader_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.DefaultMarkupCacheKeyProvider_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.IMarkupCacheKeyProvider_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Application_java

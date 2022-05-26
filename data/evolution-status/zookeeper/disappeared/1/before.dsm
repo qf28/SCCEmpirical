@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+9
+0 0000000100 0000000100 0110001000 0000000100 0000000100 0000000100 0000000100 0000000100
+0011011000 0 0 0110000000 0 0 0 0 0
+0111011000 0 0 0 0 0 0 0 0
+0011000000 0 0 0 0 0 0 0 0
+0001011000 0 0 0110000000 0 0 0 0 0
+0001011000 0 0 0 0 0 0 0 0
+0011011000 0 0 0110000000 0 0 0 0 0
+0111011000 0 0 0 0 0 0 0 0
+0111011000 0 0 0 0 0 0 0 0
+src.contrib.loggraph.src.java.org.apache.zookeeper.graph.FilterOp_java
+src.contrib.loggraph.src.java.org.apache.zookeeper.graph.filterops.LessThanOp_java
+src.contrib.loggraph.src.java.org.apache.zookeeper.graph.filterops.XorOp_java
+src.contrib.loggraph.src.java.org.apache.zookeeper.graph.filterops.Arg_java
+src.contrib.loggraph.src.java.org.apache.zookeeper.graph.filterops.EqualsOp_java
+src.contrib.loggraph.src.java.org.apache.zookeeper.graph.filterops.NotOp_java
+src.contrib.loggraph.src.java.org.apache.zookeeper.graph.filterops.GreaterThanOp_java
+src.contrib.loggraph.src.java.org.apache.zookeeper.graph.filterops.AndOp_java
+src.contrib.loggraph.src.java.org.apache.zookeeper.graph.filterops.OrOp_java

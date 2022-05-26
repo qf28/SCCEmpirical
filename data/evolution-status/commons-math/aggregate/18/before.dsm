@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 0
+01000 0
+src.main.java.org.apache.commons.math3.linear.MatrixUtils_java
+src.main.java.org.apache.commons.math3.linear.DiagonalMatrix_java

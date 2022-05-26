@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0110011 0110011 0100010
+0110010 0 0 0
+0111010 0 0 0
+0010010 0 0 0
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java
+src.java.org.apache.cassandra.db.Column_java
+src.java.org.apache.cassandra.config.Schema_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 01100000 01000000 0 0
+01000000 0 01001010 01000010 01100010
+01000000 01100000 0 0 0
+01000000 01100000 0 0 0
+0 01100010 0 0 0
+java.testing.org.apache.derbyTesting.junit.BaseTestCase_java
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java
+java.testing.org.apache.derbyTesting.junit.DropDatabaseSetup_java
+java.testing.org.apache.derbyTesting.junit.NetworkServerTestSetup_java
+java.testing.org.apache.derbyTesting.junit.DatabaseChangeSetup_java

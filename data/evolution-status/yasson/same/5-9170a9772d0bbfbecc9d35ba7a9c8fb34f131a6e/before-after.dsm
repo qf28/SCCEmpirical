@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+2
+0 00000100000
+01000000100 0
+src.test.java.org.eclipse.yasson.adapters.model.BoxWithSerializer_java
+src.test.java.org.eclipse.yasson.adapters.model.BoxWithSerializerSerializer_java

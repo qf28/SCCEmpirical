@@ -1,0 +1,6 @@
+[Import,Implement]
+2
+0 10
+11 0
+wicket-jmx.src.main.java.org.apache.wicket.jmx.MarkupSettingsMBean_java
+wicket-jmx.src.main.java.org.apache.wicket.jmx.wrapper.MarkupSettings_java

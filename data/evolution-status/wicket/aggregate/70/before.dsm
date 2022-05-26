@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use]
+3
+0 0 0
+0 0 0
+0 0 0
+wicket.src.java.wicket.Application_java
+wicket.src.java.wicket.protocol.http.BufferedWebResponse_java
+wicket.src.java.wicket.response.BufferedResponse_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 10100000
+00100000 0
+src.main.org.apache.tools.ant.types.optional.image.Rotate_java
+src.main.org.apache.tools.ant.types.optional.image.ImageOperation_java

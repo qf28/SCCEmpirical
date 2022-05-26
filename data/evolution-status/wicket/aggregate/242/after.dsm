@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 100100
+110110 0
+wicket-core.src.main.java.org.apache.wicket.page.PageAccessSynchronizer_java
+wicket-core.src.main.java.org.apache.wicket.page.DefaultPageLockManager_java

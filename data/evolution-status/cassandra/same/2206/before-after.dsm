@@ -1,0 +1,36 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+17
+0 0 0 0 1110011 0 0 0 0 0 0100010 0110011 0110011 0 0110010 0 0101010
+0 0 0110010 0 0 0 0110010 0 0 0 0101010 0 0 0100010 0 0 0
+0 0 0 0 0 0 0 0 0 0 0101000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100010 0 0
+0 0100000 0 0 0 0 0 0 0 0 0 0 0 0 0100010 0 0
+0 0010000 0110010 0 0 0 0 0 0 0 0 0 0 0111000 0 0 0
+0 0110110 0011000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0101010 0 0 0 0101000 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000010
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000 0 0
+0100010 0110010 0 0 0 0 0 1101011 0110000 0001001 0 0 0 0 0101010 0 0100010
+0101011 0011010 0 0 0 0 0 0 0 0 0100010 0 0110011 0 0101000 0 0
+0 0 0 0 0110001 0 0 0 0 0 0 0 0 0 0101010 0 0
+0 0110010 0110011 0 0 0110001 0 0 0 0 0101010 0 0 0 0 0111010 0
+0100000 0 0 0110000 0 0 0 0 0 0 0000010 0 0 0 0 0 0
+0 0011010 0 0 0 0 0 0 0 0 0001010 0 0 0101010 0 0 0
+0 0 0 0 0 0 0 0 0110011 0 0101010 0 0 0 0101010 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.net.OutboundTcpConnection_java
+src.java.org.apache.cassandra.service.RowDataResolver_java
+src.java.org.apache.cassandra.db.compaction.CompactionTask_java
+src.java.org.apache.cassandra.db.Memtable_java
+src.java.org.apache.cassandra.locator.DynamicEndpointSnitch_java
+src.java.org.apache.cassandra.gms.EndpointState_java
+src.java.org.apache.cassandra.net.ResponseVerbHandler_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.AbstractReadExecutor_java
+src.java.org.apache.cassandra.service.ReadCallback_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.cache.AutoSavingCache_java
+src.java.org.apache.cassandra.gms.Gossiper_java

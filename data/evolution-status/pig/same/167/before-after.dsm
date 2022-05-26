@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Throw,Use,Create,Implement]
+2
+0 011000100
+011000010 0
+contrib.zebra.src.java.org.apache.hadoop.zebra.types.TableStorageParser_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.types.Partition_java

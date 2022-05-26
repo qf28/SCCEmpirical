@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 011000010 011000000 0 0 0 010000010
+011000000 0 011000000 0 0 0 0
+0 0 0 0 0 011000000 0
+0 0 010000000 0 011000100 0 0
+0 0 011000000 0 0 0 0
+000000100 0 011000110 011000010 111010110 0 0
+001000000 010001000 011000000 0 0 0 0
+lang.java.trevni.core.src.main.java.org.apache.trevni.ColumnFileWriter_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.ColumnOutputBuffer_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.ColumnMetaData_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.ColumnValues_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.ColumnDescriptor_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.ColumnFileReader_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.ArrayColumnOutputBuffer_java

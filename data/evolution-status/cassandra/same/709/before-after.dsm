@@ -1,0 +1,8 @@
+[Call,Import,Set,Extend,Use,Create]
+3
+0 110000 110001
+110010 0 0
+0 101110 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.migration.Migration_java
+src.java.org.apache.cassandra.db.migration.AddKeyspace_java

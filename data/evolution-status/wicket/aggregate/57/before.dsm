@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+4
+0 0 0 0
+0000010 0 0010010 1100100
+0010001 1110000 0 0
+0 1100010 0 0
+wicket-core.src.main.java.org.apache.wicket.IQueueRegion_java
+wicket-core.src.main.java.org.apache.wicket.MarkupContainer_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.border.Border_java
+wicket-core.src.main.java.org.apache.wicket.DequeueContext_java

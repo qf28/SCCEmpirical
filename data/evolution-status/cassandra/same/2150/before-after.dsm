@@ -1,0 +1,18 @@
+[Call,Typed,Import,Use,Create]
+8
+0 0 0 0 0 0 10100 0
+0 0 0 0 0 10100 10100 0
+10100 0 0 11000 0 0 10100 0
+10100 0 11000 0 00001 10110 10100 0
+0 0 0 0 0 0 00100 0
+0 10100 0 11101 0 0 10110 10110
+0 0 0 11110 0 0 0 00110
+0 0 0 0 0 10100 10100 0
+src.org.apache.cassandra.utils.FBUtilities_java
+src.org.apache.cassandra.gms.Gossiper_java
+src.org.apache.cassandra.db.CommitLog_java
+src.org.apache.cassandra.db.Table_java
+src.org.apache.cassandra.db.IdentityFilter_java
+src.org.apache.cassandra.service.StorageService_java
+src.org.apache.cassandra.config.DatabaseDescriptor_java
+src.org.apache.cassandra.db.SystemTable_java

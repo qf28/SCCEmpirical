@@ -1,0 +1,8 @@
+[Call,Import,Create]
+3
+0 0 0
+010 0 110
+0 111 0
+src.java.org.apache.cassandra.io.compress.CompressedRandomAccessReader_java
+src.java.org.apache.cassandra.streaming.FileStreamTask_java
+src.java.org.apache.cassandra.net.MessagingService_java

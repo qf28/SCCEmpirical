@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 001100100
+010000010 0 011100110
+0 001110000 0
+security.src.main.java.org.apache.hadoop.hbase.ipc.SecureConnectionHeader_java
+security.src.main.java.org.apache.hadoop.hbase.ipc.SecureServer_java
+security.src.main.java.org.apache.hadoop.hbase.security.HBaseSaslRpcServer_java

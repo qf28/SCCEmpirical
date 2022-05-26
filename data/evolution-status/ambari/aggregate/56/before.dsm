@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 0
+111000 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariManagementController_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.logging.LoggingSearchPropertyProvider_java

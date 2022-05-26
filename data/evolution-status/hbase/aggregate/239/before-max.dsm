@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+8
+0 111100100 0 0 0 010000000 010100010 011000100
+0 0 0 0 0 0 0 100000100
+0 110000000 0 0 0 0 0 0
+0 111100000 0 0 0 0 0 0
+000000100 0 0 0 0 010000000 0 011000100
+0 110000100 0 0 0 0 0 011000100
+0 011100000 0 0 0 0 0 0
+011000110 111000100 011000010 011100010 010000010 011000010 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactedHFilesDischarger_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.handler.CloseRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionServerWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreFlusher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.handler.OpenRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

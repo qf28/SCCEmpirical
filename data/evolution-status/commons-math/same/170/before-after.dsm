@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01100010
+11100110 0
+src.main.java.org.apache.commons.math4.geometry.euclidean.twod.Line_java
+src.main.java.org.apache.commons.math4.geometry.euclidean.twod.PolygonsSet_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0101001
+0001010 0
+wicket-core.src.main.java.org.apache.wicket.markup.parser.filter.InlineEnclosureHandler_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.internal.InlineEnclosure_java

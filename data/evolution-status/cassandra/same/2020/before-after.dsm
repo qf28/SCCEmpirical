@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 10000 11000 0
+0 0 11010 0
+10011 00010 0 10011
+0 10000 11000 0
+src.org.apache.cassandra.db.BinaryMemtable_java
+src.org.apache.cassandra.db.Table_java
+src.org.apache.cassandra.db.ColumnFamilyStore_java
+src.org.apache.cassandra.db.Memtable_java

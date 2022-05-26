@@ -1,0 +1,18 @@
+[Call,Typed,Import,Set,Create,Use,Implement,Modify]
+8
+0 10000100 00000010 10100000 01001000 10000000 0 01001000
+0 0 11000100 10100000 0 0 10000100 0
+0 10000100 0 10100000 0 11001000 10000100 0
+0 0 0 0 0 0 10100000 0
+11000100 0 0 10100000 0 0 0 11000100
+11101100 0 0 10100000 10100100 0 0 0
+00100100 10100100 0 10100000 0 0 0 0
+00000100 0 0 10100000 11000100 0 0 0
+src.java.org.apache.cassandra.transport.Server_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.CassandraDaemon_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.transport.Message_java
+src.java.org.apache.cassandra.service.NativeTransportService_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java
+src.java.org.apache.cassandra.transport.Frame_java

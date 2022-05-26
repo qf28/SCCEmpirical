@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+8
+0 0 0100001 0 0 0 0 0101101
+0100010 0 0110011 0100010 0100010 0100010 0100010 1011001
+0 0010001 0 0 0 0 0 0
+0 0 0100001 0 0 0 0 0101101
+0 0 0100001 0 0 0 0 0101101
+0 0 0100001 0 0 0 0 0101101
+0 0 0100001 0 0 0 0 0101101
+0 0001001 0111000 0 0 0 0 0
+contrib.stress.src.org.apache.cassandra.contrib.stress.operations.Reader_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.Stress_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.Session_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.operations.RangeSlicer_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.operations.Inserter_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.operations.MultiGetter_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.operations.IndexedRangeSlicer_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.util.OperationThread_java

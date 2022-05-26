@@ -1,0 +1,14 @@
+[Call,Typed,Extend,Create]
+6
+0 0 0 0 0010 0
+0 0 0 0 0010 0
+0 0 0 0 0010 0
+0 0 0 0 0010 0
+0001 0001 0001 0001 0 0001
+0 0 0 0 0010 0
+lang.java.avro.src.main.java.org.apache.avro.file.XZCodec_java
+lang.java.avro.src.main.java.org.apache.avro.file.DeflateCodec_java
+lang.java.avro.src.main.java.org.apache.avro.file.ZstandardCodec_java
+lang.java.avro.src.main.java.org.apache.avro.file.SnappyCodec_java
+lang.java.avro.src.main.java.org.apache.avro.file.CodecFactory_java
+lang.java.avro.src.main.java.org.apache.avro.file.BZip2Codec_java

@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Create,Use,Parameter,Contain]
+6
+0 00100100 01101000 0 0 10110110
+0 0 0 0 01001101 00000100
+01001011 0 0 01001011 0 01001111
+0 00100100 01101000 0 0 10010110
+0 0 0 0 0 00000100
+0 00100100 01101000 0 00110000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.SwitchExpr_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.SwitchStmt_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.SwitchEntryMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.SwitchEntry_java

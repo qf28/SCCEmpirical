@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+4
+0 0 0110000 0
+0 0 0110000 0100000
+0010000 0010000 0 0010000
+0 0 0010000 0
+java.engine.org.apache.derby.iapi.sql.dictionary.ViewDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.TriggerDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.DataDictionary_java
+java.engine.org.apache.derby.iapi.sql.dictionary.ConstraintDescriptor_java

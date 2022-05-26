@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 11100
+01000 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POCross_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PhyPlanVisitor_java

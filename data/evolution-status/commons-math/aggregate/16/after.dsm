@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+3
+0 001000000 001100000
+0 0 001100000
+000100000 000100000 0
+src.java.org.apache.commons.math.linear.LUDecomposition_java
+src.java.org.apache.commons.math.linear.DecompositionSolver_java
+src.java.org.apache.commons.math.linear.RealMatrix_java

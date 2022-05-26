@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+5
+0 0 0 0100000 0
+0110011 0 0 0 0
+0 0 0 0100000 0100000
+0 0111010 0 0 0100000
+0 0110010 0100000 0110011 0
+src.org.apache.pig.data.BinInterSedes_java
+src.org.apache.pig.data.SchemaTuple_java
+src.org.apache.pig.data.SchemaTupleFrontend_java
+src.org.apache.pig.data.SchemaTupleFactory_java
+src.org.apache.pig.data.SchemaTupleBackend_java

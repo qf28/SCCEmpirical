@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+4
+0 0100001 0110010 0100001
+0 0 0110000 0
+1110001 0 0 0
+0010010 0 0100000 0
+zookeeper.java.src.com.yahoo.zookeeper.server.quorum.FollowerZooKeeperServer_java
+zookeeper.java.src.com.yahoo.zookeeper.server.quorum.SendAckRequestProcessor_java
+zookeeper.java.src.com.yahoo.zookeeper.server.quorum.Follower_java
+zookeeper.java.src.com.yahoo.zookeeper.server.quorum.FollowerRequestProcessor_java

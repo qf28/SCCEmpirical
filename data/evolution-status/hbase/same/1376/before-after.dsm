@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 10100
+11110 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.HRegionInfo_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.protobuf.ProtobufUtil_java

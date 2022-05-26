@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 001000100 0 0 0
+011000000 0 0 0 010100000
+001100000 001100100 0 010100000 0
+011100000 010000000 010100100 0 0
+0 0 000000100 0 0
+src.java.org.apache.cassandra.dht.IPartitioner_java
+src.java.org.apache.cassandra.dht.Token_java
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.utils.ByteBufferUtil_java

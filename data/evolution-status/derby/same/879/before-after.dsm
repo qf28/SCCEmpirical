@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Throw,Use,Create,Implement]
+2
+0 0110000010
+0100000000 0
+java.testing.org.apache.derbyTesting.unitTests.store.T_Util_java
+java.testing.org.apache.derbyTesting.unitTests.store.T_RawStoreRow_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Implement]
+2
+0 011100
+110110 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.expressionOperators.regex.RegexInit_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.expressionOperators.PORegexp_java

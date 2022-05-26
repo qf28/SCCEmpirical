@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend]
+7
+0 1001 1010 0 0 0 0
+0 0 1010 0 0 0 0
+0111 0111 0 0111 0111 0111 0111
+0 0 1010 0 0 0 0
+0 0 1010 0 0 0 0
+0 0 1010 0 0 0 0
+0 0 1010 0 0 0 0
+wicket-core.src.main.java.org.apache.wicket.ajax.AjaxClientInfoBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.AbstractAjaxTimerBehavior_java
+wicket-core.src.main.java.org.apache.wicket.lambda.Lambdas_java
+wicket-core.src.main.java.org.apache.wicket.ajax.markup.html.form.AjaxSubmitLink_java
+wicket-core.src.main.java.org.apache.wicket.ajax.form.AjaxFormComponentUpdatingBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.markup.html.form.AjaxButton_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.link.Link_java

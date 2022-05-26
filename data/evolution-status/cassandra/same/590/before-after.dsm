@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 11110
+10110 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.service.reads.AbstractReadExecutor_java

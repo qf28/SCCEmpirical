@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 1110110
+0110000 0
+src.org.apache.pig.backend.hadoop.datastorage.HDataStorage_java
+src.org.apache.pig.backend.hadoop.datastorage.HPath_java

@@ -1,0 +1,14 @@
+[Call,Typed,Extend,Create]
+6
+0 0 0 0 1010 0
+0 0 0 0 1010 0
+0 0 0 0 1010 0
+0 0 0 0 1010 0
+1001 1001 1001 1001 0 1001
+0 0 0 0 1010 0
+src.antidote.org.apache.tools.ant.gui.event.PropertySelectionEvent_java
+src.antidote.org.apache.tools.ant.gui.event.TaskSelectionEvent_java
+src.antidote.org.apache.tools.ant.gui.event.ProjectSelectionEvent_java
+src.antidote.org.apache.tools.ant.gui.event.NullSelectionEvent_java
+src.antidote.org.apache.tools.ant.gui.event.ElementSelectionEvent_java
+src.antidote.org.apache.tools.ant.gui.event.TargetSelectionEvent_java

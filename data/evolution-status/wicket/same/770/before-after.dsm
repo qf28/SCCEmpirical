@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+8
+0 0 100000010 000100010 010100000 0 011100100 000000010
+0 0 0 0 0 0 0 001000000
+011000010 0 0 0 010100000 0 0 0
+0 0 0 0 0 0 0 011100000
+0 0 0 0 0 0 0 111100010
+0 0 0 0 010100000 0 0 0
+0 0 0 111000110 0 0 0 001100000
+011000000 000000010 0 001100000 010100000 001000000 0 0
+wicket.src.main.java.wicket.Session_java
+wicket.src.main.java.wicket.AttributeModifier_java
+wicket.src.main.java.wicket.PageMap_java
+wicket.src.main.java.wicket.feedback.FeedbackMessage_java
+wicket.src.main.java.wicket.util.lang.Objects_java
+wicket.src.main.java.wicket.ResourceReference_java
+wicket.src.main.java.wicket.feedback.FeedbackMessages_java
+wicket.src.main.java.wicket.Component_java

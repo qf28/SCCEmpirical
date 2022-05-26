@@ -1,0 +1,8 @@
+[Call,Create]
+3
+0 10 0
+11 0 11
+0 10 0
+src.java.org.apache.cassandra.net.FileStreamTask_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.net.IncomingTcpConnection_java

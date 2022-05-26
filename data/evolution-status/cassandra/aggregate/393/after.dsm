@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement]
+7
+0 011010000 000010100 0 011000100 000010000 000010000
+0 0 011000100 0 010010000 011000110 0
+0 0 0 010000000 010010000 011001000 000000100
+0 0 011001000 0 000010000 011100110 011000110
+010010010 011000100 010010000 0 0 000010000 000010000
+0 0 011000100 0 0 0 001000000
+0 0 0 010000000 0 001000110 0
+src.java.org.apache.cassandra.service.AntiEntropyService_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.io.sstable.RowIndexedReader_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.io.sstable.SSTable_java
+src.java.org.apache.cassandra.io.sstable.IndexSummary_java

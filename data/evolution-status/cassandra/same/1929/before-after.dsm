@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 111010
+101010 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java

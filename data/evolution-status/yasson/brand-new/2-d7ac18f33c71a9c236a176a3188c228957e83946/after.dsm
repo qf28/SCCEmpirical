@@ -1,0 +1,40 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+19
+0 0 0 0 0 0 0 00000001000 0 0 0 0 0 0 00100000000 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 01000100000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 01000000000 0 01000000000 01000100000 0 0 01000100000 0 0
+0 0 0 0 0 0 01000000000 0 0 0 01000000000 0 0 0 01010100110 0 01100100000 0 0
+0 0 0 0 0 0 0 00000001000 0 0 0 0 0 0 00100000000 0 0 0 0
+0 0 0 0 0 0 0 00000001000 0 0 0 0 0 0 00100000000 0 0 0 0
+0 0 01000100010 01110110110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01000010010
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 00100000000 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 01001000100 0 0 0 0 0 0 0
+0 0 0 01110100010 0 0 01000000000 0 0 0 0 0 0 01100100000 0 00010101010 01100100000 01100000100 0
+01100010000 0 0 0 01100010000 01100010000 00010100110 00100100100 0 0 0 0 01010110010 0 0 0 0 0 0
+0 0 01100100000 0 0 0 0 0 01000010000 0 01000000000 0 0 0 0 0 01100100000 0 0
+0 0 0 01000000000 0 0 0 0 0 0 01000000100 0 0 01000100000 11100100000 0 01000100000 0 0
+0 01000010010 0 0 0 0 0 0 0 00100000000 0 0 0 0 0 0 0 0 0
+0 0 01100100010 01010100110 0 0 0 0 0 0 01000000000 01000100010 0 0 0 0 01100100000 0 0
+0 0 0 00110000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 00010000000 0 0 0 01010100110 0 0 0 0 0 0 0 0
+0 0 0 00110100010 0 0 01000000000 0 0 0 0 0 0 0 0 00110100110 01000100000 0 0
+0 0 01000100000 01100000100 0 0 0 0 0 0 0 0 0 0 01100110010 0 0 0 0
+src.main.java.org.eclipse.yasson.internal.internalOrdering.LexicographicalOrderStrategy_java
+src.main.java.org.eclipse.yasson.internal.VariableTypeInheritanceSearch_java
+src.main.java.org.eclipse.yasson.internal.AnnotationIntrospector_java
+src.main.java.org.eclipse.yasson.model.ClassModel_java
+src.main.java.org.eclipse.yasson.internal.internalOrdering.ReverseOrderStrategy_java
+src.main.java.org.eclipse.yasson.internal.internalOrdering.AnyOrderStrategy_java
+src.main.java.org.eclipse.yasson.internal.MappingContext_java
+src.main.java.org.eclipse.yasson.internal.internalOrdering.PropOrderStrategy_java
+src.main.java.org.eclipse.yasson.model.MethodHandleValuePropagation_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.AbstractDeserializer_java
+src.main.java.org.eclipse.yasson.internal.JsonbContext_java
+src.main.java.org.eclipse.yasson.model.PropertyValuePropagation_java
+src.main.java.org.eclipse.yasson.internal.ComponentMatcher_java
+src.main.java.org.eclipse.yasson.internal.ReflectionUtils_java
+src.main.java.org.eclipse.yasson.model.PropertyModel_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.CurrentItem_java
+src.main.java.org.eclipse.yasson.internal.ProcessingContext_java
+src.main.java.org.eclipse.yasson.internal.AbstractSerializerBuilder_java
+src.main.java.org.eclipse.yasson.internal.ClassParser_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0 00110000
+01110001 0 01100010
+01110000 01000000 0
+wicket.src.main.java.org.apache.wicket.ng.session.SessionStore_java
+wicket.src.main.java.org.apache.wicket.ng.Application_java
+wicket.src.main.java.org.apache.wicket.ng.Session_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Throw,Implement]
+2
+0 1011000
+0010000 0
+src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+src.main.java.org.apache.hadoop.hbase.master.handler.ServerShutdownHandler_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Implement]
+3
+0 011100 000101
+0 0 111110
+000100 000100 0
+wicket.src.java.wicket.ajax.AjaxRequestTarget_java
+wicket.src.java.wicket.RequestCycle_java
+wicket.src.java.wicket.request.target.IRequestTargetInterceptor_java

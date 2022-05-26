@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create,Implement]
+4
+0 0 001001 111100
+111110 0 111110 011100
+0 111100 0 0
+0 001100 100000 0
+src.java.org.apache.cassandra.repair.RepairSession_java
+src.java.org.apache.cassandra.service.ActiveRepairService_java
+src.java.org.apache.cassandra.repair.consistent.LocalSessions_java
+src.java.org.apache.cassandra.streaming.PreviewKind_java

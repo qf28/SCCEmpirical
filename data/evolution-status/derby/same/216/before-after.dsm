@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Extend,Use,Implement]
+4
+0 0 010000 0
+010100 0 010000 0
+010100 000010 0 000010
+010100 0 0 0
+java.engine.org.apache.derby.iapi.types.DataType_java
+java.engine.org.apache.derby.iapi.types.SQLChar_java
+java.engine.org.apache.derby.iapi.types.SQLBoolean_java
+java.engine.org.apache.derby.iapi.types.NumberDataType_java

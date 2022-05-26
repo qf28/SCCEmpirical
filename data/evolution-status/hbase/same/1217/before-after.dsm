@@ -1,0 +1,6 @@
+[Cast,Call,Import,Extend,Use]
+2
+0 01111
+11101 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

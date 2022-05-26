@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+8
+0 0111100 0 0111000 0 0 0 0100010
+0101010 0 0 0 0010001 0101000 0100010 0
+0 0100010 0 0 0 0001000 0 0
+0 0 0 0 0 0 0000010 0
+0 0000100 0 0 0 0001000 0 0
+0100010 0 0 0 0 0 0 0100010
+0101000 0101010 0100100 0000001 0 0001000 0 0
+0000010 0 0 0 0 0 0 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.Bytes_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.KeyValue_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.BBKVComparator_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.CellComparator_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.ExtendedCell_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.ByteBufferUtils_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.CellComparatorImpl_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.UnsafeAccess_java

@@ -1,0 +1,24 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+11
+0 0 0110001000 0 0 0 0010000001 0 0 0110010011 0
+0 0 0 0 0 0 0 0 0100110000 0110010000 0
+0 0 0 0 0 0100010000 0010000010 0100001000 0 0 0100011001
+0 0 0 0 0 0110010000 0111000010 0 0 0110010000 0
+0 0 0 0 0 0 0111000010 0 0 0110010000 0
+0 0 0100001000 0 0 0 0 0100001000 0 0 0
+0 0 0 0 0 0 0 0 1110010000 0 0
+0 0 0 0 0 0100010000 0010000010 0 0 0 0100011001
+0 0 0110001000 0 0 0 0110010110 0 0 0110010000 0
+0100011001 1110010000 0110001000 0110001001 0110011001 0 0110000011 0 0 0 0
+0 0 0100001000 0 0 0100010000 0 0100001000 0 0 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.TypeExtractor_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.FieldAccessContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserEnumDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserAnonymousClassDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionFactory_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.core.resolution.Context_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionInterfaceDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.AbstractJavaParserContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFacade_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassAdapter_java

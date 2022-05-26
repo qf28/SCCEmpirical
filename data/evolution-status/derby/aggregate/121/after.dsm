@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 0 0 001000000
+000101000 0 0 0
+0 0 0 001100000
+0 001100000 001100000 0
+java.engine.org.apache.derby.iapi.sql.execute.xplain.XPLAINable_java
+java.engine.org.apache.derby.impl.sql.execute.rts.ResultSetStatistics_java
+java.engine.org.apache.derby.iapi.sql.execute.RunTimeStatistics_java
+java.engine.org.apache.derby.iapi.sql.execute.xplain.XPLAINVisitor_java

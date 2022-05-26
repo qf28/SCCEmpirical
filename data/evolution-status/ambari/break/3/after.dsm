@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create,Implement]
+3
+0 0 0
+0 0 110000
+110000 110010 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariCustomCommandExecutionHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariActionExecutionHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariManagementControllerImpl_java

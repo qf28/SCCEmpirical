@@ -1,0 +1,32 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+15
+0 0 0 0 0 0 0 0 0 0 0 0 0 0100001010 0
+0 0 0 0 0 0 0 0 0 1010010000 0 0 0 0100001010 0
+0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0000000010 0
+0 0 0 0 0 0 0 0 0 0010000010 0 0 0100100000 0 0
+0 0 0 0 0 0 0 0 0 1010010000 0 0 0 0 0
+0 0 0 0 0100001000 0 0 0100001000 0 0 0 0 0 0 0
+0 0100100000 0 0 0 0110000011 0 0 0 1010010001 0 0 0 0100001010 0
+0 0 0 0 0 0 0 0 0 1010010010 0 0 0 0100001000 0
+0 0100000000 0100100000 0 0 0 0 0 0 0 0 0 0 0000000010 0
+0 0 0 0 0 0 0 0 0 0 0 0 1010000000 0110001000 0
+0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0000000010 0
+0 0 0 0 0 0 0100001000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 1010000011 0 0 0 0 0
+0100001000 0 0 0100001000 0100001000 0 0100001000 0100001000 0100001000 0 0100001000 0100001000 0000010010 0 0100001000
+0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0000000010 0
+src.main.java.org.eclipse.yasson.internal.serializer.OptionalObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractContainerSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ByteArrayBase64Serializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.UserSerializerSerializer_java
+src.main.java.org.eclipse.yasson.internal.model.PropertyModel_java
+src.main.java.org.eclipse.yasson.internal.serializer.ObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.AdaptedObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ObjectArraySerializer_java
+src.main.java.org.eclipse.yasson.internal.Marshaller_java
+src.main.java.org.eclipse.yasson.internal.serializer.CollectionSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ObjectSerializerProvider_java
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractValueTypeSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.SerializerBuilder_java
+src.main.java.org.eclipse.yasson.internal.serializer.MapSerializer_java

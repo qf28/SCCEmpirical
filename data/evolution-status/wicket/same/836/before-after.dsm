@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+3
+0 0001001 0111000
+0 0 0011000
+0101010 0111000 0
+wicket.src.main.java.wicket.version.undo.UndoPageVersionManager_java
+wicket.src.main.java.wicket.version.IPageVersionManager_java
+wicket.src.main.java.wicket.Page_java

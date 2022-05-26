@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Create,Use,Implement]
+4
+0 11001000 0 0
+10000000 0 10000000 10000000
+0 01001000 0 0
+0 01001000 0 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.JenkinsHash_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.Hash_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.MurmurHash_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.MurmurHash3_java

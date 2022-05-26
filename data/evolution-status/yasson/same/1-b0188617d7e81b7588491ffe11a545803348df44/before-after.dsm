@@ -1,0 +1,6 @@
+[Call,Import,Extend,Create,Use,Parameter]
+2
+0 100100
+101001 0
+src.main.java.org.eclipse.persistence.json.bind.model.PropertyValuePropagation_java
+src.main.java.org.eclipse.persistence.json.bind.model.MethodHandleValuePropagation_java

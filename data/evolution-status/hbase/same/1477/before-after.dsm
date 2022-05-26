@@ -1,0 +1,8 @@
+[Call,Import,Use,Create]
+3
+0 1001 1001
+1000 0 0
+1000 0 0
+hbase-server.src.test.java.org.apache.hadoop.hbase.util.LoadTestTool_java
+hbase-server.src.test.java.org.apache.hadoop.hbase.util.MultiThreadedReaderWithACL_java
+hbase-server.src.test.java.org.apache.hadoop.hbase.util.MultiThreadedUpdaterWithACL_java

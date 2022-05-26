@@ -1,0 +1,10 @@
+[Call,Typed,Import,Create]
+4
+0 1010 1101 1010
+0010 0 0 0
+1100 0 0 1010
+0010 0 0 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.analytics.AnalyticsContext_java
+src.java.org.apache.cassandra.service.StorageLoadBalancer_java
+src.java.org.apache.cassandra.gms.Gossiper_java

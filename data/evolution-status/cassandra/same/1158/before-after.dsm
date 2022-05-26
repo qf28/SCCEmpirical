@@ -1,0 +1,12 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 11000010 0 11000001
+10000010 0 11000010 11000000 11000100
+0 01000000 0 0 0
+11000000 0 0 0 01000000
+11000000 0 0 0 0
+src.java.org.apache.cassandra.db.MutableDeletionInfo_java
+src.java.org.apache.cassandra.db.LegacyLayout_java
+src.java.org.apache.cassandra.db.RangeTombstoneList_java
+src.java.org.apache.cassandra.db.partitions.ArrayBackedPartition_java
+src.java.org.apache.cassandra.db.DeletionInfo_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 11100000 01110000
+0 0 01011110
+00010000 0 0
+src.java.org.apache.commons.math.ode.nonstiff.EmbeddedRungeKuttaIntegrator_java
+src.java.org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator_java
+src.java.org.apache.commons.math.ode.sampling.AbstractStepInterpolator_java

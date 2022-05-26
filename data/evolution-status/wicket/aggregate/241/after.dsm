@@ -1,0 +1,8 @@
+[Cast,Call,Import,Extend,Use]
+3
+0 00100 00100
+11101 0 0
+11101 0 0
+wicket.src.java.wicket.markup.html.WebPage_java
+wicket.src.java.wicket.protocol.http.request.urlcompressing.WebURLCompressingCodingStrategy_java
+wicket.src.java.wicket.protocol.http.request.urlcompressing.WebURLCompressingTargetResolverStrategy_java

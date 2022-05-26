@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use]
+3
+0 0 0101000
+0101001 0 0100000
+0101001 0010000 0
+src.main.java.org.apache.hadoop.hbase.regionserver.metrics.SchemaMetrics_java
+src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

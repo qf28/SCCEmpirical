@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 1101
+1110 0
+src.java.org.apache.cassandra.streaming.StreamSession_java
+src.java.org.apache.cassandra.streaming.ConnectionHandler_java

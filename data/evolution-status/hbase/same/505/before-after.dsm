@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use]
+2
+0 1100
+1111 0
+src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLog_java
+src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogSplitter_java

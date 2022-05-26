@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 011000010
+000000100 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.BaseBlueprintProcessor_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.Stack_java

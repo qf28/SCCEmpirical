@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 110
+111 0
+wicket-extensions.src.main.java.org.apache.wicket.extensions.markup.html.form.select.SelectOption_java
+wicket-extensions.src.main.java.org.apache.wicket.extensions.markup.html.form.select.Select_java

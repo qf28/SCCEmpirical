@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use]
+3
+0 0 1101
+0111 0 1011
+1111 1011 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.ActiveRepairService_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java

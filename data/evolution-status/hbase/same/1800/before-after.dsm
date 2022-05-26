@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 1000000 1100100 0
+1000000 0 1100100 0
+0 1000000 0 1100100
+0 0 0100000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.ZKAssign_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.ZKUtil_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.zookeeper.ZooKeeperListener_java

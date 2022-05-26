@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Throw]
+2
+0 1110000
+1110000 0
+ambari-logsearch.ambari-logsearch-logfeeder.src.main.java.org.apache.ambari.logfeeder.filter.Filter_java
+ambari-logsearch.ambari-logsearch-logfeeder.src.main.java.org.apache.ambari.logfeeder.input.Input_java

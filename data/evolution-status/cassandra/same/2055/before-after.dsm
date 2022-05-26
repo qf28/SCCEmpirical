@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Create,Use]
+3
+0 0 0011001
+1110011 0 0011000
+0 0001010 0
+src.java.org.apache.cassandra.io.sstable.metadata.StatsMetadata_java
+src.java.org.apache.cassandra.io.sstable.metadata.LegacyMetadataSerializer_java
+src.java.org.apache.cassandra.io.sstable.Descriptor_java

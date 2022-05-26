@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 00100000 0
+11100000 0 00100000
+01000001 01100100 0
+wicket.src.java.wicket.markup.html.form.IFormSubmittingComponent_java
+wicket.src.java.wicket.markup.html.form.Form_java
+wicket.src.java.wicket.markup.html.form.Button_java

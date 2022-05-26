@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 00000001
+00010100 0
+wicket-request.src.main.java.org.apache.wicket.request.mapper.parameter.PageParameters_java
+wicket-request.src.main.java.org.apache.wicket.request.mapper.parameter.INamedParameters_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 000010
+100001 0
+src.java.org.apache.cassandra.thrift.TServerCustomFactory_java
+src.java.org.apache.cassandra.thrift.ThriftServer_java

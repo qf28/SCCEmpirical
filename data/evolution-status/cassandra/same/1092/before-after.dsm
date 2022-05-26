@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+6
+0 0110100 0 0110110 0 0110100
+0 0 0001100 0111000 0111110 0100000
+0 0011000 0 0 0 0
+0100000 0110100 0 0 0 0110000
+0 0 0 0111000 0 0
+0 0110100 0 0 0 0
+src.java.org.apache.cassandra.schema.SchemaKeyspace_java
+src.java.org.apache.cassandra.schema.IndexMetadata_java
+src.java.org.apache.cassandra.index.Index_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.cql3.statements.IndexTarget_java
+src.java.org.apache.cassandra.schema.Indexes_java

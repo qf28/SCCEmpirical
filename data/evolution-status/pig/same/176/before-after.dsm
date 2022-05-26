@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 101111
+101001 0
+src.org.apache.pig.tools.pigstats.mapreduce.MRScriptState_java
+src.org.apache.pig.tools.pigstats.ScriptState_java

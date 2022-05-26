@@ -1,0 +1,20 @@
+[Call,Typed,Import,Extend,Use,Create]
+9
+0 0 110110 0 0 0 0 0 0
+0 0 110110 0 0 0 0 0 0
+000001 000001 0 101010 0 000001 000001 0 000001
+0 0 010000 0 001001 0 0 100001 0
+0 0 110010 101000 0 0 0 0 0
+0 0 110110 0 0 0 0 0 0
+0 0 110110 0 0 0 0 0 0
+0 0 111000 100000 0 0 0 0 0
+0 0 110110 0 0 0 0 0 0
+src.org.apache.cassandra.db.RowReadCommand_java
+src.org.apache.cassandra.db.ColumnsSinceReadCommand_java
+src.org.apache.cassandra.db.ReadCommand_java
+src.org.apache.cassandra.service.StorageService_java
+src.org.apache.cassandra.db.ReadVerbHandler_java
+src.org.apache.cassandra.db.ColumnReadCommand_java
+src.org.apache.cassandra.db.SliceReadCommand_java
+src.org.apache.cassandra.service.ConsistencyManager_java
+src.org.apache.cassandra.db.SliceByNamesReadCommand_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 0
+000000010 0
+ambari-server.src.main.java.org.apache.ambari.server.state.ModuleComponent_java
+ambari-server.src.main.java.org.apache.ambari.server.state.Module_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 100010
+010000 0
+wicket-auth-roles-examples.src.main.java.wicket.authentication.AuthenticatedWebApplication_java
+wicket-auth-roles-examples.src.main.java.wicket.authentication.AuthenticatedWebSession_java

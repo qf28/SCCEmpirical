@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+5
+0 0110010 0 0110001 0
+0100000 0 0100001 0 0100010
+0 0000010 0 0100001 0
+0 0000010 0 0 0
+0 0100000 0 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.ConsistencyChecker_java
+src.java.org.apache.cassandra.service.ReadResponseResolver_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0001000
+0101000 0
+lang.java.mapred.src.main.java.org.apache.avro.mapreduce.AvroJob_java
+lang.java.mapred.src.main.java.org.apache.avro.hadoop.io.AvroKeyComparator_java

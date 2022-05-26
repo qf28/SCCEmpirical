@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 0 1110001
+0 0 1110000
+1000010 1100010 0
+hbase-thrift.src.main.java.org.apache.hadoop.hbase.thrift.ThriftHttpServlet_java
+hbase-thrift.src.main.java.org.apache.hadoop.hbase.thrift.IncrementCoalescer_java
+hbase-thrift.src.main.java.org.apache.hadoop.hbase.thrift.ThriftServerRunner_java

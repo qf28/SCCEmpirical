@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+6
+0 0 0 0111010 0 0010000
+0 0 0 0 0 0000100
+0010010 0 0 0 0 0
+0 0 0 0 0 0111000
+1110000 0 1110010 0 0 0000100
+0 1100100 0 0 1100100 0
+src.java.org.apache.cassandra.db.SuperColumn_java
+src.java.org.apache.cassandra.db.ExpiringColumn_java
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.io.util.ColumnSortedMap_java
+src.java.org.apache.cassandra.db.CounterColumn_java
+src.java.org.apache.cassandra.db.ColumnSerializer_java

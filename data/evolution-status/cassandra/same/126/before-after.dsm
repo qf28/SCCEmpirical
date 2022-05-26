@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0 0101010
+0 0 0100010
+0111010 0110000 0
+src.java.org.apache.cassandra.service.ActiveRepairService_java
+src.java.org.apache.cassandra.db.compaction.CompactionStrategyManager_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java

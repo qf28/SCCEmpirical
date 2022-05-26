@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 0 0
+11001 0 00010
+0 10100 0
+src.java.org.apache.cassandra.index.SecondaryIndexBuilder_java
+src.java.org.apache.cassandra.index.SecondaryIndexManager_java
+src.java.org.apache.cassandra.db.Keyspace_java

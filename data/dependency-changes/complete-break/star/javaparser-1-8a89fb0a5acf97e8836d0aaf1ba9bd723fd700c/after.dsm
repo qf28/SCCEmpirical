@@ -1,0 +1,8 @@
+[Call,Import,Use,Create,Parameter,Contain]
+3
+0 0 0
+0 0 0
+0 0 0
+javaparser-bootstrap.src.main.java.com.github.javaparser.bootstrap.metamodel.OldClassMetaModel_java
+javaparser-bootstrap.src.main.java.com.github.javaparser.bootstrap.metamodel.OldFieldMetaModel_java
+javaparser-bootstrap.src.main.java.com.github.javaparser.bootstrap.metamodel.OldJavaParserMetaModel_java

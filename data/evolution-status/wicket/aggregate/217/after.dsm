@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 1110010
+0000001 0
+wicket-core.src.main.java.org.apache.wicket.markup.html.link.DisableLinkBehavior_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.link.AbstractLink_java

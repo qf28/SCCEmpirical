@@ -1,0 +1,6 @@
+[Call,Typed,Create,Use,Implement]
+2
+0 00001
+11100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.tool.CanaryTool_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.tool.Canary_java

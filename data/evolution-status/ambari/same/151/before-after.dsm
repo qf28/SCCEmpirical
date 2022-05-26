@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+5
+0 0 0110110 0110000 0100000
+0111000 0 0 0111000 0
+0 0001010 0 0110000 0110010
+0 0 0 0 0010000
+0 1111010 0 0110000 0
+ambari-server.src.main.java.org.apache.ambari.server.topology.LogicalRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.HostResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.HostRequest_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.ClusterTopology_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.AmbariContext_java

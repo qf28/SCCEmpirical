@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0110001 0
+0110000 0 1110001
+0 1110001 0
+src.java.org.apache.commons.math.linear.RealVectorFormat_java
+src.java.org.apache.commons.math.linear.RealVectorImpl_java
+src.java.org.apache.commons.math.linear.RealMatrixImpl_java

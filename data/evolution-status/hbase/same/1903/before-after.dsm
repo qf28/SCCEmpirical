@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 110
+111 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.rest.RowResource_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.rest.TableResource_java

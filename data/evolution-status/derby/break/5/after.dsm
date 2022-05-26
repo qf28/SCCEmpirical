@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement]
+4
+0 01100000 0 0
+11100100 0 0 0
+11100100 11101010 0 0
+11100100 11100000 11100000 0
+java.engine.org.apache.derby.impl.sql.compile.ColumnReference_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumn_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumnList_java
+java.engine.org.apache.derby.impl.sql.compile.OrderByList_java

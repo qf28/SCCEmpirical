@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+5
+0 0 0011000 0 0
+1010000 0 0 0000110 0000110
+0111000 0101000 0 0 0
+0000001 0 0111000 0 0
+0000001 0 0111000 0 0
+src.main.org.apache.tools.ant.taskdefs.optional.javah.JavahAdapter_java
+src.main.org.apache.tools.ant.taskdefs.optional.javah.JavahAdapterFactory_java
+src.main.org.apache.tools.ant.taskdefs.optional.Javah_java
+src.main.org.apache.tools.ant.taskdefs.optional.javah.Kaffeh_java
+src.main.org.apache.tools.ant.taskdefs.optional.javah.SunJavah_java

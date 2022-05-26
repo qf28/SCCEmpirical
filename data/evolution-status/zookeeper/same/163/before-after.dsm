@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Throw,Use,Implement]
+2
+0 1100010
+1001000 0
+zookeeper-server.src.main.java.org.apache.zookeeper.server.quorum.LeaderBean_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.quorum.Leader_java

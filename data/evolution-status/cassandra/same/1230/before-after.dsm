@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create]
+4
+0 100001 110110 100001
+0 0 110110 0
+100001 100001 0 100001
+0 0 110110 0
+src.java.org.apache.cassandra.dht.IncludingExcludingBounds_java
+src.java.org.apache.cassandra.dht.ExcludingBounds_java
+src.java.org.apache.cassandra.dht.AbstractBounds_java
+src.java.org.apache.cassandra.dht.Bounds_java

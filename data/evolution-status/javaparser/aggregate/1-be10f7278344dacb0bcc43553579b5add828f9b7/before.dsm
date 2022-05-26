@@ -1,0 +1,4 @@
+[Call,Import,Create,Use,Implement,Parameter,Contain]
+1
+0
+javaparser-core.src.main.java.com.github.javaparser.ast.validator.NoProblemsValidator_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use]
+2
+0 011001
+111000 0
+java.client.org.apache.derby.client.net.Request_java
+java.client.org.apache.derby.client.net.NetAgent_java

@@ -1,0 +1,28 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+13
+0 0110001000 0 0 0 0 0 0 0100001001 1100000001 0100001000 0100001000 0
+0 0 0100001000 0 0 0 0110010000 0 0 0 0 0 0100011000
+0 0100001000 0 0 0 0 0110010000 0 0 0 0 0 0100011000
+0110010000 0 0 0 0100011000 0 0 0 0100001000 0 0100001000 0100001000 0
+0110010000 0 0 0100001000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0110010000 0100011000 0 0 0 0 0
+0 1110010000 1110010000 1110010000 0 1110010000 0 0 1110011000 0 1110010000 1110010000 0
+0 0 0 0 0 0100001000 0 0 0 0 0 0 0
+0 0 0 0100001000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0100001000 0 0 0 0 0 0 0 0
+0110010000 0 0 0100001000 0100011000 0 0 0 0100001000 0100001000 0 0 0
+0 0 0 0100001000 0100011000 0 0 0 0100001000 0100001000 0 0 0
+0 0100001000 0100001000 0 0 0 0 0 0 0 0 0 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFacade_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserMethodDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserTypeParameter_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.MethodResolutionLogic_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistMethodDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserEnumDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserTypeVariableDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionMethodDeclaration_java

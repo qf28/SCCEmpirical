@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 10001
+11001 0
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java
+java.testing.org.apache.derbyTesting.junit.CleanDatabaseTestSetup_java

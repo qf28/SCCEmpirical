@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 110100
+101110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.asyncfs.FanOutOneBlockAsyncDFSOutputHelper_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.asyncfs.FanOutOneBlockAsyncDFSOutput_java

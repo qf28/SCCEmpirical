@@ -1,0 +1,8 @@
+[Call,Import,Extend,Use,Parameter]
+3
+0 0 0
+0 0 0
+11110 00011 0
+src.main.java.com.stripe.net.APIResource_java
+src.main.java.com.stripe.model.FeeRefund_java
+src.main.java.com.stripe.model.ApplicationFee_java

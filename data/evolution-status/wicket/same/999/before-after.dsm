@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 1010000 0
+0 0 1100000
+1110110 1100000 0
+wicket-core.src.main.java.org.apache.wicket.page.PageAccessSynchronizer_java
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.Session_java

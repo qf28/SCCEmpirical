@@ -1,0 +1,62 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain,Annotation]
+30
+0 0 0 0 0 0 0 0 00001000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00100000100 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01001010000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01001010000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 00001000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 00000001000 0 0 01100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 01000001000 00001000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 00100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 01000000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00100010110 0 0 0 0
+0 0 0 0 0 0 01101100110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00100000000 0 00100000100 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 00110010110 0 0 0 0 0 0 0 0 00000010100 0 0 00110010100 00100000110 01000100010 0 11100010010 11100110010 01010100000 0 0 01000100010
+0 0 0 0 0 01001000000 0 0 01010010110 0 0 0 0 0 0 0 0 0 0 11000010000 0 00100000000 0 00100000100 0 0 0 0 0 0
+11100010000 0 0 0 0 0 0 0 00100010110 0 0 0 0 0 0 0 0 0 0 10100000000 0 01100000100 0 01001010000 11100000010 11100000010 0 0 10100000000 0
+0 0 0 00001000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 01000001000 00001000000 0 01100000100 0 01000000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+00000001000 0 0 0 01001000000 0 01100000100 0 01000010110 0 0 0 10000010110 0 0 0 0 0 0 0 0 00100000000 0 01100000100 0 0 0 0 0 0
+0 0 0 0 0 00001000000 0 0 00000000100 0 0 0 0 0 0 0 0 0 0 0 0 01110110110 0 00100000100 0 0 0 0 11000000010 0
+00000001000 0 0 01000000000 0 0 0 0 01000010110 0 0 0 01000010110 01001000000 0 0 0 0 0 0 0 01100010110 0 01100000100 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 00100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01001010000 00000000100 0 0 0 0 0 0 0 0
+0 0 0 0 0 01001000000 0 0 00000000100 0 0 0 0 0 0 0 0 0 0 0 0 01110010110 0 00100000100 0 0 0 0 0 0
+0 01000100000 01000100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01000100000 0 0 00000011100 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 00100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00100000000 0 0 0
+0 01100100000 0 0 0 0 0 0 01100010110 01100010110 11100110010 0 0 0 0 01100010000 0 00010010110 01100100000 01100100000 01110010110 01110010110 0 0 0 11100010000 0 0 0 01000100010
+0 0 0 0 0 0 0 0 01100000100 00100010000 0 0 0 0 0 0 0 0 0 0 0 01100000100 0 0 0 00100010110 0 0 0 0
+0 0 0 0 01000000000 01001010000 00100000010 0 01010010110 0 01000110110 0 0 0 0 0 0 0 0 10000000000 0 00100000000 0 01100000100 0 01010110000 0 0 11000100010 0
+0 0 0 0 01001000000 0 01100000100 0 01000010110 0 0 0 0 0 0 0 0 0 0 0 0 00100000000 0 00100000100 0 0 0 01100010000 0 0
+0 0 0 0 01000000000 0 0 01100100010 0 0 0 0 0 0 0 0 0 0 0 0 0 00100010110 0 01100100000 0 01100010110 0 0 0 0
+0 0 0 0 0 0 00010011110 0 01100010110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 01001000000 0 0 00000000100 0 0 0 0 0 0 0 0 0 0 0 0 00100000000 0 00100000100 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 00100010110 01100010110 0 0 10100010010 0 01100100010 0 01100100010 00010010110 0 10100000000 0 0 0 0 0 01110100000 0 0 0 0
+src.main.java.spoon.pattern.internal.node.InlineNode_java
+src.main.java.spoon.pattern.internal.parameter.MapParameterInfo_java
+src.main.java.spoon.pattern.internal.parameter.SetParameterInfo_java
+src.main.java.spoon.pattern.internal.node.RepeatableMatcher_java
+src.main.java.spoon.pattern.internal.node.AbstractNode_java
+src.main.java.spoon.pattern.internal.node.AbstractPrimitiveMatcher_java
+src.main.java.spoon.pattern.internal.matcher.Matchers_java
+src.main.java.spoon.pattern.internal.matcher.MatchingScanner_java
+src.main.java.spoon.pattern.internal.node.RootNode_java
+src.main.java.spoon.pattern.PatternBuilder_java
+src.main.java.spoon.pattern.internal.node.MapEntryNode_java
+src.main.java.spoon.pattern.internal.PatternPrinter_java
+src.main.java.spoon.pattern.internal.node.PrimitiveMatcher_java
+src.main.java.spoon.pattern.internal.node.AbstractRepeatableMatcher_java
+src.main.java.spoon.pattern.internal.node.SwitchNode_java
+src.main.java.spoon.pattern.internal.node.StringNode_java
+src.main.java.spoon.pattern.internal.node.ForEachNode_java
+src.main.java.spoon.pattern.ConflictResolutionMode_java
+src.main.java.spoon.pattern.internal.parameter.ListParameterInfo_java
+src.main.java.spoon.pattern.internal.node.ParameterNode_java
+src.main.java.spoon.pattern.internal.parameter.AbstractParameterInfo_java
+src.main.java.spoon.pattern.internal.parameter.ParameterInfo_java
+src.main.java.spoon.pattern.PatternParameterConfigurator_java
+src.main.java.spoon.pattern.internal.DefaultGenerator_java
+src.main.java.spoon.pattern.internal.node.ElementNode_java
+src.main.java.spoon.pattern.internal.node.ListOfNodes_java
+src.main.java.spoon.pattern.Pattern_java
+src.main.java.spoon.pattern.internal.matcher.ChainOfMatchersImpl_java
+src.main.java.spoon.pattern.internal.node.ConstantNode_java
+src.main.java.spoon.pattern.InlinedStatementConfigurator_java

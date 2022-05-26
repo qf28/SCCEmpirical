@@ -1,0 +1,20 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+9
+0 0 0 0 1000001 0 1001000 0 0
+0 0 0 0 1000001 0 1001000 0 0
+0 0 0 0 1000001 0 1001000 0 0
+0 0 0 0 1000001 0 1001000 0 0
+1000100 1000100 1000100 1000100 0 1000100 0 1000100 1000100
+0 0 0 0 1000001 0 1001000 0 0
+0 0 0 0 1001000 0 0 0 0
+0 0 0 0 1000001 0 1001000 0 0
+0 0 0 0 1000001 0 1001000 0 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.RepositoryResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.StackResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.StackServiceResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.StackServiceComponentResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.AbstractResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.StackConfigurationResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ReadOnlyResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.OperatingSystemResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.StackVersionResourceProvider_java

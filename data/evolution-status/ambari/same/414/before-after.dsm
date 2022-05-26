@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Use,Create]
+2
+0 000010
+000010 0
+ambari-server.src.main.java.org.apache.ambari.server.checks.HostsRepositoryVersionCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.CheckDescription_java

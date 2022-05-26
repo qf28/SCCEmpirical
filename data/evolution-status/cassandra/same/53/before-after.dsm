@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 0010
+1101 0
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

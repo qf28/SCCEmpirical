@@ -1,0 +1,32 @@
+[Cast,Call,Typed,Set,Extend,Create,Use]
+15
+0 0 0010001 0 0 0 0 0 0 0100100 0 0 0 0 0
+0 0 0010001 0 0 0 0 0 0 0 0 0 0 0100100 0
+1110010 0100010 0 0100010 0100010 0110010 0100010 0100010 1110010 0 0100010 0100010 0 0100010 0100010
+0 0 0010001 0 0 0 0 0 0 0 0 0 0100100 0 0
+0 0 0010001 0 0 0101101 0 0 0 0 0 0 0 0 0
+0 0 0010000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010001 0 0 0 0 0 0 0100100 0 0 0 0 0
+0 0 0010001 0 0 0101101 0 0 0 0 0 0 0 0 0
+0 0 0010001 0 0 0 0 0 0 0100100 0 0 0 0 0
+0 0 0010001 0 0 0100101 0 0 0 0 0 0 0 0 0
+0 0 0010001 0 0 0100101 0 0 0 1100001 0 0 0 0 0
+0 0 0010001 0 0 0101101 0 0 0 0 0 0 0 0 0
+0 0 0010001 0 0 0010001 0 0 0 1100000 1110101 0 0 0 0
+0 0 0010001 0 0 0 0 0 0 0 0100000 0 0100100 0 0
+0 0 0010001 0 0 0101101 0 0 0 0 0 0 0 0 0
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPUTF8Info_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPInterfaceMethodInfo_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.ConstantPool_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPFieldInfo_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPLongInfo_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPEntry_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPStringInfo_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPDoubleInfo_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPClassInfo_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPName_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPNameAndTypeInfo_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPFloatInfo_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPFieldMethodInfo_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPMethodInfo_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.CPIntegerInfo_java

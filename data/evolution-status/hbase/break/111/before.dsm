@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Throw,Create,Implement]
+6
+0 0 0 0001000000 0 0001000000
+0101000000 0 0 0 0 0101001000
+0 0 0 0 0 0110000010
+0101000000 0101000000 0 0 0111000010 0001001000
+0101000000 0 0 0111001000 0 0001000000
+0101000000 0101000000 0000001000 0001000000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.zookeeper.ZKSplitLog_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogSplitter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SplitLogWorker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.handler.HLogSplitterHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.SplitLogManager_java

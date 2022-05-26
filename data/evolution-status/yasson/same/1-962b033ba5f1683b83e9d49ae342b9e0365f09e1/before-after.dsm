@@ -1,0 +1,8 @@
+[Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0 101011011
+011000000 0 0
+101010011 100001000 0
+src.main.java.org.eclipse.yasson.model.ClassModel_java
+src.main.java.org.eclipse.yasson.internal.serializer.AdaptedObjectSerializer_java
+src.main.java.org.eclipse.yasson.model.PropertyModel_java

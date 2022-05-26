@@ -1,0 +1,8 @@
+[Call,Return,Extend,Use,Create,Parameter,Contain]
+3
+0 0001011 0
+1100101 0 1000101
+0 1001011 0
+src.main.java.spoon.support.compiler.jdt.JDTBatchCompiler_java
+src.main.java.spoon.support.compiler.jdt.JDTBasedSpoonCompiler_java
+src.main.java.spoon.support.compiler.jdt.TreeBuilderRequestor_java

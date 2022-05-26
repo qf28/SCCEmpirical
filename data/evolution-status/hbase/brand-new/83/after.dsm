@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 01100001
+00100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.mob.MobCacheConfig_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.mob.MobFileCache_java

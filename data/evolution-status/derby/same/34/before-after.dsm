@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 0 0 0 01100000
+0 0 0 0 11100100
+10100000 0 0 0 0
+01100000 11100100 0 0 0
+11100000 00000100 11100000 01100010 0
+java.engine.org.apache.derby.impl.sql.compile.GroupByList_java
+java.engine.org.apache.derby.impl.sql.compile.SubqueryNode_java
+java.engine.org.apache.derby.impl.sql.compile.GroupByNode_java
+java.engine.org.apache.derby.impl.sql.compile.VerifyAggregateExpressionsVisitor_java
+java.engine.org.apache.derby.impl.sql.compile.SelectNode_java

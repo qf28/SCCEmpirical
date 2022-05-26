@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Implement]
+3
+0 0 110110
+011110 0 0
+011100 011000 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.compaction.LeveledManifest_java
+src.java.org.apache.cassandra.db.compaction.LeveledCompactionStrategy_java

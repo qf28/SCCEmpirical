@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Extend]
+3
+0 0110 0
+1010 0 0
+0 0101 0
+wicket-extensions.src.main.java.wicket.extensions.markup.html.form.select.SelectOption_java
+wicket-extensions.src.main.java.wicket.extensions.markup.html.form.select.AbstractSelect_java
+wicket-extensions.src.main.java.wicket.extensions.markup.html.form.select.Select_java

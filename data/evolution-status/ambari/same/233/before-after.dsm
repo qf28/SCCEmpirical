@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement]
+3
+0 0 01110000
+0 0 01110000
+00010000 00010000 0
+ambari-server.src.main.java.org.apache.ambari.server.events.listeners.alerts.AlertReceivedListener_java
+ambari-server.src.main.java.org.apache.ambari.server.state.services.MetricsRetrievalService_java
+ambari-server.src.main.java.org.apache.ambari.server.configuration.Configuration_java

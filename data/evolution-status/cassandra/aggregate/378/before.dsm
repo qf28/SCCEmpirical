@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Create,Use]
+2
+0 0
+0 0
+src.java.org.apache.cassandra.dht.tokenallocator.NoReplicationTokenAllocator_java
+src.java.org.apache.cassandra.dht.tokenallocator.ReplicationAwareTokenAllocator_java

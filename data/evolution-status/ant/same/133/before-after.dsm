@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Implement]
+5
+0 0 0011000 0 0
+1010000 0 0 0000010 0
+0111000 0101000 0 0 0
+0 0 0111000 0 0100100
+0000001 0 0011000 0 0
+src.main.org.apache.tools.ant.taskdefs.optional.jsp.compilers.CompilerAdapter_java
+src.main.org.apache.tools.ant.taskdefs.optional.jsp.compilers.CompilerAdapterFactory_java
+src.main.org.apache.tools.ant.taskdefs.optional.jsp.JspC_java
+src.main.org.apache.tools.ant.taskdefs.optional.jsp.compilers.JasperC_java
+src.main.org.apache.tools.ant.taskdefs.optional.jsp.compilers.DefaultCompilerAdapter_java

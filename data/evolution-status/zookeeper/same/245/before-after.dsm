@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Create]
+3
+0 0111 0111
+1110 0 0
+1110 0 0
+src.java.main.org.apache.jute.compiler.JFile_java
+src.java.main.org.apache.jute.compiler.CppGenerator_java
+src.java.main.org.apache.jute.compiler.CGenerator_java

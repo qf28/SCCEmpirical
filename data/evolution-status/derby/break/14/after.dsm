@@ -1,0 +1,6 @@
+[Call,Import,Extend,Use]
+2
+0 0
+0001 0
+java.testing.org.apache.derbyTesting.functionTests.tests.jdbcapi.SURDataModelSetup_java
+java.testing.org.apache.derbyTesting.functionTests.tests.jdbcapi.SURBaseTest_java

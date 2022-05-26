@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 010000100 010000100
+000001000 0 0
+000001000 0 0
+contrib.stargate.src.java.org.apache.hadoop.hbase.stargate.ResultGenerator_java
+contrib.stargate.src.java.org.apache.hadoop.hbase.stargate.ScannerResultGenerator_java
+contrib.stargate.src.java.org.apache.hadoop.hbase.stargate.RowResultGenerator_java

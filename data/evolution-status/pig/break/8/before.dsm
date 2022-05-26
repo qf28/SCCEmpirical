@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 00110000
+11110001 0
+src.org.apache.pig.impl.physicalLayer.PhysicalOperator_java
+src.org.apache.pig.backend.local.executionengine.POVisitor_java

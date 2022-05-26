@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+5
+0 0 0 0 0101001000
+0 0 0 0110000100 0001001000
+0110011100 0 0 0 0101001000
+0 0 0 0 0101001000
+0 0110001100 0110000100 0 0
+src.java.org.apache.cassandra.utils.btree.Path_java
+src.java.org.apache.cassandra.utils.btree.Builder_java
+src.java.org.apache.cassandra.utils.btree.Cursor_java
+src.java.org.apache.cassandra.utils.btree.NodeBuilder_java
+src.java.org.apache.cassandra.utils.btree.BTree_java

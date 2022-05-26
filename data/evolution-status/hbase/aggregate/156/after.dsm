@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+7
+0 0 0 0 0000110 0 0
+0 0 0 0 0000110 0 0
+0 0 0 0 0000110 0 0
+0 0 0 0 0000110 0 0
+0000001 0000001 0000001 0000001 0 0000001 0000001
+0 0 0 0 0000110 0 0
+0 0 0 0 0000110 0 0
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.ServerKillingMonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.DataIssuesMonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.DistributedIssuesMonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.StressAssignmentManagerMonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.MonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.ServerAndDependenciesKillingMonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.SlowDeterministicMonkeyFactory_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 0 011000100 0
+010011100 0 0 011000000 0
+0 0 0 011000000 0
+011000110 010000010 010000000 0 011000010
+0 0 0 011000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HMobStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.FlushPolicyFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionServicesForStores_java

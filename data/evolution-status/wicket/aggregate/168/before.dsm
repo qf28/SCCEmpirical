@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+7
+0 0 0 0 0 0 0
+0100000 0 0011000 0100010 1110100 0111000 0
+0 0 0 0 0 0100000 0
+0 0 0111000 0 0000001 0 0
+0 0 0011000 0 0 0 0
+0111000 0111010 0 0 0 0 0111010
+0000001 0 0 0 0 0011000 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.settings.IMarkupSettings_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.MarkupCache_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.MarkupContainer_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.DefaultMarkupCacheKeyProvider_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.IMarkupCacheKeyProvider_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Application_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.settings.Settings_java

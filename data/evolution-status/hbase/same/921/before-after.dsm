@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+4
+0 1000000 0 1100010
+0 0 1000000 0
+1001101 0 0 1000000
+0 1100011 0 0
+hbase-backup.src.main.java.org.apache.hadoop.hbase.backup.impl.TableBackupClient_java
+hbase-backup.src.main.java.org.apache.hadoop.hbase.backup.impl.BackupSystemTable_java
+hbase-backup.src.main.java.org.apache.hadoop.hbase.backup.impl.IncrementalTableBackupClient_java
+hbase-backup.src.main.java.org.apache.hadoop.hbase.backup.impl.BackupManager_java

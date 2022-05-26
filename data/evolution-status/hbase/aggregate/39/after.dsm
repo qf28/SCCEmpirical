@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Create,Implement]
+4
+0 0 000100 110000
+0 0 0 010000
+0 000001 0 010000
+110010 110000 0 0
+src.main.java.org.apache.hadoop.hbase.regionserver.MultiRowMutationProcessor_java
+src.main.java.org.apache.hadoop.hbase.coprocessor.RowProcessor_java
+src.main.java.org.apache.hadoop.hbase.regionserver.BaseRowProcessor_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

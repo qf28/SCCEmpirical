@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Implement]
+3
+0 001001 011010
+001000 0 0
+0 111000 0
+wicket.src.main.java.org.apache.wicket.Component_java
+wicket.src.main.java.org.apache.wicket.ng.request.component.IRequestableComponent_java
+wicket.src.main.java.org.apache.wicket.ng.request.handler.PageAndComponentProvider_java

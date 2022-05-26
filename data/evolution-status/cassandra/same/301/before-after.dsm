@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 011011011 0
+010000010 0 011000010
+010100000 011000010 0
+src.java.org.apache.cassandra.transport.messages.ErrorMessage_java
+src.java.org.apache.cassandra.transport.Message_java
+src.java.org.apache.cassandra.transport.Frame_java

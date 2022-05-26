@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 100000
+100010 0
+java.org_apache_derby_tests.org.apache.derbyTesting.functionTests.tests.upgradeTests.PhaseChanger_java
+java.org_apache_derby_tests.org.apache.derbyTesting.functionTests.tests.upgradeTests.UpgradeRun_java

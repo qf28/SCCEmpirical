@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create]
+2
+0 010100
+010100 0
+src.main.org.apache.tools.ant.taskdefs.Definer_java
+src.main.org.apache.tools.ant.ComponentHelper_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 0
+11110 0
+src.main.java.org.apache.hadoop.hbase.regionserver.metrics.OperationMetrics_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

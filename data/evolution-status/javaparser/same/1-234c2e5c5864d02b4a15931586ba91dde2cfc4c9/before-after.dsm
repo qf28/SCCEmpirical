@@ -1,0 +1,8 @@
+[Call,Return,Import,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 100001000 100001000
+100001000 0 0
+0 100001000 0
+src.main.java.me.tomassetti.symbolsolver.model.javassist.JavassistMethodDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javassist.JavassistClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javassist.JavassistParameterDeclaration_java

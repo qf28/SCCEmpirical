@@ -1,0 +1,4 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+1
+0
+hbase-server.src.test.java.org.apache.hadoop.hbase.client.TestZKAsyncRegistry_java

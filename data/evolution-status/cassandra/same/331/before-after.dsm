@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use]
+2
+0 1101
+1100 0
+src.java.org.apache.cassandra.db.Keyspace_java
+src.java.org.apache.cassandra.db.Mutation_java

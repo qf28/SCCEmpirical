@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create]
+3
+0 0 0
+11100 0 0
+0 10010 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.ResourceProviderFactory_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.AbstractControllerResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.UpgradeResourceProvider_java

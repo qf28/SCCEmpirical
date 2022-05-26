@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Implement]
+2
+0 10100
+00110 0
+wicket.src.main.java.org.apache.wicket.ng.application.DefaultClassResolver_java
+wicket.src.main.java.org.apache.wicket.ng.Application_java

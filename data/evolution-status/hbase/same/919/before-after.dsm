@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 11110
+11101 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.hbck.ReplicationChecker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.HBaseFsck_java

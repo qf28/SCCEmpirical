@@ -1,0 +1,16 @@
+[Call,Typed,Import,Use,Create]
+7
+0 0 0 10000 0 0 0
+00101 0 0 10100 0 0 0
+0 0 0 10000 0 0 0
+0 01110 10001 0 10101 10001 10001
+0 0 0 10100 0 0 0
+0 01110 0 10000 0 0 0
+0 0 0 10000 0 0 0
+src.java.org.apache.cassandra.net.ResponseVerbHandler_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.net.AsyncResult_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.streaming.FileStreamTask_java
+src.java.org.apache.cassandra.net.MessageDeliveryTask_java
+src.java.org.apache.cassandra.net.IncomingTcpConnection_java

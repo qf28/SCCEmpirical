@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 01100010
+00100000 0
+java.engine.org.apache.derby.impl.services.reflect.DatabaseClasses_java
+java.engine.org.apache.derby.impl.services.reflect.UpdateLoader_java

@@ -1,0 +1,6 @@
+[Call,Create,Use]
+2
+0 110
+001 0
+tools.stress.src.org.apache.cassandra.stress.Stress_java
+tools.stress.src.org.apache.cassandra.stress.StressAction_java

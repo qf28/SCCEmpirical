@@ -1,0 +1,8 @@
+[Call,Import]
+3
+0 11 0
+11 0 10
+0 10 0
+java.testing.org.apache.derbyTesting.functionTests.util.TestDataSourceFactory_java
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java
+java.testing.org.apache.derbyTesting.junit.BaseJDBCTestCase_java

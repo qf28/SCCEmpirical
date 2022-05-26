@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Use,Create]
+2
+0 101000
+101110 0
+java.testing.org.apache.derbyTesting.system.nstest.NsTest_java
+java.testing.org.apache.derbyTesting.system.nstest.init.DbSetup_java

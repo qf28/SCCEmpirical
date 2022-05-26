@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Throw,Implement]
+5
+0 0110011100 0 0 0
+0100001000 0 0100001000 0100001000 0100001000
+0 1110000100 0 0 0
+0 0110011000 0 0 0
+0 0110011000 0 0 0
+src.java.org.apache.cassandra.db.index.composites.CompositesIndexOnRegular_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndex_java
+src.java.org.apache.cassandra.db.index.composites.CompositesSearcher_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndexOnClusteringKey_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndexOnPartitionKey_java

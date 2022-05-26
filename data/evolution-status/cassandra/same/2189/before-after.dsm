@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Implement]
+2
+0 101000
+001000 0
+src.java.org.apache.cassandra.service.ReadCallback_java
+src.java.org.apache.cassandra.net.MessagingService_java

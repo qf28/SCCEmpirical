@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 01100011
+00001001 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.security.UserProvider_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.security.User_java

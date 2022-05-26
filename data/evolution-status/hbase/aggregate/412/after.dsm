@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+2
+0 0110000
+0110000 0
+hbase-procedure.src.main.java.org.apache.hadoop.hbase.procedure2.ProcedureEvent_java
+hbase-procedure.src.main.java.org.apache.hadoop.hbase.procedure2.AbstractProcedureScheduler_java

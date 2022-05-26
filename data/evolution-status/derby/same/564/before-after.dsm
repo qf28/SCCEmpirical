@@ -1,0 +1,6 @@
+[Typed,Import]
+2
+0 10
+10 0
+java.engine.org.apache.derby.iapi.sql.compile.Visitor_java
+java.engine.org.apache.derby.iapi.sql.compile.Visitable_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Throw,Implement]
+2
+0 1110000000
+0110000000 0
+java.engine.org.apache.derby.impl.sql.compile.SubqueryList_java
+java.engine.org.apache.derby.impl.sql.compile.SubqueryNode_java

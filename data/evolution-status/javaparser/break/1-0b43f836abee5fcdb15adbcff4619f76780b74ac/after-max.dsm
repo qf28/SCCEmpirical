@@ -1,0 +1,34 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+16
+0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+0100001000 0 0 0 0 0 0101000001 0100011011 0110000010 0100010001 0 0 0110000010 0100010001 0 0
+0100010011 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+0100010011 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0 0000000010 0000000010 0000000010 0 0000000010 0000000010 0000000010
+0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+0 0 0 0 0 0 0 0 0110000010 0110001000 0 0 0110000010 0 0 0
+0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0 0000000010 0000000010 0000000010 0 0000000010 0000000010 0000000010
+0 0 0101011011 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EmptyMemberDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumConstantDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.EmptyStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ConstructorDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.MethodDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.VariableDeclarator_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.TypeDeclarationStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.InitializerDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.AnnotationMemberDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.AnnotationDeclaration_java

@@ -1,0 +1,10 @@
+[Call,Import,Create,Use]
+4
+0 1101 0 0
+1010 0 0 0
+0 1101 0 1101
+0 1101 1101 0
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.contexts.StatementContext_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.JavaParserFactory_java
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserSymbolDeclaration_java

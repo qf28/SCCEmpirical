@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0110000 0
+0 0 0110000
+0100000 0110000 0
+ambari-server.src.main.java.org.apache.ambari.server.api.services.PersistenceManager_java
+ambari-server.src.main.java.org.apache.ambari.server.api.resources.ResourceDefinition_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.Request_java

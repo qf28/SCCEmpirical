@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+10
+0 0 0 0 0 0 011100000 0 011100001 0
+0 0 011100000 0 0 0 010000000 0 0 0
+0 0 0 0 001000000 001000000 001000000 0 0 001100000
+0 0 0 0 0 0 011100000 0 0 0
+0 0 011000000 0 0 0 010000000 0 0 0
+0 0 011000000 0 0 0 0 0 0 0
+0 0 001000000 0 0 0 0 0 0 0
+0 011000100 011100000 0 0 0 010000000 0 0 011000000
+0 0 0 0 0 0 011100000 0 0 0
+010100100 0 011100000 010100100 0 010000000 011100000 011000000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.CloneSnapshotProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.MasterSnapshotVerifier_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.RestoreSnapshotProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.CatalogJanitor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.TableStateManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.TakeSnapshotHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.CreateTableProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.SnapshotManager_java

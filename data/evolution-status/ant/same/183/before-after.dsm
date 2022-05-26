@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+4
+0 0 0 00000110
+11000110 0 0 10100010
+11000110 0 0 10100010
+0 00100000 00100000 0
+src.main.org.apache.tools.ant.types.optional.image.TransformOperation_java
+src.main.org.apache.tools.ant.types.optional.image.Draw_java
+src.main.org.apache.tools.ant.types.optional.image.Rotate_java
+src.main.org.apache.tools.ant.types.optional.image.ImageOperation_java

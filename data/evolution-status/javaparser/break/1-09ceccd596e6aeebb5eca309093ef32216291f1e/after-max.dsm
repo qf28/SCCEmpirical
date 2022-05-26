@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Create,Use,Implement,Parameter,Contain]
+3
+0 000101011 011001011
+0 0 001000000
+001100000 001100000 0
+src.main.java.me.tomassetti.symbolsolver.model.usages.MethodUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.TypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.MethodDeclaration_java

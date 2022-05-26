@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 011100 0 010100
+0 0 111011 010000
+0 0 0 010000
+000110 111000 0 0
+src.org.apache.pig.backend.hadoop.executionengine.spark.JobGraphBuilder_java
+src.org.apache.pig.tools.pigstats.spark.SparkPigStats_java
+src.org.apache.pig.tools.pigstats.spark.SparkJobStats_java
+src.org.apache.pig.tools.pigstats.spark.SparkStatsUtil_java

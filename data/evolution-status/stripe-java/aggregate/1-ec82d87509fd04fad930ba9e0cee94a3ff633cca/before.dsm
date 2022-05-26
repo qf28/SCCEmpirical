@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0 0000000010
+0000000100 0 0100010010
+0100010011 0100001000 0
+src.main.java.com.stripe.net.StripeResponseGetter_java
+src.main.java.com.stripe.net.LiveStripeResponseGetter_java
+src.main.java.com.stripe.net.ApiResource_java

@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Use,Create]
+9
+0 0 0 011010 0 111010 0 010110 0
+0 0 0 011110 0 0 0 010110 0
+0 0 0 0 0 0 0 000010 0
+010010 010001 011010 0 010010 0 011001 010010 010010
+0 0 011000 010010 0 0 0 010010 0
+0 0 0 001110 0 0 0 0 000010
+0 0 011000 010010 0 0 0 010010 0
+0 0 011011 010110 0 0 0 0 0
+010000 0 010000 010010 0 011001 0 011110 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.dht.BootStrapper_java
+src.java.org.apache.cassandra.gms.EndpointState_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.LoadBroadcaster_java
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.gms.Gossiper_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

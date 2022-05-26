@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Implement]
+2
+0 001000
+110010 0
+src.main.org.apache.tools.ant.taskdefs.XSLTLiaison2_java
+src.main.org.apache.tools.ant.taskdefs.XSLTProcess_java

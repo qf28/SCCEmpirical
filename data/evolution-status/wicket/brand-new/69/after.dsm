@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import]
+2
+0 1101
+1110 0
+wicket.src.test.wicket.markup.html.form.login.MockLoginPage_java
+wicket.src.test.wicket.markup.html.form.login.InterceptTest_java

@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+7
+0 0 0 0 0 0 0
+00100001 0 0 01100000 0 0 01100100
+00110000 0 0 0 0 0 00110000
+01100000 00000100 0 0 01100000 0 01100000
+0 0 00110000 0 0 00100000 01000000
+0 0 0 00100000 00100000 0 0
+11100100 00000100 01110000 01100000 01100000 0 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.IPageMap_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.PageMap_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.session.ISessionStore_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.RequestCycle_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Application_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.IRequestCycleFactory_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Session_java

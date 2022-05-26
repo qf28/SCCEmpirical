@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+6
+0 0 0 0 0 0
+010011100 0 0 0 0 0
+010011100 0 0 0 0 0
+010010100 010001000 010000000 0 0 0
+010000010 010000010 010000010 010000010 0 010000000
+010000000 001000000 0 010000010 010000010 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClientScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ReversedClientScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClientSmallScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClientSmallReversedScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HTable_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionManager_java

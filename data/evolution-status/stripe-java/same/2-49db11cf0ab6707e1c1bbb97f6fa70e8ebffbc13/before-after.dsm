@@ -1,0 +1,6 @@
+[Call,Return,Import,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 001100000
+001010000 0
+src.main.java.com.stripe.net.ApiResource_java
+src.main.java.com.stripe.model.StripeObject_java

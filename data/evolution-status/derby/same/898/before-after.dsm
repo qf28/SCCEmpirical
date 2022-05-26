@@ -1,0 +1,12 @@
+[Call,Typed,Set,Use,Create]
+5
+0 10110 0 0 0
+10000 0 10000 11001 10000
+0 10000 0 0 0
+0 10000 0 0 0
+0 10000 0 0 0
+java.testing.org.apache.derbyTesting.functionTests.harness.RunList_java
+java.testing.org.apache.derbyTesting.functionTests.harness.RunTest_java
+java.testing.org.apache.derbyTesting.functionTests.harness.CopySuppFiles_java
+java.testing.org.apache.derbyTesting.functionTests.harness.FileCompare_java
+java.testing.org.apache.derbyTesting.functionTests.harness.SkipTest_java

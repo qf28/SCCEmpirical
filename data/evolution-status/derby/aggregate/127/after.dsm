@@ -1,0 +1,6 @@
+[Call,Import]
+2
+0 10
+10 0
+java.testing.org.apache.derbyTesting.junit.XML_java
+java.testing.org.apache.derbyTesting.junit.SecurityManagerSetup_java

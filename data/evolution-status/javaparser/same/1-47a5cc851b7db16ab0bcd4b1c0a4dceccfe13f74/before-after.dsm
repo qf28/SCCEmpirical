@@ -1,0 +1,20 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+9
+0 0 0 011001000 010000100 0 010001100 010000100 011101101
+0 0 0 0 010000100 0 010001100 010000100 011000100
+0 0 0 0 0 010000100 0 0 111101101
+010000100 010000100 011000100 0 110000001 0 0 010000101 110000100
+0 0 0 0 0 0 010000100 0 011000100
+0 0 010000100 0 0 0 0 0 111000101
+0 0 0 011001000 0 0 0 0 011000100
+0 0 0 0 0 0 0 0 011000100
+0 0 0 0 111000001 0 0 0 0
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserClassDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.JavaParserFacade_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserTypeVariableDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.reflectionmodel.ReflectionInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserTypeParameter_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserEnumDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.model.typesystem.ReferenceTypeUsageImpl_java

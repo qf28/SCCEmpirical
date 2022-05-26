@@ -1,0 +1,14 @@
+[Cast,Call,Return,Import,Use,Create,Parameter,Contain]
+6
+0 0 0 0 01001000 0
+0 0 01000100 01000100 01001000 01000100
+0 0 0 0 01001000 0
+01000100 01000100 0 0 01001000 01000100
+01000100 01000100 0 0 0 01000100
+0 0 01000100 0 01001000 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionEnumDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionFieldDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionMethodDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionFactory_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionInterfaceDeclaration_java

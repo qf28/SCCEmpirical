@@ -1,0 +1,6 @@
+[Call,Typed,Set,Import,Extend,Use,Create]
+2
+0 0000001
+1100110 0
+src.java.org.apache.cassandra.io.util.SegmentedFile_java
+src.java.org.apache.cassandra.io.util.CompressedSegmentedFile_java

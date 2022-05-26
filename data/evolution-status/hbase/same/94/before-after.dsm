@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 011000000 0 0
+0 0 011000100 0 0
+011000010 111100110 0 011000010 011000010
+0 0 011000000 0 0
+0 0 011000000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterMobFileCompactionThread_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ExpiredMobFileCleanerChore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MobFileCompactionChore_java

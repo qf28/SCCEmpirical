@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0
+0011000 0
+src.java.org.apache.cassandra.io.sstable.metadata.MetadataCollector_java
+src.java.org.apache.cassandra.io.sstable.format.big.BigFormat_java

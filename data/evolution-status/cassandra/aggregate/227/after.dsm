@@ -1,0 +1,36 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+17
+0 0 0 0 0 0 0 0011010 0 0 0 0100001 0100001 0 0 0 0
+0 0 0 0 0 0110010 0 0 0 0111001 0 0 0 0110000 0111000 0010000 0110010
+1110010 0110010 0 0 0 0110011 0110010 0110010 0 0 0 0 0 0110010 0 0110011 0
+0 0 0 0 0 0011010 0 0 0101110 0 0 0 0 0011000 0 0001010 0
+0 0100010 0 0 0 0111010 0 0 0001110 0001010 0 0 0 0111010 0001010 0111010 0
+0 0010000 0100000 0 0 0 0110000 0110000 0 0 0 0 0 0110010 0101000 0110011 0
+0 0 0 0 0 0 0 0110000 0 0 0 0 0 0110010 0 0011000 0
+0 0 0 0 0 0111010 0100000 0 0 0 0 0 0 0010010 0 0 0
+0 0110010 0 0 0 0111010 0 0 0 0100010 0 0 0 0 0100000 0111010 0
+0 0110010 0 0 0 0100010 0100000 0 0000010 0 0 0 0 0111010 0110010 0011010 0001010
+0100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0100110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0100110 0 0 0 0 0 0 0 0 0 1110000 0 0 0 0 0 0
+0 0 0 0 0 0011000 0 0 0 0 0 0 0 0 0001010 0011000 0
+0 0110010 0 0101001 0101000 0111010 0 0 0 0 0 0 0 0111010 0 0011010 0001010
+0 0 0 0 0 0110010 0 0 0 0 0 0 0 0 0 0 0
+0 0010010 0 0 0 0110010 0100000 0 0 0 0 0 0 0011000 0101000 0 0
+src.java.org.apache.cassandra.cql3.functions.UDFunction_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.schema.SchemaKeyspace_java
+src.java.org.apache.cassandra.db.index.keys.KeysIndex_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndex_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.schema.Indexes_java
+src.java.org.apache.cassandra.schema.KeyspaceMetadata_java
+src.java.org.apache.cassandra.db.index.AbstractSimplePerColumnSecondaryIndex_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexManager_java
+src.java.org.apache.cassandra.cql3.functions.JavaUDF_java
+src.java.org.apache.cassandra.cql3.functions.ScriptBasedUDFunction_java
+src.java.org.apache.cassandra.cql3.functions.JavaBasedUDFunction_java
+src.java.org.apache.cassandra.schema.IndexMetadata_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java
+src.java.org.apache.cassandra.io.sstable.format.SSTableReader_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 1001110 0
+1000001 0 1000001
+0 1001110 0
+shims.test.hadoop23.org.apache.pig.test.MiniCluster_java
+test.org.apache.pig.test.MiniGenericCluster_java
+shims.test.hadoop23.org.apache.pig.test.TezMiniCluster_java

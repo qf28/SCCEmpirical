@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Modify]
+2
+0 10001100
+10000010 0
+src.java.org.apache.cassandra.io.util.SafeMemory_java
+src.java.org.apache.cassandra.io.util.Memory_java

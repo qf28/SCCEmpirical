@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Set,Extend,Use,Create,Modify]
+4
+0 0 0 11100100
+01100110 0 0 01111101
+01100110 0 0 01011100
+01101110 00000100 01000110 0
+src.org.apache.pig.data.Tuple_java
+src.org.apache.pig.data.DistinctDataBag_java
+src.org.apache.pig.data.SortedDataBag_java
+src.org.apache.pig.data.DataBag_java

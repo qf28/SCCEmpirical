@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 111
+001 0
+src.org.apache.cassandra.db.Table_java
+src.org.apache.cassandra.db.ColumnFamilyStore_java

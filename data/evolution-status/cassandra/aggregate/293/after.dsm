@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 0 01110
+0 0 10001
+10100 00010 0
+src.java.org.apache.cassandra.streaming.StreamResultFuture_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.net.IncomingStreamingConnection_java

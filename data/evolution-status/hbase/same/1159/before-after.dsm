@@ -1,0 +1,6 @@
+[Call,Typed,Set,Use]
+2
+0 1000
+1111 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SplitTransaction_java

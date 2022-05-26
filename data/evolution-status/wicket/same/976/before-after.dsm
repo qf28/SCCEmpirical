@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 11001
+11010 0
+wicket-core.src.main.java.org.apache.wicket.MarkupContainer_java
+wicket-core.src.main.java.org.apache.wicket.DequeueContext_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 11000100
+0 0 11000000
+10000010 10000010 0
+src.java.main.org.apache.zookeeper.server.FinalRequestProcessor_java
+src.java.main.org.apache.zookeeper.server.SyncRequestProcessor_java
+src.java.main.org.apache.zookeeper.server.ZooKeeperServer_java

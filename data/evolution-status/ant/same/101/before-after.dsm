@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 10101
+11100 0
+src.main.org.apache.tools.ant.taskdefs.MacroDef_java
+src.main.org.apache.tools.ant.RuntimeConfigurable_java

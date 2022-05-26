@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use]
+3
+0 010100 0
+010110 0 010110
+0 010100 0
+src.org.apache.pig.impl.io.TFileStorage_java
+src.org.apache.pig.impl.util.Utils_java
+src.org.apache.pig.impl.io.InterStorage_java

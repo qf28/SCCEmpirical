@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Use]
+3
+0 11100 0
+10110 0 10110
+0 11100 0
+ambari-infra.ambari-infra-solr-client.src.main.java.org.apache.ambari.infra.solr.commands.SetClusterPropertyZkCommand_java
+ambari-infra.ambari-infra-solr-client.src.main.java.org.apache.ambari.infra.solr.AmbariSolrCloudClient_java
+ambari-infra.ambari-infra-solr-client.src.main.java.org.apache.ambari.infra.solr.commands.RemoveAdminHandlersCommand_java

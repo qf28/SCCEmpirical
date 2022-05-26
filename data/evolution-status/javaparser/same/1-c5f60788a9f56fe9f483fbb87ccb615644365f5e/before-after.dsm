@@ -1,0 +1,6 @@
+[Cast,Call,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 110011000
+001000000 0
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.NodeText_java
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.ChildTextElement_java

@@ -1,0 +1,16 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+7
+0 0 0 0 000001000 010010000 0
+010001101 0 0 0 0 010001101 0
+0 0 0 010000111 010000111 0 010000000
+0 001001000 011000100 0 0 0 010011000
+001100000 001001000 011000100 0 0 0 010011000
+0 0 0 0 0 0 000001000
+0 001001000 011000100 0 0 001100000 0
+javaparser-core.src.main.java.com.github.javaparser.metamodel.MethodDeclarationMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ConstructorDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.MethodDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.CallableDeclarationMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.CallableDeclaration_java

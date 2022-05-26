@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01000100
+01010000 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.SystemTable_java

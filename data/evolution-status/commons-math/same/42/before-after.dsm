@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 00001
+11010 0
+src.main.java.org.apache.commons.math4.optim.linear.SimplexTableau_java
+src.main.java.org.apache.commons.math4.optim.linear.SimplexSolver_java

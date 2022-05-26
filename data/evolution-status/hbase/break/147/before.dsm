@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 1101100
+1000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileWriterFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFile_java

@@ -1,0 +1,10 @@
+[Call,Typed,Use,Create]
+4
+0 1110 0 0
+1101 0 1101 1101
+0 1110 0 1000
+0 1110 0 0
+src.java.org.apache.hadoop.hbase.regionserver.LogRoller_java
+src.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+src.java.org.apache.hadoop.hbase.regionserver.Flusher_java
+src.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java

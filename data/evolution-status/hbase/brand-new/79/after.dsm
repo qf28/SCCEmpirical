@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 00100100
+01000000 0
+hbase-metrics-api.src.main.java.org.apache.hadoop.hbase.metrics.MetricRegistriesLoader_java
+hbase-metrics-api.src.main.java.org.apache.hadoop.hbase.metrics.MetricRegistries_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+2
+0 0010000
+0110111 0
+java.client.org.apache.derby.client.net.NetXACallInfo_java
+java.client.org.apache.derby.client.net.NetXAResource_java

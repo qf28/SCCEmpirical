@@ -1,0 +1,10 @@
+[Call,Typed,Import,Create,Use,Implement]
+4
+0 101000 0 0
+110000 0 0 000100
+0 001010 0 0
+0 0 111010 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.RangeSliceCommand_java
+src.java.org.apache.cassandra.service.RangeSliceVerbHandler_java

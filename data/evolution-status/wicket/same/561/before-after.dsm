@@ -1,0 +1,6 @@
+[Typed,Import,Create,Use]
+2
+0 0101
+0101 0
+wicket-core.src.main.java.org.apache.wicket.markup.resolver.HtmlHeaderResolver_java
+wicket-core.src.main.java.org.apache.wicket.markup.parser.filter.HtmlHeaderSectionHandler_java

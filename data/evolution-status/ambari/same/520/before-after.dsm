@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+3
+0 0000010 0110010
+0010000 0 0
+0 0010010 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.StageWrapper_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.Task_java
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.TaskWrapper_java

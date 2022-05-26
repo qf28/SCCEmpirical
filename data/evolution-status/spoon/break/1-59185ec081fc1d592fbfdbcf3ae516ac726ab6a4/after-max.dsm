@@ -1,0 +1,6 @@
+[Call,Import,Use,Create,Parameter,Contain]
+2
+0 110101
+111011 0
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.support.processing.SpoonletXmlHandler_java

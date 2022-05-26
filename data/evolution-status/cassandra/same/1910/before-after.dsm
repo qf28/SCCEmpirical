@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 011000010 001100000
+0 0 011100010
+011100010 0 0
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.io.sstable.SSTableMetadata_java
+src.java.org.apache.cassandra.db.commitlog.ReplayPosition_java

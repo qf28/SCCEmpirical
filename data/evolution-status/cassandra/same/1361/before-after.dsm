@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Use,Create]
+8
+0 0 0 0 0 011010 111010 010000
+0 0 011001 0 0 0 010011 0
+010100 011010 0 0 0 0 000010 0
+0 0 0 0 0 011100 0 0
+0 0 0 001010 0 011100 0 0
+0 0 0 0 011101 0 011010 011101
+0 0 0 0 0 011000 0 0
+010100 011011 0 0 0 011000 000010 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.db.view.View_java
+src.java.org.apache.cassandra.db.view.ViewBuilder_java
+src.java.org.apache.cassandra.metrics.TableMetrics_java
+src.java.org.apache.cassandra.metrics.KeyspaceMetrics_java
+src.java.org.apache.cassandra.db.Keyspace_java
+src.java.org.apache.cassandra.db.Mutation_java
+src.java.org.apache.cassandra.db.view.ViewManager_java

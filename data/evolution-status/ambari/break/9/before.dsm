@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+9
+0 0 00100000 0 00100000 0 0 0 0
+0 0 00100000 00000100 0 0 0 0 0
+00000100 00000100 0 0 0 00100000 0 00000100 0
+0 00100000 0 0 00100000 0 0 0 0
+00000100 0 0 00000100 0 0 00000100 0 00000100
+0 0 00000100 0 0 0 00000100 0 0
+0 0 0 0 00100000 00100000 0 0 0
+0 0 00100000 0 0 0 0 0 00000100
+0 0 0 0 00100000 0 0 00100000 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ComponentConfigMappingEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostComponentStateEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ServiceComponentDesiredStateEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostComponentConfigMappingEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterConfigEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterServiceEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ServiceConfigMappingEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostComponentDesiredStateEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostComponentDesiredConfigMappingEntity_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 0110000
+1100100 0
+src.recipes.election.src.java.org.apache.zookeeper.recipes.leader.LeaderElectionAware_java
+src.recipes.election.src.java.org.apache.zookeeper.recipes.leader.LeaderElectionSupport_java

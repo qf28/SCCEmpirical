@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0110010
+1110010 0
+src.main.java.org.apache.commons.math4.geometry.spherical.twod.Circle_java
+src.main.java.org.apache.commons.math4.geometry.spherical.twod.SphericalPolygonsSet_java

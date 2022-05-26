@@ -1,0 +1,10 @@
+[Call,Typed,Import,Create,Implement]
+4
+0 00010 10110 10110
+10000 0 0 0
+01100 0 0 0
+11100 0 0 0
+wicket.src.main.java.org.apache.wicket.Application_java
+wicket.src.main.java.org.apache.wicket.DefaultMapperContext_java
+wicket.src.main.java.org.apache.wicket.settings.def.DefaultMarkupSettings_java
+wicket.src.main.java.org.apache.wicket.settings.def.DefaultResourceSettings_java

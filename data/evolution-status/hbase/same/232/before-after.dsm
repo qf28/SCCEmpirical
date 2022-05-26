@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 1100010
+1100000 0
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.TableResource_java
+hbase-rest.src.main.java.org.apache.hadoop.hbase.rest.RowResource_java

@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+6
+0 010100100 011000000 0 0 0
+0 0 0 011100010 010000000 010100000
+010000000 0 0 0 0 0
+0 0 011000110 0 0 010000000
+0 010000000 0 0 0 010100000
+010000100 010100100 0 011000000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.ServerMetricsBuilder_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.shaded.protobuf.ProtobufUtil_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.ServerLoad_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.ClusterStatus_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.shaded.protobuf.RequestConverter_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.ClusterMetricsBuilder_java

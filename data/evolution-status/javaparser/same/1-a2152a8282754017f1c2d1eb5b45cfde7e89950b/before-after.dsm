@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 0001010011
+0100010011 0
+javaparser-metamodel.src.main.java.com.github.javaparser.metamodel.BaseNodeMetaModel_java
+javaparser-metamodel.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 0010100
+1100010 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.DeleteIdentityHandler_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.KerberosHelperImpl_java

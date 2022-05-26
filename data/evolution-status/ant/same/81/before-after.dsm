@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Extend,Use,Create]
+6
+0 0 0 001000 0 0
+0 0 0 111010 0 0
+0 0 0 101000 0 0
+111000 001001 001001 0 001001 001001
+0 0 0 0 0 010100
+0 0 0 101000 0 0
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.EJBDeploymentTool_java
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.JbossDeploymentTool_java
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.BorlandDeploymentTool_java
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.EjbJar_java
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.WeblogicTOPLinkDeploymentTool_java
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.WeblogicDeploymentTool_java

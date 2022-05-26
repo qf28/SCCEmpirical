@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Use,Create]
+3
+0 0 00100
+11110 0 01100
+00010 11010 0
+java.engine.org.apache.derby.impl.sql.compile.RowResultSetNode_java
+java.engine.org.apache.derby.impl.sql.compile.UnionNode_java
+java.engine.org.apache.derby.impl.sql.compile.InsertNode_java

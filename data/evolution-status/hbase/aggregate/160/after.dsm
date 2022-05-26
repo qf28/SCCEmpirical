@@ -1,0 +1,6 @@
+[Call,Import,Extend,Create,Use]
+2
+0 11010
+01000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.mapreduce.RowCounter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.filter.FirstKeyValueMatchingQualifiersFilter_java

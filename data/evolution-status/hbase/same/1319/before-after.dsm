@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01100000
+00100000 0
+src.main.java.org.apache.hadoop.hbase.io.hfile.slab.SingleSizeCache_java
+src.main.java.org.apache.hadoop.hbase.io.hfile.slab.SlabItemActionWatcher_java

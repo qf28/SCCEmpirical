@@ -1,0 +1,72 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+35
+0 0 0111010010 0 0 0101010001 0 0 0 0101000101 0 0 0110010011 0 0 0 0100001000 0100001000 0100001000 0 0 0 0 0100011000 0 0 0110010000 0 0000010000 0 0100001000 0101000000 0 0 0111011011
+0 0 0011010011 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0001000000 0 0 0 0001000000 0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0101000010 0 0 0
+0 0100010011 0111010011 0 0 0001010000 0 0 0 0 0110001000 0 0100000000 0 0 0110010011 0 0 0 0 0 0 0 0 0 0 0 0110010011 0 0 0 0 0 0 0110001000
+0 0 0011000000 0 0 0 0 0 0100010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0010010010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0011000110 0 0 0011010011 0 0 0 0 0 0 0 0 0 0010010010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0
+0 0 0001000111 0 0 0011000000 0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0
+0 0000000001 0001000000 0 0 0 0 0000010000 0 0 0100001000 0 0 0100001000 0100010000 0 0 0 0 0 0100001000 0 0 0 0100001000 0 0 0 0 0 0 0 0 0 0100001000
+0 0 0 0 0 0 0 0 0 0 0 0 0000100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110011010
+0 0000010010 0101010011 0100010000 0100001000 0101010001 1000000000 0 0 0101000101 0 0 0100010010 0100001000 0 0000010011 0 0 0 0100001000 0 0 0 0 0 0 0 0100011011 0000010000 0 0 0001000010 1000000000 0100001000 1100001001
+0 0 0011000000 0 0 0 0 0 0100010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0011000010 0 0 0011000000 0 0 0 0001000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0111000010 0 0 0110001000
+0 0100010011 0101010010 0100010000 0100001000 0001010000 1000000000 0 0 0 0100001000 0 0100010010 0 0 0000010011 0 0 0 0100001000 0 0 0 0 0 0 0 0100011011 0000010000 0 0 0001000010 1000000000 0100001000 1100011011
+0 0 0001000110 0 0 0011000000 0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0
+0 0 0011000000 0 0 0 0 0 0 0 0 0 0001000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0 0011000010 0 0 0
+0 0001000000 0111000010 0 0 0011010000 0 0 0 0 0 0 0010000100 0 0 0010000000 0 0 0 0 0 0 0 0100001000 0 0 0 0 0010010000 0 0 0011000000 0 0 0010000000
+0 0 0111000010 0 0 0001010000 0 0 0 0 0 0 0101000010 0 0 0000000100 0 0 0100001000 0 0 0 0 0 0110001000 0 0 0111001000 0 0 0 0101000010 0 0 0110001000
+0 0 0011000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100001000 0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0 0 0 0110001000
+0 0010000000 0011000000 0 0 0 0 0 0100010000 0 0100001000 0100001000 0011000000 0100001000 0 0010000100 0 0 0 0 0 0 0 0 0 0 0 0111001000 0 0 0 0011000010 0 0 0
+0 0111010011 0101000110 0 0 0011000000 0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0 0 0 0 0 0 0 0 0000010010 0 0 0 0011000010 0 0 0
+0 0 0011010011 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0
+0 0 0011000001 0 0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0110010000 0 0010000100 0 0 0 0 0 0
+0 0111010101 0011000011 0 0 0011000000 0 0 0 0 0 0 0010000100 0 0 0 0 0 0 0 0 0 0 0 0 0 0110010000 0 0010000000 0 0 0011000000 0 0 0010000000
+0 0 0101010111 0 0 0011000000 0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0
+0 0 0001000110 0 0 0011000000 0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0
+0100001001 1000000000 0101010011 0 0 0101000001 0100011011 0000010000 0 0 0 0 0111010011 0 0100010000 0010010010 1100000001 0100001000 0 0 0100001000 0000010010 0100010000 1000000000 0100011000 0100001000 0 0101011011 0 0100001000 0100011001 0100000011 0000010000 0 0100001000
+0 0 0101010011 0 0 0 0 0 0 0 0 0 0011000000 0 0 0111010011 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0011000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0111000010 0 0 0101010001 0 0 0 0 0 0 0100010011 0 0 0 0100001000 0100001000 0100001000 0 0 0 0 0100011000 0 0 0 0 0 0 0100001000 0001000000 0 0 0110011011
+0 0 0011010010 0 0 0101000001 0 0 0 0 0 0 0011010011 0 0 0010010010 0 0 0 0 0 0 0 0 0 0 0 0111001000 0010000000 0 0 0100000011 0 0 0110001001
+0 0 0010000000 0 0 0101010001 0 0 0 0 0 0 0010010000 0 0 0110010011 0 0 0 0 0 0100010001 0 0 0 0 0 0010000000 0010010010 0 0 0 0 0 0
+0 0 0001000110 0 0 0011000000 0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0
+0 0 0010000000 0 0100001000 0011010000 0 0 0 0 0 0 0010000000 0 0 0010000000 0 0 0 0 0 0 0 0 0 0 0 0 0010010000 0 0 0011000100 0 0 0
+0 0101000001 0101010111 0 0 0001000000 1000000000 0 0 0 0110001000 0 0111010011 0 0 0010000000 1110000001 0 0 0 0100011000 0100001000 0 0 0 0 0 0100010011 0 0 0 0001000010 1000000000 0 0
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.TypeParameter_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.TypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.MethodResolutionLogic_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionFieldDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.SymbolReference_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.LambdaTypeUsagePlaceholder_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.VoidTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionFactory_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.ClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionParameterDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.TypeDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionInterfaceDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.PrimitiveTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.MethodDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserTypeVariableDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserEnumDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserFieldDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionMethodDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.TypeUsageOfTypeParameter_java
+src.main.java.me.tomassetti.symbolsolver.model.Value_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserSymbolDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserTypeParameter_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.ArrayTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.WildcardUsage_java
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.MethodUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.ValueDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserInterfaceDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.SymbolSolver_java
+src.main.java.me.tomassetti.symbolsolver.model.Context_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.NullTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ClassOrInterfaceDeclarationContext_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.TypeUsageOfTypeDeclaration_java

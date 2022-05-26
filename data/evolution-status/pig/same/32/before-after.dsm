@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0111000
+1101001 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReducePOStoreImpl_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POStore_java

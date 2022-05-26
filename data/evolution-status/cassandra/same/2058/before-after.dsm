@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Create]
+5
+0 10100 0 11000 0
+10100 0 0 11100 11011
+10100 0 0 0 11010
+0 10100 0 0 0
+0 0 11001 10100 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.db.view.MaterializedViewManager_java
+src.java.org.apache.cassandra.db.view.MaterializedViewBuilder_java
+src.java.org.apache.cassandra.db.Keyspace_java
+src.java.org.apache.cassandra.db.view.MaterializedView_java

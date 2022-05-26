@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 011000100
+000000100 0 011000100
+0 001000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFileComparators_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFileScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFile_java

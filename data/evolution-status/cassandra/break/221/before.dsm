@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create,Implement]
+4
+0 0 100100 0
+0 0 100100 111000
+110010 100100 0 110010
+0 0 101100 0
+src.java.org.apache.cassandra.service.ScheduledRangeTransferExecutorService_java
+src.java.org.apache.cassandra.service.PendingRangeCalculatorService_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.locator.TokenMetadata_java

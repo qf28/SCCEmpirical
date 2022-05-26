@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 0 10110 0
+11010 0 10100 0
+01010 00101 0 10001
+11101 0 10000 0
+src.org.apache.cassandra.db.ReadCommand_java
+src.org.apache.cassandra.db.ReadVerbHandler_java
+src.org.apache.cassandra.service.StorageService_java
+src.org.apache.cassandra.service.ConsistencyManager_java

@@ -1,0 +1,6 @@
+[Call,Extend,Use,Implement]
+2
+0 0010
+1001 0
+wicket-extensions.src.main.java.org.apache.wicket.extensions.markup.html.tree.table.TreeTable_java
+wicket-extensions.src.main.java.org.apache.wicket.extensions.markup.html.tree.table.PropertyTreeColumn_java

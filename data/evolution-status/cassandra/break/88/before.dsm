@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+3
+0 0110010 0
+0110100 0 0110100
+0 0110010 0
+src.java.org.apache.cassandra.tools.fqltool.ResultStore_java
+src.java.org.apache.cassandra.tools.fqltool.ResultHandler_java
+src.java.org.apache.cassandra.tools.fqltool.ResultComparator_java

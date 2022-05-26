@@ -1,0 +1,6 @@
+[Call,Import,Extend,Use,Create,Parameter]
+2
+0 000101
+010000 0
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.model.Value_java

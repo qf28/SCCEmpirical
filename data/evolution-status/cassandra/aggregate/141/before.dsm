@@ -1,0 +1,6 @@
+[Call]
+2
+0 0
+1 0
+src.java.org.apache.cassandra.db.RowIteratorFactory_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java

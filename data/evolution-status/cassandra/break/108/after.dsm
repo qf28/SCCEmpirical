@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0
+0101010 0
+src.java.org.apache.cassandra.service.ActiveRepairService_java
+src.java.org.apache.cassandra.repair.RepairRunnable_java

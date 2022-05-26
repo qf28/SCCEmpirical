@@ -1,0 +1,3 @@
+5 1 
+[src.main.java.com.threerings.getdown.classpath.ClassPathBuilderFactory_java, src.main.java.com.threerings.getdown.classpath.ClassPathBuilderBase_java, src.main.java.com.threerings.getdown.data.Application_java, src.main.java.com.threerings.getdown.classpath.CacheBasedClassPathBuilder_java, src.main.java.com.threerings.getdown.classpath.DefaultClassPathBuilder_java]
+[src.main.java.com.threerings.getdown.data.Application_java]

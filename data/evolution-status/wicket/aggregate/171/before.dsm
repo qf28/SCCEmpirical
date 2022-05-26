@@ -1,0 +1,12 @@
+[Call,Typed,Extend,Use,Create,Implement]
+5
+0 0 0 010000 0
+110100 0 0 0 0
+110100 0 0 0 0
+110001 110010 110010 0 0
+0 0 0 001000 0
+wicket-sandbox.users.matej_k.tree.src.wicket.xtree.table.IColumn_java
+wicket-sandbox.users.matej_k.tree.src.wicket.xtree.table.MiddleColumnsView_java
+wicket-sandbox.users.matej_k.tree.src.wicket.xtree.table.SideColumnsView_java
+wicket-sandbox.users.matej_k.tree.src.wicket.xtree.table.TreeTable_java
+wicket-sandbox.users.matej_k.tree.src.wicket.xtree.table.AbstractTreeColumn_java

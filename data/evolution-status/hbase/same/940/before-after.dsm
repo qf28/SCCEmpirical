@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+8
+0 000000010 0 0 101000000 0 0 000000010
+0 0 011000000 001000000 0 011000010 011000000 010001110
+0 0 0 011100000 011000000 0 010000000 0
+0 0 0 0 0 0 010000000 011000000
+0 0 0 0 0 0 001000000 0
+0 011000000 010011100 011100000 0 0 010000000 010000000
+010000000 0 0 0 011000100 0 0 0
+0 0 011000110 111000010 000000001 0 011000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.ReplicationSourceFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.RecoveredReplicationSource_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.ReplicationSourceShipper_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.ReplicationSourceWALReader_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.ReplicationSourceInterface_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.RecoveredReplicationSourceShipper_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.ReplicationSourceManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.ReplicationSource_java

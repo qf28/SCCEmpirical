@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create]
+3
+0 0010 0
+1010 0 1101
+1011 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionFileSystem_java

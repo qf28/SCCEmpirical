@@ -1,0 +1,8 @@
+[Typed,Throw,Implement]
+3
+0 100 100
+100 0 0
+0 100 0
+proposal.myrmidon.src.java.org.apache.myrmidon.components.configurer.ObjectConfigurer_java
+proposal.myrmidon.src.java.org.apache.myrmidon.components.configurer.ConfigurationState_java
+proposal.myrmidon.src.java.org.apache.myrmidon.components.configurer.PropertyConfigurer_java

@@ -1,0 +1,6 @@
+[Import,Use]
+2
+0 0
+11 0
+src.java.org.apache.cassandra.config.ColumnDefinition_java
+src.java.org.apache.cassandra.avro.CassandraServer_java

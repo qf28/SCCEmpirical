@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 1110100 0
+0110000 0 0010100
+1010000 0 0
+wicket.src.java.wicket.Application_java
+wicket.src.java.wicket.settings.Settings_java
+wicket.src.java.wicket.authorization.DefaultUnauthorizedComponentInstantiationListener_java

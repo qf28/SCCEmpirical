@@ -1,0 +1,6 @@
+[Import,Return,Use,Implement,Parameter,Contain]
+2
+0 100000
+100010 0
+src.main.java.spoon.processing.ProblemFixer_java
+src.main.java.spoon.compiler.Environment_java

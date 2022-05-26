@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Use,Create]
+3
+0 111001 001000
+111010 0 001000
+011010 0 0
+src.org.apache.pig.backend.hadoop.executionengine.tez.plan.TezOperator_java
+src.org.apache.pig.backend.hadoop.executionengine.tez.plan.optimizer.TezOperDependencyParallelismEstimator_java
+src.org.apache.pig.backend.hadoop.executionengine.tez.util.TezCompilerUtil_java

@@ -1,0 +1,16 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+7
+0 0 0 0000100000 0 0 0
+0 0 0001000010 0 0 0 0
+0 0101010011 0 0 0110011000 0110011000 0111011001
+0 0 0111010011 0 0 0 0
+0 0 0011010011 0 0 0 0
+0110001000 0010000100 0011010011 0110001000 0 0 0
+0 0 0110000010 0 0 0 0
+src.main.java.spoon.support.reflect.declaration.CompilationUnitVirtualImpl_java
+src.main.java.spoon.reflect.CoreFactory_java
+src.main.java.spoon.reflect.Factory_java
+src.main.java.spoon.support.reflect.declaration.CompilationUnitImpl_java
+src.main.java.spoon.support.StandardEnvironment_java
+src.main.java.spoon.support.DefaultCoreFactory_java
+src.main.java.spoon.reflect.factory.CompilationUnitFactory_java

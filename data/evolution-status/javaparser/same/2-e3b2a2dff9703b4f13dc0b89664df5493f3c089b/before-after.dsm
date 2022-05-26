@@ -1,0 +1,6 @@
+[Cast,Call,Return,Import,Extend,Use,Create,Parameter,Contain]
+2
+0 010100100
+010100100 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.typeinference.constraintformulas.ExpressionCompatibleWithType_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.typeinference.TypeInference_java

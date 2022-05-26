@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+6
+0 0 0 0 01001000 0
+0 0 0 0 01001000 0
+0 0 0 0 01001000 0
+0 0 0 0 01001000 0
+01000100 01000100 01000100 01000100 0 01000100
+0 0 0 0 01001000 0
+src.antidote.org.apache.tools.ant.gui.event.PropertySelectionEvent_java
+src.antidote.org.apache.tools.ant.gui.event.TaskSelectionEvent_java
+src.antidote.org.apache.tools.ant.gui.event.ProjectSelectionEvent_java
+src.antidote.org.apache.tools.ant.gui.event.NullSelectionEvent_java
+src.antidote.org.apache.tools.ant.gui.event.ElementSelectionEvent_java
+src.antidote.org.apache.tools.ant.gui.event.TargetSelectionEvent_java

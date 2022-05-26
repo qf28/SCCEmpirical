@@ -1,0 +1,8 @@
+[Call,Return,Import,Use,Create,Implement,Parameter,Contain]
+3
+0 0 10010011
+10010001 0 10011011
+11011001 11011001 0
+src.main.java.spoon.support.compiler.jdt.ContextBuilder_java
+src.main.java.spoon.support.compiler.jdt.JDTTreeBuilderHelper_java
+src.main.java.spoon.support.compiler.jdt.JDTTreeBuilder_java

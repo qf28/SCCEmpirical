@@ -1,0 +1,22 @@
+[Call,Typed,Import,Extend,Use,Create]
+10
+0 110010 100000 0 0 0 111010 0 0 0
+110010 0 111001 0 0 0 001000 101010 000001 0
+0 010010 0 101001 0 110001 110010 101010 0 000010
+0 111010 0 0 100001 0 101110 0 0 011000
+0 100010 111000 0 0 0 111000 0 0 101110
+101010 011010 0 0 0 0 0 0 0 0
+000010 111010 0 001000 0 110001 0 101010 0 010000
+110010 110010 100000 0 0 111000 0 0 0 0
+0 110010 100000 0 0 0 0 0 0 0
+0 111000 010010 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexManager_java
+src.java.org.apache.cassandra.db.index.keys.KeysIndex_java
+src.java.org.apache.cassandra.db.index.keys.KeysSearcher_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexBuilder_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.MeteredFlusher_java
+src.java.org.apache.cassandra.db.index.SecondaryIndexSearcher_java

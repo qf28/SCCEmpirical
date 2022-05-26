@@ -1,0 +1,10 @@
+[Cast,Call,Return,Import,Use,Create,Implement,Parameter,Contain]
+4
+0 011110001 000100100 0
+000110011 0 011110011 110011001
+0 001110000 0 0
+0 110000001 0 0
+src.main.java.spoon.support.reflect.CtExtendedModifier_java
+src.main.java.spoon.reflect.visitor.printer.internal.ElementSourceFragment_java
+src.main.java.spoon.reflect.cu.SourcePositionHolder_java
+src.main.java.spoon.reflect.visitor.printer.internal.CollectionSourceFragment_java

@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Create]
+3
+0 0 1100
+0 0 1100
+1001 1001 0
+wicket.src.java.wicket.markup.html.tree.ListTreeRow_java
+wicket.src.java.wicket.markup.html.tree.ListTreeRows_java
+wicket.src.java.wicket.markup.html.tree.ListTree_java

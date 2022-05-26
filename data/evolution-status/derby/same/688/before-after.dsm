@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create]
+3
+0 0 1110
+0 0 1100
+1001 1001 0
+java.engine.org.apache.derby.impl.jdbc.EmbedClob_java
+java.engine.org.apache.derby.impl.jdbc.EmbedBlob_java
+java.engine.org.apache.derby.impl.jdbc.EmbedConnection_java

@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 11000000 0 00000100
+10000000 0 0 01000000
+0 0 0 01000000
+11000000 11000000 11000100 0
+wicket.src.main.java.wicket.Session_java
+wicket.src.main.java.wicket.Application_java
+wicket.src.main.java.wicket.IComponentBorder_java
+wicket.src.main.java.wicket.Component_java

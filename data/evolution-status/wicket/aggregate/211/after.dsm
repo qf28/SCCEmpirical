@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00010000
+00010000 0
+wicket-extensions.src.java.wicket.extensions.markup.html.repeater.refreshing.RefreshingView_java
+wicket-extensions.src.java.wicket.extensions.markup.html.repeater.refreshing.ModelIteratorAdapter_java

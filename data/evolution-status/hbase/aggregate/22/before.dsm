@@ -1,0 +1,4 @@
+[depend]
+1
+0
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.Hash_java

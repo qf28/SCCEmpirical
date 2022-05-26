@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+4
+0 0 0 010011000
+0 0 0 010011000
+0 0 0 110101011
+000100000 000100000 110101000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.type.UnionType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.WildcardType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ArrayType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.Type_java

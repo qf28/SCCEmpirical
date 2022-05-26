@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 001000 0
+001000 0 0
+0 111001 0
+ambari-server.src.main.java.org.apache.ambari.server.api.services.views.ViewVersionService_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.ViewVersionResponse_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ViewVersionResourceProvider_java

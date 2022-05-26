@@ -1,0 +1,6 @@
+[Call,Typed,Set,Import,Extend,Create,Use]
+2
+0 1000000
+1000010 0
+java.testing.org.apache.derbyTesting.functionTests.tests.compatibility.ClientCompatibilityRunControl_java
+java.testing.org.apache.derbyTesting.functionTests.tests.compatibility.VersionCombinationConfigurator_java

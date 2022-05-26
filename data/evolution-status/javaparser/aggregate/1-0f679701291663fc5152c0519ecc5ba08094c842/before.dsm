@@ -1,0 +1,4 @@
+[Call,Return,Import,Use,Create,Parameter,Contain]
+1
+0
+javaparser-metamodel-generator.src.main.java.com.github.javaparser.generator.metamodel.MetaModelGenerator_java

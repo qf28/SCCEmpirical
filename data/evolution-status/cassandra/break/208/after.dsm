@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 001000000
+011000001 0
+src.java.org.apache.cassandra.utils.concurrent.RefCounted_java
+src.java.org.apache.cassandra.utils.concurrent.Ref_java

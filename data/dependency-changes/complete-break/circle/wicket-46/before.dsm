@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0 11100000
+01001000 0 0
+0 00000100 0
+wicket-core.src.main.java.org.apache.wicket.markup.AbstractMarkupParser_java
+wicket-core.src.main.java.org.apache.wicket.markup.MarkupParser_java
+wicket-core.src.main.java.org.apache.wicket.markup.ComponentTag_java

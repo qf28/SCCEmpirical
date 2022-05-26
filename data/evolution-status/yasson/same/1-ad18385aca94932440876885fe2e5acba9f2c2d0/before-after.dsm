@@ -1,0 +1,24 @@
+[Cast,Call,Return,Import,Extend,Use,Create,Parameter,Contain,Annotation]
+11
+0 0 0 0100000100 0 0 0 0 0 0 0
+0 0 0 0100010110 0 0100000000 0 0100010000 0 0 0
+0 0100000000 0 0100010110 0 0 0 0 0 0100011110 0
+0 0110011010 0110011010 0 0 0110011010 0 0 0 0 0
+1001000100 0 0 0 0 0 0 0 0 0 0
+0 0 0 0100010110 0 0 0 0100010000 1101010000 0 0
+0 0 0 0001000100 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0001000000
+0 0101000110 0 0101000100 0100001000 0100000000 0 0101010000 0 0 0
+0 0100000000 0 0100010110 0 0 0100001010 0 0100011110 0 0
+0 0 0100000000 0101000100 0 0 0 0101010000 0 0 0
+src.main.java.org.eclipse.yasson.internal.Marshaller_java
+src.main.java.org.eclipse.yasson.internal.AnnotationIntrospector_java
+src.main.java.org.eclipse.yasson.internal.MappingContext_java
+src.main.java.org.eclipse.yasson.internal.JsonbContext_java
+src.main.java.org.eclipse.yasson.internal.serializer.AdaptedObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.ComponentMatcher_java
+src.main.java.org.eclipse.yasson.model.ReflectionPropagation_java
+src.main.java.org.eclipse.yasson.internal.ReflectionUtils_java
+src.main.java.org.eclipse.yasson.model.PropertyModel_java
+src.main.java.org.eclipse.yasson.internal.ClassParser_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.AbstractItem_java

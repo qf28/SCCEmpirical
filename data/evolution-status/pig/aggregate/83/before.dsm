@@ -1,0 +1,4 @@
+[Call,Import,Extend,Create]
+1
+0
+src.org.apache.pig.newplan.logical.relational.LogicalRelationalNodesVisitor_java

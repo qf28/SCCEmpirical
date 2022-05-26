@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+3
+0 010001101 0
+0 0 010001000
+110001011 010001110 0
+google-http-client-xml.src.main.java.com.google.api.client.xml.GenericXml_java
+google-http-client-xml.src.main.java.com.google.api.client.xml.XmlNamespaceDictionary_java
+google-http-client-xml.src.main.java.com.google.api.client.xml.Xml_java

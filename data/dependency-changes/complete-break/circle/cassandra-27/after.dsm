@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 0 0
+01000 0 0
+01000 11000 0
+src.java.org.apache.cassandra.io.IndexHelper_java
+src.java.org.apache.cassandra.io.IFileReader_java
+src.java.org.apache.cassandra.io.SSTable_java

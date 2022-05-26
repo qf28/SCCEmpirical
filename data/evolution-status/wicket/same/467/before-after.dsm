@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Throw,Use]
+3
+0 01100000 01100001
+00100000 0 01100000
+0 01100000 0
+wicket.src.java.wicket.util.time.TimeOfDay_java
+wicket.src.java.wicket.util.time.Time_java
+wicket.src.java.wicket.util.time.Duration_java

@@ -1,0 +1,6 @@
+[Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+2
+0 00001010
+00101000 0
+src.main.java.com.stripe.model.EventCollection_java
+src.main.java.com.stripe.model.Event_java

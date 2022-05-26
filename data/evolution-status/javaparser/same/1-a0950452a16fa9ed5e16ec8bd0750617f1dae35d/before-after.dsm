@@ -1,0 +1,94 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+46
+0 0 0 0 0 0 1100011011 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010001010 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0111011011 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0101011000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0110010001 0 0 0110000010 0 0 0100001010 0110010000 0 0 0100010000 0 0110010000 0 0 0 0 0 0 0 0 0 0101000001 0 0 0 0 0 0 0100001010 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0100010010 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0 0000000010 0000000010 0000000010 0 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0010001010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0010001010 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0101011011 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0100010011 0100010011 0100010011 0100010011 0100011011 0100010011 0100010011 0100010011 0100010011 0000000100 0100010011 0100010011 0100010011 0 0100010011 0100010011 0100011011 0100010011 0100010011 0100010011 0100011011 0100011011 0100010011 0100010011 0100010011 0100010011 0100011011 0100010011 0100010011 0100010011 0100010011 0100011011 0100010011 0100011011 0100010011 0100010011 0100010011 0100010011 0 0100010011 0100011011 0100010011 0100010011 0100010011 0100010011 0100010011
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0111011011 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0110010000 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0000001010 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0001000000 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0001001010 0 0 0 0 0
+0 0 0 0 0110010000 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0111011011 0 0 0110000010 0 0 0 0110010000 0 0 0100000001 0 0 0 0010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0110010000 0 1110011011 0 0 0110000010 0 0 0 0110010000 0 0 0100000001 0 0 0 0010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 1111011001 0110010000 0 1110001011 0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 1100011011 0 0 0 0 1111011001 0 0 0110000010 0 0 0 0 0 0 1111011001
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0111011011 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0111011011 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0010001010 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0010001010 0 0 0 0 0 0 1101011001 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0111011011 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0111011011 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0 0000000010 0000000010 0000000010 0 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010 0000000010
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0110010000 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1100011011 0000001010 0 0 0 0 0110000010 0 0 0 0110011000 0 0 0
+0 0 0 0 0110010000 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.TryStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.MethodReferenceExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleOpensStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.MethodCallExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ClassOrInterfaceType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.BlockStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.UnionType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.NormalAnnotationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.LambdaExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.UnknownType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.FieldAccessExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.WildcardType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.VoidType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EmptyMemberDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.TypeParameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumConstantDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.ForStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.PrimitiveType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.SwitchStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleProvidesStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Name_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ConstructorDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.MethodDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java
+javaparser-core.src.main.java.com.github.javaparser.ast.PackageDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.VariableDeclarationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.ArrayInitializerExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.ArrayCreationLevel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleExportsStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.ObjectCreationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.InitializerDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.IntersectionType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.SwitchEntryStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.ExplicitConstructorInvocationStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ArrayType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.ArrayCreationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.AnnotationMemberDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.AnnotationDeclaration_java

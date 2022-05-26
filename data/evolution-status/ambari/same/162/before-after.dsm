@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 000100
+110000 0
+ambari-server.src.main.java.org.apache.ambari.server.topology.AmbariContext_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.TopologyManager_java

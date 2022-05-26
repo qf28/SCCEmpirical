@@ -1,0 +1,26 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+12
+0 0 0 0 0 0 0 0 0 0 0 0
+0011010 0 0 0 0 0 1111000 0111000 0010000 0 0 0
+0 0 0 0 0 0 0 0 0111010 0 0 0
+0010001 0101000 0101000 0 0 0 0100000 0111000 0111010 0 0 0100000
+0100010 0 0 0 0 0 1111000 0 0 0 0 0100000
+0010001 0 0 0 0 0 0 0111000 0110010 0 0100100 0
+0010001 0101000 0101000 0 0 0 0 0111000 0111010 0 0 0101000
+0 0 0101000 0 0000010 0 0 0 0 0 0 0001010
+0000010 0 0 0 0 1111000 0 0 0 0 0 0101000
+0010001 0 0 0110010 0 0 0 0010000 0111010 0 0 0
+0 0 0 0 0 0 0 0011000 0 0 0 0
+0110010 0 0 1110010 0 0 1110010 0110000 0 1110010 0 0
+src.java.org.apache.cassandra.cql3.statements.ParsedStatement_java
+src.java.org.apache.cassandra.db.view.View_java
+src.java.org.apache.cassandra.thrift.ThriftValidation_java
+src.java.org.apache.cassandra.cql3.statements.ModificationStatement_java
+src.java.org.apache.cassandra.auth.CassandraRoleManager_java
+src.java.org.apache.cassandra.cql3.statements.CreateTableStatement_java
+src.java.org.apache.cassandra.cql3.statements.SelectStatement_java
+src.java.org.apache.cassandra.service.ClientState_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.cql3.statements.BatchStatement_java
+src.java.org.apache.cassandra.cql3.statements.SchemaAlteringStatement_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java

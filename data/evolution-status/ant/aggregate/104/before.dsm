@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create]
+3
+0 01010 01110
+0 0 10100
+00110 0 0
+src.main.org.apache.tools.ant.taskdefs.Rmic_java
+src.main.org.apache.tools.ant.taskdefs.rmic.RmicAdapterFactory_java
+src.main.org.apache.tools.ant.taskdefs.rmic.RmicAdapter_java

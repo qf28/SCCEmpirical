@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 0
+0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.Connection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncConnection_java

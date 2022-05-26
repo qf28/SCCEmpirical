@@ -1,0 +1,14 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+6
+0 0100000 0100000 0100000 0 0
+1100000 0 1000000 1000000 0 1100010
+0100000 0 0 0 0 0
+1100000 1000000 0 0 1010010 0
+1110000 1110000 0 1000000 0 0
+0100000 0000100 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterWalManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.ServerCrashProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.SplitLogManager_java

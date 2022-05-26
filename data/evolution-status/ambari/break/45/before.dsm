@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 000100
+111100 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.ClusterGrouping_java
+ambari-server.src.main.java.org.apache.ambari.server.state.UpgradeHelper_java

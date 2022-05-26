@@ -1,0 +1,6 @@
+[Cast,Call,Import,Extend,Create,Use]
+2
+0 011000
+001010 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.resolver.AutoComponentResolver_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Application_java

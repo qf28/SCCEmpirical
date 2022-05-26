@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+2
+0 0000000010
+0001000100 0
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.TextElementMatcher_java
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.TextElement_java

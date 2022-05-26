@@ -1,0 +1,14 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+6
+0 0 0 1000100 0 0
+0 0 1001000 0 0 0
+1000000 0 0 0 0 0
+0 1001000 1000000 0 0 0
+1000000 1001000 1000000 0 0 0
+1000000 0 1000000 0 0 0
+src.main.java.org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils_java
+src.main.java.org.apache.commons.math.analysis.solvers.AbstractUnivariateRealSolver_java
+src.main.java.org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver_java
+src.main.java.org.apache.commons.math.analysis.solvers.BrentSolver_java
+src.main.java.org.apache.commons.math.analysis.solvers.BisectionSolver_java
+src.main.java.org.apache.commons.math.analysis.solvers.NewtonSolver_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 011010 0
+010000 0 0
+010000 001010 0
+src.main.java.org.apache.hadoop.hbase.zookeeper.ZKUtil_java
+src.main.java.org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher_java
+src.main.java.org.apache.hadoop.hbase.zookeeper.RootRegionTracker_java

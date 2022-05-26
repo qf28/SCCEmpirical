@@ -1,0 +1,6 @@
+[Call,Import,Create,Parameter,Contain]
+2
+0 11100
+10111 0
+javaparser-core.src.main.java.com.github.javaparser.ast.type.WildcardType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java

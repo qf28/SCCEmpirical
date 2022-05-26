@@ -1,0 +1,28 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+13
+0 0 0 0 0 0 0 0110010000 0 0 0 0 0100110000
+0 0 0110010000 0 0 0100001000 0 0 0100001000 0100001000 0100011000 0100001000 0
+0100001000 0 0 0100001000 0100001000 0 0 0 0 0 0 0 0
+0 0110001000 0110010000 0 0 0 0110001000 0 0 0110001000 0110001000 0 0100110000
+0 0 0110010000 0 0 0 0 0 0 0 0 0 0100110000
+0 0 0110010000 0 0 0 0 0 0 0 0 0 0
+0 0 0110010000 0 0 0110001000 0 0110010000 0100001000 0100001000 0100011000 0100001000 0
+0 0100001000 0100010000 0 0 0110011001 0100001000 0 1100000001 0 0 0100001001 0
+0 0 0 0 0 0 0 0 0 0 0100001000 0 0
+0 0100001000 0110010000 0 0 0 0100001000 0110010000 0 0 0100011000 0100001000 0
+0 0 0 0 0 0 0 0110010000 0 0100001000 0 0 0
+0 0 0110010000 0 0 0 0 0 0 0100001000 0 0 0
+0 0 0110010000 0 0 0 0 0 0 0 0 0 0
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.contexts.MethodCallExprContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.JavaParserFactory_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.contexts.ClassOrInterfaceDeclarationContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.contexts.StatementContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.resolution.SymbolSolver_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserClassDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.JavaParserFacade_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserTypeVariableDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserMethodDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserTypeParameter_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserEnumDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.contexts.AbstractJavaParserContext_java

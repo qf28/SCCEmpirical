@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 000100
+010000 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.TopologyHostTaskEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.TopologyLogicalTaskEntity_java

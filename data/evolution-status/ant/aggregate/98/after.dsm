@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 00100000
+11100100 0
+org.apache.tools.ant.TaskContainer_java
+org.apache.tools.ant.Task_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 011000000
+001100000 0
+proposal.myrmidon.src.todo.org.apache.tools.todo.taskdefs.rmic.Rmic_java
+proposal.myrmidon.src.todo.org.apache.tools.todo.taskdefs.rmic.RmicAdapter_java

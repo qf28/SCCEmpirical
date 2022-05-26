@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Use,Create,Parameter,Contain]
+4
+0 0 00100010 0
+0 0 00100010 0
+01100100 01100100 0 01001001
+0 0 00000010 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.typeinference.constraintformulas.TypeSameAsType_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.typeinference.constraintformulas.TypeSubtypeOfType_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.typeinference.BoundSet_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.typeinference.InstantiationSet_java

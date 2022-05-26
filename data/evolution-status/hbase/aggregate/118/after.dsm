@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+9
+0 0 0 0 0110000 0 0 0 0
+0 0 0111000 0 0 0 0 0 0
+0110010 0101010 0 0110000 0110010 0100010 0 0101010 0100010
+0 0 0 0 0 0 1100000 0 0
+0 0 0 0110000 0 0 0 0 0
+0 0 0110000 0 0 0 0 0 0
+0 0 0110010 0110010 0100000 0 0 0101010 0
+0 0 0111000 0111000 0111000 0 1101000 0 0
+0 0 0110000 0 0110000 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.OfflineCallback_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.OpenedRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.RegionStates_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignCallable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.EnableTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.GeneralBulkAssigner_java

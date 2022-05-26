@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+4
+0 011000000 0 0
+000000010 0 0 001000000
+0 001000000 0 0
+0 001000000 000010000 0
+src.java.org.apache.commons.cli2.OptionException_java
+src.java.org.apache.commons.cli2.Option_java
+src.java.org.apache.commons.cli2.CommandLine_java
+src.java.org.apache.commons.cli2.WriteableCommandLine_java

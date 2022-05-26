@@ -1,0 +1,8 @@
+[Call,Import,Return,Use,Implement,Parameter,Contain]
+3
+0 1000000 1000010
+0100010 0 0
+0 0110010 0
+src.main.java.spoon.compiler.SpoonFile_java
+src.main.java.spoon.compiler.builder.EncodingProvider_java
+src.main.java.spoon.compiler.Environment_java

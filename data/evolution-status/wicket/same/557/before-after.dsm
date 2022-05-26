@@ -1,0 +1,30 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+14
+0 0 0010000 0 0 0 0010000 0 0 0 0 0 0 0
+0 0 1110000 0101000 0 0 0 0 0 0 0 0010000 0 0
+0 0100010 0 0 0 0100010 0010000 0 0 0 0100010 1110110 0100010 0100010
+0 0 0 0 0 0 0 0 0 0 0 1010000 0 0
+0 0 0 1000000 0 0 0 0 1110000 0 0 0 0 0
+0 0 1110100 0 0 0 0 0 0 0 0 0 0 0
+1110000 0 0110000 1010000 0 0 0 0 0 0000010 0 0010000 0 0
+0 0 0 1010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 1110000 0 0 0 1010000 0 0 0 0 0 0
+0000001 0 1010000 0 0 0 0010100 0 0 0 0 0 0 0
+0 0 0 0 0000010 0 0 0 0100010 0 0 0 0 0
+0 0 1110000 0 0 0 0 0 0 0 0 0 0 0
+0 0 1110000 0101000 0 0 0 0 0 0 0 0010000 0 0
+0 0 0 0 0 0 0 0 0100010 0 0 0 0 0
+wicket.src.java.wicket.protocol.http.portlet.IPortletApplicationFactory_java
+wicket.src.java.wicket.protocol.http.portlet.PortletActionRequestCycle_java
+wicket.src.java.wicket.protocol.http.portlet.PortletApplication_java
+wicket.src.java.wicket.protocol.http.portlet.PortletRequestCycle_java
+wicket.src.java.wicket.protocol.http.portlet.PortletActionRequestResponseStrategy_java
+wicket.src.java.wicket.protocol.http.portlet.PortletSessionStore_java
+wicket.src.java.wicket.protocol.http.portlet.WicketPortlet_java
+wicket.src.java.wicket.protocol.http.portlet.PortletPage_java
+wicket.src.java.wicket.protocol.http.portlet.PortletRequestCodingStrategy_java
+wicket.src.java.wicket.protocol.http.portlet.PortletPreferencesPortletApplicationFactory_java
+wicket.src.java.wicket.protocol.http.portlet.PortletActionRequestCycleProcessor_java
+wicket.src.java.wicket.protocol.http.portlet.WicketPortletSession_java
+wicket.src.java.wicket.protocol.http.portlet.PortletRenderRequestCycle_java
+wicket.src.java.wicket.protocol.http.portlet.PortletRenderRequestCycleProcessor_java

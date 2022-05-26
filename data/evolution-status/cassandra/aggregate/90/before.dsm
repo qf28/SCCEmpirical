@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Create,Use]
+2
+0 10010
+10100 0
+src.java.org.apache.cassandra.hints.HintsWriter_java
+src.java.org.apache.cassandra.hints.CompressedHintsWriter_java

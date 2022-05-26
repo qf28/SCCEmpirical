@@ -1,0 +1,6 @@
+[Call,Import,Use,Implement]
+2
+0 0
+0 0
+src.java.org.apache.cassandra.locator.PropertyFileSnitch_java
+src.java.org.apache.cassandra.utils.FBUtilities_java

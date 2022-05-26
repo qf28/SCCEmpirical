@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0110100
+1100011 0
+src.main.java.org.apache.commons.math.linear.ArrayRealVector_java
+src.main.java.org.apache.commons.math.linear.AbstractRealVector_java

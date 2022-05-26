@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 001000100 111000010
+011000010 0 111000010
+001000100 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.NettyServerRpcConnection_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.NettyRpcServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.NettyServerCall_java

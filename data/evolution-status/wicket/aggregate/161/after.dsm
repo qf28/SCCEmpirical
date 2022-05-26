@@ -1,0 +1,12 @@
+[Call,Typed,Import,Create,Use,Implement]
+5
+0 010010 111100 111000 110000
+110010 0 0 100000 110000
+111000 011000 0 000001 011000
+0 0 0 0 011000
+0 010000 0 0 0
+wicket.src.main.java.org.apache.wicket.Application_java
+wicket.src.main.java.org.apache.wicket.Component_java
+wicket.src.main.java.org.apache.wicket.settings.Settings_java
+wicket.src.main.java.org.apache.wicket.settings.IFrameworkSettings_java
+wicket.src.main.java.org.apache.wicket.IDetachListener_java

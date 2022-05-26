@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 1100010 1100000
+0010000 0 0010000
+0 1100010 0
+src.org.apache.pig.newplan.logical.expression.UserFuncExpression_java
+src.org.apache.pig.newplan.logical.expression.LogicalExpressionVisitor_java
+src.org.apache.pig.newplan.logical.expression.ConstantExpression_java

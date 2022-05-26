@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00010100
+01010000 0
+src.main.java.org.apache.commons.math3.analysis.FunctionUtils_java
+src.main.java.org.apache.commons.math3.analysis.function.Identity_java

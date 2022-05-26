@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+3
+0 0 0101010
+0111100 0 0
+0 1101000 0
+wicket.src.main.java.org.apache.wicket.protocol.https.HttpsRequestChecker_java
+wicket.src.main.java.org.apache.wicket.request.cycle.RequestCycle_java
+wicket.src.main.java.org.apache.wicket.protocol.https.SwitchProtocolRequestHandler_java

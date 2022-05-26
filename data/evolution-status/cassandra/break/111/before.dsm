@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use]
+3
+0 0010 1010
+1100 0 1010
+1101 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

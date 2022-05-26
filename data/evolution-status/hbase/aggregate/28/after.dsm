@@ -1,0 +1,30 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+14
+0 0 0 0 0 0 0 0 010000100 0 0 0 011100000 0
+011101100 0 0 011100100 010000000 011000100 0 010000000 0 0 0 010100000 010000000 010000000
+0 0 0 000100100 011100000 011000000 0 010000000 0 0 0 010100000 0 0
+0 0 0 0 0 0 0 0 011100100 0 0 0 0 0
+0 0 0 011000110 0 011100000 0 010000000 010000000 0 0 0 0 0
+010101000 111100110 011000010 0 011100010 0 011000010 010101100 011100110 0 011000010 0 011000001 011000010
+0 0 0 000100100 011100000 011000000 0 010000000 0 0 0 010100000 0 0
+0 0 0 0 0 110100100 0 0 0 011000010 0 0 0 0
+0 0 0 0 0 110100000 0 0 0 0 0 0 011100000 0
+0 0 0 0 0 0 0 011000000 0 0 0 0 0 0
+0 0 0 000100100 011100000 011000000 0 010000000 0 0 0 010100000 0 0
+0 0 0 0 011100000 000100000 0 0 0 0 0 0 0 0
+0 0 0 0 001100000 0 0 0 000100100 0 0 0 0 001000000
+0 0 0 0 0 110000000 0 0 0 0 0 0 111000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.MasterProcedureUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterMobCompactionThread_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.locking.LockProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.locking.LockManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ExpiredMobFileCleanerChore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.MasterProcedureEnv_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MobCompactionChore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.mob.MobUtils_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java

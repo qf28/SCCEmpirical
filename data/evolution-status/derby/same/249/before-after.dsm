@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 111010 010001
+011001 0 0
+111000 011000 0
+java.engine.org.apache.derby.impl.store.access.heap.HeapController_java
+java.engine.org.apache.derby.impl.store.access.heap.Heap_java
+java.engine.org.apache.derby.impl.store.access.heap.HeapPostCommit_java

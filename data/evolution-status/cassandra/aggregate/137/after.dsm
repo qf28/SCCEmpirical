@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 0100000 0
+1000001 0 1000001
+0 0100000 0
+src.java.org.apache.cassandra.db.commitlog.GroupCommitLogService_java
+src.java.org.apache.cassandra.db.commitlog.CommitLog_java
+src.java.org.apache.cassandra.db.commitlog.BatchCommitLogService_java

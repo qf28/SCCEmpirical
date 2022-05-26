@@ -1,0 +1,8 @@
+[Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+3
+0 0 110010000
+110001000 0 0
+0 110010000 0
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.model.reflection.ReflectionClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.typesolvers.JreTypeSolver_java

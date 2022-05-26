@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Throw,Implement]
+2
+0 0011000000
+0011000000 0
+src.java.org.apache.cassandra.dht.IPartitioner_java
+src.java.org.apache.cassandra.db.DecoratedKey_java

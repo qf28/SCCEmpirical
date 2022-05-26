@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Implement]
+2
+0 10110
+11100 0
+wicket.src.main.java.org.apache.wicket.Application_java
+wicket.src.main.java.org.apache.wicket.settings.def.ResourceSettings_java

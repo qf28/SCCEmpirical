@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Use]
+3
+0 01001 10110
+11010 0 0
+11100 0 0
+ambari-infra.ambari-infra-solr-client.src.main.java.org.apache.ambari.infra.solr.AmbariSolrCloudClient_java
+ambari-infra.ambari-infra-solr-client.src.main.java.org.apache.ambari.infra.solr.AmbariSolrCloudClientBuilder_java
+ambari-infra.ambari-infra-solr-client.src.main.java.org.apache.ambari.infra.solr.commands.DumpCollectionsCommand_java

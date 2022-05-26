@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 010010
+000010 0
+src.java.org.apache.hadoop.hbase.KeyValue_java
+src.java.org.apache.hadoop.hbase.HTableDescriptor_java

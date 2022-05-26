@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create,Implement]
+2
+0 11010
+11100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionWrapperImpl_java

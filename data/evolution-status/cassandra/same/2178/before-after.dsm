@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create,Implement]
+4
+0 100100 000001 100000
+0 0 110000 0
+0 100100 0 110010
+111110 0 0 0
+src.java.org.apache.cassandra.transport.Server_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.CassandraDaemon_java
+src.java.org.apache.cassandra.service.NativeTransportService_java

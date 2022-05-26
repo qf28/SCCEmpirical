@@ -1,0 +1,26 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+12
+0 0 0 0 0 0 0 0 0 0000001000 0101001000 0
+0110000000 0 0 0 0 0 0000001000 0 0010000000 0 0111001110 0
+0110000100 0100111001 0 0 0 0 0 0 0110000000 0111001110 0111011000 0
+0100000000 0 0001001000 0 0001001000 0 0001001000 0 0111000000 0 0111001000 0
+0110000100 0100111001 0 0 0 0 0 0 0110000000 0110001100 0111011000 0
+0 0 0 0011001000 0 0 0 0 0 0 0001001000 0
+0 0 0 0 0 0 0 1111000100 0000000010 0110000000 0010000000 0101000100
+0 0 0 0 0 0 0 0 0 0001001000 0 0
+0 0 0 0 0 0 0 0 0 0010000000 0010000000 0
+0 0 0 0 0 0 0000001000 0111000100 0110000000 0 0000001000 0111000100
+0110000000 0100000000 0000000100 0 0000000100 0001001000 0000001000 0 0010000000 0010000000 0 0
+0 0 0 0 0 0 0 0 0 0001000000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.FixedFileTrailer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.AbstractHFileWriter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileWriterV2_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFile_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileWriterV1_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.HColumnDescriptor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.NoOpDataBlockEncoder_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.encoding.HFileBlockDefaultEncodingContext_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileDataBlockEncoder_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlock_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFile_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.encoding.HFileBlockDefaultDecodingContext_java

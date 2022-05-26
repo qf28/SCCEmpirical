@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+6
+0 0 1111000000 0 0 0111001101
+1101001000 0 0 1100001000 0 0111110100
+0111001000 0 0 0 0 0
+0 0 0 0 0 0111000000
+0 0 0 0 0 0110000000
+1100001000 0001000100 0 0 1100001000 0
+src.java.main.org.apache.zookeeper.server.PrepRequestProcessor_java
+src.java.main.org.apache.zookeeper.server.quorum.ReadOnlyZooKeeperServer_java
+src.java.main.org.apache.zookeeper.server.quorum.LeaderZooKeeperServer_java
+src.java.main.org.apache.zookeeper.server.quorum.ReadOnlyRequestProcessor_java
+src.java.main.org.apache.zookeeper.server.SyncRequestProcessor_java
+src.java.main.org.apache.zookeeper.server.ZooKeeperServer_java

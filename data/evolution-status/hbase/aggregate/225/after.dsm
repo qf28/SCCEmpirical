@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+6
+0 0 0 0 010000100 010001000
+0 0 0 0 010000100 010001000
+0 0 0 0 010001100 0
+0 0 010001000 0 0 0
+010000010 010000010 010000010 010000010 0 0
+0 0 0 0 010001100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.StripeCompactionScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.MajorCompactionScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.MinorCompactionScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.IncludeAllCompactionQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.CompactionScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.DropDeletesCompactionScanQueryMatcher_java

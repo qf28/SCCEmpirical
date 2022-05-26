@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0100001 0100001
+0100000 0 0 0
+0100110 0 0 0
+0100110 1110000 0 0
+src.java.org.apache.cassandra.cql3.functions.UDFunction_java
+src.java.org.apache.cassandra.cql3.functions.JavaUDF_java
+src.java.org.apache.cassandra.cql3.functions.ScriptBasedUDFunction_java
+src.java.org.apache.cassandra.cql3.functions.JavaBasedUDFunction_java

@@ -1,0 +1,14 @@
+[Call,Typed,Import,Use]
+6
+0 1011 0 1010 0 0
+1111 0 0 1010 0 0
+1101 0 0 1010 1010 1011
+0011 0010 1011 0 0 0
+0 0 1110 1010 0 1001
+0 0 0 1010 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.commitlog.CommitLog_java
+src.java.org.apache.cassandra.db.migration.Migration_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.gms.Gossiper_java

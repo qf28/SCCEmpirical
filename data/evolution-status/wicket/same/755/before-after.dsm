@@ -1,0 +1,8 @@
+[Call,Typed,Import,Implement]
+3
+0 0 1110
+1100 0 0
+0 1010 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.ResourceReference_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.RequestCycle_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.markup.html.PackageResource_java

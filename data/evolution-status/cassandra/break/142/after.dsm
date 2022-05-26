@@ -1,0 +1,32 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+15
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+01111101 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+01111101 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+01100100 0 01101010 0 0 0 0 0 0 0 0 0 0 0 0
+01111101 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+01100100 0 01101010 0 0 0 0 0 0 0 0 0 0 0 0
+01100100 0 01101010 0 0 0 0 0 0 0 0 0 0 0 0
+01111101 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+01111101 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+01100100 0 01101010 0 0 0 0 0 0 0 0 0 0 0 0
+01111101 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+01100100 0 01101010 0 0 0 0 0 0 0 0 0 0 0 0
+01100100 0 01101100 0 0 0 0 0 0 0 0 0 0 0 0
+01111101 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+01111101 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+tools.stress.src.org.apache.cassandra.stress.Operation_java
+tools.stress.src.org.apache.cassandra.stress.operations.ThriftMultiGetter_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlOperation_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlRangeSlicer_java
+tools.stress.src.org.apache.cassandra.stress.operations.ThriftCounterGetter_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlReader_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlCounterGetter_java
+tools.stress.src.org.apache.cassandra.stress.operations.ThriftCounterAdder_java
+tools.stress.src.org.apache.cassandra.stress.operations.ThriftRangeSlicer_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlCounterAdder_java
+tools.stress.src.org.apache.cassandra.stress.operations.ThriftReader_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlInserter_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlIndexedRangeSlicer_java
+tools.stress.src.org.apache.cassandra.stress.operations.ThriftIndexedRangeSlicer_java
+tools.stress.src.org.apache.cassandra.stress.operations.ThriftInserter_java

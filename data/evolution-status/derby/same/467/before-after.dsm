@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+3
+0 0100101 0
+0 0 1010001
+0100010 0100010 0
+java.engine.org.apache.derby.impl.store.access.btree.index.B2IRowLockingRR_java
+java.engine.org.apache.derby.impl.store.access.btree.index.B2IRowLocking3_java
+java.engine.org.apache.derby.impl.store.access.btree.index.B2I_java

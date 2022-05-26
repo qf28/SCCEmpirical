@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+4
+0 0 0 001000000
+0 0 011001000 001000010
+0 010001011 0 100110011
+001000100 0 011001000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.nodeTypes.NodeWithTokenRange_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ArrayType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

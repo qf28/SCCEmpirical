@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01110000
+01110010 0
+wicket-extensions.src.main.java.org.apache.wicket.extensions.markup.html.form.palette.component.Recorder_java
+wicket-extensions.src.main.java.org.apache.wicket.extensions.markup.html.form.palette.Palette_java

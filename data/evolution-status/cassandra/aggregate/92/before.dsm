@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 0 0 0 0
+0 0 00110000 0 0
+01100000 01110010 0 01100100 0
+0 0 01100100 0 0
+01000000 0 00100100 0 0
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsKey_java
+tools.stress.src.org.apache.cassandra.stress.util.SmartThriftClient_java
+tools.stress.src.org.apache.cassandra.stress.settings.StressSettings_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsSchema_java
+tools.stress.src.org.apache.cassandra.stress.Operation_java

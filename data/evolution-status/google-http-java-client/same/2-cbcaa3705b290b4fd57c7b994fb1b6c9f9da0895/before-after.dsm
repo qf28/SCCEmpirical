@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+2
+0 0000000010
+0101000001 0
+google-http-client.src.main.java.com.google.api.client.http.HttpParser_java
+google-http-client.src.main.java.com.google.api.client.http.HttpResponse_java

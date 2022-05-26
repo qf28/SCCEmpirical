@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0110001000
+0111011000 0
+src.java.org.apache.cassandra.db.RowPosition_java
+src.java.org.apache.cassandra.dht.Token_java

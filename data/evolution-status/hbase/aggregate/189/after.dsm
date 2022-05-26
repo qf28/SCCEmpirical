@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0110110
+0001100 0
+src.main.java.org.apache.hadoop.hbase.replication.ReplicationZookeeper_java
+src.main.java.org.apache.hadoop.hbase.replication.ReplicationPeer_java

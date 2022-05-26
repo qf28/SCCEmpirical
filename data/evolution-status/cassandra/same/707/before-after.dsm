@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 1001
+1110 0
+drivers.java.src.org.apache.cassandra.cql.jdbc.CassandraConnection_java
+drivers.java.src.org.apache.cassandra.cql.jdbc.CassandraStatement_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 0100
+1100 0
+src.org.apache.pig.impl.eval.EvalSpecVisitor_java
+src.org.apache.pig.impl.eval.StreamSpec_java

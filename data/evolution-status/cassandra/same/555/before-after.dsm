@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0110100 0 0110010
+0000010 0 0010010 0110010
+0 0 0 0110010
+1110011 0010010 1110011 0
+src.java.org.apache.cassandra.db.RangeTombstone_java
+src.java.org.apache.cassandra.db.Slice_java
+src.java.org.apache.cassandra.db.Clustering_java
+src.java.org.apache.cassandra.db.ClusteringPrefix_java

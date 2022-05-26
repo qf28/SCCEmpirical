@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01100000
+01100000 0
+ambari-server.src.main.java.org.apache.ambari.server.stack.StackModule_java
+ambari-server.src.main.java.org.apache.ambari.server.stack.StackContext_java

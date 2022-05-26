@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Extend,Use,Parameter,Contain]
+6
+0 0 01001100 0 0 0
+0 0 0 01001110 0 0
+0 0 0 01001110 0 10000110
+00010000 00010000 00010000 0 00010000 00010000
+0 0 0 01001100 0 0
+0 0 0 01001100 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumConstantDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.TypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.BodyDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.AnnotationMemberDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.CallableDeclaration_java

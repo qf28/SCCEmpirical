@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+2
+0 1010000
+0100100 0
+src.java.org.apache.cassandra.db.CompactSerializerInvocationHandler_java
+src.java.org.apache.cassandra.db.ColumnFamily_java

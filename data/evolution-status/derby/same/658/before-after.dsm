@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Set,Extend,Use,Create,Modify]
+3
+0 11100000 0
+01100100 0 01110111
+01000000 0 0
+java.drda.org.apache.derby.impl.drda.DB2jServerImpl_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java
+java.drda.org.apache.derby.impl.drda.Database_java

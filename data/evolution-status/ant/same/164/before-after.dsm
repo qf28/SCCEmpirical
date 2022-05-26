@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 011000 001010 0
+0 0 000010 0
+011001 111000 0 111000
+001000 0 0 0
+src.main.org.apache.tools.ant.BuildEvent_java
+src.main.org.apache.tools.ant.Task_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.BuildListener_java

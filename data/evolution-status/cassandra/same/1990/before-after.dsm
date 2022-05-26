@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 0 0 1110100
+0000001 0 0000010 1110100
+0 1100111 0 1110111
+0 0100000 0000010 0
+src.java.org.apache.cassandra.db.IMutation_java
+src.java.org.apache.cassandra.db.Mutation_java
+src.java.org.apache.cassandra.db.SimpleBuilders_java
+src.java.org.apache.cassandra.db.partitions.PartitionUpdate_java

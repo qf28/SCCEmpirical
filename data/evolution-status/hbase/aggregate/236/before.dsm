@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Create]
+2
+0 0100
+1001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.NettyRpcServerPreambleHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.NettyRpcServer_java

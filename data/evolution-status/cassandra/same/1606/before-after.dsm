@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 0 01110000 01100001 0
+0 0 01110000 0 0
+00110000 00010100 0 0 00010100
+10000100 0 0 0 0
+00100100 0 01110000 00100000 0
+src.java.org.apache.cassandra.db.RangeTombstone_java
+src.java.org.apache.cassandra.io.sstable.IndexHelper_java
+src.java.org.apache.cassandra.db.composites.CType_java
+src.java.org.apache.cassandra.db.OnDiskAtom_java
+src.java.org.apache.cassandra.db.filter.SliceQueryFilter_java

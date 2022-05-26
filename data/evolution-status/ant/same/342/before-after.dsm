@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 0100000
+1100000 0
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.xml.ParseContext_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.xml.ElementHandler_java

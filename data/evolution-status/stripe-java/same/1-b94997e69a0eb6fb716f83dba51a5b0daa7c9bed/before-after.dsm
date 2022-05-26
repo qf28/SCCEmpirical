@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Use,Parameter,Contain]
+3
+0 0001001 0
+0 0 0001100
+0100100 0 0
+src.main.java.com.stripe.model.ApplicationFee_java
+src.main.java.com.stripe.model.FeeRefundCollection_java
+src.main.java.com.stripe.model.FeeRefund_java

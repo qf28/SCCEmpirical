@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+4
+0 0 1100011 1000000
+1100010 0 1000000 0
+0000010 0 0 0
+0100000 1110011 0 0
+src.java.org.apache.cassandra.hints.HintsService_java
+src.java.org.apache.cassandra.hints.HintsServiceEvent_java
+src.java.org.apache.cassandra.hints.HintsDispatchExecutor_java
+src.java.org.apache.cassandra.hints.HintsServiceDiagnostics_java

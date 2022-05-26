@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 110011
+000010 0
+wicket-metrics.src.main.java.org.apache.wicket.metrics.WicketMetrics_java
+wicket-metrics.src.main.java.org.apache.wicket.metrics.WicketMetricsSettings_java

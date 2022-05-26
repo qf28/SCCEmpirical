@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 01000000 0 0
+01000000 0 0 0
+0 01010000 0 0
+0 01010000 01100110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.protobuf.RequestConverter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.protobuf.ProtobufUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.HColumnDescriptor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.HTableDescriptor_java

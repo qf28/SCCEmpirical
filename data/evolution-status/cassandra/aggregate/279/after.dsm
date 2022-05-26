@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0100001
+0110010 0
+src.java.org.apache.cassandra.hadoop.ColumnFamilyRecordWriter_java
+src.java.org.apache.cassandra.hadoop.ColumnFamilyOutputFormat_java

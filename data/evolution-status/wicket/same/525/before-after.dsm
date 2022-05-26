@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+7
+0 0 0 0 0 0 0111000
+0 0 0 0 0 0 0111000
+0 0 0 0 0 0000001 0110000
+0 0 0 0 0 0 0111000
+0100010 0 0 0 0 0 0011000
+0 0 0 0 0 0 0010000
+0101110 0101010 0000100 1101110 0101010 1110000 0
+wicket.src.main.java.wicket.request.target.component.PageRequestTarget_java
+wicket.src.main.java.wicket.request.target.resource.SharedResourceRequestTarget_java
+wicket.src.main.java.wicket.PageMap_java
+wicket.src.main.java.wicket.request.target.component.BookmarkablePageRequestTarget_java
+wicket.src.main.java.wicket.request.target.component.ComponentRequestTarget_java
+wicket.src.main.java.wicket.IRequestTarget_java
+wicket.src.main.java.wicket.RequestCycle_java

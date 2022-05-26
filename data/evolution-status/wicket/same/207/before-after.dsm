@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create,Implement]
+2
+0 010010
+001000 0
+jdk-1_4.wicket-extensions.src.main.java.org.apache.wicket.extensions.wizard.Wizard_java
+jdk-1_4.wicket-extensions.src.main.java.org.apache.wicket.extensions.wizard.WizardButtonBar_java

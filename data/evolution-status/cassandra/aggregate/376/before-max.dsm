@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Create,Use]
+2
+0 100010
+100001 0
+src.java.org.apache.cassandra.schema.MigrationManager_java
+src.java.org.apache.cassandra.schema.MigrationTask_java

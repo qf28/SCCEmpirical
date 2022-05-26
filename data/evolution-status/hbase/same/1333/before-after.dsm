@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 01010010
+00010010 0
+hbase-http.src.main.java.org.apache.hadoop.hbase.http.log.LogLevel_java
+hbase-http.src.main.java.org.apache.hadoop.hbase.http.HttpServer_java

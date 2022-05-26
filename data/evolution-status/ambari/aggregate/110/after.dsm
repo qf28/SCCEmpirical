@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0011001000
+0001001000 0
+ambari-server.src.main.java.org.apache.ambari.server.agent.stomp.dto.TopologyCluster_java
+ambari-server.src.main.java.org.apache.ambari.server.events.TopologyUpdateEvent_java

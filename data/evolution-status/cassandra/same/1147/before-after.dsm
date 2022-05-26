@@ -1,0 +1,6 @@
+[Call,Typed,Create,Use,Implement]
+2
+0 00100
+10000 0
+src.org.apache.cassandra.net.MessagingService_java
+src.org.apache.cassandra.net.ResponseVerbHandler_java

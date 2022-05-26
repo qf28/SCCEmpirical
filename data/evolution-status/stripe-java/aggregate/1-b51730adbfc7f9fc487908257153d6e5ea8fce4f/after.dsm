@@ -1,0 +1,6 @@
+[Call,Import,Extend,Use,Contain]
+2
+0 01010
+01100 0
+src.main.java.com.stripe.net.APIResource_java
+src.main.java.com.stripe.model.SourceMandateNotification_java

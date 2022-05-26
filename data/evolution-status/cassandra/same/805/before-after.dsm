@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01110000
+10000010 0
+src.java.org.apache.cassandra.cql3.functions.UDAggregate_java
+src.java.org.apache.cassandra.schema.Functions_java

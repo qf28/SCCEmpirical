@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+4
+0 0100000000 0 0110001000
+0010000000 0 0010000000 0010000000
+0010000000 0 0 0
+0010000000 0110000000 0 0
+java.engine.org.apache.derby.impl.store.access.btree.LeafControlRow_java
+java.engine.org.apache.derby.impl.store.access.btree.BTreeLockingPolicy_java
+java.engine.org.apache.derby.impl.store.access.btree.BTreeRowPosition_java
+java.engine.org.apache.derby.impl.store.access.btree.OpenBTree_java

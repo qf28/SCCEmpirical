@@ -1,0 +1,10 @@
+[Call,Typed,Import,Create,Use]
+4
+0 0 11001 11110
+11101 0 11101 00001
+11001 11111 0 0
+11101 01001 01101 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.metrics.ColumnFamilyMetrics_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.metrics.KeyspaceMetrics_java

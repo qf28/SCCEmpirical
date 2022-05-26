@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 111010
+110010 0
+src.java.org.apache.hadoop.hbase.shell.SelectCommand_java
+src.java.org.apache.hadoop.hbase.shell.generated.Parser_java

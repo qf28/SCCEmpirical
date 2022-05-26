@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 1100110
+0010100 0
+ambari-metrics.ambari-metrics-anomaly-detection-service.src.main.java.org.apache.ambari.metrics.adservice.prototype.methods.ema.EmaTechnique_java
+ambari-metrics.ambari-metrics-anomaly-detection-service.src.main.java.org.apache.ambari.metrics.adservice.prototype.methods.ema.EmaModel_java

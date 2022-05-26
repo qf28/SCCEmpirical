@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Create,Use]
+3
+0 0 001001
+110011 0 001001
+111001 111011 0
+ambari-server.src.main.java.org.apache.ambari.server.state.ServiceInfo_java
+ambari-server.src.main.java.org.apache.ambari.server.api.util.StackExtensionHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.AmbariMetaInfo_java

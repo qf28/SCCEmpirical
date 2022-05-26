@@ -1,0 +1,34 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+16
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0011000100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0011000010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0011000000 0 0001000000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0011000010 0 0010000100 0 0 0 0 0 0 0 0 0 0 0 0 0
+0011001110 0 0110001011 0 0 0 0 0 0 0 0 0 0 0 0 0
+0011000010 0 0 0 0 0 0 0 0 0 0 0110001000 0 0 0 0
+0011001010 0100010000 0011001011 0010001010 0 0110010000 0 0 0 0 0 0110001000 0 0110010000 0110001000 0
+0010000000 0 0010000000 0010000000 0 0 0 0 0 0 0100101000 0110001000 0 0 0 0
+0010000000 0 0 0010000000 0 0 0 0 0 0 0100101000 0110001000 0 0 0 0
+0 0 0 0010001001 0 0 0 0 0 0 0 0110001000 0100001000 0 0 0
+0 0 0 0 0 0 0 0 0100010000 0100010000 0 0 0 0100010000 0 0100010000
+0011001011 0 0 0110000010 0 0 0 0010000000 0 0 0 0 0 0 0 0
+0110000001 0 0010000000 0010000000 0 0 0 0110010000 0 0 0100101000 0110001000 0 0 0 0
+0011000001 0 0011000000 0010000100 0 0 0 0110010000 0 0 0 0110001000 0 0 0 0
+0010000000 0 0010001010 0010000000 0110010000 0 0110010000 0 0 0 0100101000 0110001000 0000001010 0 0 0
+src.main.java.me.tomassetti.symbolsolver.model.usages.TypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.LambdaTypeUsagePlaceholder_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.TypeDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.ValueDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserTypeVariableDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.usages.TypeUsageOfTypeDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.JavaParserFacade_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.contexts.StatementContext_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.contexts.MethodContext_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.contexts.AbstractJavaParserContext_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.JavaParserFactory_java
+src.main.java.me.tomassetti.symbolsolver.model.Value_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.contexts.MethodCallExprContext_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.declarations.JavaParserSymbolDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.contexts.ClassOrInterfaceDeclarationContext_java

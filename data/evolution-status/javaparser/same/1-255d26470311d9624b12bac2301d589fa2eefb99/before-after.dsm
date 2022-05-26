@@ -1,0 +1,18 @@
+[Cast,Call,Import,Extend,Create,Use,Implement,Parameter,Contain]
+8
+0 011000010 0 011000010 001001000 011010000 0 0
+000000010 0 000000010 0 0 0 000000010 0
+0 001000010 0 001000010 001001000 011010000 0 0
+000000010 0 000000010 0 0 0 000000010 0
+000001000 0 000001000 0 0 0 0 0
+010011011 000000100 010010011 0 0 0 010010011 010000000
+010000001 011000010 000000010 011000010 001001000 011010000 0 010101000
+110001010 0 110001011 0 001001000 011010000 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ReceiverParameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.MethodDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.CallableDeclaration_java

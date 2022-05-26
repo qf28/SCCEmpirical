@@ -1,0 +1,10 @@
+[Call,Import,Use,Implement]
+4
+0 0 0 0
+0001 0 0 0
+0 0 0 0
+0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java

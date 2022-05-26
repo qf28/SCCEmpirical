@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 10101
+00010 0
+src.java.org.apache.cassandra.db.ReadVerbHandler_java
+src.java.org.apache.cassandra.service.StorageService_java

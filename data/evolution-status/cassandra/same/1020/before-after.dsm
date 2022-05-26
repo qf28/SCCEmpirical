@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 01100
+01110 0
+src.java.org.apache.cassandra.db.ClusteringPrefix_java
+src.java.org.apache.cassandra.db.ClusteringComparator_java

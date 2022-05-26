@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+2
+0 111010111
+001000000 0
+java.engine.org.apache.derby.iapi.services.context.ContextService_java
+java.engine.org.apache.derby.iapi.services.context.ContextManager_java

@@ -1,0 +1,6 @@
+[Use]
+2
+0 1
+1 0
+examples.hadoop_word_count.src.WordCount_java
+examples.hadoop_word_count.src.WordCountSetup_java

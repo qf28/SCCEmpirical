@@ -1,0 +1,6 @@
+[Call,Import,Return,Use,Parameter]
+2
+0 00011
+00110 0
+src.main.java.com.stripe.model.ApplicationFeeCollection_java
+src.main.java.com.stripe.model.ApplicationFee_java

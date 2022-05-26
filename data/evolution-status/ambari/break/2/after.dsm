@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+2
+0 0
+0110000 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.AlertHistoryEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.AlertCurrentEntity_java

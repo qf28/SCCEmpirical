@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use]
+2
+0 0111
+1111 0
+java.client.org.apache.derby.jdbc.ClientBaseDataSource_java
+java.client.org.apache.derby.client.am.Connection_java

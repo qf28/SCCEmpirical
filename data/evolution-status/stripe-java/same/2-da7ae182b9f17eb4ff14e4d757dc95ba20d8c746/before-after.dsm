@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+2
+0 000101000
+010101010 0
+src.main.java.com.stripe.model.Order_java
+src.main.java.com.stripe.model.OrderReturn_java

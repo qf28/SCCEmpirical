@@ -1,0 +1,6 @@
+[Call,Typed,Import,Implement]
+2
+0 1101
+0100 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.replication.ReplicationPeerConfig_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.replication.ReplicationPeerConfigBuilder_java

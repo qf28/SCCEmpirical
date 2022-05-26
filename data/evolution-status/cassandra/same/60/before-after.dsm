@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use]
+4
+0 0 1010 1011
+0 0 1010 1101
+0011 0 0 0111
+0011 1000 1010 0
+src.java.org.apache.cassandra.dht.BootStrapper_java
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.net.MessagingService_java

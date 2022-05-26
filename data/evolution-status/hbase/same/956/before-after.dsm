@@ -1,0 +1,6 @@
+[Call,Use]
+2
+0 10
+11 0
+hbase-http.src.main.java.org.apache.hadoop.hbase.http.ProfileServlet_java
+hbase-http.src.main.java.org.apache.hadoop.hbase.http.HttpServer_java

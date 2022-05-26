@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 010000
+010001 0
+src.java.org.apache.cassandra.index.sasi.SASIIndexBuilder_java
+src.java.org.apache.cassandra.index.sasi.SASIIndex_java

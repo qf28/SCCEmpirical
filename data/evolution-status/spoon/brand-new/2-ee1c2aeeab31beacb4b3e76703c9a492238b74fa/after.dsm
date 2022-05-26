@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain,Annotation]
+2
+0 00000010100
+00000000010 0
+src.test.java.spoon.test.template.testclasses.replace.NewPattern_java
+src.test.java.spoon.test.template.testclasses.replace.OldPattern_java

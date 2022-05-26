@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+3
+0 0101011011 0100010000
+0101001011 0 0
+0 0100000010 0
+google-http-client.src.main.java.com.google.api.client.http.HttpRequest_java
+google-http-client.src.main.java.com.google.api.client.http.HttpResponse_java
+google-http-client.src.main.java.com.google.api.client.http.HttpResponseException_java

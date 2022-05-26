@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 11100100
+11100110 0
+ambari-server.src.main.java.org.apache.ambari.server.state.kerberos.KerberosIdentityDescriptor_java
+ambari-server.src.main.java.org.apache.ambari.server.state.kerberos.AbstractKerberosDescriptorContainer_java

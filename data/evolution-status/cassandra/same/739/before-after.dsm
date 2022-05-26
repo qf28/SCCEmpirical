@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Create,Use,Implement]
+2
+0 110010
+000010 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java

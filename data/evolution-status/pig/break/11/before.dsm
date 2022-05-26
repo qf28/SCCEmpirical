@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Create,Use]
+3
+0 0 111001
+0 0 011000
+111010 001101 0
+src.org.apache.pig.backend.hadoop.executionengine.HExecutionEngine_java
+src.org.apache.pig.impl.logicalLayer.LogicalPlanBuilder_java
+src.org.apache.pig.impl.PigContext_java

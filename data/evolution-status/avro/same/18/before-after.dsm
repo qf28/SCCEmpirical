@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0010000
+0110000 0
+lang.java.avro.src.main.java.org.apache.avro.Schema_java
+lang.java.avro.src.main.java.org.apache.avro.LogicalType_java

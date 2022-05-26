@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 000100000
+010100000 0
+wicket.src.main.disabled.org.apache.wicket.markup.html.CompressedPackageResource_java
+wicket.src.main.disabled.org.apache.wicket.markup.html.resources.CompressedResourceReference_java

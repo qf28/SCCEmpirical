@@ -1,0 +1,6 @@
+[Call,Return,Import,Use,Parameter,Contain]
+2
+0 110100
+110111 0
+google-http-client.src.main.java.com.google.api.client.util.FieldInfo_java
+google-http-client.src.main.java.com.google.api.client.util.ClassInfo_java

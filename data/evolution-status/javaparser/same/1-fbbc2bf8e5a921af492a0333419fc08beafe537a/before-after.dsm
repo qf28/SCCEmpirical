@@ -1,0 +1,6 @@
+[Call,Return,Import,Use,Create,Implement]
+2
+0 100100
+110010 0
+javaparser-core.src.main.java.com.github.javaparser.javadoc.JavadocBlockTag_java
+javaparser-core.src.main.java.com.github.javaparser.javadoc.JavadocParser_java

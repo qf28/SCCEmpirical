@@ -1,0 +1,8 @@
+[Call,Typed,Create,Use,Implement]
+3
+0 11010 0
+0 0 11100
+11100 01010 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncSingleRequestRpcRetryingCaller_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncConnectionImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncRpcRetryingCallerFactory_java

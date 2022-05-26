@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Use]
+3
+0 1111 0
+1111 0 0
+1111 0 0
+wicket-core.src.main.java.org.apache.wicket.markup.html.form.Form_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.form.FormComponent_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.form.AbstractSubmitLink_java

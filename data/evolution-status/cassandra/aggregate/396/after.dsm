@@ -1,0 +1,66 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement,Modify]
+32
+0 010101000 010100000 0 0 0 0 0 0 010000000 010001000 010000100 0 010100000 010001000 0 0 000001000 0 0 010101000 0 0 0 111001100 0 0 0 0 0 011001000 010101000
+0 0 011000000 011001100 011001000 0 0 001001000 011000100 0 010101000 0 0 010100000 001100100 0 011000100 0 0 0 0 0 0 0 0 0 0 0 011000100 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010000000 0 0 0 0 0 0 011001000 0 0 0 0 0 0 0
+0 0 0 0 011000000 011000000 0 011001000 0 0 0 0 0 010100000 0 0 011000000 0 0 0 0 0 011000000 0 0 0 0 010000000 0 0 0 0
+0 0 0 0 0 0 0 011001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000001000 0 0 0 0
+0 0 011001000 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000101000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000101000 0
+0 0 0 0 0 0 0 0 0 0 010101000 0 0 0 0 0 0 0 0 0 0 0 011000000 0 0 0 0 011001100 0 0 0 0
+0 0 0 0 0 0 0 011001000 0 0 010101000 0 011000000 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 011000000 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+010001000 010101000 0 0 0 0 0 0 0 010100000 0 010001000 0 010000000 0 0 0 010001000 0 000100100 010101000 0 0 011001000 0 0 0 0 0 010101000 010101000 0
+0 010101000 010100000 0 0 0 0 0 0 010100000 010101000 0 0 010100000 0 0 0 010001000 0 0 0 0 0 0 011001100 0 0 0 0 0 010101000 0
+0 0 001000000 0 0 0 0 0 0 0 010101000 0 0 010100000 0 011001000 0 0 0 0 0 011000100 0 0 0 0 011000100 010000000 0 0 010101000 0
+0 0 0 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 001101000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 011001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011001000 0 0 0 0
+0 0 011001000 0 0 011001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000101000 0
+0 0 0 0 0 0 0 0 0 010000000 010101000 0 0 010100000 0 0 0 0 0 0 0 0 0 0 011000100 0 0 0 0 0 000101000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 010100000 0 0 0 010001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 010001000 011001000 0 0 0 000001000 0 0 0 010101000 0 0 0 0 0 0 0 0 0 0 000001000 0 0 010000000 0 0 0 0 0 010100000 0
+0 0 0 0 0 0 0 0 0 010100000 010101000 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010101000 0
+0 0 011001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000101000 0
+0 0 011001000 0 0 000001000 0 0 0 010100000 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 011000000 0 0 0 0
+0 0 0 0 0 0 0 0 0 010000000 010001000 0 0 010100000 0 0 0 010001000 011000100 0 010101000 0 0 0 0 010100100 0 0 0 010101000 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 001101000 0
+0 0 011000000 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0 000001000 0 0 0 0 011000000 0 011001100 0 0 011000100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000101000 0
+0 0 0 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000101000 0
+0 0 0 011000000 011000000 0 0 011001000 011000000 010100000 0 0 0 0 0 0 0 0 0 0 010101000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 010100000 010101000 0 0 010100000 0 0 0 0 0 0 0 0 0 0 011001000 0 0 0 0 0 000101000 0
+0 0 0 0 0 0 000101000 0 0 010000000 010001000 0 0 010100000 0 0 0 0 0 0 0 000101000 0 0 001001000 0 0 0 0 0 0 0
+0 010101000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.hints.HintsService_java
+src.java.org.apache.cassandra.hints.Hint_java
+src.java.org.apache.cassandra.hints.HintsWriteExecutor_java
+src.java.org.apache.cassandra.hints.HintsCatalog_java
+src.java.org.apache.cassandra.hints.HintsBuffer_java
+src.java.org.apache.cassandra.hints.HintResponse_java
+src.java.org.apache.cassandra.hints.HintsStore_java
+src.java.org.apache.cassandra.hints.HintsDispatchExecutor_java
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.BatchlogManager_java
+src.java.org.apache.cassandra.hints.HintsDispatcher_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.metrics.HintedHandoffMetrics_java
+src.java.org.apache.cassandra.hints.HintsReader_java
+src.java.org.apache.cassandra.hints.HintsBufferPool_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java
+src.java.org.apache.cassandra.service.StartupChecks_java
+src.java.org.apache.cassandra.hints.HintVerbHandler_java
+src.java.org.apache.cassandra.gms.Gossiper_java
+src.java.org.apache.cassandra.hints.HintMessage_java
+src.java.org.apache.cassandra.hints.HintsWriter_java
+src.java.org.apache.cassandra.service.CassandraDaemon_java
+src.java.org.apache.cassandra.db.Mutation_java
+src.java.org.apache.cassandra.hints.LegacyHintsMigrator_java
+src.java.org.apache.cassandra.hints.EncodedHintMessage_java
+src.java.org.apache.cassandra.hints.HintsDescriptor_java
+src.java.org.apache.cassandra.hints.HintsDispatchTrigger_java
+src.java.org.apache.cassandra.db.commitlog.CommitLog_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

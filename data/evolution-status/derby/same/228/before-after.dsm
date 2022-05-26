@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Extend,Use,Create]
+8
+0 101000 0 101010 0 010000 111010 111010
+0 0 0 0 001000 0 110010 101000
+111000 111100 0 0 011000 111000 111010 0
+0 111000 0 0 001000 111000 011010 0
+111001 111000 0 111010 0 111010 111010 111010
+0 101000 110010 0 001000 0 0 0
+0 111100 0 0 011000 111000 0 0
+0 111000 0 101000 0 010100 111010 0
+java.engine.org.apache.derby.impl.sql.compile.Predicate_java
+java.engine.org.apache.derby.impl.sql.compile.ValueNode_java
+java.engine.org.apache.derby.impl.sql.compile.SubqueryNode_java
+java.engine.org.apache.derby.impl.sql.compile.InListOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.PredicateList_java
+java.engine.org.apache.derby.impl.sql.compile.BinaryComparisonOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.ColumnReference_java
+java.engine.org.apache.derby.impl.sql.compile.BinaryRelationalOperatorNode_java

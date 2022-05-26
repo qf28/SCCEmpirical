@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0100000100
+0111000000 0
+src.java.org.apache.cassandra.index.sasi.utils.CombinedTerm_java
+src.java.org.apache.cassandra.index.sasi.disk.StaticTokenTreeBuilder_java

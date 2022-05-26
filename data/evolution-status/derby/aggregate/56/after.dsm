@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 1101
+1010 0
+java.testing.org.apache.derbyTesting.system.nstest.NsTest_java
+java.testing.org.apache.derbyTesting.system.nstest.TimerThread_java

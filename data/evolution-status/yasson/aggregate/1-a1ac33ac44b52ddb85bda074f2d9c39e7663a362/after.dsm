@@ -1,0 +1,24 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+11
+0 0 0 0 0100010010 0 0101100010 0 0 0 0110001000
+0 0 0 0101001011 0 0 0 0 0 0 0110001000
+0 0 0 0 0000000010 0 0101100000 0 0 0 0110001000
+0 0001001011 0 0 0 0 0 0 0110000010 0 0
+0100010000 0111001011 0100010000 0111001001 0 0100010000 0001001011 0 0111001011 0100010000 0110001000
+0 0110000001 0 0100000000 0100010010 0 0101100010 0 0 0 0
+0 0011001001 0 0011001001 0100010010 0 0 0 0011001001 0 0110001000
+0 0111010001 0 0111010011 0 0 0 0 0 0 0
+0 0 0 0011001011 0 0 0 0100010001 0 0 0
+0 0 0 0 0000000010 0 0101100010 0 0 0 0110001000
+0 0 0 0 0 0 0110000010 0 0 0 0
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ArrayItem_java
+src.main.java.org.eclipse.persistence.json.bind.model.FieldModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.MapItem_java
+src.main.java.org.eclipse.persistence.json.bind.model.ClassModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CurrentItemBuilder_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ObjectItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CurrentItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ClassParser_java
+src.main.java.org.eclipse.persistence.json.bind.internal.MappingContext_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.CollectionItem_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ReflectionUtils_java

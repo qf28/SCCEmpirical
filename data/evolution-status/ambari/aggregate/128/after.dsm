@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 0010000
+1111100 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.metrics.ThreadPoolEnabledPropertyProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.jmx.JMXPropertyProvider_java

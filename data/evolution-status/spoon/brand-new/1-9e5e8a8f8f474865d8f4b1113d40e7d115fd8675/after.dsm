@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+3
+0 0100101000 0000000010
+0 0 0000000010
+0101101000 0 0
+src.test.java.spoon.test.method_overriding.testclasses.B_java
+src.test.java.spoon.test.method_overriding.testclasses.A_java
+src.test.java.spoon.test.method_overriding.testclasses.C_java

@@ -1,0 +1,52 @@
+[Call,Typed,Import,Use,Create]
+25
+0 0 0 11100 10010 0 10001 10100 0 00010 10110 0 0 0 0 11000 01110 0 0 10110 0 0 0 0 10010
+0 0 0 10000 10100 0 0 0 0 00010 0 0 0 0 0 0 11010 0 0 10010 0 0 10000 0 0
+0 0 0 0 0 0 0 0 0 00110 0 11000 0 0 0 0 0 0 0 10110 0 0 0 10000 0
+0 0 0 0 10110 0 0 10100 0 00010 10100 0 0 0 0 0 01110 11110 0 11110 0 00110 0 0 0
+10010 0 0 11010 0 10110 10010 10100 0 10010 0 0 0 0 11010 10010 11100 11110 10010 10110 0 0 0 0 10010
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11110 11101 0 0 0 0 0 0 0
+10100 0 0 10000 10110 0 0 10100 0 10010 0 0 0 0 0 0 00010 0 0 0 0 01100 0 10100 10000
+0 0 0 0 0 0 0 0 10100 10110 0 0 0 0 0 0 0 0 0 10010 0 0 0 0 0
+0 0 10100 11010 0 0 0 10100 0 10010 0 11110 0 10101 0 0 11110 11110 10110 10110 0 0 0 0 0
+0 0 0 11000 10100 0 0 10100 0 0 0 0 0 0 0 0 11110 11111 0 10110 0 01110 0 10110 0
+10100 0 0 0 0 00010 0 0 0 0 0 0 0 0 0 0 01110 0 0 0 11011 0 0 0 0
+0 0 0 0 0 0 0 0 0 00010 0 0 0 0 0 0 10010 0 0 0 0 0 0 10000 0
+0 0 0 0 0 0 0 0 0 00010 0 0 0 0 0 0 01010 0 0 0 0 0 0 10100 0
+0 0 0 0 0 0 0 0 0 10010 0 0 0 0 0 0 00010 0 0 0 0 0 0 10000 0
+0 0 10100 11100 10010 0 0 10100 0 10110 10100 0 0 0 0 0 01100 0 0 10110 0 0 0 0 0
+0 10100 0 0 0 00110 0 10100 0 00110 0 0 0 0 0 0 0 0 0 10110 0 0 0 00110 0
+0 0 0 10000 0 0 0 0 0 10010 0 0 11010 0 0 0 0 0 0 10010 0 0 11011 10100 0
+0 0 0 0 10110 0 0 10000 0 10010 0 0 0 11001 0 0 11010 0 0 00010 0 0 0 10100 0
+0 0 0 0 00010 0 0 0 10000 10010 0 11100 0 10100 0 0 11110 11110 0 10110 0 0 0 0 0
+0 0 0 11110 0 0 0 0 0 10010 0 0 0 0 0 0 11010 11010 10100 0 0 0 0 0 0
+0 0 0 0 0 00010 0 0 0 0 10000 0 0 0 0 0 01100 0 0 0 0 0 0 0 0
+0 0 0 0 10110 0 0 10000 0 10010 0 0 0 0 0 0 11000 0 0 10010 0 0 01000 0 0
+0 0 0 0 0 0 0 0 0 00010 0 0 0 0 0 0 11010 0 0 0 0 0 0 10000 0
+0 0 0 0 0 0 0 0 0 00010 10100 0 0 0 0 11000 0 0 10010 0 0 0 0 0 0
+10000 0 0 10000 10010 0 0 10100 0 10010 0 0 0 0 0 0 00010 0 0 10110 0 0 0 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.thrift.ThriftValidation_java
+src.java.org.apache.cassandra.cql3.functions.Functions_java
+src.java.org.apache.cassandra.db.Keyspace_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.tracing.TraceKeyspace_java
+src.java.org.apache.cassandra.db.BatchlogManager_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.db.DefsTables_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java
+src.java.org.apache.cassandra.tracing.Tracing_java
+src.java.org.apache.cassandra.cql3.functions.UDFunction_java
+src.java.org.apache.cassandra.config.TriggerDefinition_java
+src.java.org.apache.cassandra.config.UTMetaData_java
+src.java.org.apache.cassandra.service.CassandraDaemon_java
+src.java.org.apache.cassandra.service.ClientState_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.config.KSMetaData_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.config.Schema_java
+src.java.org.apache.cassandra.tracing.TraceState_java
+src.java.org.apache.cassandra.io.sstable.format.SSTableReader_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

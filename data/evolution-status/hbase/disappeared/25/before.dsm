@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Use,Create,Implement]
+5
+0 0 011000 0 011110
+0 0 0 0 011100
+001000 0 0 0 0
+0 010010 0 0 001100
+010000 0 0 010010 0
+src.java.org.apache.hadoop.hbase.util.migration.v5.HRegion_java
+src.java.org.apache.hadoop.hbase.util.migration.v5.StoreFileScanner_java
+src.java.org.apache.hadoop.hbase.util.migration.v5.FlushRequester_java
+src.java.org.apache.hadoop.hbase.util.migration.v5.HStoreScanner_java
+src.java.org.apache.hadoop.hbase.util.migration.v5.HStore_java

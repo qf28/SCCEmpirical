@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 11010 01000
+01000 0 0
+11010 0 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RepoOsEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RepoDefinitionEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RepositoryVersionEntity_java

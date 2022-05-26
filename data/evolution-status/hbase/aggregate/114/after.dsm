@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 10000
+11000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.CatalogJanitor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MetaFixer_java

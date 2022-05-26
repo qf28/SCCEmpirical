@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Use,Create]
+2
+0 11110
+01001 0
+lang.java.avro.src.main.java.org.apache.avro.reflect.ReflectDatumReader_java
+lang.java.avro.src.main.java.org.apache.avro.reflect.ReflectData_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use]
+2
+0 001000
+011010 0
+src.org.apache.pig.impl.logicalLayer.ProjectFixerUpper_java
+src.org.apache.pig.impl.logicalLayer.LOForEach_java

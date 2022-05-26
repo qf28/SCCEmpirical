@@ -1,0 +1,6 @@
+[Cast,Call,Return,Import,Use,Implement,Parameter,Contain]
+2
+0 10000000
+10001010 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.RecordDeclaration_java

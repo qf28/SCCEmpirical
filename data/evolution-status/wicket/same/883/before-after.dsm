@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 0010
+1111 0
+wicket.src.main.java.org.apache.wicket.util.io.IObjectStreamFactory_java
+wicket.src.main.java.org.apache.wicket.util.lang.Objects_java

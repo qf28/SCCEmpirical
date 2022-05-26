@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+10
+0 0 0 0 0 0 1100010 0 0 0010000
+0 0 0 0 0 0 0 0 0101000 0
+0 1101010 0 0 0 0111000 0 0 0 0011000
+1111001 1111010 0 0 0 0111001 0 0 0 0111001
+0 0 0 0 0 0 1100000 0 0 0010000
+0 0 0 0 0 0 1100010 0 0 0110000
+0010000 0 0 0 0010000 0010000 0 0 0 0
+0 0 0 0101001 0 0 0 0 0 0
+1111011 1111011 0101000 0 0111011 0 0 0 0 1111001
+0 0 0 0 0 0 0 0111001 0 0
+src.org.apache.pig.newplan.logical.relational.LOCogroup_java
+src.org.apache.pig.newplan.logical.expression.UserFuncExpression_java
+src.org.apache.pig.newplan.logical.rules.OptimizerUtils_java
+src.org.apache.pig.newplan.logical.rules.RollupHIIOptimizer_java
+src.org.apache.pig.newplan.logical.relational.LOCube_java
+src.org.apache.pig.newplan.logical.relational.LORollupHIIForEach_java
+src.org.apache.pig.newplan.logical.relational.LogicalRelationalNodesVisitor_java
+src.org.apache.pig.newplan.logical.optimizer.LogicalPlanOptimizer_java
+src.org.apache.pig.parser.LogicalPlanBuilder_java
+src.org.apache.pig.newplan.logical.relational.LogicalPlan_java

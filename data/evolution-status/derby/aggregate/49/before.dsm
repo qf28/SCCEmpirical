@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+4
+0 0111000 0 0
+0011000 0 0011000 0010000
+0 0011000 0 0
+0 0 0001000 0
+java.engine.org.apache.derby.iapi.sql.dictionary.SchemaDescriptor_java
+java.engine.org.apache.derby.iapi.sql.conn.LanguageConnectionContext_java
+java.engine.org.apache.derby.iapi.sql.Activation_java
+java.engine.org.apache.derby.iapi.sql.conn.StatementContext_java

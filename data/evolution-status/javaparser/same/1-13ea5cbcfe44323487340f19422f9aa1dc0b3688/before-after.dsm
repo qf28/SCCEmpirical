@@ -1,0 +1,12 @@
+[Call,Import,Extend,Create,Parameter,Contain]
+5
+0 0 110100 0 0
+0 0 110100 0 0
+100111 100111 0 100111 100111
+0 0 110100 0 0
+0 0 110100 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.type.WildcardType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.ForStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.IfStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.UnaryExpr_java

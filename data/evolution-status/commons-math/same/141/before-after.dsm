@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 10010
+10000 0
+src.main.java.org.apache.commons.math4.util.CombinatoricsUtils_java
+src.main.java.org.apache.commons.math4.util.Combinations_java

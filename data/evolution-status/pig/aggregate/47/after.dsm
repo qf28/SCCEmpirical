@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 11111
+10100 0
+contrib.zebra.src.java.org.apache.hadoop.zebra.types.Projection_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.schema.Schema_java

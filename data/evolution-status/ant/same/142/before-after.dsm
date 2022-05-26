@@ -1,0 +1,6 @@
+[Call,Import,Extend,Create]
+2
+0 1101
+0110 0
+src.main.org.apache.tools.ant.util.WeakishReference_java
+src.main.org.apache.tools.ant.util.optional.WeakishReference12_java

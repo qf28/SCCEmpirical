@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+2
+0 011001011
+011101101 0
+src.main.java.spoon.reflect.visitor.printer.ElementPrinterHelper_java
+src.main.java.spoon.reflect.visitor.DefaultJavaPrettyPrinter_java

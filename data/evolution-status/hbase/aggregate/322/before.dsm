@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 0
+10000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionUtils_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AllowPartialScanResultCache_java

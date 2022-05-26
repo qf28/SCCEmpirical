@@ -1,0 +1,8 @@
+[Typed,Import]
+3
+0 10 10
+0 0 10
+10 10 0
+java.engine.org.apache.derby.iapi.store.access.conglomerate.TransactionManager_java
+java.engine.org.apache.derby.iapi.store.access.conglomerate.ScanManager_java
+java.engine.org.apache.derby.iapi.store.access.conglomerate.Conglomerate_java

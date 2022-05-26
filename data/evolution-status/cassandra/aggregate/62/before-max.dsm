@@ -1,0 +1,48 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+23
+0 010000000 011000100 0 000000010 0 010000000 000100000 011100110 011000010 0 011100110 001100000 0 0 011100000 0 0 010000000 010000000 000100010 0 010000000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000100010 0
+011000010 0 0 0 000000010 0 0 010100000 011100110 001000000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 001100000 0 0 0 0 0 0 0 0 0 0 001000001 0 0 0 001100000 0 0 0 001100010 000100010 0
+0 0 0 0 0 0 0 0 0 0 0 0 011100010 0 0 0 0 0 0 0 001100010 0 0
+010000010 0 0 0 000000010 0 0 0 0 0 000101010 0 001100000 0 010000100 0 0 0 0 0 0 0 0
+0 0 0 0 000000010 0 0 010000000 0 0 0 0 0 0 0 0 0 0 010100000 0 0 000100000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010100000 0 0 0 0
+0 0 0 0 0 0 0 0 0 011000000 0 0 001100000 0 0 0 0 0 0 0 0 0 0
+011000010 001100000 0 0 0 0 011100100 0 0 0 0 0 0 001100000 0 0 011100000 0 010100000 0 0 000100010 011100000
+011000010 001100000 0 0 000000010 0 0 0 0 0 0 0 0 0 0 010000000 0 0 0 0 0 000100010 0
+011100010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 001100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 001100000 0 0 0 001100000 0 0
+0 000001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011000000 0 0 0 0 0 0
+011001010 0 0 000100010 000000010 111000010 0 0 011000100 0 010000000 0 011100000 0 0 0 0 0 0 0 011000100 000100010 0
+011100010 001100000 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 000001000 0 0 0 0 0 0 0 0 0 0 0 011000100 0 0 0 0 0 0 0 000100010 010001010
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010001000
+011100100 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 010100000 001100010
+011000010 0 0 0 000000010 0 0 0 011100100 011000010 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 001100000 0 000000010 0 0 0 0 0 0 0 0 011000010 0 0 0 001100000 0 0 0 0 010100010 0
+0 0 0 0 0 0 0 010100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 001000000 011000100 0 0 0 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.utils.memory.AbstractAllocator_java
+src.java.org.apache.cassandra.db.CollationController_java
+src.java.org.apache.cassandra.db.composites.Composites_java
+src.java.org.apache.cassandra.db.ArrayBackedSortedColumns_java
+src.java.org.apache.cassandra.db.index.composites.CompositesIndex_java
+src.java.org.apache.cassandra.io.sstable.SSTableWriter_java
+src.java.org.apache.cassandra.io.util.FileUtils_java
+src.java.org.apache.cassandra.db.filter.QueryFilter_java
+src.java.org.apache.cassandra.db.Memtable_java
+src.java.org.apache.cassandra.db.index.AbstractSimplePerColumnSecondaryIndex_java
+src.java.org.apache.cassandra.metrics.ColumnFamilyMetrics_java
+src.java.org.apache.cassandra.db.composites.Composite_java
+src.java.org.apache.cassandra.utils.memory.ContextAllocator_java
+src.java.org.apache.cassandra.db.index.composites.CompositesSearcher_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java
+src.java.org.apache.cassandra.utils.memory.PoolAllocator_java
+src.java.org.apache.cassandra.utils.memory.PoolCleanerThread_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.db.RowIteratorFactory_java
+src.java.org.apache.cassandra.db.filter.ColumnSlice_java
+src.java.org.apache.cassandra.utils.ByteBufferUtil_java
+src.java.org.apache.cassandra.utils.memory.Pool_java

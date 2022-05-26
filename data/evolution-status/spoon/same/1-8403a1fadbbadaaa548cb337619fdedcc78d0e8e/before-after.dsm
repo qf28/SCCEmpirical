@@ -1,0 +1,6 @@
+[Cast,Call,Create,Use,Contain]
+2
+0 11001
+11111 0
+src.main.java.spoon.support.sniper.internal.CollectionSourceFragment_java
+src.main.java.spoon.support.sniper.internal.ElementSourceFragment_java

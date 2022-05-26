@@ -1,0 +1,6 @@
+[Call,Typed,Implement]
+2
+0 100
+011 0
+src.java.org.apache.cassandra.db.rows.Row_java
+src.java.org.apache.cassandra.db.rows.BTreeRow_java

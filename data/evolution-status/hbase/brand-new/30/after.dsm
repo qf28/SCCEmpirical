@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0001000000
+0111000000 0
+hbase-common.src.main.java.org.apache.hbase.Cell_java
+hbase-common.src.main.java.org.apache.hbase.cell.CellTool_java

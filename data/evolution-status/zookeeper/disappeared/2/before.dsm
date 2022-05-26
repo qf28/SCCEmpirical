@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+2
+0 0100011000
+0001000100 0
+src.contrib.rest.src.test.org.apache.zookeeper.server.jersey.SetTest_java
+src.contrib.rest.src.test.org.apache.zookeeper.server.jersey.Base_java

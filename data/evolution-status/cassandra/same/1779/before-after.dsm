@@ -1,0 +1,12 @@
+[Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+5
+0 111001000 101110101 0 0
+0 0 0 110000000 0
+111001000 0 0 000000100 110001000
+0 0 110000000 0 0
+0 110001000 110011100 0 0
+src.java.org.apache.cassandra.io.compress.CompressedSequentialWriter_java
+src.java.org.apache.cassandra.io.util.DataIntegrityMetadata_java
+src.java.org.apache.cassandra.io.util.SequentialWriter_java
+src.java.org.apache.cassandra.io.util.RandomAccessReader_java
+src.java.org.apache.cassandra.io.util.ChecksummedSequentialWriter_java

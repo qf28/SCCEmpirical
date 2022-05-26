@@ -1,0 +1,6 @@
+[Call,Import,Return,Use,Create,Implement,Contain]
+2
+0 1101100
+0101000 0
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.support.StandardEnvironment_java

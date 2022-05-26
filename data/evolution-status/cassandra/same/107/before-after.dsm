@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 010010 0
+110010 0 110011
+0 110010 0
+src.java.org.apache.cassandra.config.TriggerDefinition_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java

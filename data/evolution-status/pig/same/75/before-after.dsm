@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 0110
+1011 0
+src.org.apache.pig.newplan.logical.visitor.CastLineageSetter_java
+src.org.apache.pig.newplan.logical.relational.LogicalPlan_java

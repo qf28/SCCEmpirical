@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 11001
+10000 0
+controller.src.main.java.org.apache.ambari.resource.statemachine.StateMachineInvoker_java
+controller.src.main.java.org.apache.ambari.resource.statemachine.ClusterImpl_java

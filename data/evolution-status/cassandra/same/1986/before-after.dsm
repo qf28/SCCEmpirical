@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 00110 0
+11110 0 10110
+11111 10110 0
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.service.ActiveRepairService_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java

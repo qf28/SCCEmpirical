@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 1010010 1010010
+1110000 0 0
+1110000 0 0
+ambari-logsearch.ambari-logsearch-solr-client.src.main.java.org.apache.ambari.logsearch.solr.AmbariSolrCloudClient_java
+ambari-logsearch.ambari-logsearch-solr-client.src.main.java.org.apache.ambari.logsearch.solr.commands.CreateSaslUsersZkCommand_java
+ambari-logsearch.ambari-logsearch-solr-client.src.main.java.org.apache.ambari.logsearch.solr.commands.SecureSolrZNodeZkCommand_java

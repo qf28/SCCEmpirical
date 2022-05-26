@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1100
+0100 0
+wicket.src.java.wicket.protocol.http.WicketServlet_java
+wicket.src.java.wicket.protocol.http.WebApplication_java

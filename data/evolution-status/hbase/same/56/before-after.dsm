@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0000001000
+0000001000 0
+hbase-server.src.test.java.org.apache.hadoop.hbase.coprocessor.SimpleRegionObserver_java
+hbase-server.src.test.java.org.apache.hadoop.hbase.coprocessor.TestRegionObserverInterface_java

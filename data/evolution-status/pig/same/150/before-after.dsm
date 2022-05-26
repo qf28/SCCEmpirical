@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Throw,Implement,Modify]
+2
+0 01100000000
+01000000000 0
+contrib.zebra.src.java.org.apache.hadoop.zebra.io.ColumnGroup_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.io.MetaFile_java

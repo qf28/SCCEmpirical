@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+4
+0 0 0 0101100
+0 0 0111110 0
+0101000 0 0 0
+0101000 1111010 0 0
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.request.handler.ListenerInterfaceRequestHandler_java
+wicket-core.src.main.java.org.apache.wicket.request.handler.RenderPageRequestHandler_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.RequestLogger_java

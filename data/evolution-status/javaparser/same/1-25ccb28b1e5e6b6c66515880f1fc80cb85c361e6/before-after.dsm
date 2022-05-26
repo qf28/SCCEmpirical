@@ -1,0 +1,30 @@
+[Cast,Call,Import,Return,Create,Use,Parameter,Contain]
+14
+0 0 0 0 0 0 0 00100100 01101000 0 00110000 0 0 0
+0 0 0 0 0 0 00100000 00100100 01101000 0 0 0 0 0
+0 0 0 0 0 0 0 00100100 01101000 0 0 0 00110000 0
+0 0 0 0 0 0 0 00100100 01101000 10110110 0 0 0 11111111
+0 0 0 0 0 0 0 00100100 01101000 0 0 0 0 0
+0 0 0 0 0 0 00100000 00100100 01101000 0 0 0 0 0
+0 0 0 0 0 0 0 00100100 01101000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 00000100 01001101 0 01001101 00000100
+01001011 01001011 01001011 01001011 01001011 01001011 01001011 0 0 00000110 0 01001011 0 01001011
+0 0 0 10000100 0 0 0 00100100 01101000 0 0 0 0 0
+00000100 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 00100000 00100100 01101000 0 0 0 0 0
+0 0 00000100 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 00100100 01101000 0 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleUsesStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.NameExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleProvidesStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleExportsStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.ObjectCreationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.ExplicitConstructorInvocationStmt_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.TypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.ModuleUsesStmtMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.FieldAccessExpr_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.ModuleProvidesStmtMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleDeclaration_java

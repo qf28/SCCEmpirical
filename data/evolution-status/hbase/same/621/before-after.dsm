@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 0 011000100 0
+0 0 0 011000100 0
+0 0 0 010101100 010000010
+010000010 011000010 110100100 0 0
+0 0 011001100 010100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServerCommandLine_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreFlusher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMasterCommandLine_java

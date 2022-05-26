@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01100001
+00000100 0
+src.java.org.apache.cassandra.db.rows.BufferCell_java
+src.java.org.apache.cassandra.db.rows.Cell_java

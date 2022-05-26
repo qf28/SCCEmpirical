@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1010
+1010 0
+test.unit.org.apache.cassandra.cql3.CQLTester_java
+test.unit.org.apache.cassandra.SchemaLoader_java

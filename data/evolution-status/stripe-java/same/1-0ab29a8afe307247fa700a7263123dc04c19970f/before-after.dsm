@@ -1,0 +1,12 @@
+[Call,Return,Extend,Use,Create,Implement,Parameter,Contain]
+5
+0 0 0 01010000 01010011
+0 0 0 01010000 0
+10010000 0 0 0 0
+0 10010000 10110000 0 0
+10010000 0 0 0 0
+src.main.java.com.stripe.model.Customer_java
+src.main.java.com.stripe.model.Recipient_java
+src.main.java.com.stripe.model.ExternalAccount_java
+src.main.java.com.stripe.model.Card_java
+src.main.java.com.stripe.model.Subscription_java

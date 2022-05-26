@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Throw,Create]
+8
+0 0 0 0 0 011000011 0 0
+0 0 0 0 0 011001000 0 0
+0 0 0 001000000 0 011000011 0 0
+0 001000000 0 0 0 011000011 0 010000000
+001000100 0 001000100 001000100 0 011000011 000000100 0
+0 0 0 0 011000000 0 0 0
+0 0 0 0 001000000 011000011 0 0
+0 0 0 0 0 010000011 000000100 0
+java.client.org.apache.derby.client.am.Blob_java
+java.client.org.apache.derby.client.am.DisconnectException_java
+java.client.org.apache.derby.client.am.Clob_java
+java.client.org.apache.derby.client.am.PreparedStatement_java
+java.client.org.apache.derby.client.am.LogWriter_java
+java.client.org.apache.derby.client.am.SqlException_java
+java.client.org.apache.derby.client.am.Configuration_java
+java.client.org.apache.derby.client.am.CrossConverters_java

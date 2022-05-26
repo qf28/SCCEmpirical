@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 0
+01100010 0
+test.distributed.org.apache.cassandra.distributed.impl.MessageFilters_java
+test.distributed.org.apache.cassandra.distributed.impl.AbstractCluster_java

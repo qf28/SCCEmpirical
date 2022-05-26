@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use]
+3
+0 0 101010
+011010 0 0
+0 110010 0
+contrib.views.hueambarimigration.src.main.java.org.apache.ambari.view.huetoambarimigration.migration.InitiateJobMigration_java
+contrib.views.hueambarimigration.src.main.java.org.apache.ambari.view.huetoambarimigration.migration.hive.historyquery.HiveHistoryMigrationUtility_java
+contrib.views.hueambarimigration.src.main.java.org.apache.ambari.view.huetoambarimigration.migration.hive.historyquery.HiveHistoryStartJob_java

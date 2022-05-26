@@ -1,0 +1,14 @@
+[Call,Typed,Import,Extend,Use,Create]
+6
+0 0 0 100000 0 100001
+110001 0 0 0 0 0
+0 0 0 100000 0 0
+110000 100001 110011 0 100001 0
+100000 0 0 0 0 0
+0 0 0 100000 0 0
+src.java.org.apache.cassandra.net.TcpConnection_java
+src.java.org.apache.cassandra.net.FileStreamTask_java
+src.java.org.apache.cassandra.net.UdpConnection_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.net.TcpConnectionHandler_java
+src.java.org.apache.cassandra.net.MessageDeserializationTask_java

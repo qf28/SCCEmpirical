@@ -1,0 +1,4 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+1
+0
+ambari-server.src.test.java.org.apache.ambari.server.orm.InMemoryDefaultTestModule_java

@@ -1,0 +1,22 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+10
+0 0 0010010000 0 0110001001 0 0 0 0 0
+0 0 0010010000 0 0 0 0 0 0110001001 0
+0110001000 0 0 0110001000 0 0110001001 0 0 0 0110001000
+0 0 0110011001 0 0 0 0 0110001000 0110011000 0
+0 0 0010010000 0 0 0 0 0 0 0
+0 0 0110010011 0 0 0 0 0 0 0
+0 0 0010010000 0 0 0 0 0 0 0
+0 0 0 0 0 0 0110010000 0 0 0
+0 0 0010010000 0 0 0 0 0 0 0
+0 0010010000 0010010000 0 0 0 0 0 0 0
+src.main.java.spoon.support.gui.SpoonModelTree_java
+src.main.java.spoon.support.reflect.declaration.CtElementImpl_java
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.support.compiler.jdt.JDTBasedSpoonCompiler_java
+src.main.java.spoon.support.SerializationModelStreamer_java
+src.main.java.spoon.support.processing.SpoonletXmlHandler_java
+src.main.java.spoon.processing.AbstractProcessor_java
+src.main.java.spoon.support.QueueProcessingManager_java
+src.main.java.spoon.reflect.visitor.DefaultJavaPrettyPrinter_java
+src.main.java.spoon.support.DefaultCoreFactory_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement,Modify]
+2
+0 11100010000
+01000000000 0
+java.main.com.yahoo.jute.compiler.JRecord_java
+java.main.com.yahoo.jute.compiler.JVector_java

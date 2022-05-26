@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+10
+0 0 011000100 0 0 0 0 0 0 0
+0 0 011000000 0 0 0 0 0 0 0
+111000110 011000000 0 011000010 011000000 0 0 0 0 0
+0 0 011000100 0 0 0 0 0 0 0
+0 0 001000000 0 0 0 0 0 0 0
+0 0 111000000 0 0 0 0 0 0 011000000
+0 0 111100100 0 0 010000000 0 010000000 0 011000100
+0 0 110000100 0 0 010000000 0 0 0 011000100
+0 0 0 0 0 010000000 000000100 010000000 0 011000100
+0 0 111000100 0 0 011000010 011000110 011000010 010000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionSplitPolicy_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.FlushPolicy_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactSplit_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreFlusher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MetricsRegionServerWrapperImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

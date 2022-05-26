@@ -1,0 +1,6 @@
+[Call,Typed,Set,Extend,Use,Create]
+2
+0 110000
+110001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.MasterMetaBootstrap_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 010000
+000010 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RequestEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RequestScheduleEntity_java

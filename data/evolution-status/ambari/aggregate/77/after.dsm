@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 01000
+00001 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RequestResourceFilterEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RequestEntity_java

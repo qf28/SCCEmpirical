@@ -1,0 +1,26 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+12
+0 0 0 0 0 110000100 0 0 0 0 0 0
+0 0 0 0 0 110000100 0 0 0 0 0 0
+0 0 0 0 0 110000100 0 0 0 0 0 0
+0 0 0 0 0 110000100 0 0 0 0 0 0
+0 0 0 0 0 110000100 0 0 0 0 0 0
+001000000 001000000 001000000 001000000 001000000 0 001000000 001000000 001000000 001000000 001000000 001000000
+0 0 0 0 0 110000100 0 0 0 0 0 0
+0 0 0 0 0 110000100 0 0 0 0 0 0
+0 0 0 0 0 110000100 0 0 0 0 0 0
+0 0 0 0 0 110000100 0 0 0 0 0 0
+0 0 0 0 0 110000100 0 0 0 0 0 0
+0 0 0 0 0 110000100 0 0 0 0 0 0
+src.org.apache.pig.experimental.logical.expression.SubtractExpression_java
+src.org.apache.pig.experimental.logical.expression.NotExpression_java
+src.org.apache.pig.experimental.logical.expression.NegativeExpression_java
+src.org.apache.pig.experimental.logical.expression.ModExpression_java
+src.org.apache.pig.experimental.logical.expression.AddExpression_java
+src.org.apache.pig.experimental.logical.expression.LogicalExpressionVisitor_java
+src.org.apache.pig.experimental.logical.expression.IsNullExpression_java
+src.org.apache.pig.experimental.logical.expression.NotEqualExpression_java
+src.org.apache.pig.experimental.logical.expression.MapLookupExpression_java
+src.org.apache.pig.experimental.logical.expression.DivideExpression_java
+src.org.apache.pig.experimental.logical.expression.MultiplyExpression_java
+src.org.apache.pig.experimental.logical.expression.ProjectExpression_java

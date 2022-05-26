@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+5
+0 0 00110000 0 0
+0 0 0 0 01100000
+01110010 0 0 0 01110010
+0 0 0 0 01100000
+0 01000010 01110000 01000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.SnapshotQuotaObserverChore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.TableQuotaSnapshotStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.NamespaceQuotaSnapshotStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.QuotaObserverChore_java

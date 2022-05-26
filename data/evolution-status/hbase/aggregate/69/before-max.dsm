@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+4
+0 0 0 0110100
+0 0 0 1101000
+0 0 0 1101000
+1111110 0101010 0101010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.DeleteTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.CreateTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java

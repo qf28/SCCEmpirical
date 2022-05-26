@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 0 001100000
+011000000 0 0
+111100100 011100100 0
+contrib.views.hive.src.main.java.org.apache.ambari.view.hive.resources.jobs.OperationHandleControllerFactory_java
+contrib.views.hive.src.main.java.org.apache.ambari.view.hive.resources.jobs.ConnectionController_java
+contrib.views.hive.src.main.java.org.apache.ambari.view.hive.utils.SharedObjectsFactory_java

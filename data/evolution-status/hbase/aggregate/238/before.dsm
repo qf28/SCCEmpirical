@@ -1,0 +1,20 @@
+[Call,Typed,Import,Extend,Create,Use]
+9
+0 0 0 0 0 0 0 0 0
+111001 0 0 0 0 0 0 0 0
+111010 0 0 0 0 0 0 0 0
+100000 0 0 0 100010 101001 110001 100010 0
+0 0 0 0 0 0 010000 0 100101
+100000 0 0 100000 0 0 110000 0 0
+111010 110010 001000 110010 0 110010 0 0 0
+0 0 0 0 0 0 010000 0 100101
+0 0 0 0 0 0 010000 0 0
+src.main.java.org.apache.hadoop.hbase.zookeeper.ZooKeeperWrapper_java
+src.main.java.org.apache.hadoop.hbase.master.ZKMasterAddressWatcher_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+src.main.java.org.apache.hadoop.hbase.master.ProcessRegionOpen_java
+src.main.java.org.apache.hadoop.hbase.master.RegionManager_java
+src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+src.main.java.org.apache.hadoop.hbase.master.ProcessRegionClose_java
+src.main.java.org.apache.hadoop.hbase.master.ProcessRegionStatusChange_java

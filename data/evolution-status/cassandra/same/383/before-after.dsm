@@ -1,0 +1,8 @@
+[Call,Typed,Create,Use]
+3
+0 1001 0
+1100 0 1110
+0 1001 0
+src.java.org.apache.cassandra.db.compaction.CompactionStrategyManager_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.compaction.Scrubber_java

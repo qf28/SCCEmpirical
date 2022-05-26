@@ -1,0 +1,26 @@
+[Call,Import,Return,Extend,Create,Use]
+12
+0 0 0 110001 0 0 0 100010 0 100010 100010 0
+0 0 0 0 0 0 0 0 110001 0 0 0
+0 0 0 110001 0 0 0 0 0 0 0 100101
+0 110010 100010 0 100010 0 100010 0 0 0 0 0
+0 0 0 110001 0 0 0 0 0 0 0 100101
+0 0 0 110001 0 0 0 100010 0 100010 100010 0
+0 0 0 0 100001 0 0 0 110001 0 0 100101
+0 0 0 0 0 0 0 0 0 0 100010 0
+0 0 0 110001 0 0 0 101010 0 0 0 0
+100010 0 0 110001 0 100010 0 0 0 0 100010 0
+0 0 0 110001 0 0 0 100010 0 100010 0 0
+0 0 0 110001 0 0 0 0 0 0 0 0
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarators.VariableSymbolDeclarator_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.contexts.FieldAccessContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.JavaParserFactory_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.contexts.StatementContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserClassDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.contexts.ForStatementContext_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserFieldDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserSymbolDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserMethodDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.declarations.JavaParserEnumDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javaparsermodel.contexts.AbstractJavaParserContext_java

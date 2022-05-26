@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+4
+0 0001001000 0001001000 0001001000
+0001000010 0 0 0
+0001000010 0 0 0
+0001000010 0 0 0
+hbase-prefix-tree.src.test.java.org.apache.hbase.codec.prefixtree.timestamp.TestTimestampData_java
+hbase-prefix-tree.src.test.java.org.apache.hbase.codec.prefixtree.timestamp.data.TestTimestampDataNumbers_java
+hbase-prefix-tree.src.test.java.org.apache.hbase.codec.prefixtree.timestamp.data.TestTimestampDataBasic_java
+hbase-prefix-tree.src.test.java.org.apache.hbase.codec.prefixtree.timestamp.data.TestTimestampDataRepeats_java

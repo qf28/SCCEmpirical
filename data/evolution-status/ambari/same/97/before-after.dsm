@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Create,Implement]
+5
+0 0 0 0 010000
+0 0 010000 0 010000
+0 000100 0 000100 0
+0 0 010000 0 010000
+000100 000100 0 000100 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostRoleCommandEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostComponentStateEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ServiceComponentDesiredStateEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostComponentDesiredStateEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.HostEntity_java

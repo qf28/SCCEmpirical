@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00110000
+01010100 0
+ambari-server.src.main.java.org.apache.ambari.server.events.StaleConfigsUpdateEvent_java
+ambari-server.src.main.java.org.apache.ambari.server.state.svccomphost.ServiceComponentHostImpl_java

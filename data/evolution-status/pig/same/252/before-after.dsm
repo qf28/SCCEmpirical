@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use]
+2
+0 111001
+111010 0
+contrib.zebra.src.java.org.apache.hadoop.zebra.mapred.TableRecordReader_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.mapred.TableInputFormat_java

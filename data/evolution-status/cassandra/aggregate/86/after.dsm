@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create]
+5
+0 001000 010110 011001 0
+0 0 0 0 010100
+010001 001001 0 011001 010010
+0 011000 010100 0 010100
+0 0 010100 0 0
+src.java.org.apache.cassandra.dht.BootStrapper_java
+src.java.org.apache.cassandra.dht.StreamStateStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.dht.RangeStreamer_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java

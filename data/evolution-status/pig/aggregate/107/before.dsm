@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 0
+0 0
+src.org.apache.pig.tools.pigstats.JobStats_java
+src.org.apache.pig.tools.pigstats.PigStatsUtil_java

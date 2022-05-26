@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 011000000 0 0
+001000100 0 0 001000100
+001000000 0 0 0
+011000100 0 011000000 0
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.Stage_java
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.ActionDBAccessor_java
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.StageFactory_java
+ambari-server.src.main.java.org.apache.ambari.server.actionmanager.Request_java

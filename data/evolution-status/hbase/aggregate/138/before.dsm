@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0 0
+0 0 0 0
+0 0110011 0 0
+1010010 0 0 0
+src.java.org.apache.hadoop.hbase.io.Cell_java
+src.java.org.apache.hadoop.hbase.HColumnDescriptor_java
+src.java.org.apache.hadoop.hbase.HTableDescriptor_java
+src.java.org.apache.hadoop.hbase.io.RowResult_java

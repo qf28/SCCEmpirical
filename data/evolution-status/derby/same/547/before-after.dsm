@@ -1,0 +1,6 @@
+[Cast,Call,Typed]
+2
+0 011
+111 0
+java.engine.org.apache.derby.impl.sql.compile.PredicateList_java
+java.engine.org.apache.derby.impl.sql.compile.FromList_java

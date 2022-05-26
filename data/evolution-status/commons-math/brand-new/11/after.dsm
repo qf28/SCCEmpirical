@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 011001 011001
+011000 0 0
+111001 0 0
+src.main.java.org.apache.commons.math3.geometry.spherical.oned.Chord_java
+src.main.java.org.apache.commons.math3.geometry.spherical.oned.SubChord_java
+src.main.java.org.apache.commons.math3.geometry.spherical.oned.ArcsSet_java

@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Use,Implement,Parameter,Contain]
+5
+0 0 0 0 0
+0 0 0 0 0
+010011000 0 0 0 0
+010001000 0 010011000 0 0
+010000000 011001000 010000000 010011000 0
+src.main.java.spoon.support.reflect.declaration.CtElementImpl_java
+src.main.java.spoon.support.reflect.code.CtStatementImpl_java
+src.main.java.spoon.support.reflect.declaration.CtNamedElementImpl_java
+src.main.java.spoon.support.reflect.declaration.CtTypeImpl_java
+src.main.java.spoon.support.reflect.declaration.CtClassImpl_java

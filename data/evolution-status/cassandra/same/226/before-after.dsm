@@ -1,0 +1,14 @@
+[Call,Typed,Import,Extend,Use,Create]
+6
+0 111010 100001 0 0 0
+0 0 0 110001 0 100010
+110010 101000 0 0 0 0
+110001 111010 0 0 0 0
+110000 0 0 0 0 101010
+110001 110010 0 110000 110111 0
+src.java.org.apache.cassandra.io.CompactionController_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.io.LazilyCompactedRow_java
+src.java.org.apache.cassandra.io.sstable.SSTableWriter_java
+src.java.org.apache.cassandra.io.CompactionIterator_java
+src.java.org.apache.cassandra.db.CompactionManager_java

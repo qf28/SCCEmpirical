@@ -1,0 +1,14 @@
+[Call,Import,Extend,Create,Use]
+6
+0 0 0 0 0 0
+01100 0 0 0 0 0
+01100 0 0 0 0 0
+01100 0 0 0 0 0
+0 11010 11010 11010 0 11010
+01100 0 0 0 01001 0
+wicket-core.src.main.java.org.apache.wicket.markup.parser.AbstractMarkupFilter_java
+wicket-core.src.main.java.org.apache.wicket.markup.parser.filter.WicketTagIdentifier_java
+wicket-core.src.main.java.org.apache.wicket.markup.parser.filter.WicketNamespaceHandler_java
+wicket-core.src.main.java.org.apache.wicket.markup.parser.filter.WicketMessageTagHandler_java
+wicket-core.src.main.java.org.apache.wicket.markup.MarkupParser_java
+wicket-core.src.main.java.org.apache.wicket.markup.parser.filter.RelativePathPrefixHandler_java

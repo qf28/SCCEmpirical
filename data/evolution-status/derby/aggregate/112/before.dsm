@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create]
+2
+0 0
+1111 0
+java.tools.org.apache.derby.impl.tools.ij.StatementFinder_java
+java.tools.org.apache.derby.impl.tools.ij.utilMain_java

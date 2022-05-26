@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 0 0 011010
+0 0 000100 0
+0 010100 0 011011
+010001 010100 011010 0
+core.src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java
+core.src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+core.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+core.src.main.java.org.apache.hadoop.hbase.regionserver.Store_java

@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0 0011000000
+0000100000 0 0
+0010000010 0011000010 0
+src.main.java.spoon.processing.Processor_java
+src.main.java.spoon.processing.FileGenerator_java
+src.main.java.spoon.compiler.Environment_java

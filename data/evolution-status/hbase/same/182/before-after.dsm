@@ -1,0 +1,6 @@
+[Call,Typed,Use,Implement]
+2
+0 1000
+1100 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.RegionLoad_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.RegionMetricsBuilder_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 0010
+0110 0
+src.main.java.org.apache.hadoop.hbase.client.HTable_java
+src.test.java.org.apache.hadoop.hbase.mapreduce.TestTableInputFormatScan_java

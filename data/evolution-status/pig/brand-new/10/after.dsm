@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 110000100
+001000000 0
+src.org.apache.pig.experimental.logical.relational.LOLoad_java
+src.org.apache.pig.experimental.logical.relational.LogicalPlanVisitor_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Throw,Create,Implement]
+2
+0 0010000000
+0010001000 0
+test.distributed.org.apache.cassandra.distributed.api.IInstance_java
+test.distributed.org.apache.cassandra.distributed.api.ICluster_java

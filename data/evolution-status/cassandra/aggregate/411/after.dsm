@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create,Implement]
+3
+0 10000 0
+0 0 01000
+00110 0 0
+src.java.org.apache.cassandra.db.transform.RTBoundCloser_java
+src.java.org.apache.cassandra.db.rows.UnfilteredRowIterators_java
+src.java.org.apache.cassandra.db.ReadCommand_java

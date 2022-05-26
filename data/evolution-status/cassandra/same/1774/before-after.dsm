@@ -1,0 +1,6 @@
+[Call,Typed,Set,Use,Implement]
+2
+0 11110
+01000 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.config.CFMetaData_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Use,Create]
+2
+0 001110
+010001 0
+java.client.org.apache.derby.client.am.ClobOutputStream_java
+java.client.org.apache.derby.client.am.Clob_java

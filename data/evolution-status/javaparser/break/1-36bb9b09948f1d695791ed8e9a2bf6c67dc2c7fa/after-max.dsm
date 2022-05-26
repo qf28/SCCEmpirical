@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 0000000010
+0100010011 0
+javaparser-core.src.main.java.com.github.javaparser.ParseResult_java
+javaparser-core.src.main.java.com.github.javaparser.ParserConfiguration_java

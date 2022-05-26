@@ -1,0 +1,16 @@
+[Call,Typed,Set,Extend,Create,Use,Modify]
+7
+0 0100000 0 0 0 0 0
+0 0 0 1000100 1000100 1000100 1000100
+0 0100000 0 0 0 0 0
+0 1100000 0 0 0 0 0
+0 0100000 1000100 0 0 0 0
+0 1100000 0 0 0 0 0
+1000100 0100000 0 0 0 0 0
+java.client.org.apache.derby.client.am.ClobLocatorInputStream_java
+java.client.org.apache.derby.client.am.Clob_java
+java.client.org.apache.derby.client.am.ClobLocatorReader_java
+java.client.org.apache.derby.client.am.ClobLocatorOutputStream_java
+java.client.org.apache.derby.client.am.UpdateSensitiveClobLocatorReader_java
+java.client.org.apache.derby.client.am.ClobLocatorWriter_java
+java.client.org.apache.derby.client.am.UpdateSensitiveClobLocatorInputStream_java

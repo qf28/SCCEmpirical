@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0 1000010
+0 0 1100000
+1100100 1100110 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.ipc.AsyncRpcClient_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.ipc.AsyncCall_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.ipc.AsyncRpcChannelImpl_java

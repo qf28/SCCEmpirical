@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 0100000
+1000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.AsyncRegionReplicaReplayRetryingCaller_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.AsyncClusterConnectionImpl_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use]
+2
+0 0111001
+0011000 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PhysicalPlan_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.PhysicalOperator_java

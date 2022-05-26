@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 110110
+110010 0
+java.engine.org.apache.derby.iapi.types.CollatorSQLLongvarchar_java
+java.engine.org.apache.derby.iapi.types.SQLLongvarchar_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Throw,Create,Use,Implement]
+2
+0 011000010
+011000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.ProcedureMember_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.Subprocedure_java

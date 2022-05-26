@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Create,Use]
+2
+0 10010
+11101 0
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.ConstantPoolEntry_java
+src.main.org.apache.tools.ant.taskdefs.optional.depend.constantpool.MethodHandleCPInfo_java

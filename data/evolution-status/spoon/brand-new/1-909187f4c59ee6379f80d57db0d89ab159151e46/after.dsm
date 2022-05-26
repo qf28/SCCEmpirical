@@ -1,0 +1,6 @@
+[Return,Import,Use,Parameter]
+2
+0 0010
+1000 0
+src.test.java.spoon.test.visibility.testclasses.Foo_java
+src.test.java.spoon.test.visibility.testclasses.A2_java

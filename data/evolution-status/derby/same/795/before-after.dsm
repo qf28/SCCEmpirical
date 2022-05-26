@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Implement]
+2
+0 00100000
+00100000 0
+java.engine.org.apache.derby.iapi.sql.compile.Optimizable_java
+java.engine.org.apache.derby.iapi.sql.compile.Optimizer_java

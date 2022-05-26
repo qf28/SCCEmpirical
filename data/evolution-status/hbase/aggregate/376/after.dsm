@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 00000100 10000100 0
+00000100 0 0 0
+11000000 10011100 0 11000010
+11000110 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.HBaseClient_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.HBaseServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.ProtobufRpcEngine_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.ClientCache_java

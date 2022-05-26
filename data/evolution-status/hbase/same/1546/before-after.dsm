@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 1000000
+1100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.RegionStateStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.RegionStates_java

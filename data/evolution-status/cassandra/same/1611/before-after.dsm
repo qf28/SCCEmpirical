@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Implement]
+2
+0 11010
+10010 0
+src.java.org.apache.cassandra.db.transform.FilteredRows_java
+src.java.org.apache.cassandra.db.transform.Filter_java

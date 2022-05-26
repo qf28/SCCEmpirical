@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Throw,Use,Create,Implement]
+4
+0 0100000000 0 0010000100
+0110000010 0 0 0
+0 0 0 0110000100
+0 0100000000 0110000010 0
+contrib.zebra.src.java.org.apache.hadoop.zebra.types.SubColumnExtraction_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.types.TypesUtils_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.types.TableStorageParser_java
+contrib.zebra.src.java.org.apache.hadoop.zebra.types.Partition_java

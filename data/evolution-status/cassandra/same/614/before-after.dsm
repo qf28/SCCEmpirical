@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01100010
+01100100 0
+src.java.org.apache.cassandra.db.view.View_java
+src.java.org.apache.cassandra.db.view.ViewBuilder_java

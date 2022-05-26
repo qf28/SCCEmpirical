@@ -1,0 +1,8 @@
+[Call,Extend,Create]
+3
+0 101 0
+0 0 110
+110 0 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.AbstractControllerResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.CompatibleRepositoryVersionResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ReadOnlyResourceProvider_java

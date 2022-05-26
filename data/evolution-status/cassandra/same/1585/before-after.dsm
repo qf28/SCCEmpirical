@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+4
+0 0110000 1110000 0
+0 0 1110001 1110001
+0100010 0110101 0 0
+0 0110101 0 0
+src.java.org.apache.cassandra.service.pager.PartitionRangeQueryPager_java
+src.java.org.apache.cassandra.db.ReadCommand_java
+src.java.org.apache.cassandra.db.PartitionRangeReadCommand_java
+src.java.org.apache.cassandra.db.SinglePartitionReadCommand_java

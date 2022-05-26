@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 0101000000
+0101000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.HbaseObjectWritable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.protobuf.ProtobufUtil_java

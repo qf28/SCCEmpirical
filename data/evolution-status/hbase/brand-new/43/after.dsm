@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 010000010
+000001000 0
+hbase-rsgroup.src.main.java.org.apache.hadoop.hbase.rsgroup.RSGroupAdmin_java
+hbase-rsgroup.src.main.java.org.apache.hadoop.hbase.rsgroup.RSGroupAdminClient_java

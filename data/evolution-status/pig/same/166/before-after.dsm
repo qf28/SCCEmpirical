@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 111000
+111010 0
+src.org.apache.pig.impl.physicalLayer.plans.PhyPlanVisitor_java
+src.org.apache.pig.impl.physicalLayer.topLevelOperators.POGenerate_java

@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 101
+110 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

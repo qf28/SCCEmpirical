@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 0010
+1111 0
+src.main.org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner_java
+src.main.org.apache.tools.ant.taskdefs.optional.junit.JUnitTask_java

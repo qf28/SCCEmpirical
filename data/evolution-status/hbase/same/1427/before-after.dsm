@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 001000
+101000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.mob.MobUtils_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.mob.compactions.PartitionedMobCompactor_java

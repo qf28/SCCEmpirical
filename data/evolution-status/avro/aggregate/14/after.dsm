@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Use,Create]
+2
+0 00001
+00100 0
+lang.java.trevni.core.src.main.java.org.apache.trevni.Codec_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.BZip2Codec_java

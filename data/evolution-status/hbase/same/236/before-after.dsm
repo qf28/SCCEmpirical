@@ -1,0 +1,10 @@
+[Call,Typed,Extend]
+4
+0 100 100 100
+111 0 0 0
+011 0 0 0
+011 0 0 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.Hash_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.JenkinsHash_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.MurmurHash_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.MurmurHash3_java

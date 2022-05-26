@@ -1,0 +1,20 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Throw,Implement,Parameter,Contain]
+9
+0 0 0 0 01100000010 00100100010 0 01100000010 0
+0 0 0 0 01100000010 0 0 01100000010 0
+0 0 0 0 01100000010 00100100010 0 01100000010 0
+0 0 0 0 01100000010 0 0 01100000010 0
+00100000010 00000000010 00000000010 00000000010 0 00100000010 00100000010 0 00000000010
+0 0 0 0 01100000010 0 0 01100000010 0
+0 0 0 0 01100000010 0 0 01100000010 0
+00100000010 00000000010 00000000010 00000000010 0 00100000010 00100000010 0 00000000010
+0 0 0 0 01100000010 0 0 01100000010 0
+src.main.java.japa.parser.ast.body.MethodDeclaration_java
+src.main.java.japa.parser.ast.expr.ArrayCreationExpr_java
+src.main.java.japa.parser.ast.expr.MethodReferenceExpr_java
+src.main.java.japa.parser.ast.expr.LambdaExpr_java
+src.main.java.japa.parser.ast.visitor.VoidVisitor_java
+src.main.java.japa.parser.ast.TypeParameter_java
+src.main.java.japa.parser.ast.type.ReferenceType_java
+src.main.java.japa.parser.ast.visitor.GenericVisitor_java
+src.main.java.japa.parser.ast.expr.TypeExpr_java

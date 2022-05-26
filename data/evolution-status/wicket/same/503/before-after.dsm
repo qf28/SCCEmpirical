@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Use,Implement]
+3
+0 01100 00010
+01100 0 11110
+0 11111 0
+wicket.src.java.wicket.Localizer_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.Page_java

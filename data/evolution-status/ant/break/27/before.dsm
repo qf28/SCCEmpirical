@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0100010
+0011000 0
+src.antidote.org.apache.tools.ant.gui.core.AppContext_java
+src.antidote.org.apache.tools.ant.gui.event.NewProjectEvent_java

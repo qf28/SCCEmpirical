@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Throw,Use]
+3
+0 0 010000
+010000 0 0
+0 010000 0
+java.stubs.jdbc3.javax.sql.RowSet_java
+java.stubs.jdbc3.javax.sql.RowSetEvent_java
+java.stubs.jdbc3.javax.sql.RowSetListener_java

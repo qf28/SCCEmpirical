@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 0 11110
+0 0 11100
+10100 10101 0
+src.main.java.org.apache.hadoop.hbase.master.handler.ServerShutdownHandler_java
+src.main.java.org.apache.hadoop.hbase.master.handler.ClosedRegionHandler_java
+src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java

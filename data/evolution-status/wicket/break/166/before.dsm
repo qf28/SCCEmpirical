@@ -1,0 +1,28 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+13
+0 011010100 0 0 0 111000100 0 0 0 0 0 0 0
+0 0 0 0 0 011000000 011000100 011000000 0 010000010 111001100 0 0
+0 011100000 0 0 0 011100000 0 0 0 0 0 0 0
+0 011100000 0 0 0 001100000 0 0 0 0 0 010100010 0
+0 011100000 0 0 0 011101100 010100000 001100000 0 0 010000000 0 0
+010001100 111011111 0 0 0 0 010000000 0 0 0 011000000 0 0
+0 001000100 000100010 0 000100010 0 0 001000000 000100010 0 000000100 0 000100010
+0 0 0 0 0 0 010000000 0 0 0 0 0 0
+0 111100100 0 110100100 0 011100100 010100000 0 0 0 010000000 0 0
+0 011000100 0 000100100 0 011000000 0 0 0 0 0 0 0
+0 011000101 0 0 0 111001100 011000000 011000000 0 0 0 0 0
+0 010101000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 001100000 0 0 0 0 0 0 0
+wicket.src.main.java.org.apache.wicket.ComponentSourceEntry_java
+wicket.src.main.java.org.apache.wicket.Component_java
+wicket.src.main.java.org.apache.wicket.markup.resolver.ParentResolver_java
+wicket.src.main.java.org.apache.wicket.markup.html.border.Border_java
+wicket.src.main.java.org.apache.wicket.markup.resolver.WicketMessageResolver_java
+wicket.src.main.java.org.apache.wicket.MarkupContainer_java
+wicket.src.main.java.org.apache.wicket.Application_java
+wicket.src.main.java.org.apache.wicket.Response_java
+wicket.src.main.java.org.apache.wicket.markup.resolver.AutoComponentResolver_java
+wicket.src.main.java.org.apache.wicket.MarkupFragmentFinder_java
+wicket.src.main.java.org.apache.wicket.Page_java
+wicket.src.main.java.org.apache.wicket.markup.html.WebComponent_java
+wicket.src.main.java.org.apache.wicket.markup.resolver.FragmentResolver_java

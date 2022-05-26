@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+5
+0 0 0101000000 0101000000 0111000000
+0 0 0101001000 0 0
+0111000100 0101001000 0 0 0111000100
+0 0 0 0 0111000000
+0 0 0101001000 0 0
+src.java.org.apache.cassandra.dht.BootStrapper_java
+src.java.org.apache.cassandra.db.commitlog.CommitLog_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.dht.tokenallocator.TokenAllocation_java
+src.java.org.apache.cassandra.locator.TokenMetadata_java

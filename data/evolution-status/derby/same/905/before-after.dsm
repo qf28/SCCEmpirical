@@ -1,0 +1,8 @@
+[Typed,Import]
+3
+0 10 10
+10 0 0
+10 0 0
+java.engine.org.apache.derby.iapi.store.raw.Transaction_java
+java.engine.org.apache.derby.iapi.store.raw.Loggable_java
+java.engine.org.apache.derby.iapi.store.raw.LockingPolicy_java

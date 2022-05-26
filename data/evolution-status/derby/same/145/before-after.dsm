@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Extend,Use,Create]
+4
+0 001000 0 011001
+010001 0 011010 110011
+0 011010 0 0
+0 001000 0 0
+java.engine.org.apache.derby.impl.sql.compile.DeleteNode_java
+java.engine.org.apache.derby.impl.sql.compile.MatchingClauseNode_java
+java.engine.org.apache.derby.impl.sql.compile.MergeNode_java
+java.engine.org.apache.derby.impl.sql.compile.UpdateNode_java

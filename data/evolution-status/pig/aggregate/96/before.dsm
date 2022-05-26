@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create,Implement]
+2
+0 0
+0 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigInputFormat_java
+src.org.apache.pig.impl.io.FileLocalizer_java

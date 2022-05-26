@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+4
+0 001000000 000100000 0
+011000000 0 0 0
+011100000 0 0 010100000
+011000001 011011010 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.HConnection_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.ServerCallable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.catalog.CatalogTracker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.HConnectionManager_java

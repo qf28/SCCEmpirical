@@ -1,0 +1,18 @@
+[Call,Typed,Import,Extend,Use,Create]
+8
+0 010000 101001 101001 111000 101001 101001 101001
+000010 0 0 0 0 0 0 0
+0 011000 0 0 100100 0 0 0
+0 011000 0 0 100100 0 0 0
+0 111000 0 0 0 0 0 0
+0 011000 0 0 100100 0 0 0
+0 011000 0 0 100100 0 0 0
+0 011000 0 0 100100 0 0 0
+ambari-server.src.main.java.org.apache.ambari.server.api.services.stackadvisor.StackAdvisorHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.stackadvisor.StackAdvisorRunner_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.stackadvisor.commands.ConfigurationDependenciesRecommendationCommand_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.stackadvisor.commands.ConfigurationRecommendationCommand_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.stackadvisor.commands.StackAdvisorCommand_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.stackadvisor.commands.ComponentLayoutValidationCommand_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.stackadvisor.commands.ConfigurationValidationCommand_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.stackadvisor.commands.ComponentLayoutRecommendationCommand_java

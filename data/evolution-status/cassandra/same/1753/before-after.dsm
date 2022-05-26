@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 001000100
+011100000 0
+src.java.org.apache.cassandra.streaming.StreamSession_java
+src.java.org.apache.cassandra.streaming.messages.OutgoingFileMessage_java

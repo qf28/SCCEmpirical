@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 100
+100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.CreateNamespaceProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.DeleteNamespaceProcedure_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Extend,Use,Create]
+3
+0 000010 011000
+010110 0 111000
+001000 0 0
+java.engine.org.apache.derby.impl.sql.compile.DMLStatementNode_java
+java.engine.org.apache.derby.impl.sql.compile.CursorNode_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumnList_java

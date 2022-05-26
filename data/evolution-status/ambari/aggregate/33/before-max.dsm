@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Throw,Create,Implement]
+2
+0 010111000
+010100010 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.metrics.ganglia.GangliaReportPropertyProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.metrics.MetricsReportPropertyProvider_java

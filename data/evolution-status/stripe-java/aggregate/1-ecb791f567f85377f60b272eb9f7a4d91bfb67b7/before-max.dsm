@@ -1,0 +1,12 @@
+[Call,Return,Extend,Create,Use,Implement,Parameter,Contain]
+5
+0 0 0 0 00000010
+00000100 0 11000011 10010000 00001010
+0 0 0 0 00001000
+0 0 10100000 0 00001000
+00001011 10010000 0 0 0
+src.main.java.com.stripe.net.StripeResponseGetter_java
+src.main.java.com.stripe.net.LiveStripeResponseGetter_java
+src.main.java.com.stripe.net.HttpClient_java
+src.main.java.com.stripe.net.HttpURLConnectionClient_java
+src.main.java.com.stripe.net.ApiResource_java

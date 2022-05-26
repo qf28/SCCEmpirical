@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use]
+2
+0 00100
+11111 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Application_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.WebApplication_java

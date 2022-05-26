@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 010010
+100010 0
+lang.java.mapred.src.main.java.org.apache.avro.mapred.tether.TetherJob_java
+lang.java.mapred.src.main.java.org.apache.avro.mapred.tether.TetheredProcess_java

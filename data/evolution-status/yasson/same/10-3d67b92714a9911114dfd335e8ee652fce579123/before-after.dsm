@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+2
+0 01000000100
+00000100000 0
+src.test.java.org.eclipse.yasson.serializers.model.GenericPropertyPojoSerializer_java
+src.test.java.org.eclipse.yasson.serializers.model.GenericPropertyPojo_java

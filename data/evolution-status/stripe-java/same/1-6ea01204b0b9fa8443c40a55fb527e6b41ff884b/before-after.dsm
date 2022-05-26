@@ -1,0 +1,6 @@
+[Call,Use,Create,Parameter]
+2
+0 1010
+1101 0
+src.main.java.com.stripe.net.APIResource_java
+src.main.java.com.stripe.net.LiveStripeResponseGetter_java

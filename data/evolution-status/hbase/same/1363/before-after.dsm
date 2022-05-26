@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Create,Use]
+2
+0 11101001
+00000001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HeapMemStoreLAB_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreChunkPool_java

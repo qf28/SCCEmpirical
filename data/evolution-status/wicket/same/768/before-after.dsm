@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Create,Use]
+4
+0 011100 0 0
+0 0 0 000101
+010010 101100 0 0
+0 0 010010 0
+wicket.src.java.wicket.markup.html.debug.WicketPageMapView_java
+wicket.src.java.wicket.PageMap_java
+wicket.src.java.wicket.markup.html.debug.WicketSessionView_java
+wicket.src.java.wicket.markup.html.debug.WicketInspector_java

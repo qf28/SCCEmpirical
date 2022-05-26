@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0100001
+0110010 0
+lang.java.thrift.src.main.java.org.apache.avro.thrift.ThriftData_java
+lang.java.thrift.src.main.java.org.apache.avro.thrift.ThriftDatumReader_java

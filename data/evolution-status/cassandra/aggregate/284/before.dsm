@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+8
+0 0 0 0 0 0 01010000 0
+00100000 0 0 0 01010010 0 01010000 0
+0 01000011 0 01010000 0 0 01010000 0
+0 0 0 0 0 0 01010000 0
+0 0 0 01000010 0 01000010 01010000 11100010
+01100010 0 0 01010000 0 0 01010000 0
+0 0 01010000 01010010 0 0 0 0
+0 0 0 01010000 01010010 0 01010000 0
+src.java.org.apache.cassandra.auth.AuthenticatedUser_java
+src.java.org.apache.cassandra.auth.CassandraRoleManager_java
+src.java.org.apache.cassandra.auth.AuthConfig_java
+src.java.org.apache.cassandra.utils.FBUtilities_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.ClientState_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.locator.NetworkTopologyStrategy_java

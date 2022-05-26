@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 011100110 000000001
+000100100 0 000100000
+0 001100100 0
+src.java.org.apache.cassandra.dht.RandomPartitioner_java
+src.java.org.apache.cassandra.db.DecoratedKey_java
+src.java.org.apache.cassandra.dht.IPartitioner_java

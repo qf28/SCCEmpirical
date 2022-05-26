@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create]
+10
+0 0 0 01101000 0 0 0 0 0 0
+0 0 0 01101000 0 0 0 0 0 0
+0 0 0 01101000 0 0 0 0 0 0
+00101000 00101000 00101000 0 00101000 00101000 00101000 00101000 00101000 0
+0 0 0 01101000 0 0 0 0 0 0
+0 0 0 01101000 0 0 0 0 0 0
+0 0 0 01101000 0 0 0 0 0 0
+0 0 0 01101000 0 0 0 0 0 01101001
+0 0 0 01101000 0 0 0 0 0 0
+0 0 0 0 0 0 0 00101010 0 0
+src.org.apache.pig.backend.local.executionengine.POSplit_java
+src.org.apache.pig.backend.local.executionengine.POEval_java
+src.org.apache.pig.backend.local.executionengine.POStore_java
+src.org.apache.pig.impl.physicalLayer.POVisitor_java
+src.org.apache.pig.backend.local.executionengine.POCogroup_java
+src.org.apache.pig.backend.local.executionengine.POLoad_java
+src.org.apache.pig.backend.local.executionengine.POSort_java
+src.org.apache.pig.backend.hadoop.executionengine.POMapreduce_java
+src.org.apache.pig.backend.local.executionengine.POUnion_java
+src.org.apache.pig.backend.hadoop.executionengine.mapreduceExec.MapReduceLauncher_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+4
+0 101000010 0 0
+000000100 0 110000100 011000100
+0 011000110 0 0
+001000000 101000010 011000010 0
+java.engine.org.apache.derby.impl.store.access.btree.index.B2IUndo_java
+java.engine.org.apache.derby.impl.store.access.btree.index.B2I_java
+java.engine.org.apache.derby.impl.store.access.btree.index.B2IStaticCompiledInfo_java
+java.engine.org.apache.derby.impl.store.access.btree.index.B2IController_java

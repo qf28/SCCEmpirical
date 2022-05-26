@@ -1,0 +1,8 @@
+[Call,Typed,Use,Create]
+3
+0 0 0010
+0 0 0010
+0010 0010 0
+ambari-server.src.main.java.org.apache.ambari.server.checks.HostsRepositoryVersionCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.HostsHeartbeatCheck_java
+ambari-server.src.main.java.org.apache.ambari.server.checks.CheckDescription_java

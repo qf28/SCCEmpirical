@@ -1,0 +1,6 @@
+[Extend,Create,Use]
+2
+0 101
+010 0
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.StressAssignmentManagerMonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.MonkeyFactory_java

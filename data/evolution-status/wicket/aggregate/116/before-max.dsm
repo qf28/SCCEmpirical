@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+5
+0 0 0 0010010 0001000
+0111000 0 1111010 0111010 0
+0100000 0 0 1110111 0
+0110000 0 1110010 0 0
+0111110 0111011 0 0 0
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.ajax.AjaxRequestTarget_java
+wicket-core.src.main.java.org.apache.wicket.MarkupContainer_java
+wicket-core.src.main.java.org.apache.wicket.Component_java
+wicket-core.src.main.java.org.apache.wicket.protocol.http.WebApplication_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Use,Implement]
+5
+0 0 0 0111000 0000001
+0101100 0 0 0111000 0001011
+0101100 0 0 0111000 0000010
+0100000 0010000 0110000 0 1110000
+0 0 0 0011000 0
+src.main.org.apache.tools.ant.taskdefs.optional.j2ee.AbstractHotDeploymentTool_java
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.WebLogicHotDeploymentTool_java
+src.main.org.apache.tools.ant.taskdefs.optional.j2ee.GenericHotDeploymentTool_java
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.EjbDeploy_java
+src.main.org.apache.tools.ant.taskdefs.optional.ejb.EjbHotDeploymentTool_java

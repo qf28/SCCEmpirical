@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 110
+111 0
+java.client.org.apache.derby.client.am.CallableLocatorProcedures_java
+java.client.org.apache.derby.client.am.Connection_java

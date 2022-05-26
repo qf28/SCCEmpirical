@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+3
+0 0 0
+0 0 0101000
+0111100 0011100 0
+src.org.apache.pig.backend.hadoop.executionengine.mapreduceExec.PigInputFormat_java
+src.org.apache.pig.PigServer_java
+src.org.apache.pig.impl.io.FileLocalizer_java

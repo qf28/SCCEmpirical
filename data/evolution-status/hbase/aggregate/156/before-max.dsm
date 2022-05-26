@@ -1,0 +1,12 @@
+[Extend,Use,Create]
+5
+0 0 110 0 0
+0 0 110 0 0
+001 001 0 001 001
+0 0 110 0 0
+0 0 110 0 0
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.ServerKillingMonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.StressAssignmentManagerMonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.MonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.ServerAndDependenciesKillingMonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.SlowDeterministicMonkeyFactory_java

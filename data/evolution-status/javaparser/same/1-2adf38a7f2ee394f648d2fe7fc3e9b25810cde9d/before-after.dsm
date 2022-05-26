@@ -1,0 +1,20 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain,Annotation]
+9
+0 0 0 0010010000 0 0 0111011110 0110110000 0
+0110011100 0 0111011110 0010010000 0 0 0 0010000100 0
+0 0 0 0 0 0 0 1101010110 0
+0000010000 0000010000 0 0 0000010000 0000010000 0000010000 0 0
+0 0 0 0010010000 0 0 0 0110110000 0
+0 0 0111011110 0010010000 0 0 0 0110110000 0
+0 0 0 0010010000 0 0 0 0110110000 0
+0 0 0100000100 0010010000 1110010110 0 0 0 0100010000
+0 0 0101011110 0010010000 0010000000 0110001000 0 0100110000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.VariableDeclarator_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.VariableDeclarationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.NodeList_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.Comment_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Name_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.SimpleName_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

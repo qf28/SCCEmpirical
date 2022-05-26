@@ -1,0 +1,10 @@
+[Cast,Call,Create,Use,Implement,Parameter,Contain]
+4
+0 0000100 0 0
+0110000 0 0110000 0110000
+0 0000100 0 0
+0 0000100 0 0
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.Removed_java
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.DifferenceElement_java
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.Kept_java
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.Added_java

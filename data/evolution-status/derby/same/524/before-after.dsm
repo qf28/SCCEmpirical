@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Use]
+5
+0 1111 1110 0 1110
+0 0 0 0 1010
+0 0 0 1110 1110
+0 0 0 0 1110
+0110 0 0 0 0
+java.engine.org.apache.derby.impl.sql.compile.TableElementList_java
+java.engine.org.apache.derby.impl.sql.compile.ConstraintDefinitionNode_java
+java.engine.org.apache.derby.impl.sql.compile.FromBaseTable_java
+java.engine.org.apache.derby.impl.sql.compile.CreateViewNode_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumnList_java

@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create,Implement]
+4
+0 111010 101100 110110
+101000 0 0 0
+011100 0 0 0
+0 0 001100 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.locator.TokenMetadata_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.gms.VersionedValue_java

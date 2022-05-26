@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use]
+2
+0 000101
+011001 0
+ambari-server.src.main.java.org.apache.ambari.server.topology.SecurityConfiguration_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.SecurityConfigurationFactory_java

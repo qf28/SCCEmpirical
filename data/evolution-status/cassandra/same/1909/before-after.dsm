@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 011000100
+011000110 0
+src.java.org.apache.cassandra.utils.BloomFilter_java
+src.java.org.apache.cassandra.utils.BloomFilterSerializer_java

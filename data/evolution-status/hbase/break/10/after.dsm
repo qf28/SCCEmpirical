@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 0
+011000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.mob.mapreduce.MemStoreWrapper_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.mob.mapreduce.SweepReducer_java

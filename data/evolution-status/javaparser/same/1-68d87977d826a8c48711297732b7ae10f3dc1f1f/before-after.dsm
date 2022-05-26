@@ -1,0 +1,6 @@
+[Cast,Call,Import,Create,Use,Contain]
+2
+0 010110
+010100 0
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javassistmodel.JavassistClassDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.javassistmodel.JavassistInterfaceDeclaration_java

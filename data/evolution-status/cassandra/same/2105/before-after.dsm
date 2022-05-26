@@ -1,0 +1,6 @@
+[Call,Typed,Set,Import,Extend,Use,Create]
+2
+0 1001010
+1100010 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java

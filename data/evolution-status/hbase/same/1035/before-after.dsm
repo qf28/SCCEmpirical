@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0 0110100
+0000001 0 0110100
+1110000 1011000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.hbck.TableIntegrityErrorHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.hbck.TableIntegrityErrorHandlerImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.HBaseFsck_java

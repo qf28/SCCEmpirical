@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Extend,Use,Implement]
+10
+0 0 0 0 0 1100110 0010010 0 0 0
+0 0 0 0 0 0 0000100 0 0 0
+0 0 0 0 0 1100010 0010010 0 0000110 0
+0 0010000 0010000 0 0010000 1100110 0010010 0 0 0010000
+0 0 0 0 0 1100010 0010010 0 0000110 0
+0 0 0 0 0 0 0000100 0 0 0
+0010000 0 0 0010000 0 0 0 0010000 0 0
+0 0 0 0 0 1100110 0010010 0 0 0
+0 0 0 0 0 0 0000100 0 0 0
+0 0 0 0 0 1100010 0010010 0 0000110 0
+src.main.org.apache.tools.ant.types.optional.imageio.Rotate_java
+src.main.org.apache.tools.ant.types.optional.imageio.Text_java
+src.main.org.apache.tools.ant.types.optional.imageio.Ellipse_java
+src.main.org.apache.tools.ant.types.optional.imageio.Draw_java
+src.main.org.apache.tools.ant.types.optional.imageio.Rectangle_java
+src.main.org.apache.tools.ant.types.optional.imageio.TransformOperation_java
+src.main.org.apache.tools.ant.types.optional.imageio.ImageOperation_java
+src.main.org.apache.tools.ant.types.optional.imageio.Scale_java
+src.main.org.apache.tools.ant.types.optional.imageio.BasicShape_java
+src.main.org.apache.tools.ant.types.optional.imageio.Arc_java

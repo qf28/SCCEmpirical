@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+5
+0 0 0 0 0
+0110010 0 0 0 0
+0 0 0 0 0
+0100000 0110000 1110000 0 0100000
+0 0110000 1010001 0100010 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.RpcRetryingCaller_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.RpcRetryingCallerFactory_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ClusterConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HTable_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ConnectionManager_java

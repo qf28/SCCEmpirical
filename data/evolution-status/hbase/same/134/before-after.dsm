@@ -1,0 +1,32 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+15
+0 0 0 0 0 0 0 0 0 0 0 0111000000 0 0 0
+0 0 0 0 0 0 0 0110001000 0101000000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0111000000 0 0 0
+0 0 0 0 0 0 1101000000 0 0 0 0 0111000000 0 0 0
+0 0 0 0 0 0 1101000000 0 0 0 0 0111000000 0 0 0
+0 0 0 0 0 0 0111001000 0111001000 0 0 0 0 0 0 0
+0 0 0 0101000100 0101000100 0 0 0101011000 0 0111000100 0101000100 0110000100 0101000100 0111000100 0100000100
+0 0100000100 0 0 0 0 1101001000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0111001000 0111001000 0111001000 0 0 0 0 0 0 0
+0 0 0 0100011000 0100000000 0 1101000000 0 0 0 0 0111000000 0 0 0
+0 0 0 0 0 0 1101000000 0 0 0 0 0111000000 0 0 0
+0101000100 0 0101000100 0 0 0 0 0 0 0 0101000100 0 0111000100 0 0
+0 0 0 0 0 0 1101000000 0 0 0 0 0111000000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0111000000 0 0 0
+0 0 0 0 0 0111001000 0110011000 0101000000 0111000100 0 0 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.OpenedRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServerCommandLine_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.ClosedRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.DeleteTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.CreateTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.JVMClusterUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.LocalHBaseCluster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.TruncateTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.DisableTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.EnableTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.SnapshotManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMasterCommandLine_java

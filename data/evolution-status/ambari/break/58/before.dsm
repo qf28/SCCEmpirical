@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0111000
+0101010 0
+ambari-logsearch.ambari-logsearch-server.src.main.java.org.apache.ambari.logsearch.configurer.LogfeederFilterConfigurer_java
+ambari-logsearch.ambari-logsearch-server.src.main.java.org.apache.ambari.logsearch.dao.UserConfigSolrDao_java

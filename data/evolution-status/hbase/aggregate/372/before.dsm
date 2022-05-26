@@ -1,0 +1,4 @@
+[Call,Typed,Import,Extend,Use,Create]
+1
+0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.cleaner.CleanerChore_java

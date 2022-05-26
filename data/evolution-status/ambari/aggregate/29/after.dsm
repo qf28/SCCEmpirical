@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 0 000110
+000110 0 0
+011100 011111 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.RepositoryVersionHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RepositoryVersionEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.RepositoryVersionResourceProvider_java

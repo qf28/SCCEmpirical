@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 0 1110000
+0 0 1110000
+0100000 0100000 0
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POStream_java
+src.org.apache.pig.backend.local.executionengine.physicalLayer.relationalOperators.POCogroup_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PhyPlanVisitor_java

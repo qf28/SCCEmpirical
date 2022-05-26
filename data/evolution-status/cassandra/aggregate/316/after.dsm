@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 010100010
+001100000 0
+src.java.org.apache.cassandra.cql3.Relation_java
+src.java.org.apache.cassandra.exceptions.UnrecognizedEntityException_java

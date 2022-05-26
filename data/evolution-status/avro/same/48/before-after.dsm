@@ -1,0 +1,10 @@
+[Call,Typed,Extend,Create]
+4
+0 1010 0 0
+0001 0 0001 0001
+0 1010 0 0
+0 1010 0 0
+lang.java.trevni.core.src.main.java.org.apache.trevni.SnappyCodec_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.Codec_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.DeflateCodec_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.BZip2Codec_java

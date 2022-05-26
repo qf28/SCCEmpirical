@@ -1,0 +1,6 @@
+[Call,Import,Return,Use,Create,Parameter,Contain]
+2
+0 0110000
+0100000 0
+src.main.java.me.tomassetti.symbolsolver.model.usages.MethodUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.declarations.TypeDeclaration_java

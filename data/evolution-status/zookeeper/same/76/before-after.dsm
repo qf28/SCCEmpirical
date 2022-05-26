@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Use,Create,Modify]
+2
+0 01100000
+01110111 0
+zookeeper-server.src.main.java.org.apache.zookeeper.server.NettyServerCnxn_java
+zookeeper-server.src.main.java.org.apache.zookeeper.server.NettyServerCnxnFactory_java

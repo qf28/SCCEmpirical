@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 0 000010
+000010 0 000010
+0 000010 0
+examples.hadoop_word_count.src.WordCountCounters_java
+examples.hadoop_word_count.src.WordCountSetup_java
+examples.hadoop_word_count.src.WordCount_java

@@ -1,0 +1,8 @@
+[Call,Import,Extend,Use,Create,Parameter]
+3
+0 001100 010000
+0 0 010001
+110010 110010 0
+javaparser-core.src.main.java.com.github.javaparser.version.Java11PostProcessor_java
+javaparser-core.src.main.java.com.github.javaparser.version.Java10PostProcessor_java
+javaparser-core.src.main.java.com.github.javaparser.ParserConfiguration_java

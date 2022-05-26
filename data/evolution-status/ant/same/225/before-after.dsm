@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 100000
+110100 0
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.PropertyHelper_java

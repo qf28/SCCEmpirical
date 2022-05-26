@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+2
+0 0100010010
+0100010000 0
+src.main.java.org.eclipse.yasson.internal.serializer.ObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.SerializerBuilder_java

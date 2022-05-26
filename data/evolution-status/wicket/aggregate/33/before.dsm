@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Implement]
+5
+0 0 0 0 001000
+011000 0 0 011011 011000
+0 0 0 001000 0
+011000 011000 011001 0 111010
+010000 011000 0 111011 0
+wicket.src.java.wicket.Application_java
+wicket.src.java.wicket.Session_java
+wicket.src.java.wicket.IComponentValueComparator_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.Page_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Implement]
+2
+0 10100
+00100 0
+src.main.org.apache.tools.ant.filters.TokenFilter_java
+src.main.org.apache.tools.ant.util.FileUtils_java

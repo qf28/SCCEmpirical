@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create,Implement]
+4
+0 100010 110000 100010
+011100 0 000001 0
+011000 0 0 0
+011100 0 000001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ScanWildcardColumnTracker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ColumnTracker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ExplicitColumnTracker_java

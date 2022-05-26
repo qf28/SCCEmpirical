@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Set,Use,Create]
+8
+0 0 0 0 0 0 011000 0
+0 0 0 111010 001000 011000 111010 0
+0 0 0 0 010000 011000 0 0
+0 011010 0 0 010000 011000 111010 0
+0 0 0 0 0 010000 001000 0
+001000 011000 0 011010 011000 0 011010 011000
+001000 010000 0 011000 0 011000 0 0
+0 0 001000 0 0 0 0 0
+wicket.src.java.wicket.RequestListenerInterface_java
+wicket.src.java.wicket.Session_java
+wicket.src.java.wicket.Resource_java
+wicket.src.java.wicket.PageMap_java
+wicket.src.java.wicket.Request_java
+wicket.src.java.wicket.RequestCycle_java
+wicket.src.java.wicket.Page_java
+wicket.src.java.wicket.ResourceReference_java

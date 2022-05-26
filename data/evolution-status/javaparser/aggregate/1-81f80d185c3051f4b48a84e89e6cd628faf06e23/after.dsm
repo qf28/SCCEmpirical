@@ -1,0 +1,22 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Contain]
+10
+0 0 0 0 0 0 0 010000000 0 010010100
+0 0 0 0 0 0 0 0 0 010010100
+0 0 0 0 0 0 001000000 010000000 0 010010100
+0 0 0 0 0 0 0 010000000 0 010010100
+0 0 0 0 0 0 0 010000000 0 010010100
+0 0 0 0 0 0 0 010000000 0 010010100
+010001000 010001000 010001000 010001000 010001000 010001000 0 001100000 010001000 0
+0 0 0 0 0 0 0 0 0 111000100
+0 0 0 0 0 0 011000100 011000000 0 010010100
+0 0 0 0 0 0 011000100 011100011 0 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.TryWithResourceContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.CompilationUnitContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.BlockStmtContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ForechStatementContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ForStatementContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ClassOrInterfaceDeclarationContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFactory_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.core.resolution.Context_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.CatchClauseContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.AbstractJavaParserContext_java

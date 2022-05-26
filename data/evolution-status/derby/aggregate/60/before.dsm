@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Set,Extend,Use,Create]
+6
+0 1110011 1110000 0110000 0 0
+0010000 0 1110000 1110000 0 0
+0010000 0 0 0 0 0
+0110000 1110010 1111001 0 0 0
+1010000 1110000 0 0 0 1111110
+1010000 1110000 1110000 1110000 1100010 0
+java.engine.org.apache.derby.impl.sql.compile.FromList_java
+java.engine.org.apache.derby.impl.sql.compile.FromTable_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumn_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumnList_java
+java.engine.org.apache.derby.impl.sql.compile.HalfOuterJoinNode_java
+java.engine.org.apache.derby.impl.sql.compile.JoinNode_java

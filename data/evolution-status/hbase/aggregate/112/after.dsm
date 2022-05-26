@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use]
+2
+0 1010
+0110 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.replication.SyncReplicationState_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.replication.ReplicationPeerConfigUtil_java

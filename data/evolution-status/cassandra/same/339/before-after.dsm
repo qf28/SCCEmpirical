@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00100000
+01100000 0
+src.java.org.apache.cassandra.db.transform.Transformation_java
+src.java.org.apache.cassandra.db.transform.BaseRows_java

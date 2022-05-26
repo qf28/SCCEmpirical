@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+4
+0 0 0 0
+0 0 011001000 0
+010100101 110011011 0 0
+0 010010011 0 0
+src.main.java.me.tomassetti.symbolsolver.model.declarations.ClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.ReferenceTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.WildcardUsage_java

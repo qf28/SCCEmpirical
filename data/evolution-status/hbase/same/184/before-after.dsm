@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use]
+2
+0 0001
+0001 0
+src.main.java.org.apache.hadoop.hbase.ipc.HBaseServer_java
+src.main.java.org.apache.hadoop.hbase.ipc.HBaseClient_java

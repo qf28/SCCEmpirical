@@ -1,0 +1,18 @@
+[Call,Create,Use]
+8
+0 110 110 101 110 110 0 110
+110 0 0 101 0 110 110 111
+0 0 0 0 110 0 0 0
+110 0 0 0 0 110 0 110
+0 0 0 101 0 0 0 0
+110 110 110 0 110 0 0 110
+0 0 0 101 0 0 0 0
+0 0 0 101 0 0 0 0
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionClassDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionMethodDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ClassOrInterfaceDeclarationContext_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionFactory_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionFieldDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionInterfaceDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionParameterDeclaration_java
+src.main.java.me.tomassetti.symbolsolver.resolution.reflection.ReflectionTypeParameter_java

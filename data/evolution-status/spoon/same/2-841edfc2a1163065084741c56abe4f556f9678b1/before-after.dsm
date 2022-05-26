@@ -1,0 +1,58 @@
+[Import,Return,Extend,Use,Parameter,Contain,Annotation]
+28
+0 1111100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0100100 1000100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0100100 0 1100100 0 0 0010000 0010000 0 0 0 0 0 0 0 0 0 0 0010000 0100000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000 0 0010000 0 0 0 0 0
+0 0100000 0 0 0 1100100 1011100 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 1000100 1000100 0 0 1000100
+0010000 1000000 1100000 0 0 0 0 0 1010000 0 0 0 0 0 0010000 0 0 0100000 0 0 1010000 0 0 0 0 0 0 0
+0 0 0 0 0 1000100 0 0 0 0 0 0 0 0 0 0 1010000 0 0 0 0 0 0 0 0 0 0 0
+0010000 0 0 0 0 0100100 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 1100000 0 0 0 0 0
+0 0 0 0 0 1100100 0 1000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1100000 0 0
+1100000 0010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 1010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0010000 0 0 0 0 0100100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1100000 0
+0 0 0 0 0 1100000 0010000 0 0 0 0 1100100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0000100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1000100 0 0 0 0 0 0 0 0 0 0 0 1100000 0 0010000 0 0100000 0 0 0 0011100 0
+0 0010000 0 0 0 1100100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0010100 0 0 0 0 0 0 0 0 0001100 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0100100 0 0 0 0010000 0 0 0 1100000 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0011000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0001100 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0
+0 0 0 0 0 1000100 0 1100000 0 0010000 1010000 0 0 0 0 0000100 0010000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0010100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0010000 0 0 0 0 0 1100000 0 0
+0 0 0 0 0 0100100 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1100100 0 0 0010000 0 1100000 0 0010000 0 0 0010000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+src.main.java.spoon.reflect.reference.CtReference_java
+src.main.java.spoon.reflect.declaration.CtElement_java
+src.main.java.spoon.reflect.declaration.CtType_java
+src.main.java.spoon.reflect.declaration.CtMethod_java
+src.main.java.spoon.reflect.declaration.CtAnnotation_java
+src.main.java.spoon.reflect.reference.CtTypeReference_java
+src.main.java.spoon.reflect.code.CtExpression_java
+src.main.java.spoon.reflect.reference.CtExecutableReference_java
+src.main.java.spoon.reflect.declaration.CtTypeInformation_java
+src.main.java.spoon.reflect.declaration.CtNamedElement_java
+src.main.java.spoon.reflect.code.CtBodyHolder_java
+src.main.java.spoon.reflect.reference.CtVariableReference_java
+src.main.java.spoon.reflect.code.CtVariableAccess_java
+src.main.java.spoon.reflect.declaration.CtModifiable_java
+src.main.java.spoon.reflect.reference.CtActualTypeContainer_java
+src.main.java.spoon.reflect.declaration.CtParameter_java
+src.main.java.spoon.reflect.declaration.CtTypedElement_java
+src.main.java.spoon.reflect.reference.CtIntersectionTypeReference_java
+src.main.java.spoon.reflect.reference.CtParameterReference_java
+src.main.java.spoon.reflect.code.CtTargetedExpression_java
+src.main.java.spoon.reflect.declaration.CtShadowable_java
+src.main.java.spoon.reflect.declaration.CtPackage_java
+src.main.java.spoon.reflect.declaration.CtExecutable_java
+src.main.java.spoon.reflect.code.CtNewArray_java
+src.main.java.spoon.reflect.code.CtFieldAccess_java
+src.main.java.spoon.reflect.reference.CtFieldReference_java
+src.main.java.spoon.reflect.declaration.CtVariable_java
+src.main.java.spoon.reflect.code.CtLiteral_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Implement]
+2
+0 00101
+00100 0
+wicket-jmx.src.main.java.org.apache.wicket.jmx.MarkupSettings_java
+wicket-jmx.src.main.java.org.apache.wicket.jmx.MarkupSettingsMBean_java

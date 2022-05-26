@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement,Modify]
+2
+0 10100000
+11100000 0
+src.java.org.apache.cassandra.db.migration.Migration_java
+src.java.org.apache.cassandra.service.MigrationManager_java

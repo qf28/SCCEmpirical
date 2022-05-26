@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 0
+110 0
+java.client.org.apache.derby.client.am.StatementCacheInteractor_java
+java.client.org.apache.derby.client.am.LogicalStatementEntity_java

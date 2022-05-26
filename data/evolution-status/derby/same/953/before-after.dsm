@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Throw,Use,Create,Implement]
+6
+0 001100000 0 0 0 001100000
+0 0 0 0 001100000 0
+001100000 001100000 0 001000000 001100000 0
+000100000 000100000 0 0 000100000 001100000
+0 001100000 0 0 0 001000000
+001100000 0 001100000 0 0 0
+java.engine.org.apache.derby.iapi.store.raw.data.DataFactory_java
+java.engine.org.apache.derby.iapi.store.raw.RawStoreFactory_java
+java.engine.org.apache.derby.iapi.store.raw.log.LogFactory_java
+java.engine.org.apache.derby.iapi.store.raw.log.Logger_java
+java.engine.org.apache.derby.iapi.store.raw.xact.TransactionFactory_java
+java.engine.org.apache.derby.iapi.store.raw.xact.RawTransaction_java

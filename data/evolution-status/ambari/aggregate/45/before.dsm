@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Implement]
+2
+0 0
+110000 0
+controller.src.main.java.org.apache.ambari.controller.Cluster_java
+controller.src.main.java.org.apache.ambari.controller.Blueprints_java

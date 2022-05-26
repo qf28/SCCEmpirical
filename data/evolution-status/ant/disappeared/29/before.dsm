@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+10
+0 0 0 0 0 0 00010000 0 0 0
+0 0 0 0 0 0 00010000 0 0 0
+0 0 0 0 0 0 00010000 0 0 0
+0 0 0 0 0 0 00010000 0 0 0
+0 0 0 0 0 0 00010000 0 0 0
+0 0 0 0 0 0 00010000 0 0 0
+00110100 01110100 01110100 01110100 01110100 00110100 0 01110100 00110100 01110100
+0 0 0 0 0 0 00010000 0 0 0
+0 0 0 0 0 0 00010000 0 0 0
+0 0 0 0 0 0 00010000 0 0 0
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestReferenceAttribute_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestSetElement_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestSetAttribute_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestReferenceElement_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestContent_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestIdResolve_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.DefaultConfigurerTestCase_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestPropResolution_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestMismatchedRefType_java
+proposal.myrmidon.src.test.org.apache.myrmidon.components.configurer.test.data.ConfigTestIgnoreStringMethods_java

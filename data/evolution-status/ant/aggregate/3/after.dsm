@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+4
+0 0 0010000 0
+0001001 0 0111000 0
+1100000 0001000 0 0001000
+0001001 0 0111000 0
+src.main.org.apache.tools.ant.Executor_java
+src.main.org.apache.tools.ant.helper.DefaultExecutor_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.helper.KeepGoingExecutor_java

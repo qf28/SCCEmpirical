@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00100000
+00100010 0
+src.java.org.apache.cassandra.auth.IRoleManager_java
+src.java.org.apache.cassandra.auth.RoleOptions_java

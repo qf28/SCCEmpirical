@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 000100000
+000100100 0 0
+000100100 011100100 0
+ambari-server.src.main.java.org.apache.ambari.server.stack.upgrade.UpgradePack_java
+ambari-server.src.main.java.org.apache.ambari.server.state.StackInfo_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.AmbariMetaInfo_java

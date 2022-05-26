@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0100000
+0000010 0
+java.testing.org.apache.derbyTesting.functionTests.tests.jdbcapi.SURDataModelSetup_java
+java.testing.org.apache.derbyTesting.functionTests.tests.jdbcapi.SURBaseTest_java

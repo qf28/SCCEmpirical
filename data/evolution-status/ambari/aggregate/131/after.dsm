@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 00010000
+01010010 0
+ambari-server.src.main.java.org.apache.ambari.server.events.JpaInitializedEvent_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.GuiceJpaInitializer_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 0 0 0
+000010 0 0 110010
+0 110010 0 011010
+011000 111010 011001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HeapMemoryManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreFlusher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

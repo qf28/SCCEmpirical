@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Extend,Use,Create]
+3
+0 011000 111110
+0 0 000010
+011001 0 0
+src.main.org.apache.tools.ant.UnknownElement_java
+src.main.org.apache.tools.ant.IntrospectionHelper_java
+src.main.org.apache.tools.ant.Task_java

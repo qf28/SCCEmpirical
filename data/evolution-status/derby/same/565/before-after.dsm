@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create]
+2
+0 0010
+1101 0
+java.engine.org.apache.derby.impl.io.CPFile_java
+java.engine.org.apache.derby.impl.io.CPStorageFactory_java

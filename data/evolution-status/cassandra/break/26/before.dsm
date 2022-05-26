@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use]
+2
+0 0001
+0010 0
+src.java.org.apache.cassandra.schema.CompressionParams_java
+src.java.org.apache.cassandra.io.compress.LZ4Compressor_java

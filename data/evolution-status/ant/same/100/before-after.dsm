@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+8
+0 0010000 0010000 0 0010000 0010000 0010000 0010000
+0 0 0 0101000 0 0 0 0
+0 0 0 0101000 0 0 0 0
+0000001 0010000 0010000 0 0010000 0010000 0010000 0010000
+0 0 0 0101000 0 0 0 0
+0 0 0 0101000 0 0 0 0
+0 0 0 0101000 0 0 0 0
+0 0101000 0 0100000 0 0 0 0
+src.main.org.apache.tools.ant.types.selectors.SelectorContainer_java
+src.main.org.apache.tools.ant.types.selectors.NoneSelector_java
+src.main.org.apache.tools.ant.types.selectors.AndSelector_java
+src.main.org.apache.tools.ant.types.selectors.BaseSelectorContainer_java
+src.main.org.apache.tools.ant.types.selectors.SelectSelector_java
+src.main.org.apache.tools.ant.types.selectors.MajoritySelector_java
+src.main.org.apache.tools.ant.types.selectors.OrSelector_java
+src.main.org.apache.tools.ant.types.selectors.NotSelector_java

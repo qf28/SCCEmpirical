@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use]
+3
+0 0 0
+0 0 1100
+0 0100 0
+src.main.org.apache.tools.ant.taskdefs.repository.MavenRepository_java
+src.main.org.apache.tools.ant.taskdefs.repository.Libraries_java
+src.main.org.apache.tools.ant.taskdefs.repository.Repository_java

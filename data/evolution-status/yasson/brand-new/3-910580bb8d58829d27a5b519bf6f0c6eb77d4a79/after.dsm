@@ -1,0 +1,6 @@
+[Call,Return,Create,Use,Parameter,Contain]
+2
+0 000100
+111001 0
+src.test.java.org.eclipse.yasson.adapters.model.BoxWithDeserializer_java
+src.test.java.org.eclipse.yasson.adapters.model.BoxWithDeserializerDeserializer_java

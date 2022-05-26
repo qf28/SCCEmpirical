@@ -1,0 +1,12 @@
+[Call,Typed,Import,Create,Use]
+5
+0 11000 11011 0 10010
+00001 0 11000 10101 0
+0 11010 0 0 0
+10101 0 0 0 0
+10001 0 10000 10101 0
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.net.OutboundTcpConnection_java
+src.java.org.apache.cassandra.net.OutboundTcpConnectionPool_java
+src.java.org.apache.cassandra.gms.Gossiper_java
+src.java.org.apache.cassandra.net.IncomingTcpConnection_java

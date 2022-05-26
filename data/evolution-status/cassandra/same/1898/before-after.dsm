@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 11000110
+01000000 0
+src.java.org.apache.cassandra.streaming.StreamSession_java
+src.java.org.apache.cassandra.streaming.StreamReceiveTask_java

@@ -1,0 +1,8 @@
+[Call,Typed,Set,Extend,Use,Modify]
+3
+0 0 0
+101110 0 0
+111111 0 0
+src.org.apache.pig.data.DataBag_java
+src.org.apache.pig.data.SortedDataBag_java
+src.org.apache.pig.data.DistinctDataBag_java

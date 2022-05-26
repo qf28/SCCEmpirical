@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00000010
+01001010 0
+java.engine.org.apache.derby.impl.sql.compile.DMLStatementNode_java
+java.engine.org.apache.derby.impl.sql.compile.CursorNode_java

@@ -1,0 +1,6 @@
+[Call,Use]
+2
+0 10
+11 0
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.db.DefsTable_java

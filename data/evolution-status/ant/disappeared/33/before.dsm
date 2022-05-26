@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Extend,Throw,Create,Use,Implement]
+8
+0 0 0 0 0 0 001000000 0
+000000001 0 0 0 0 0 011000000 0
+0 0 0 001000000 0 0 0 0
+111000010 0 110000010 0 111000000 111000010 011000100 010000100
+0 0 0 0 0 0 001000000 0
+001000000 0 0 0 0 0 0 0
+0 0 0 011000000 0 0 0 0
+0 000010000 0 0 0 0 0 0
+proposal.mutant.src.main.org.apache.ant.core.execution.Task_java
+proposal.mutant.src.main.org.apache.ant.core.execution.AbstractTask_java
+proposal.mutant.src.main.org.apache.ant.core.execution.AntConverter_java
+proposal.mutant.src.main.org.apache.ant.core.execution.ExecutionFrame_java
+proposal.mutant.src.main.org.apache.ant.core.execution.AspectHandler_java
+proposal.mutant.src.main.org.apache.ant.core.execution.TaskContainer_java
+proposal.mutant.src.main.org.apache.ant.core.execution.ExecutionContext_java
+proposal.mutant.src.main.org.apache.ant.core.execution.TaskAdapter_java

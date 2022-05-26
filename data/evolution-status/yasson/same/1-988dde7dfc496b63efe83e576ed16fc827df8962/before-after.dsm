@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+6
+0 0100000000 0 0100110000 0 0
+0 0 0 0 0 0100011011
+1010000010 0100000000 0 0100000000 0 0
+0 0001000000 0 0 0 0
+0 0 0110001000 0 0 0
+0 0 0 0 0110011011 0
+src.main.java.org.eclipse.yasson.internal.Marshaller_java
+src.main.java.org.eclipse.yasson.internal.MappingContext_java
+src.main.java.org.eclipse.yasson.internal.serializer.AdaptedObjectSerializer_java
+src.main.java.org.eclipse.yasson.internal.ProcessingContext_java
+src.main.java.org.eclipse.yasson.model.PropertyModel_java
+src.main.java.org.eclipse.yasson.internal.ClassParser_java

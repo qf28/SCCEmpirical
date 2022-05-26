@@ -1,0 +1,22 @@
+[Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+10
+0 0 0 0 0 0 0 100001000 0 0
+0 0 100001000 0 010010000 010010000 0 0 0 010010000
+0 100010010 0 0 0 0 0 0 0 0
+0 110110000 0 0 0 0 0 0 0 0
+0 100010000 0 0 0 0 0 0 100100000 0
+0 100010000 0 0 0 0 001010000 0 100100000 0
+0 110110000 0 0 0 0 0 0 0 0
+0 010110000 0 0 0 0 0 0 0 0
+100001000 010100000 0 0 0 0 0 0 0 0
+0 110110000 0 000010010 0 0 0 0 0 0
+src.main.java.com.stripe.model.PagingIterable_java
+src.main.java.com.stripe.net.APIResource_java
+src.main.java.com.stripe.net.LiveStripeResponseGetter_java
+src.main.java.com.stripe.model.BalanceTransaction_java
+src.main.java.com.stripe.model.FeeRefundCollection_java
+src.main.java.com.stripe.model.ChargeRefundCollection_java
+src.main.java.com.stripe.model.Refund_java
+src.main.java.com.stripe.model.PagingIterator_java
+src.main.java.com.stripe.model.StripeCollectionAPIResource_java
+src.main.java.com.stripe.model.Dispute_java

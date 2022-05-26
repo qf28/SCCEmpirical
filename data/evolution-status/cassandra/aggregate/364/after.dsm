@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+10
+0 000100100 0 011100100 0 0 0 011100100 0 010101100
+001101000 0 0 000100100 0 0 0 001100000 010000010 0
+0 0 0 000100100 0 000000001 0 011100100 0 0
+0 0 0 0 0 0 0 010000100 0 0
+0 0 000001000 000100100 0 0 0 011100000 0 0
+0 0 0 0 0 0 0 001100000 0 0
+0 0 0 001000100 0 0 0 011000100 0 010000000
+0 000100100 000100010 011100100 000100010 001100000 000100100 0 0 0
+011111100 0 0 000000100 0 010000000 0 011000100 0 010010100
+0 0 0 011000110 0 0 0 011000100 0 0
+src.java.org.apache.cassandra.io.sstable.format.SSTableWriter_java
+src.java.org.apache.cassandra.io.sstable.format.big.BigFormat_java
+src.java.org.apache.cassandra.io.sstable.metadata.MetadataSerializer_java
+src.java.org.apache.cassandra.io.sstable.Component_java
+src.java.org.apache.cassandra.io.sstable.metadata.LegacyMetadataSerializer_java
+src.java.org.apache.cassandra.io.sstable.metadata.IMetadataSerializer_java
+src.java.org.apache.cassandra.db.Directories_java
+src.java.org.apache.cassandra.io.sstable.Descriptor_java
+src.java.org.apache.cassandra.io.sstable.format.big.BigTableWriter_java
+src.java.org.apache.cassandra.io.sstable.SSTable_java

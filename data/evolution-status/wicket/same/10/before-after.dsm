@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+7
+0 0 1000100 0 0011000 0 0
+0010000 0 0 0100000 0 0 0
+0 0 0 0 0011000 0 0
+0 0000010 0 0 0 0 0000010
+0 0 0 1010100 0 0 0
+0 0 0 0 0011000 0 0
+0 0 0 0100000 0 0010000 0
+wicket-devutils.src.main.java.org.apache.wicket.devutils.inspector.LiveSessionsPage_java
+wicket-devutils.src.main.java.org.apache.wicket.devutils.debugbar.SessionSizeDebugPanel_java
+wicket-devutils.src.main.java.org.apache.wicket.devutils.inspector.RequestsPage_java
+wicket-devutils.src.main.java.org.apache.wicket.devutils.debugbar.DebugBar_java
+wicket-devutils.src.main.java.org.apache.wicket.devutils.DevUtilsPage_java
+wicket-devutils.src.main.java.org.apache.wicket.devutils.inspector.InspectorPage_java
+wicket-devutils.src.main.java.org.apache.wicket.devutils.debugbar.InspectorDebugPanel_java

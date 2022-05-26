@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 11000010
+11000000 0
+hbase-procedure.src.main.java.org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat_java
+hbase-procedure.src.main.java.org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader_java

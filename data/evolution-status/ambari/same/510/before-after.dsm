@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1100
+1101 0
+ambari-server.src.main.java.org.apache.ambari.server.bootstrap.BSRunner_java
+ambari-server.src.main.java.org.apache.ambari.server.bootstrap.BootStrapImpl_java

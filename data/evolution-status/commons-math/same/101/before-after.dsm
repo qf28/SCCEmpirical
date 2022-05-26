@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+6
+0 0 0 000001000 0 0
+0 0 0 000001000 0 0
+0 0 0 000001000 0 0
+0 0 0 0 0 011100100
+0 0 0 000001000 0 0
+010100100 010100100 010100100 0 010100100 0
+src.main.java.org.apache.commons.math.distribution.PascalDistribution_java
+src.main.java.org.apache.commons.math.distribution.HypergeometricDistribution_java
+src.main.java.org.apache.commons.math.distribution.ZipfDistribution_java
+src.main.java.org.apache.commons.math.distribution.AbstractIntegerDistribution_java
+src.main.java.org.apache.commons.math.distribution.BinomialDistribution_java
+src.main.java.org.apache.commons.math.random.RandomDataImpl_java

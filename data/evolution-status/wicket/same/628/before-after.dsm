@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 101010
+001000 0
+wicket-core.src.main.java.org.apache.wicket.ajax.AbstractDefaultAjaxBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.attributes.AjaxAttributeName_java

@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+4
+0 1101011 0 0
+1000010 0 1000000 1000010
+0 1000000 0 0
+0 1100010 0 0
+java.testing.org.apache.derbyTesting.junit.ConnectorSetup_java
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java
+java.testing.org.apache.derbyTesting.junit.BaseJDBCTestCase_java
+java.testing.org.apache.derbyTesting.junit.DatabaseChangeSetup_java

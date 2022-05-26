@@ -1,0 +1,6 @@
+[Typed,Import,Use]
+2
+0 001
+001 0
+hbase-server.src.test.java.org.apache.hadoop.hbase.coprocessor.SimpleRegionObserver_java
+hbase-server.src.test.java.org.apache.hadoop.hbase.coprocessor.TestRegionObserverInterface_java

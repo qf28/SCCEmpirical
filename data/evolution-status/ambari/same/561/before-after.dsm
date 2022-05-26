@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 011000
+011000 0
+ambari-api.src.main.java.org.apache.ambari.api.services.Request_java
+ambari-api.src.main.java.org.apache.ambari.api.resources.ResourceDefinition_java

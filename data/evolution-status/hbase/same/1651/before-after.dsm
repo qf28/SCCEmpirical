@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 1100
+1111 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.Procedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.ProcedureCoordinator_java

@@ -1,0 +1,8 @@
+[Call,Import,Return,Create,Use,Parameter,Contain]
+3
+0 1000111 0
+0000110 0 0
+1111001 1111011 0
+src.main.java.org.eclipse.persistence.json.bind.model.FieldModel_java
+src.main.java.org.eclipse.persistence.json.bind.model.ClassModel_java
+src.main.java.org.eclipse.persistence.json.bind.internal.ClassParser_java

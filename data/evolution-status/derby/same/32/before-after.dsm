@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Modify]
+3
+0 010011011 0
+000000010 0 000000010
+0 010011011 0
+java.engine.org.apache.derby.impl.store.access.btree.BTreeForwardScan_java
+java.engine.org.apache.derby.impl.store.access.btree.BTreeScan_java
+java.engine.org.apache.derby.impl.store.access.btree.BTreeMaxScan_java

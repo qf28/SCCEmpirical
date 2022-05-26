@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+2
+0 0
+0111000 0
+src.java.org.apache.hadoop.hbase.filter.RowFilterInterface_java
+src.java.org.apache.hadoop.hbase.HRegion_java

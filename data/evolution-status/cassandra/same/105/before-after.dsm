@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+3
+0 0 0100010
+0 0 0111011
+0100001 0101010 0
+src.java.org.apache.cassandra.net.async.OptionalSslHandler_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.net.async.NettyFactory_java

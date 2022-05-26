@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+7
+0 1001100 0 0 0 1110000 0
+0 0 0 1100000 0 1110000 0
+0100010 0 0 0 0 1110000 0
+1100010 0100000 1100010 0 1100011 1110110 1100010
+0 0 0 0 0 1100000 0
+0 0100000 0 0 0 0 0
+0100010 0 0 0 0 1100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.AssignProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.RegionTransitionProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.SplitTableRegionProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.RegionStateStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.RegionStates_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.MergeTableRegionsProcedure_java

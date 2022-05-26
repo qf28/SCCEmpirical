@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0100010
+0110011 0
+src.java.org.apache.cassandra.tracing.TraceState_java
+src.java.org.apache.cassandra.tracing.Tracing_java

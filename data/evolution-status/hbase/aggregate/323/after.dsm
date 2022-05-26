@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0 1100100
+0 0 1011000
+1100010 1010010 0
+src.main.java.org.apache.hadoop.hbase.regionserver.StoreFileScanner_java
+src.main.java.org.apache.hadoop.hbase.io.HalfStoreFileReader_java
+src.main.java.org.apache.hadoop.hbase.regionserver.StoreFile_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Throw]
+2
+0 11000
+01000 0
+ambari-server-spi.src.main.java.org.apache.ambari.spi.upgrade.UpgradeCheckResult_java
+ambari-server-spi.src.main.java.org.apache.ambari.spi.upgrade.UpgradeCheck_java

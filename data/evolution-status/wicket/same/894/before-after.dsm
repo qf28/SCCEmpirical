@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Implement]
+2
+0 111011
+011000 0
+wicket.src.main.java.org.apache.wicket.Component_java
+wicket.src.main.java.org.apache.wicket.behavior.IBehavior_java

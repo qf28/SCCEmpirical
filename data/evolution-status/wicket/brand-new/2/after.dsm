@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Throw,Create]
+2
+0 01100001
+00000100 0
+wicket-core.src.main.java.org.apache.wicket.ajax.json.XML_java
+wicket-core.src.main.java.org.apache.wicket.ajax.json.XMLTokener_java

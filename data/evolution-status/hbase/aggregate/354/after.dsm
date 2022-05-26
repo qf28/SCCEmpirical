@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+6
+0 000000001 010011100 0 110000100 011000000
+0 0 0 000001000 0 001100000
+0 0 0 011000101 0 0
+0 0 0 0 0 000100000
+0 001000000 0 000100000 0 001100000
+011000010 0 0 0 0 0
+src.main.java.org.apache.hadoop.hbase.regionserver.CoprocessorHost_java
+src.main.java.org.apache.hadoop.hbase.coprocessor.RegionCoprocessorEnvironment_java
+src.main.java.org.apache.hadoop.hbase.coprocessor.CoprocessorHost_java
+src.main.java.org.apache.hadoop.hbase.coprocessor.CoprocessorEnvironment_java
+src.main.java.org.apache.hadoop.hbase.coprocessor.RegionObserver_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 11000
+11011 0
+test.distributed.org.apache.cassandra.distributed.Instance_java
+test.distributed.org.apache.cassandra.distributed.TestCluster_java

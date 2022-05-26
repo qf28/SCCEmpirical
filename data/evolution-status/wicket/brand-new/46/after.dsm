@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Set,Extend,Create,Use]
+8
+0 0 0 0 0 0 0 0000100
+0 0 0 0 0 0 0 0000100
+0 0 0 0 1110010 0 0 0
+0 0 0110000 0 0 0 0 0000100
+0 0 0 0 0 0 0 0110000
+0 0 0 0 0 0 0 1010100
+0 0 0 0 0 0 0 0000100
+0100010 0100010 0110000 0100010 0 0100010 0100010 0
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.ClassElementValue_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.PrimitiveElementValue_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.Annotation_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.NestedElementValue_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.AnnotationComponent_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.ArrayElementValue_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.EnumElementValue_java
+wicket-sandbox.src.jonathan.java.org.netbeans.modules.classfile.ElementValue_java

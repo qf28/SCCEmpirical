@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+8
+0 011011100 011000000 0 011000010 0 011000010 001000000
+0 0 001000000 0 0 0 111000000 011000000
+010000010 011000000 0 011000000 010000010 110000110 011000010 0
+0 010001000 011000100 0 0 0 011000010 0
+0 010011100 001000000 0 0 0 111000010 011000000
+0 010011100 011000000 0 0 0 011000000 011000000
+0 0 0 0 000000100 000000100 0 001000000
+0 000000100 0 0 0 001000000 111000010 0
+java.engine.org.apache.derby.impl.sql.compile.DeleteNode_java
+java.engine.org.apache.derby.impl.sql.compile.DMLModStatementNode_java
+java.engine.org.apache.derby.impl.sql.compile.MatchingClauseNode_java
+java.engine.org.apache.derby.impl.sql.compile.MergeNode_java
+java.engine.org.apache.derby.impl.sql.compile.UpdateNode_java
+java.engine.org.apache.derby.impl.sql.compile.InsertNode_java
+java.engine.org.apache.derby.impl.sql.compile.ResultColumnList_java
+java.engine.org.apache.derby.impl.sql.compile.ResultSetNode_java

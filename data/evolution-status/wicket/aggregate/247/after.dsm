@@ -1,0 +1,8 @@
+[Call,Typed,Create,Implement]
+3
+0 0010 1100
+0100 0 0001
+0100 0 0
+wicket.src.java.wicket.markup.html.form.Form_java
+wicket.src.java.wicket.markup.html.form.DefaultFormValidationDelegate_java
+wicket.src.java.wicket.markup.html.form.IFormValidationDelegate_java

@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+5
+0 0 0 0 000000110
+0 0 0 0 000000110
+100000000 100000000 0 010011000 010110111
+0 0 0 0 010100110
+0 0 000100000 0 0
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.NullTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.LambdaTypeUsagePlaceholder_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.ReferenceTypeUsage_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.TypeUsageOfTypeParameter_java
+src.main.java.me.tomassetti.symbolsolver.model.typesystem.TypeUsage_java

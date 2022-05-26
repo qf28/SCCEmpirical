@@ -1,0 +1,6 @@
+[Call,Typed,Create]
+2
+0 101
+010 0
+src.main.org.apache.tools.ant.taskdefs.optional.metamata.MAudit_java
+src.main.org.apache.tools.ant.taskdefs.optional.metamata.MAuditStreamHandler_java

@@ -1,0 +1,8 @@
+[Call,Import,Extend,Use]
+3
+0 0101 0100
+0101 0 0
+0 1010 0
+wicket.src.main.java.wicket.request.target.component.BookmarkableListenerInterfaceRequestTarget_java
+wicket.src.main.java.wicket.protocol.http.request.AbstractWebRequestCodingStrategy_java
+wicket.src.main.java.wicket.protocol.http.request.WebRequestCodingStrategy_java

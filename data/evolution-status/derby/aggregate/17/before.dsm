@@ -1,0 +1,8 @@
+[Call,Typed,Use]
+3
+0 0 0
+111 0 0
+0 110 0
+java.testing.org.apache.derbyTesting.functionTests.util.TestConfiguration_java
+java.testing.org.apache.derbyTesting.functionTests.util.BaseTestCase_java
+java.testing.org.apache.derbyTesting.functionTests.util.SecurityManagerSetup_java

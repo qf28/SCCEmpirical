@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 000100100 0 0
+0 0 010101000 0 0
+011000010 010000010 0 011000010 010000000
+0 0 011100100 0 0
+0 0 011010110 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.bucket.BucketAllocator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.bucket.UnsafeSharedMemoryBucketEntry_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.bucket.BucketCache_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.bucket.CachedEntryQueue_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.bucket.BucketProtoUtils_java

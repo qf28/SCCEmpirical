@@ -1,0 +1,12 @@
+[Call,Typed,Import,Set,Extend,Use]
+5
+0 0 0 101000 0
+101000 0 110000 101000 110001
+0 110000 0 0 0
+0 001001 0 0 001001
+100000 110001 0 101000 0
+src.java.org.apache.cassandra.utils.JVMStabilityInspector_java
+src.java.org.apache.cassandra.db.commitlog.CommitLog_java
+src.java.org.apache.cassandra.db.commitlog.AbstractCommitLogService_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.db.commitlog.AbstractCommitLogSegmentManager_java

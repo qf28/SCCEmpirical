@@ -1,0 +1,6 @@
+[Call,Typed]
+2
+0 11
+11 0
+java.drda.org.apache.derby.impl.drda.DRDAProtocolException_java
+java.drda.org.apache.derby.impl.drda.NetworkServerControlImpl_java

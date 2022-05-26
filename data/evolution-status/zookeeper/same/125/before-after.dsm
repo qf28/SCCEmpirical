@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+4
+0 010000010 0 010000010
+011010100 0 010000010 0
+0 011000000 0 0
+011010100 0 0 0
+src.java.main.org.apache.zookeeper.server.quorum.QuorumPeer_java
+src.java.main.org.apache.zookeeper.server.quorum.LeaderZooKeeperServer_java
+src.java.main.org.apache.zookeeper.server.quorum.ProposalRequestProcessor_java
+src.java.main.org.apache.zookeeper.server.quorum.FollowerZooKeeperServer_java

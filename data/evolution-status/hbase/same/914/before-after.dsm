@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 01100100 01100010
+01100000 0 01100000
+01000010 0 0
+hbase-procedure.src.main.java.org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat_java
+hbase-procedure.src.main.java.org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader_java
+hbase-procedure.src.main.java.org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile_java

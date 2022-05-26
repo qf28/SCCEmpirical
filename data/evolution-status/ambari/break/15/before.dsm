@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 10100000
+01100100 0
+ambari-logsearch.ambari-logsearch-portal.src.main.java.org.apache.ambari.logsearch.dao.SolrDaoBase_java
+ambari-logsearch.ambari-logsearch-portal.src.main.java.org.apache.ambari.logsearch.common.ConfigHelper_java

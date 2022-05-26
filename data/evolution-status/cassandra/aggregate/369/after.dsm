@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Create,Implement]
+5
+0 100100 0 001100 0
+110010 0 110000 100100 010100
+0 0 0 100100 0
+0 101000 0 0 0
+0 101100 110100 100100 0
+src.java.org.apache.cassandra.service.ScheduledRangeTransferExecutorService_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.config.KSMetaData_java

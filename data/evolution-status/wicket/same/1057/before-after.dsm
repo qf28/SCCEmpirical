@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 100010
+000001 0
+wicket-examples.src.java.wicket.examples.forminput.FormInput_java
+wicket-examples.src.java.wicket.examples.forminput.FormInputModel_java

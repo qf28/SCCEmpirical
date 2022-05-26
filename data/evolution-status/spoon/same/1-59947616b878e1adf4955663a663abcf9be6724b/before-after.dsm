@@ -1,0 +1,8 @@
+[Call,Import,Return,Extend,Use,Create,Implement,Contain]
+3
+0 11000100 01100000
+0 0 01000010
+01000000 0 0
+src.main.java.spoon.Spoon_java
+src.main.java.spoon.support.compiler.JDTCompiler_java
+src.main.java.spoon.compiler.SpoonCompiler_java

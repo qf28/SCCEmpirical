@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Throw,Create,Use,Implement]
+2
+0 010000100
+011100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.snapshot.RegionServerSnapshotManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.snapshot.FlushSnapshotSubprocedure_java

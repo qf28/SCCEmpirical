@@ -1,0 +1,8 @@
+[Call,Import,Return,Use,Create,Parameter,Contain]
+3
+0 0 0101000
+0 0 1101011
+1001000 1111101 0
+src.main.java.spoon.reflect.visitor.CommentHelper_java
+src.main.java.spoon.reflect.visitor.printer.ElementPrinterHelper_java
+src.main.java.spoon.reflect.visitor.DefaultJavaPrettyPrinter_java

@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+5
+0 011001000 0 0 0
+0 0 0 011100100 011000010
+010101111 0 0 0 0
+0 011001000 010001001 0 0
+0 011001000 111100101 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumConstantDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ASTHelper_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

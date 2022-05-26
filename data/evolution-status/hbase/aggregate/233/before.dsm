@@ -1,0 +1,6 @@
+[Call,Typed,Set,Import,Extend,Use,Create]
+2
+0 0
+0101001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.mob.MobStoreEngine_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HMobStore_java

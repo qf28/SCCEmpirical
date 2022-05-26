@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 001000 000010
+000010 0 000010
+000010 001000 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterConfigEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ClusterEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.ServiceConfigEntity_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use]
+2
+0 0
+111001 0
+src.java.org.apache.cassandra.cql3.CQL3Type_java
+src.java.org.apache.cassandra.cql3.Constants_java

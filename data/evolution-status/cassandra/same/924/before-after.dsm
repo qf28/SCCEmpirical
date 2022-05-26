@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 10100
+10010 0
+src.java.org.apache.cassandra.db.DefsTable_java
+src.java.org.apache.cassandra.service.MigrationManager_java

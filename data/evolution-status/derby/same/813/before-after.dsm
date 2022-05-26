@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create]
+2
+0 0100
+1111 0
+java.tools.org.apache.derby.impl.tools.sysinfo.ZipInfoProperties_java
+java.tools.org.apache.derby.impl.tools.sysinfo.Main_java

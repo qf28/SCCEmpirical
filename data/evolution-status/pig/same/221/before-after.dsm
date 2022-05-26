@@ -1,0 +1,6 @@
+[Call,Extend,Create]
+2
+0 101
+110 0
+src.org.apache.pig.data.BagFactory_java
+src.org.apache.pig.data.DefaultBagFactory_java

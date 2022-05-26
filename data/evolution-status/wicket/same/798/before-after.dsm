@@ -1,0 +1,6 @@
+[Cast,Call,Create,Use]
+2
+0 0110
+1101 0
+wicket.src.java.wicket.protocol.http.WebApplication_java
+wicket.src.java.wicket.protocol.http.WebRequestCycle_java

@@ -1,0 +1,6 @@
+[Call,Return,Import,Use,Create,Parameter,Contain]
+2
+0 0000010
+1010010 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.imports.TypeImportOnDemandDeclaration_java

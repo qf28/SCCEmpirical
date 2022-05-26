@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 0 1000000
+1100000 0 0
+0100000 1110011 0
+src.java.org.apache.cassandra.schema.Schema_java
+src.java.org.apache.cassandra.schema.SchemaEvent_java
+src.java.org.apache.cassandra.schema.SchemaDiagnostics_java

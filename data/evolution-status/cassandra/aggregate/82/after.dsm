@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 01000
+10010 0
+src.java.org.apache.cassandra.db.StorageHook_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java

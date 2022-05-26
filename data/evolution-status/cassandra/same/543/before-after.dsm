@@ -1,0 +1,8 @@
+[Call,Typed,Use,Create]
+3
+0 1101 1000
+1110 0 0
+1110 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.CollationController_java
+src.java.org.apache.cassandra.db.RowIteratorFactory_java

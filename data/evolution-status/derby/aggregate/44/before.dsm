@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Set,Import,Use,Create,Implement,Modify]
+4
+0 111000000 0 0
+011001000 0 011101101 011101001
+0 0 0 111000100
+000001000 0 011001000 0
+java.drda.org.apache.derby.impl.drda.DB2jServerImpl_java
+java.drda.org.apache.derby.impl.drda.DRDAConnThread_java
+java.drda.org.apache.derby.impl.drda.Database_java
+java.drda.org.apache.derby.impl.drda.DRDAStatement_java

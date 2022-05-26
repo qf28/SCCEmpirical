@@ -1,0 +1,6 @@
+[Call,Extend]
+2
+0 11
+10 0
+wicket-core.src.main.java.org.apache.wicket.ajax.form.AjaxFormChoiceComponentUpdatingBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.form.AjaxFormComponentUpdatingBehavior_java

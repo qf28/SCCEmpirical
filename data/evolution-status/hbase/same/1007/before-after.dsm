@@ -1,0 +1,6 @@
+[Use,Implement]
+2
+0 10
+01 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.CellComparator_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.CellComparatorImpl_java

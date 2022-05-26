@@ -1,0 +1,20 @@
+[Call,Typed,Import,Use,Create]
+9
+0 01000 0 0 0 10010 0 0 0
+0 0 0 11001 0 10110 11010 0 0
+0 01000 0 0 0 0 10010 0 0
+0 11110 0 0 0 10100 0 0 0
+0 01110 0 0 0 11100 0 0 0
+10010 11110 0 0 11101 0 11110 0 0
+0 11010 11001 11000 0 10110 0 11001 11110
+0 11010 0 10000 0 0 10010 0 0
+0 01100 0 0 0 0 10110 0 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.compaction.Verifier_java
+src.java.org.apache.cassandra.db.compaction.CompactionStrategyManager_java
+src.java.org.apache.cassandra.repair.RepairRunnable_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.compaction.Scrubber_java
+src.java.org.apache.cassandra.cache.AutoSavingCache_java

@@ -1,0 +1,12 @@
+[Call,Typed,Import,Create,Use]
+5
+0 0 11100 0 0
+00100 0 0 10000 10010
+0 0 0 00001 0
+11110 11000 11000 0 0
+00110 0 01000 10000 0
+src.java.org.apache.cassandra.net.io.FastSerializer_java
+src.java.org.apache.cassandra.net.TcpConnection_java
+src.java.org.apache.cassandra.net.Message_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.net.MessageDeserializationTask_java

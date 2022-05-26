@@ -1,0 +1,6 @@
+[Call,Use]
+2
+0 10
+01 0
+src.main.java.org.apache.commons.math.util.FastMath_java
+src.main.java.org.apache.commons.math.util.FastMathResources_java

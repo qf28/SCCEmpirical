@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 11000
+10001 0
+wicket-examples.src.java.wicket.examples.hangman.Win_java
+wicket-examples.src.java.wicket.examples.hangman.Guess_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+5
+0 0 0 0 001100000
+010101000 0 010101000 0 0
+0 0 0 0 001100000
+0 0 0 0 010110100
+0 011101000 0 110100100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.snapshot.RegionServerSnapshotManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.RegionServerProcedureManagerHost_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.flush.RegionServerFlushTableProcedureManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

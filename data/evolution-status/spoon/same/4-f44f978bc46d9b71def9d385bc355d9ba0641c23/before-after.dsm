@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Throw,Implement,Parameter,Contain]
+2
+0 00000100011
+01000010000 0
+src.main.java.spoon.support.compiler.ZipFile_java
+src.main.java.spoon.support.compiler.ZipFolder_java

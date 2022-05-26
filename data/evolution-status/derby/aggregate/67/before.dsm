@@ -1,0 +1,38 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+18
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+11100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+00000001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 01100000 0 0 0 0 0 0 01100000 10100000 0 0 0 00000001
+0 0 0 01100000 0 01100010 0 0 0 01000000 0 0 01100000 01100000 0 0 0 00000001
+0 00100000 00100000 00100000 00100000 0 00100000 00100000 0 00100000 00100000 00100000 00100000 00100000 0 00100000 00100000 0
+0 0 0 0 0 01100000 0 0 0 0 0 0 01100000 0 00000001 0 0 0
+0 0 0 0 0 00100000 0 0 0 0 0 0 01100000 0 0 0 0 00000001
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11110100 0 0
+00000001 0 0 0 0 01100000 0 0 0 0 0 0 01100000 01100000 0 01100000 0 0
+00000001 0 0 0 0 01100000 0 0 0 0 0 0 00100000 01100000 0 0 0 0
+0 0 0 0 0 00010010 0 0 0 11110000 0 0 01110000 0 0 0 0 0
+00000001 0 0 0 0 01100000 0 0 0 0 0 0 0 0 0 0 0 0
+0 00100100 0 0 11100000 01100010 0 0 01100100 01100010 00100000 01100100 01100000 0 0 11100100 0 00000001
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00001000
+00000001 0 0 0 0 01100000 0 0 0 0 0 0 0 01100000 0 0 0 0
+0 0 0 0 0 01100000 0 0 0 0 0 0 01100010 00100010 00000001 0 0 0
+00001000 0 0 0 0 0 0 0 0 0 0 0 00100000 0 0 0 0 0
+java.engine.org.apache.derby.iapi.sql.dictionary.UniqueTupleDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.GenericDescriptorList_java
+java.engine.org.apache.derby.iapi.sql.dictionary.DependencyDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.SPSDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.TriggerDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.DataDictionary_java
+java.engine.org.apache.derby.iapi.sql.dictionary.SequenceDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.FileInfoDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.ConglomerateDescriptorList_java
+java.engine.org.apache.derby.iapi.sql.dictionary.ConstraintDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.ViewDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.ConstraintDescriptorList_java
+java.engine.org.apache.derby.iapi.sql.dictionary.SchemaDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.TableDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.PrivilegedSQLObject_java
+java.engine.org.apache.derby.iapi.sql.dictionary.ConglomerateDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.AliasDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.UniqueSQLObjectDescriptor_java

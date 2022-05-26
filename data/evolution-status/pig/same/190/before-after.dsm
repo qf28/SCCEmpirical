@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Use,Create]
+2
+0 111000
+111001 0
+src.org.apache.pig.tools.grunt.GruntParser_java
+src.org.apache.pig.PigServer_java

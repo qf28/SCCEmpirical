@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 0100001 1010010
+1100010 0 0
+1110000 0 0
+ambari-logsearch.ambari-logsearch-solr-client.src.main.java.org.apache.ambari.logsearch.solr.AmbariSolrCloudClient_java
+ambari-logsearch.ambari-logsearch-solr-client.src.main.java.org.apache.ambari.logsearch.solr.AmbariSolrCloudClientBuilder_java
+ambari-logsearch.ambari-logsearch-solr-client.src.main.java.org.apache.ambari.logsearch.solr.commands.GetSolrHostsCommand_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0110010
+0110000 0
+java.engine.org.apache.derby.impl.store.raw.data.BaseDataFileFactory_java
+java.engine.org.apache.derby.impl.store.raw.data.EncryptData_java

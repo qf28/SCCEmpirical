@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 00010010
+01110010 0
+ambari-server.src.main.java.org.apache.ambari.server.state.ConfigHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariManagementControllerImpl_java

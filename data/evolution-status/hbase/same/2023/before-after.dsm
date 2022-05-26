@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 10010
+01001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.WALSplitter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.BoundedLogWriterCreationOutputSink_java

@@ -1,0 +1,8 @@
+[Call,Import,Return,Extend,Use,Parameter,Contain]
+3
+0 0 1000100
+0010100 0 0
+0 0010100 0
+src.main.java.com.stripe.model.Person_java
+src.main.java.com.stripe.model.PersonCollection_java
+src.main.java.com.stripe.model.Account_java

@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+6
+0 0 0 01110000 00010100 01011000
+00110000 0 0 0 0 0
+0 0 0 00100000 0 0
+0 01100000 11100000 0 11100100 0
+0 01100000 0 11100101 0 0
+0 0 10110000 01110000 0 0
+wicket.src.java.wicket.markup.html.form.FormComponent_java
+wicket.src.java.wicket.ApplicationSettings_java
+wicket.src.java.wicket.IBehaviour_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.Page_java
+wicket.src.java.wicket.markup.html.WebMarkupContainer_java

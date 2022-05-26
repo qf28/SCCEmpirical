@@ -1,0 +1,40 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Parameter,Contain]
+19
+0 0 0 0 0 011001000 0 0 0 0 0 0 0 0 0 0 011010100 0 0
+0 0 0 0 0 100000110 0 0 0 0 0 0 0 0 0 0 001000010 0 0
+0 0 0 0 010010110 0 0 0 0 0 0 0 0 0 0 0 011000010 0 0
+0 0 0 0 0 000100000 0 0 0 0 0 0 0 0 0 0 001000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011010100 0 0
+0 0 0 010101100 0 0 0 0 0 0 0 0 0 0 0 0 001000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011010100 0 0
+010000001 001000000 0 0 0 0 0 0 111101111 0 0 0 0 0 0 0 011000110 0 010010100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 001000010 0 0
+0 0 0 0 0 0 011001000 0 0 0 110001111 111101101 0 111101101 101100110 101000111 011010100 111101101 0
+0 0 0 0 0 0 111101111 0 0 0 0 0 0 0 0 0 011010100 0 0
+0 101000110 0 0 0 101000110 0 110101101 0 0 0 0 0 0 010010100 0 011000010 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 001000010 0 0
+0 0 110101111 0 0 101000110 0 0 0 0 0 0 0 0 010010100 0 011000010 0 0
+0 0 0 0 010010110 0 0 0 0 100000100 0 0 0 0 0 0 011000000 0 100000110
+0 0 0 0 0 0 111101111 0 0 0 0 0 0 0 0 0 011010100 0 0
+0 0 0 0 0 0 0 0 0 010000100 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 010010100 0 011000010 0 0
+110000110 101000110 0 0 010010100 0 0 0 0 0 0 0 011001100 0 0 0 011000100 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.TypeParameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumConstantDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.PrimitiveType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.BodyDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ClassOrInterfaceType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Name_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ConstructorDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.BlockStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java
+javaparser-core.src.main.java.com.github.javaparser.ast.PackageDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ArrayType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.TypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.AnnotationDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.CallableDeclaration_java

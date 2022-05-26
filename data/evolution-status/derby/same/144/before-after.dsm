@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Set,Extend,Use]
+4
+0 001000 011111 0
+111001 0 111001 111001
+0 001000 0 110001
+010010 0 101001 0
+java.engine.org.apache.derby.impl.sql.compile.BinaryComparisonOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.PredicateList_java
+java.engine.org.apache.derby.impl.sql.compile.BinaryOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.BinaryRelationalOperatorNode_java

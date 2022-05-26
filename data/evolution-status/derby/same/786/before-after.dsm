@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Throw,Create,Modify]
+2
+0 0011000000
+0101000010 0
+java.client.org.apache.derby.client.ClientXAConnection_java
+java.client.org.apache.derby.jdbc.ClientXADataSource_java

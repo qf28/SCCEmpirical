@@ -1,0 +1,20 @@
+[Call,Import,Extend,Create,Use,Implement,Parameter,Contain]
+9
+0 0 0 0 0 0 0 00100000 0
+0 0 0 0 0 0 0 0 00100000
+0 0 0 0 00100000 0 0 0 0
+0 00100000 0 0 0 0 0 0 0
+0 0 0 0 0 10100000 0 0 0
+0 0 0 0 0 0 01000010 0 0
+11010000 11010000 11010000 11010000 11010000 0 0 11010000 11010000
+0 0 0 00100000 0 0 0 0 0
+0 0 00100000 0 0 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.version.Java16PostProcessor_java
+javaparser-core.src.main.java.com.github.javaparser.version.Java13PostProcessor_java
+javaparser-core.src.main.java.com.github.javaparser.version.Java11PostProcessor_java
+javaparser-core.src.main.java.com.github.javaparser.version.Java14PostProcessor_java
+javaparser-core.src.main.java.com.github.javaparser.version.Java10PostProcessor_java
+javaparser-core.src.main.java.com.github.javaparser.version.PostProcessors_java
+javaparser-core.src.main.java.com.github.javaparser.ParserConfiguration_java
+javaparser-core.src.main.java.com.github.javaparser.version.Java15PostProcessor_java
+javaparser-core.src.main.java.com.github.javaparser.version.Java12PostProcessor_java

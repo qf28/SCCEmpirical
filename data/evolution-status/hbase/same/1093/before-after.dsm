@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Use,Create]
+2
+0 10001
+11000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Segment_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SegmentScanner_java

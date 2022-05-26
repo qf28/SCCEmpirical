@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 000100100 0 0
+000100100 0 0 0 0
+011100000 011100110 0 011100000 011100000
+0 011100110 0 0 0
+0 001100000 0 0 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.RepositoryVersionHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.RepositoryVersionEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.RepositoryVersionResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.dao.RepositoryVersionDAO_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.dao.ClusterVersionDAO_java

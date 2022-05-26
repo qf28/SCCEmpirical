@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Set,Extend,Use,Create]
+10
+0 0010000 0 0 0 0010000 0 0 0 1110000
+0 0 0 0 0 0010000 0 0110000 0 0100000
+0101110 1110000 0 1110000 0 0010000 0 0 0 1110000
+0 0010000 0 0 0 1110011 0 0 0 1110000
+0 0010000 0 0 0 1110000 0 0100000 0 1110000
+0 0 0 0010000 0 0 0000010 0110000 0 0000010
+0 0 0 0 0 0010000 0 0 0 0
+0 1110000 1110000 1100010 0 1110000 0 0 1000000 1111110
+0 0110000 0 0 0 1110000 0 0100000 0 0110000
+0 0010000 0 0 0000010 0010000 0 1000010 0 0
+java.engine.org.apache.derby.impl.sql.compile.SingleChildResultSetNode_java
+java.engine.org.apache.derby.impl.sql.compile.GroupByList_java
+java.engine.org.apache.derby.impl.sql.compile.GroupByNode_java
+java.engine.org.apache.derby.impl.sql.compile.FromBaseTable_java
+java.engine.org.apache.derby.impl.sql.compile.RowResultSetNode_java
+java.engine.org.apache.derby.impl.sql.compile.PredicateList_java
+java.engine.org.apache.derby.impl.sql.compile.ParameterNode_java
+java.engine.org.apache.derby.impl.sql.compile.SelectNode_java
+java.engine.org.apache.derby.impl.sql.compile.JoinNode_java
+java.engine.org.apache.derby.impl.sql.compile.ResultSetNode_java

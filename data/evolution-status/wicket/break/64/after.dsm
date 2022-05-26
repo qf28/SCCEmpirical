@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 0
+01010100 0
+wicket.src.java.wicket.markup.loader.InheritedMarkupMarkupLoader_java
+wicket.src.java.wicket.markup.MarkupCache_java

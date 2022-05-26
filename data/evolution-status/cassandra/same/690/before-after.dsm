@@ -1,0 +1,20 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+9
+0 1100100 0 0 0 1000100 1100100 0100100 0
+1100100 0 0 0 0 1000100 1100100 1100110 0
+0 0 0 0 0 0 0 0 1001000
+1100100 1100000 0 0 0 0 1110000 0 0
+0 0 0 0 0 0 1000000 1000000 0
+1100100 1100100 0 1000000 0 0 0 0 0
+0 0 1000010 0 1000010 0 0 1100000 1000010
+0000100 1100000 0 0 0100100 0 0 0 1100100
+0 0 0 0 0 0 1000000 1000000 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.filter.IdentityQueryFilter_java
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.db.filter.NamesQueryFilter_java
+src.java.org.apache.cassandra.db.CompactionManager_java
+src.java.org.apache.cassandra.db.filter.QueryFilter_java
+src.java.org.apache.cassandra.db.Memtable_java
+src.java.org.apache.cassandra.db.filter.SliceQueryFilter_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01100000
+01100010 0
+src.java.org.apache.cassandra.utils.memory.ContextAllocator_java
+src.java.org.apache.cassandra.utils.memory.PoolAllocator_java

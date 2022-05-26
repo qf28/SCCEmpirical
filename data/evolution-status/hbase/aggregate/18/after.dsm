@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+5
+0 01110000 01110000 0 0
+01010100 0 00110000 11110100 11110000
+0 00110000 0 0 0
+0 01110000 00100001 0 0
+0 0 00100000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.OpenedRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.OpenRegionCoordination_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.ZkOpenRegionCoordination_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.BaseCoordinatedStateManager_java

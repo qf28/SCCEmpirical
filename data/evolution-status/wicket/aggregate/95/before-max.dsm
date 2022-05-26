@@ -1,0 +1,6 @@
+[Call,Import,Extend,Create,Use]
+2
+0 11010
+01001 0
+wicket-core.src.main.java.org.apache.wicket.markup.MarkupParser_java
+wicket-core.src.main.java.org.apache.wicket.markup.parser.filter.RelativePathPrefixHandler_java

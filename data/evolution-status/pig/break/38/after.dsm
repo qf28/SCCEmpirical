@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+9
+0 000000100 0 0 0 0 0 0 0
+001000000 0 0 0 0 0 0 0 0
+001000000 010001000 0 0 0 110000100 0 0 0
+001000000 000010100 0 0 0 110000100 0 0 0
+001000000 010011100 0 001000000 0 110000100 0 0 0
+001000000 000000100 001000000 011000000 001000000 0 011000000 001000000 0
+001000000 011011100 0 0 0 110000100 0 0 0
+001000000 010011100 0 0 0 110000100 011000000 0 0
+0 010001000 0 0 0 001000000 0 0 0
+src.org.apache.pig.impl.logicalLayer.LogicalPlan_java
+src.org.apache.pig.impl.logicalLayer.LogicalOperator_java
+src.org.apache.pig.impl.logicalLayer.LOCogroup_java
+src.org.apache.pig.impl.logicalLayer.LOUserFunc_java
+src.org.apache.pig.impl.logicalLayer.LOSort_java
+src.org.apache.pig.impl.logicalLayer.LOVisitor_java
+src.org.apache.pig.impl.logicalLayer.LOGenerate_java
+src.org.apache.pig.impl.logicalLayer.LOEval_java
+src.org.apache.pig.impl.logicalLayer.LOLoad_java

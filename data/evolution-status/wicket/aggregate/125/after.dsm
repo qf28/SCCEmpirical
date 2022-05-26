@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0110010
+1110001 0
+wicket-native-websocket.wicket-native-websocket-core.src.test.java.org.apache.wicket.protocol.ws.util.tester.WebSocketTesterBehaviorTest_java
+wicket-native-websocket.wicket-native-websocket-core.src.test.java.org.apache.wicket.protocol.ws.util.tester.WebSocketBehaviorTestPage_java

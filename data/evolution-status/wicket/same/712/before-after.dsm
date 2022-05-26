@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+5
+0 01000100 01000100 0 01000100
+0 0 01000100 0 0
+0 0 0 01000100 0
+10100000 0 0 0 0
+0 0 0 01000100 0
+wicket.src.java.wicket.ajax.markup.html.navigation.paging.AjaxPagingNavigator_java
+wicket.src.java.wicket.ajax.markup.html.navigation.paging.AjaxPagingNavigation_java
+wicket.src.java.wicket.ajax.markup.html.navigation.paging.AjaxPagingNavigationLink_java
+wicket.src.java.wicket.ajax.markup.html.navigation.paging.AjaxPagingNavigationBehavior_java
+wicket.src.java.wicket.ajax.markup.html.navigation.paging.AjaxPagingNavigationIncrementLink_java

@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Create,Use]
+3
+0 11010 10010
+11000 0 0
+01000 10100 0
+lang.java.trevni.core.src.main.java.org.apache.trevni.ColumnFileWriter_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.ColumnOutputBuffer_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.ArrayColumnOutputBuffer_java

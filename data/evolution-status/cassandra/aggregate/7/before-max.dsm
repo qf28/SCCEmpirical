@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend,Use,Create]
+7
+0 0 0 0 0 110010 110010
+111010 0 0 111011 0 0 0
+111010 111010 0 0 0 101010 0
+111000 111010 110011 0 011010 101010 0
+0 001010 0 0 0 0 0
+110010 111010 0 0 0 0 110000
+110010 0 0 0 0 101010 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.ActiveRepairService_java
+src.java.org.apache.cassandra.repair.consistent.PendingAntiCompaction_java
+src.java.org.apache.cassandra.repair.consistent.LocalSessions_java
+src.java.org.apache.cassandra.repair.consistent.ConsistentSession_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.Keyspace_java

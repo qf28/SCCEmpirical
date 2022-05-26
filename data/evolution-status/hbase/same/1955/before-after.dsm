@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 011000100
+0 0 011000000
+011000110 011000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MultiRowMutationProcessor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

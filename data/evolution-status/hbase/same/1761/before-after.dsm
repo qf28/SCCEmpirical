@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 001000100
+010000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.SyncReplicationWALProvider_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.wal.WALFactory_java

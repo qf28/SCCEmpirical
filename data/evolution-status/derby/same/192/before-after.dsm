@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Use,Create]
+2
+0 111001
+011010 0
+java.drda.org.apache.derby.impl.drda.Database_java
+java.drda.org.apache.derby.impl.drda.DRDAStatement_java

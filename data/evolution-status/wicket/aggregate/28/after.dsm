@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Extend,Create]
+9
+0 0 0 0 0 0 0 01101 0
+0 0 01010 01000 0 0 0 01000 01001
+0 0 0 00100 0 0 11000 0 0
+01100 0 0 0 0 11101 0 01100 0
+0 0 01010 01000 0 0 0 01000 01001
+0 01001 0 01100 01001 0 0 0 0
+0 0 0 00101 0 0 0 0 0
+0 0 0 0 0 11101 0 0 0
+0 0 01010 01000 0 11100 0 0 0
+wicket-examples.src.java.wicket.examples.hangman.WordGenerator_java
+wicket-examples.src.java.wicket.examples.hangman.Lose_java
+wicket-examples.src.java.wicket.examples.hangman.HangmanPage_java
+wicket-examples.src.java.wicket.examples.hangman.Hangman_java
+wicket-examples.src.java.wicket.examples.hangman.Win_java
+wicket-examples.src.java.wicket.examples.hangman.Letter_java
+wicket-examples.src.java.wicket.examples.hangman.HangmanSession_java
+wicket-examples.src.java.wicket.examples.hangman.Word_java
+wicket-examples.src.java.wicket.examples.hangman.Guess_java

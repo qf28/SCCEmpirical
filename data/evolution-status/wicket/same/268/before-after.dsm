@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01100000
+01100000 0
+wicket.src.java.wicket.Session_java
+wicket.src.java.wicket.RequestCycle_java

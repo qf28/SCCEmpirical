@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create,Throw]
+4
+0 1100100 0 0
+1100010 0 1100010 1100010
+0 1100100 0 1000000
+0 1100100 0 0
+src.java.org.apache.hadoop.hbase.regionserver.LogRoller_java
+src.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+src.java.org.apache.hadoop.hbase.regionserver.Flusher_java
+src.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java

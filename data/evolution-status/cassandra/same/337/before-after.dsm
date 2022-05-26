@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+5
+0 0 0 0110001 1100000
+0 0 0100010 0000001 0001100
+0011000 0 0 0111000 0
+0 0101010 0 0 0
+0 0 0 0100100 0
+src.java.org.apache.cassandra.db.index.SecondaryIndexManager_java
+src.java.org.apache.cassandra.db.index.keys.KeysIndex_java
+src.java.org.apache.cassandra.db.index.keys.KeysSearcher_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java
+src.java.org.apache.cassandra.db.index.PerColumnSecondaryIndex_java

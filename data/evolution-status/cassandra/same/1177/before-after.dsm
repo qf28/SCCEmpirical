@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create]
+3
+0 0 1000
+1101 0 0
+1100 1001 0
+src.java.org.apache.cassandra.net.TcpConnection_java
+src.java.org.apache.cassandra.net.FileStreamTask_java
+src.java.org.apache.cassandra.net.MessagingService_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 0
+10001 0
+ambari-server.src.main.java.org.apache.ambari.server.api.resources.ResourceInstanceImpl_java
+ambari-server.src.main.java.org.apache.ambari.server.api.resources.ResourceInstanceFactoryImpl_java

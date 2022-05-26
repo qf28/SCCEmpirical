@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Create,Implement]
+5
+0 0 0 0 101000
+0 0 0 101000 001000
+100010 100000 0 0 111000
+0 0 111000 0 101000
+0 111110 0 101000 0
+src.main.java.org.apache.hadoop.hbase.master.CatalogJanitor_java
+src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLog_java
+src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

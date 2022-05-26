@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+3
+0 0111001000 0
+0101000100 0 0100000000
+0101000000 0101000100 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.util.Bytes_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.KeyValue_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.CellComparator_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+3
+0 0001000 0001000
+0001000 0 1011000
+0111100 0001010 0
+wicket.src.java.wicket.settings.IRequestCycleSettings_java
+wicket.src.java.wicket.markup.html.pages.BrowserInfoPage_java
+wicket.src.java.wicket.protocol.http.WebRequestCycle_java

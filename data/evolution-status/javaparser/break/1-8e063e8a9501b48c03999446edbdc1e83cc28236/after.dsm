@@ -1,0 +1,12 @@
+[Call,Return,Import,Extend,Use,Create,Contain]
+5
+0 1100011 0 0 0
+1000101 0 0 0 0
+0 1100011 0 0 0
+0 0 0 0 1000101
+1110011 0 1110011 1001000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

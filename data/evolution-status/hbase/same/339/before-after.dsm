@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create,Use]
+2
+0 01110
+00100 0
+src.contrib.transactional.src.java.org.apache.hadoop.hbase.regionserver.transactional.TransactionalRegion_java
+src.contrib.transactional.src.java.org.apache.hadoop.hbase.regionserver.transactional.THLogRecoveryManager_java

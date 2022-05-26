@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+9
+0 0 0 000100100 011000010 0 011001000 0 001100000
+0 0 0 000100100 010000010 0 011000000 0 001100000
+0 0 0 000100100 0 0 0 0 0
+010000010 010000010 111100010 0 010000010 010000010 010000010 0 011000000
+0 0 0 000100100 0 0 011000000 0 001100000
+0 0 0 000100100 010001010 0 011000000 0 000100000
+0 0 0 000100100 0 0 0 0 011100000
+0 0 111000000 0 0 0 0 0 000100000
+0 0 011100000 111000110 0 0 0 111100010 0
+java.engine.org.apache.derby.iapi.types.SQLNationalChar_java
+java.engine.org.apache.derby.iapi.types.SQLNationalLongvarchar_java
+java.engine.org.apache.derby.catalog.types.BaseTypeIdImpl_java
+java.engine.org.apache.derby.iapi.types.TypeId_java
+java.engine.org.apache.derby.iapi.types.SQLNationalVarchar_java
+java.engine.org.apache.derby.iapi.types.SQLNClob_java
+java.engine.org.apache.derby.iapi.types.SQLChar_java
+java.engine.org.apache.derby.catalog.types.TypeDescriptorImpl_java
+java.engine.org.apache.derby.iapi.types.DataTypeDescriptor_java

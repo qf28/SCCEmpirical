@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Throw,Create,Use,Implement]
+2
+0 011000100
+011000000 0
+proposal.myrmidon.src.java.org.apache.aut.vfs.impl.DefaultFileSystemManager_java
+proposal.myrmidon.src.java.org.apache.aut.vfs.impl.DefaultProviderContext_java

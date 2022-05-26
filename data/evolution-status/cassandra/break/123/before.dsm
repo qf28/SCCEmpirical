@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Extend,Create,Use,Implement]
+3
+0 1000010 0
+0101010 0 0100000
+0 1100010 0
+src.java.org.apache.cassandra.db.AbstractColumnContainer_java
+src.java.org.apache.cassandra.db.SuperColumn_java
+src.java.org.apache.cassandra.db.ThreadSafeSortedColumns_java

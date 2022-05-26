@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 01100000
+01101011 0
+java.engine.org.apache.derby.impl.sql.GenericParameter_java
+java.engine.org.apache.derby.impl.sql.GenericParameterValueSet_java

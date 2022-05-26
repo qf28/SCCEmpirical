@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0 111110
+0 0 0 101011
+0 0 0 111011
+000001 100001 100001 0
+src.main.java.org.apache.hadoop.hbase.io.hfile.HFileWriterV2_java
+src.main.java.org.apache.hadoop.hbase.io.hfile.HFileReaderV2_java
+src.main.java.org.apache.hadoop.hbase.io.hfile.HFileReaderV1_java
+src.main.java.org.apache.hadoop.hbase.io.hfile.HFile_java

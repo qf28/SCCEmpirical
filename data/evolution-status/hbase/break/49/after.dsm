@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 11000110 11000010
+0 0 00000100
+10000000 0 0
+src.java.org.apache.hadoop.hbase.HRegion_java
+src.java.org.apache.hadoop.hbase.HStore_java
+src.java.org.apache.hadoop.hbase.HLog_java

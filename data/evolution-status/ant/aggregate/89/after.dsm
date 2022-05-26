@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01110000
+01010010 0
+src.main.org.apache.tools.ant.types.resources.FileResource_java
+src.main.org.apache.tools.ant.util.FileUtils_java

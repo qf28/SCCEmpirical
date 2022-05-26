@@ -1,0 +1,8 @@
+[Call,Import,Implement]
+3
+0 110 110
+110 0 0
+110 0 0
+java.tools.org.apache.derby.tools.dblook_java
+java.tools.org.apache.derby.impl.tools.dblook.DB_GrantRevoke_java
+java.tools.org.apache.derby.impl.tools.dblook.DB_Alias_java

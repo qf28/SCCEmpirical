@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 00010
+10001 0
+hbase-procedure.src.main.java.org.apache.hadoop.hbase.procedure2.CompletedProcedureCleaner_java
+hbase-procedure.src.main.java.org.apache.hadoop.hbase.procedure2.ProcedureExecutor_java

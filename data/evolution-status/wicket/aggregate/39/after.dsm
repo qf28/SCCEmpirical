@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+5
+0 0 0 000100100 0
+011000000 0 111001000 0 0
+011000000 011000000 0 0 111000010
+0 011100000 111100000 0 0
+010000000 010001000 011000011 0 0
+wicket.src.java.wicket.ApplicationSettings_java
+wicket.src.java.wicket.Container_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.markup.WicketTagComponentResolver_java
+wicket.src.java.wicket.Page_java

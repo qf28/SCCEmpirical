@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Implement]
+5
+0 11110 01100 10110 0
+0 0 11010 10010 0
+00100 11010 0 10010 10010
+11100 11010 11010 0 0
+0 11010 11000 10010 0
+src.java.org.apache.cassandra.service.AntiEntropyService_java
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.CompactionManager_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

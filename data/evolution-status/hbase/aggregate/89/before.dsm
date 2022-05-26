@@ -1,0 +1,36 @@
+[Cast,Call,Typed,Import,Extend,Use,Implement]
+17
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0110110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0110110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0111010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0011000 0 0 0 0100110 0 0 0 0 0 0 0 0 0 0 0
+0 0110110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0110110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0110110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+src.main.java.org.apache.hadoop.hbase.filter.MultipleColumnPrefixFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.CompareFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.ValueFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.ColumnRangeFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.RowFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.SingleColumnValueFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.SingleColumnValueExcludeFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.FamilyFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.TimestampsFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.ColumnPrefixFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.PrefixFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.InclusiveStopFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.DependentColumnFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.ColumnCountGetFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.QualifierFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.PageFilter_java
+src.main.java.org.apache.hadoop.hbase.filter.ColumnPaginationFilter_java

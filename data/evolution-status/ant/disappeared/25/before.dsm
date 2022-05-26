@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+2
+0 0100000
+0110010 0
+src.main.org.apache.tools.ant.taskdefs.optional.ide.VAJAntToolGUI_java
+src.main.org.apache.tools.ant.taskdefs.optional.ide.VAJAntTool_java

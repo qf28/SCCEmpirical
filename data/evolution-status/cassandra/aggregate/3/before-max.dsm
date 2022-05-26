@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+2
+0 0110010
+0110000 0
+src.java.org.apache.cassandra.io.util.PoolingSegmentedFile_java
+src.java.org.apache.cassandra.io.util.RandomAccessReader_java

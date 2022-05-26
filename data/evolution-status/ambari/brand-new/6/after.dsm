@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0010100 0
+1110110 0 1110110
+0 0010100 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.UserAuthenticationSourceResponse_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.UserAuthenticationSourceResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.UserAuthenticationSourceRequest_java

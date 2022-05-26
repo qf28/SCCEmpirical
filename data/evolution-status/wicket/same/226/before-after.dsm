@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Create]
+2
+0 1101
+1010 0
+wicket-core.src.main.java.org.apache.wicket.markup.head.JavaScriptHeaderItem_java
+wicket-core.src.main.java.org.apache.wicket.markup.head.JavaScriptContentHeaderItem_java

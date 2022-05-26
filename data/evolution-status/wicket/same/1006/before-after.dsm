@@ -1,0 +1,32 @@
+[Call,Typed,Import,Extend,Create]
+15
+0 0 10100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 10100 0 0 0 0 0 0 0 0 0 0 0 0
+01110 01110 0 01110 01110 01110 01110 01110 00110 01110 01110 01110 01110 01110 01110
+0 0 10100 0 0 0 0 10010 0 0 0 0 0 0 0
+0 0 10100 0 0 0 0 0 0 0 11110 0 0 0 0
+0 0 10100 0 0 0 0 10010 0 0 0 0 0 0 0
+0 0 10100 0 0 0 0 0 0 0 0 0 0 0 0
+0 10110 10100 0 0 10000 0 0 0 0 0 0 0 0 0
+11010 0 10100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 10100 0 0 0 0 0 0 0 11110 0 0 0 0
+0 10110 10100 0 0 0 0 0 0 0 0 0 0 0 0
+10010 0 10100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 10100 0 0 0 0 10110 0 0 0 0 0 0 0
+0 11110 10100 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 10100 0 0 0 0 0 0 0 0 0 0 0 0
+wicket-core.src.main.java.org.apache.wicket.ajax.AbstractAjaxTimerBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.AjaxEventBehavior_java
+wicket-core.src.main.java.org.apache.wicket.lambda.Lambdas_java
+wicket-core.src.main.java.org.apache.wicket.ajax.form.OnChangeAjaxBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.markup.html.form.AjaxSubmitLink_java
+wicket-core.src.main.java.org.apache.wicket.ajax.form.AjaxFormChoiceComponentUpdatingBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.AjaxNewWindowNotifyingBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.form.AjaxFormComponentUpdatingBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.AjaxSelfUpdatingTimerBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.markup.html.form.AjaxButton_java
+wicket-core.src.main.java.org.apache.wicket.ajax.form.AjaxFormSubmitBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.AjaxClientInfoBehavior_java
+wicket-core.src.main.java.org.apache.wicket.ajax.markup.html.form.AjaxCheckBox_java
+wicket-core.src.main.java.org.apache.wicket.ajax.markup.html.AjaxLink_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.link.Link_java

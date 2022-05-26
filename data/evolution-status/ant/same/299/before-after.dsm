@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+6
+0 0 0 0 00110010 0
+00000100 0 0 0 01110000 0
+0 0 0 0 01110000 01010000
+0 0 01110001 0 01110010 01100010
+0 01010000 0 0 0 01110000
+0 0 0 01000000 00110000 0
+src.main.org.apache.tools.ant.types.DataType_java
+src.main.org.apache.tools.ant.types.Description_java
+src.main.org.apache.tools.ant.filters.util.ChainReaderHelper_java
+src.main.org.apache.tools.ant.util.ResourceUtils_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.util.FileUtils_java

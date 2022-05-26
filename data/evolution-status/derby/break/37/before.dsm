@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Extend,Create,Use]
+6
+0 0 0 0 0 000100
+0 0 0 0 0 011000
+010100 0 0 0 0 010000
+0 010101 0 0 0 001000
+0 010010 0 010010 0 001000
+0 0 101001 0 111000 0
+java.engine.org.apache.derby.jdbc.ReferenceableDataSource_java
+java.engine.org.apache.derby.jdbc.EmbedPooledConnection_java
+java.engine.org.apache.derby.jdbc.EmbeddedDataSource_java
+java.engine.org.apache.derby.jdbc.EmbedXAConnection_java
+java.engine.org.apache.derby.jdbc.InternalDriver_java
+java.engine.org.apache.derby.jdbc.EmbeddedBaseDataSource_java

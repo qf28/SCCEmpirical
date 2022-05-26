@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 0 0 11100
+11001 0 11110 11011
+0 0 0 11100
+0 10100 0 0
+src.java.org.apache.cassandra.db.RowUpdateBuilder_java
+src.java.org.apache.cassandra.schema.SchemaKeyspace_java
+src.java.org.apache.cassandra.cql3.UntypedResultSet_java
+src.java.org.apache.cassandra.config.CFMetaData_java

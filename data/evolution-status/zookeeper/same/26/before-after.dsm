@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+2
+0 1110001000
+0100000000 0
+src.java.main.org.apache.jute.compiler.JRecord_java
+src.java.main.org.apache.jute.compiler.JVector_java

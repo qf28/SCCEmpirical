@@ -1,0 +1,16 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 11000100 10100100 0 0 0 01000100
+11000100 0 10100100 11000010 10000110 10000100 11000100
+11000100 11000100 0 0 0 0 0
+10100000 11100100 0 0 0 0 0
+0 11000000 0 11100000 0 0 0
+11000100 11000100 0 11000000 0 0 0
+00000100 11010100 0 11100000 0 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.commitlog.CommitLog_java
+src.java.org.apache.cassandra.io.sstable.SSTableWriter_java
+src.java.org.apache.cassandra.db.BinaryMemtable_java
+src.java.org.apache.cassandra.db.CompactionManager_java
+src.java.org.apache.cassandra.db.Memtable_java

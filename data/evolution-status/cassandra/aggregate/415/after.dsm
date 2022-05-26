@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 0 010000
+011110 0 0
+011111 010110 0
+src.java.org.apache.cassandra.transport.Server_java
+src.java.org.apache.cassandra.metrics.ClientMetrics_java
+src.java.org.apache.cassandra.service.NativeTransportService_java

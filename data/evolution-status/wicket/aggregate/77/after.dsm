@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 111000
+101010 0
+wicket.src.main.java.org.apache.wicket.request.handler.ListenerInvocationNotAllowedException_java
+wicket.src.main.java.org.apache.wicket.RequestListenerInterface_java

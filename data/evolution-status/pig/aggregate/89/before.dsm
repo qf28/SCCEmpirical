@@ -1,0 +1,8 @@
+[Call,Import,Use,Create]
+3
+0 1100 0
+1101 0 1101
+0 1100 0
+src.org.apache.pig.impl.io.TFileStorage_java
+src.org.apache.pig.impl.util.Utils_java
+src.org.apache.pig.impl.io.InterStorage_java

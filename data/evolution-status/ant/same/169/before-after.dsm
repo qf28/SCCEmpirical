@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0110000
+1110001 0
+proposal.mutant.src.java.antlibs.script.org.apache.ant.antlib.script.ScriptBase_java
+proposal.mutant.src.java.antlibs.script.org.apache.ant.antlib.script.ScriptFactory_java

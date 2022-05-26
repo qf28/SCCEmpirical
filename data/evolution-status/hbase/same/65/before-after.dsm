@@ -1,0 +1,22 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+10
+0 1000000 1100100 0 0 0 0 0 0 0
+0 0 0100100 0 0 0 0 0 0 0
+0 1100010 0 1100010 0 0 0 1100010 1000010 0
+1100010 0 0100100 0 1100010 0 1100010 0 0 1100010
+0 1000000 1100100 0 0 0 0 0 0 0
+0 0 0100100 1000000 0 0 0 0 0 0
+0 0 0100100 0 0 0 0 0 0 0
+0 0 1100100 1110000 0 1000010 0 0 0 0
+0 0 0100100 0 0 0 0 0 0 0
+0 0 0100100 1000000 0 0 0 0 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncSingleRequestRpcRetryingCaller_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncRegionLocator_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncConnectionImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncRpcRetryingCallerFactory_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncBatchRpcRetryingCaller_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncClientScanner_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncScanSingleRegionRpcRetryingCaller_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.RawAsyncTableImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncTableImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncSmallScanRpcRetryingCaller_java

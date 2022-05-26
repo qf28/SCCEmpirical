@@ -1,0 +1,42 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+20
+0 0 0 01001000 0 0 0 0 0 0 0 01110100 0 0 0 0 01110100 0 0 0
+0 0 0 0 0 0 01100010 0 0 0 0 0 0 0 0 0 01100110 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 01011100 0 0 0 0 01110100 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 01111101 0 0 0 0 01110100 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01100000 0 0 0
+0 0 0 01001000 0 0 0 0 0 0 0 01110100 0 0 0 0 01110100 0 0 0
+01000010 00000100 01000010 0 01100010 01000010 0 01000010 01000010 01000010 01000010 00110100 01000010 01000010 01000010 01000010 01100100 01000010 01000010 01000010
+0 0 0 0 0 0 0 0 0 0 0 01011000 0 0 0 0 00110000 0 0 0
+0 0 0 01001000 0 0 0 0 0 0 0 01110100 0 0 0 0 01110100 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 01011100 0 0 0 0 01110100 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 01011100 0 0 0 0 01110100 0 0 0
+0 00010100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 01110100 0 0 0
+0 0 0 01001000 0 0 0 0 0 0 0 01110100 0 0 0 0 01110100 0 0 0
+0 0 0 01001000 0 0 0 0 0 0 0 01110100 0 0 0 0 01110100 0 0 0
+0 0 0 01001000 0 0 0 0 0 0 0 01110100 0 0 0 0 01110100 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 01011100 0 0 0 0 01110100 0 0 0
+0 00100100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 01011100 0 0 0 0 01110100 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 01011100 0 0 0 0 01110100 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 01011100 0 0 0 0 01110100 0 0 0
+tools.stress.src.org.apache.cassandra.stress.operations.CqlCounterAdder_java
+tools.stress.src.org.apache.cassandra.stress.Stress_java
+tools.stress.src.org.apache.cassandra.stress.operations.CounterGetter_java
+tools.stress.src.org.apache.cassandra.stress.operations.CQLOperation_java
+tools.stress.src.org.apache.cassandra.stress.StressStatistics_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlReader_java
+tools.stress.src.org.apache.cassandra.stress.StressAction_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlMultiGetter_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlCounterGetter_java
+tools.stress.src.org.apache.cassandra.stress.operations.IndexedRangeSlicer_java
+tools.stress.src.org.apache.cassandra.stress.operations.Reader_java
+tools.stress.src.org.apache.cassandra.stress.util.Operation_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlInserter_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlRangeSlicer_java
+tools.stress.src.org.apache.cassandra.stress.operations.CqlIndexedRangeSlicer_java
+tools.stress.src.org.apache.cassandra.stress.operations.Inserter_java
+tools.stress.src.org.apache.cassandra.stress.Session_java
+tools.stress.src.org.apache.cassandra.stress.operations.RangeSlicer_java
+tools.stress.src.org.apache.cassandra.stress.operations.MultiGetter_java
+tools.stress.src.org.apache.cassandra.stress.operations.CounterAdder_java

@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Use,Create]
+3
+0 10110 10010
+00001 0 01010
+0 11000 0
+src.main.org.apache.tools.ant.taskdefs.optional.junit.Xalan2Executor_java
+src.main.org.apache.tools.ant.taskdefs.optional.junit.XalanExecutor_java
+src.main.org.apache.tools.ant.taskdefs.optional.junit.AggregateTransformer_java

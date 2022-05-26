@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Create,Use]
+4
+0 0 100000 101000
+100001 0 0 000001
+0 110000 0 0
+0 111000 111010 0
+src.java.org.apache.cassandra.auth.Auth_java
+src.java.org.apache.cassandra.service.ClientState_java
+src.java.org.apache.cassandra.service.QueryState_java
+src.java.org.apache.cassandra.cql3.QueryProcessor_java

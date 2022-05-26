@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+2
+0 110000100
+001001000 0
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.hadoop.yarn.server.applicationhistoryservice.metrics.timeline.availability.TimelineMetricHAController_java
+ambari-metrics.ambari-metrics-timelineservice.src.main.java.org.apache.hadoop.yarn.server.applicationhistoryservice.metrics.timeline.availability.AggregationTaskRunner_java

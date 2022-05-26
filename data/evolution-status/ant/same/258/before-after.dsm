@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+6
+0 0110100 0110100 0010000 0110100 0010000
+0010000 0 0010100 0 0000100 0
+0 0010000 0 0 0 0
+0010000 0101000 0000100 0 0000100 0111100
+0 0010000 0 0 0 0
+0010000 0101000 0 0 0100110 0
+src.main.org.apache.tools.ant.taskdefs.optional.junitlauncher.JUnitLauncherTask_java
+src.main.org.apache.tools.ant.taskdefs.optional.junitlauncher.TestDefinition_java
+src.main.org.apache.tools.ant.taskdefs.optional.junitlauncher.ListenerDefinition_java
+src.main.org.apache.tools.ant.taskdefs.optional.junitlauncher.TestClasses_java
+src.main.org.apache.tools.ant.taskdefs.optional.junitlauncher.TestRequest_java
+src.main.org.apache.tools.ant.taskdefs.optional.junitlauncher.SingleTestClass_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement]
+4
+0 010000010 010000010 010000010
+011101000 0 0 0
+011101000 0 0 0
+011101000 0 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.security.access.Permission_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.security.access.TablePermission_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.security.access.GlobalPermission_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.security.access.NamespacePermission_java

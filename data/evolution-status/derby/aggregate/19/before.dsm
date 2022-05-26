@@ -1,0 +1,8 @@
+[Call,Typed,Create]
+3
+0 111 0
+101 0 101
+0 110 0
+java.testing.org.apache.derbyTesting.junit.ChangeUserSetup_java
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java
+java.testing.org.apache.derbyTesting.junit.ChangeConfigurationSetup_java

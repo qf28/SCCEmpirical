@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Use,Create]
+3
+0 011010 0
+010010 0 100001
+000010 0 0
+lang.java.src.java.org.apache.avro.ipc.trace.TracePluginConfiguration_java
+lang.java.src.java.org.apache.avro.ipc.trace.TracePlugin_java
+lang.java.src.java.org.apache.avro.ipc.trace.TraceClientServlet_java

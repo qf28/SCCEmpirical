@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+3
+0 0110000 0
+0110100 0 0000010
+0 1110000 0
+src.antidote.org.apache.tools.ant.gui.wizard.build.Builder_java
+src.antidote.org.apache.tools.ant.gui.wizard.build.BuildData_java
+src.antidote.org.apache.tools.ant.gui.wizard.build.ProjectSetupStep_java

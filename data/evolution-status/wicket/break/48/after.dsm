@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use]
+4
+0 0 0 0
+0 0 0 0
+01110 0 0 0
+0 11011 01000 0
+wicket-core.src.main.java.org.apache.wicket.settings.IPageSettings_java
+wicket-core.src.main.java.org.apache.wicket.markup.WicketTag_java
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.MarkupContainer_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 011011 011011 101010
+0 0 011000 010001
+011000 0 0 011010
+0 010000 010000 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.filter.QueryFilter_java
+src.java.org.apache.cassandra.db.Memtable_java
+src.java.org.apache.cassandra.db.filter.SliceQueryFilter_java

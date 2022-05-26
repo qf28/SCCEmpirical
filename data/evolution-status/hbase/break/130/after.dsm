@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+6
+0 0 0 0 01110000 0
+0 0 0 00110000 0 0
+0 0 0 01100001 00010100 0
+0 0 00100000 0 0 0
+01000010 11100000 01010110 0 0 0
+0 0 01100100 01100001 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.QosFunction_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RpcSchedulerFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.RpcServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.RpcScheduler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.ipc.SimpleRpcScheduler_java

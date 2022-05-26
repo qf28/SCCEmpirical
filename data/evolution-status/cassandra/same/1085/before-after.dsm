@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01100100
+01100100 0
+tools.stress.src.org.apache.cassandra.stress.settings.StressSettings_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsSchema_java

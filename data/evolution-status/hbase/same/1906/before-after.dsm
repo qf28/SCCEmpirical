@@ -1,0 +1,12 @@
+[Call,Typed,Use,Create]
+5
+0 0110 0 0 0
+0 0 1101 1101 0
+0 1110 0 1000 0
+1101 1110 1010 0 1101
+0 0110 0 0 0
+src.java.org.apache.hadoop.hbase.master.RootScanner_java
+src.java.org.apache.hadoop.hbase.master.HMaster_java
+src.java.org.apache.hadoop.hbase.master.ServerManager_java
+src.java.org.apache.hadoop.hbase.master.RegionManager_java
+src.java.org.apache.hadoop.hbase.master.MetaScanner_java

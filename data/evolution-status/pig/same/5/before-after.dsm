@@ -1,0 +1,10 @@
+[Import,Set,Extend,Create,Use]
+4
+0 00100 00100 01001
+00100 0 0 0
+0 0 0 10100
+01001 0 0 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigGenericMapReduce_java
+shims.src.hadoop20.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapReduce_java
+shims.src.hadoop20.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigMapBase_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigGenericMapBase_java

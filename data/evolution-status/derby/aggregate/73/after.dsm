@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+6
+0 0 010011000 0 0 0
+111100010 0 011100010 010100010 111100000 010000010
+0 000100100 0 0 0 0
+0 0 010011000 0 0 0
+0 0 111000000 0 0 0
+0 000100100 0 0 0 0
+java.engine.org.apache.derby.catalog.types.UserDefinedTypeIdImpl_java
+java.engine.org.apache.derby.iapi.types.TypeId_java
+java.engine.org.apache.derby.catalog.types.BaseTypeIdImpl_java
+java.engine.org.apache.derby.catalog.types.DecimalTypeIdImpl_java
+java.engine.org.apache.derby.catalog.types.TypeDescriptorImpl_java
+java.engine.org.apache.derby.iapi.types.UserType_java

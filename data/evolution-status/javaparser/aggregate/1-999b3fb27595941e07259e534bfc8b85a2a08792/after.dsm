@@ -1,0 +1,8 @@
+[Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+3
+0 01000000 10001000
+11110010 0 0
+00000100 0 0
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmElement_java
+javaparser-core.src.main.java.com.github.javaparser.printer.ConcreteSyntaxModel_java
+javaparser-core.src.main.java.com.github.javaparser.printer.concretesyntaxmodel.CsmString_java

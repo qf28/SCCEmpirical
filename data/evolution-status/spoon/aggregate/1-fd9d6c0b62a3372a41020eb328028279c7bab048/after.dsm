@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Create,Use,Implement,Parameter,Contain]
+2
+0 001100000
+001001010 0
+src.main.java.spoon.reflect.declaration.CtElement_java
+src.main.java.spoon.reflect.path.CtPath_java

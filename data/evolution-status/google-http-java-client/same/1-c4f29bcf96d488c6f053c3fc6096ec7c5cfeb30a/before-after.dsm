@@ -1,0 +1,6 @@
+[Call,Import,Use,Create,Parameter,Contain]
+2
+0 101000
+101110 0
+google-http-client-xml.src.main.java.com.google.api.client.xml.XmlNamespaceDictionary_java
+google-http-client-xml.src.main.java.com.google.api.client.xml.Xml_java

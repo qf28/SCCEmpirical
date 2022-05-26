@@ -1,0 +1,24 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+11
+0 0 0 0 0 0 0 011000010 0 0 0
+0 0 0 0 0 010000000 010000000 011000010 0 0 0
+0 0 0 0 0 0 0 011000010 0 0 0
+0 0 0 0 0 0 0 011000010 0 010000000 0
+010100100 010100100 010100100 010100100 0 010100100 010100100 011100110 010100100 010100100 010100100
+0 0 0 0 0 0 010000000 011000010 0 0 0
+0 0 0 0 0 0 0 011000010 0 0 0
+0 0 0 0 111100000 0 0 0 0 0 0
+0 0 0 0 0 0 0 011000010 0 0 0
+0 0 0 0 0 0 0 011000010 0 0 0
+0 0 0 0 0 0 0 011000010 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.ModifyColumnFamilyProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.TruncateTableProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.DeleteColumnFamilyProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.EnableTableProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.CreateTableProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.DeleteTableProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.MasterProcedureEnv_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.ModifyTableProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.DisableTableProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.AddColumnFamilyProcedure_java

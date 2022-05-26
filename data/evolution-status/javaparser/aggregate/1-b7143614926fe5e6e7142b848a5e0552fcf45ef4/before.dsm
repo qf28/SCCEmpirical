@@ -1,0 +1,12 @@
+[Call,Import,Use,Create,Implement,Parameter,Contain]
+5
+0 0 0 0 0
+0 0 0 0010000 0
+0000100 0 0 0010010 0
+0 0110000 1101000 0 0
+0 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.BodyDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java

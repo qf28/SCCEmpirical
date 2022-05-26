@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 11100
+10101 0
+wicket.src.java.wicket.model.PropertyModel_java
+wicket.src.java.wicket.Component_java

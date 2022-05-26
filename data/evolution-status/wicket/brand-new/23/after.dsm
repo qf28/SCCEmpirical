@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create,Use]
+2
+0 00001
+01010 0
+wicket-threadtest.src.java.wicket.threadtest.apps.FormInputModel_java
+wicket-threadtest.src.java.wicket.threadtest.apps.Home_java

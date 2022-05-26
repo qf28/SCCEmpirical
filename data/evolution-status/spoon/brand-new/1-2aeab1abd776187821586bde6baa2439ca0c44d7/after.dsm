@@ -1,0 +1,10 @@
+[Call,Import,Return,Use,Create,Parameter,Contain]
+4
+0 1011011 1010010 1100000
+1011111 0 1011011 1100000
+0 1011111 0 1101000
+0 1000001 1011111 0
+src.test.java.spoon.test.metamodel.MMMethod_java
+src.test.java.spoon.test.metamodel.MMField_java
+src.test.java.spoon.test.metamodel.MMType_java
+src.test.java.spoon.test.metamodel.SpoonMetaModel_java

@@ -1,0 +1,8 @@
+[Cast,Call,Return,Import,Extend,Use,Create,Implement,Parameter,Contain]
+3
+0 0110011001 0110011001
+0100010011 0 0
+1100011011 0 0
+src.main.java.spoon.support.compiler.jdt.JDTTreeBuilder_java
+src.main.java.spoon.support.compiler.jdt.ParentExiter_java
+src.main.java.spoon.support.compiler.jdt.ReferenceBuilder_java

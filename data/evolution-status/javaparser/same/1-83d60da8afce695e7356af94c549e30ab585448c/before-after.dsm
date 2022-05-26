@@ -1,0 +1,8 @@
+[Call,Return,Import,Use,Create,Parameter,Contain]
+3
+0 1101011 0
+1100100 0 1001000
+0 1101000 0
+javaparser-core.src.main.java.com.github.javaparser.TokenRange_java
+javaparser-core.src.main.java.com.github.javaparser.JavaToken_java
+javaparser-core.src.main.java.com.github.javaparser.TokenTypes_java

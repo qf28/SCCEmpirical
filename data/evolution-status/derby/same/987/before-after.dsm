@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Extend,Use,Create]
+2
+0 0010010
+1100001 0
+java.engine.org.apache.derby.impl.io.JarDBFile_java
+java.engine.org.apache.derby.impl.io.JarStorageFactory_java

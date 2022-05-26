@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Create,Use]
+9
+0 0 11101 0 0 0 00100 0 0
+0 0 0 0 11100 0 11100 0 0
+0 0 0 11100 0 0 11111 0 0
+0 01101 0 0 0 0 01100 0 11101
+0 0 0 0 0 0 00100 0 0
+0 00100 0 0 0 0 11110 11100 0
+0 0 00100 0 0 0 0 0 01100
+0 0 0 0 0 00001 00100 0 11001
+11100 11101 11001 00001 0 0 11100 11100 0
+java.engine.org.apache.derby.impl.sql.compile.GroupByNode_java
+java.engine.org.apache.derby.impl.sql.compile.FromVTI_java
+java.engine.org.apache.derby.impl.sql.compile.FromBaseTable_java
+java.engine.org.apache.derby.impl.sql.compile.FromSubquery_java
+java.engine.org.apache.derby.impl.sql.compile.MethodCallNode_java
+java.engine.org.apache.derby.impl.sql.compile.SetOperatorNode_java
+java.engine.org.apache.derby.impl.sql.compile.PredicateList_java
+java.engine.org.apache.derby.impl.sql.compile.OrderByColumn_java
+java.engine.org.apache.derby.impl.sql.compile.SelectNode_java

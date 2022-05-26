@@ -1,0 +1,46 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+22
+0 0 0 0 0 0 0 010000000 010000010 0 010001000 0 0 001100000 011000010 0 0 0 0 0 0 0
+0 0 0 011000000 010000010 0 0 0 0 011000000 0 0 0 011000110 001100000 0 0 010000100 0 0 001000011 0
+0 0 0 0 0 0 0 010000000 010001010 0 0 0 0 001100000 011000010 0 0 0 0 0 0 0
+0 0 0 0 011000100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 011000000 0 0 0 0 0 0 0 0 0 0 011100000 0 0 0 0 0 011000000 0
+0 0 0 001100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 001100000 0
+0 0 0 0 0 0 0 000000001 0 0 0 0 0 0 001100010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 001100000 0 0 0 0 0 0 0
+010000100 0 010000100 0 0 0 010000100 0 0 001100000 0 010000100 0 011100000 010001010 0 0 0 0 0 0 0
+0 0 0 001000000 000000010 111100010 0 0 0 0 0 0 0 0 0 000100000 0 0 0 0 001000000 0
+0 0 0 0 0 0 0 010000000 010001010 0 0 0 0 011100000 001000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 010000000 010000010 0 010001000 0 0 001100000 011000010 0 0 0 0 0 0 0
+0 0 0 0 0 0 010000100 011000000 0 001100000 0 0 0 011100000 011011010 0 0 0 010000000 010000000 0 010000100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000000010 0 0 0 0
+0 0 0 0 0 0 0 011000000 0 011100000 0 0 0 011100000 0 0 0 0 0 0 0 0
+0 0 0 001100000 0 001000001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 001100000 0
+0 0 0 0 0 0 010000100 011000000 0 001100000 0 0 0 011100000 011011010 0 0 0 0 0 0 010000100
+0 110000000 0 0 000000010 0 0 0 010100000 0 0 0 010100000 011000000 011100010 0 010100000 0 0 0 011000000 0
+0 0 0 0 0 0 0 001000000 0 0 0 0 010001010 001100000 011000000 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 001000000 0 001100000 0 0 010001010 011100000 011000000 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 001000000 0 0 0 001000000 001100000 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 000000001 0 0 0 0 0 0 001100010 0 0 0 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.MajorCompactionScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.MinorCompactionScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFileReader_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFileScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coprocessor.RegionObserver_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ScanWildcardColumnTracker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ColumnTracker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.CompactionScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionCoprocessorHost_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.DropDeletesCompactionScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.StripeCompactionScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.UserScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ScanInfo_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.ScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coprocessor.BaseRegionObserver_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.LegacyScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.RawScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.querymatcher.NormalUserScanQueryMatcher_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Store_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ExplicitColumnTracker_java

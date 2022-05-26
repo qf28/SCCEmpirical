@@ -1,0 +1,46 @@
+[Cast,Call,Typed,Import,Set,Create,Use]
+22
+0 0011000 0011000 0011000 0011000 0011000 0011000 0011000 0011000 0011000 0011000 0 0011000 0011000 0011000 0011000 0011000 0011000 0011000 0011000 0011000 0011000
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 1100000 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0111010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0010000 0 0 0 0 0 0 0 0 0 0
+src.org.apache.pig.newplan.logical.optimizer.ExprPrinter_java
+src.org.apache.pig.newplan.logical.expression.LessThanEqualExpression_java
+src.org.apache.pig.newplan.logical.expression.OrExpression_java
+src.org.apache.pig.newplan.logical.expression.NotEqualExpression_java
+src.org.apache.pig.newplan.logical.expression.AddExpression_java
+src.org.apache.pig.newplan.logical.expression.UserFuncExpression_java
+src.org.apache.pig.newplan.logical.expression.ProjectExpression_java
+src.org.apache.pig.newplan.logical.expression.EqualExpression_java
+src.org.apache.pig.newplan.logical.expression.DereferenceExpression_java
+src.org.apache.pig.newplan.logical.expression.ModExpression_java
+src.org.apache.pig.newplan.logical.expression.ConstantExpression_java
+src.org.apache.pig.newplan.logical.expression.LogicalExpressionPlan_java
+src.org.apache.pig.newplan.logical.expression.GreaterThanEqualExpression_java
+src.org.apache.pig.newplan.logical.expression.BinCondExpression_java
+src.org.apache.pig.newplan.logical.expression.GreaterThanExpression_java
+src.org.apache.pig.newplan.logical.expression.RegexExpression_java
+src.org.apache.pig.newplan.logical.expression.MultiplyExpression_java
+src.org.apache.pig.newplan.logical.expression.MapLookupExpression_java
+src.org.apache.pig.newplan.logical.expression.SubtractExpression_java
+src.org.apache.pig.newplan.logical.expression.LessThanExpression_java
+src.org.apache.pig.newplan.logical.expression.AndExpression_java
+src.org.apache.pig.newplan.logical.expression.DivideExpression_java

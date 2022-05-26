@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Throw]
+3
+0 0 111001
+0 0 011010
+111000 011010 0
+java.client.org.apache.derby.client.am.Sqlca_java
+java.client.org.apache.derby.client.am.SQLExceptionFactory_java
+java.client.org.apache.derby.client.am.SqlException_java

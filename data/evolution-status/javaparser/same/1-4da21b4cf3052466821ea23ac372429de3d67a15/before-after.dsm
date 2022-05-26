@@ -1,0 +1,12 @@
+[Cast,Call,Return,Import,Use,Create,Implement,Parameter,Contain]
+5
+0 110010010 011010111 0 010110011
+0 0 011000110 0 011110011
+001000000 001000000 0 011000000 001100010
+0 0 011010111 0 000100010
+001100000 0 001110011 0 0
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.ResolvedReferenceType_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.ResolvedTypeVariable_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.ResolvedType_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.types.ResolvedArrayType_java
+javaparser-core.src.main.java.com.github.javaparser.resolution.declarations.ResolvedTypeParameterDeclaration_java

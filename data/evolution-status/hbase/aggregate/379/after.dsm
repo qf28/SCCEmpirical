@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+3
+0 0001000 0001000
+0001100 0 0
+0111000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.coprocessor.ColumnInterpreter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.coprocessor.LongColumnInterpreter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.client.coprocessor.AggregationClient_java

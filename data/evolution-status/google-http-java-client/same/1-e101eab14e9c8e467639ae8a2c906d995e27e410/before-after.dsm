@@ -1,0 +1,22 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+10
+0 0101010010 0101010011 0 0 0100011000 0101011001 0101010011 0101010011 0100001000
+0 0 0 0 0 0 0000000010 0 0 0
+0101001000 0 0 0101001000 0000000010 0 0 0 0 0
+0101000001 0 0101010011 0 0101010011 0 0 0 0 0
+0000000010 0 0 0 0 0 0 0 0 0
+0 0 0000010000 0 0 0 0 0 0 0
+0101010011 0101000001 0001010001 0 0 0 0 0 0 0
+0000000010 0 0 0 0 0 0 0 0 0
+0000000010 0 0 0 0 0 0000000010 0 0 0
+0 0 0 0 0 0 0100000010 0 0 0
+google-http-client.src.main.java.com.google.api.client.http.HttpRequest_java
+google-http-client.src.main.java.com.google.api.client.http.HttpParser_java
+google-http-client.src.main.java.com.google.api.client.http.HttpTransport_java
+google-http-client.src.main.java.com.google.api.client.http.HttpRequestFactory_java
+google-http-client.src.main.java.com.google.api.client.http.HttpRequestInitializer_java
+google-http-client.src.main.java.com.google.api.client.http.LogContent_java
+google-http-client.src.main.java.com.google.api.client.http.HttpResponse_java
+google-http-client.src.main.java.com.google.api.client.http.HttpExecuteInterceptor_java
+google-http-client.src.main.java.com.google.api.client.http.HttpUnsuccessfulResponseHandler_java
+google-http-client.src.main.java.com.google.api.client.http.HttpResponseException_java

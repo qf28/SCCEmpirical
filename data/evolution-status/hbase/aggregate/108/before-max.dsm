@@ -1,0 +1,6 @@
+[Extend,Use,Create]
+2
+0 001
+110 0
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.MonkeyFactory_java
+hbase-it.src.test.java.org.apache.hadoop.hbase.chaos.factories.SlowDeterministicMonkeyFactory_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Extend,Create,Use]
+2
+0 0010000
+0000001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ImmutableSegment_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreSegmentsIterator_java

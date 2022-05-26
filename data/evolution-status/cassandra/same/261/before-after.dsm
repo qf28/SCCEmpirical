@@ -1,0 +1,8 @@
+[Call,Typed,Use,Create]
+3
+0 1000 0110
+1110 0 0
+1000 0110 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.CommitLog_java
+src.java.org.apache.cassandra.db.Memtable_java

@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Create,Use,Parameter,Contain]
+2
+0 01101010
+01101000 0
+src.main.java.org.eclipse.yasson.internal.serializer.OptionalObjectDeserializer_java
+src.main.java.org.eclipse.yasson.internal.unmarshaller.DeserializerBuilder_java

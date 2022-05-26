@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Extend,Use,Create]
+5
+0 011000 0 0 0
+011000 0 001000 001000 011000
+0 011000 0 0 0
+0 011000 0 0 0
+0 011000 0 0 0
+src.org.apache.pig.impl.logicalLayer.LOSplit_java
+src.org.apache.pig.impl.logicalLayer.LOVisitor_java
+src.org.apache.pig.impl.logicalLayer.LOUnion_java
+src.org.apache.pig.impl.logicalLayer.LOCross_java
+src.org.apache.pig.impl.logicalLayer.LOSplitOutput_java

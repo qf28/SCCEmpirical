@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 00000001
+00000001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.mapreduce.WALPlayer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.mapreduce.WALInputFormat_java

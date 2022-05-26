@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+4
+0 0 01110000 01110001
+0 0 00110000 01110001
+01010001 01010001 0 0
+0 0 00010000 0
+src.org.apache.pig.backend.local.executionengine.LocalExecutionEngine_java
+src.org.apache.pig.backend.hadoop.executionengine.HExecutionEngine_java
+src.org.apache.pig.impl.PigContext_java
+src.org.apache.pig.impl.io.FileSpec_java

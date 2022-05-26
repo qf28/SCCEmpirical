@@ -1,0 +1,8 @@
+[Call,Typed,Import,Create]
+3
+0 1100 0
+0100 0 1011
+1110 0 0
+jdk-1_4.wicket.src.main.java.wicket.Component_java
+jdk-1_4.wicket.src.main.java.wicket.Application_java
+jdk-1_4.wicket.src.main.java.wicket.markup.parser.filter.WicketMessageTagHandler_java

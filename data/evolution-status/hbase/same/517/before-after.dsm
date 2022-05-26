@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Create,Use,Implement]
+2
+0 0110100
+0110000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.security.access.TableAuthManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.security.access.ZKPermissionWatcher_java

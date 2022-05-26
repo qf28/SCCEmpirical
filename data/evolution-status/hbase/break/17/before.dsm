@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Throw,Implement]
+2
+0 0010000000
+0010000000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.ConsensusProvider_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.Server_java

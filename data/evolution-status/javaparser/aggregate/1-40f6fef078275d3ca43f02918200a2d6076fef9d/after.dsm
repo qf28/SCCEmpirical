@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Create,Use,Parameter,Contain]
+3
+0 01011101 11001111
+11001111 0 11100001
+01000100 01010001 0
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.DifferenceElementCalculator_java
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.Difference_java
+javaparser-core.src.main.java.com.github.javaparser.printer.lexicalpreservation.LexicalDifferenceCalculator_java

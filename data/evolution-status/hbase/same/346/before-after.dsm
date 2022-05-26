@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Use,Create]
+3
+0 0 001000
+101010 0 0
+101010 101000 0
+src.main.java.org.apache.hadoop.hbase.zookeeper.ZKSplitLog_java
+src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogSplitter_java
+src.main.java.org.apache.hadoop.hbase.master.SplitLogManager_java

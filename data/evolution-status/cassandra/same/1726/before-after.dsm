@@ -1,0 +1,10 @@
+[Call,Typed,Set,Import,Extend,Use,Create,Implement]
+4
+0 10000100 0 0
+11000010 0 11000010 11010100
+0 10000100 0 0
+0 10010100 0 0
+src.java.org.apache.cassandra.db.compaction.Verifier_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.compaction.Scrubber_java
+src.java.org.apache.cassandra.cache.AutoSavingCache_java

@@ -1,0 +1,6 @@
+[Return,Import,Implement,Parameter]
+2
+0 1001
+1000 0
+src.main.java.spoon.reflect.declaration.CtSimpleType_java
+src.main.java.spoon.reflect.declaration.CtField_java

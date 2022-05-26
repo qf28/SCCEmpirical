@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use]
+3
+0 011000 0
+0 0 011010
+010000 010000 0
+wicket.src.java.wicket.Session_java
+wicket.src.java.wicket.Application_java
+wicket.src.java.wicket.SharedResource_java

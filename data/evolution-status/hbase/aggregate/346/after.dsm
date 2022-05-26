@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 000001 101001
+000010 0 0
+001010 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.tool.PreUpgradeValidator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.tool.DataBlockEncodingValidator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.tool.coprocessor.CoprocessorValidator_java

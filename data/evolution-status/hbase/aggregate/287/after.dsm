@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0100001 0010000 0100001
+0 0 0100100 0
+0110001 0000010 0 0000010
+0 0 0100100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlockBuilder_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.ExclusiveMemHFileBlock_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlock_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.SharedMemHFileBlock_java

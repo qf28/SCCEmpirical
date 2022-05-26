@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Set,Extend,Use]
+3
+0 0 010000
+010111 0 010000
+011001 011000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Segment_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MutableSegment_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.AbstractMemStore_java

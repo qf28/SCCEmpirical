@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 11010
+11010 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.AlertGroupEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.AlertTargetEntity_java

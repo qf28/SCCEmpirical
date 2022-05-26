@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+2
+0 0100100
+1110100 0
+src.main.java.org.apache.commons.math3.geometry.euclidean.oned.Vector1D_java
+src.main.java.org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormat_java

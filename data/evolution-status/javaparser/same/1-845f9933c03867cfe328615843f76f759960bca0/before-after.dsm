@@ -1,0 +1,24 @@
+[Cast,Call,Return,Extend,Use,Create,Parameter,Contain]
+11
+0 0 0 0 0 0 0 0 0 01011000 10001010
+0 0 0 0 0 0 0 0 0 01011000 11001011
+0 0 0 0 0 0 0 0 0 01011000 0
+0 0 0 0 0 0 0 0 10001010 01000000 01011000
+0 0 0 0 0 0 0 0 0 01011000 0
+0 0 0 0 0 0 0 0 0 01011000 10001010
+0 0 0 0 0 0 0 0 0 01100000 01011000
+0 0 0 0 0 0 0 0 00100000 01011000 0
+0 0 0 0 0 0 0 01101100 0 01001010 01011000
+00100000 00100000 00100000 00100000 00100000 00100000 11101000 00100000 00100000 0 00100000
+0 0 0 0 0 0 0 0 0 01011000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.type.UnionType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.WildcardType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.VoidType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.TypeParameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.UnknownType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.IntersectionType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ArrayType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.PrimitiveType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ClassOrInterfaceType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.Type_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ReferenceType_java

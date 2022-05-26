@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+2
+0 011010011
+011001001 0
+src.main.java.japa.parser.ast.visitor.DumpVisitor_java
+src.main.java.japa.parser.ast.Node_java

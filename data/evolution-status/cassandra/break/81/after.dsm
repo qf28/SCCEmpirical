@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+5
+0 0 0 0 0
+0000001 0 0 0 0111100
+0010000 0 0 0 0111100
+0000001 0 0 0 0111100
+0010000 0100010 1100110 0100010 0
+src.java.org.apache.cassandra.utils.btree.BTreeSearchIterator_java
+src.java.org.apache.cassandra.utils.btree.LeafBTreeSearchIterator_java
+src.java.org.apache.cassandra.utils.btree.BTreeSet_java
+src.java.org.apache.cassandra.utils.btree.FullBTreeSearchIterator_java
+src.java.org.apache.cassandra.utils.btree.BTree_java

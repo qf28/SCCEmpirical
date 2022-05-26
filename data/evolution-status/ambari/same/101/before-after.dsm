@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 11100
+00101 0
+ambari-server.src.main.java.org.apache.ambari.server.agent.stomp.MetadataHolder_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariManagementControllerImpl_java

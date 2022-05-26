@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 0 0 0
+0 0 1100000 0
+1100000 1100110 0 1100000
+0 0 0100100 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.KerberosPrincipalEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.KerberosKeytabServiceMappingEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.KerberosKeytabPrincipalEntity_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.KerberosKeytabEntity_java

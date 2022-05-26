@@ -1,0 +1,12 @@
+[Call,Typed,Import,Set,Use,Create]
+5
+0 0 0 0 000010
+0 0 101000 101000 111010
+011101 111010 0 101000 011010
+010110 0 101010 0 110011
+0 0 0 100000 0
+src.java.org.apache.cassandra.config.RawColumnFamily_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.config.CFMetaData_java

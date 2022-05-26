@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Create,Use]
+2
+0 0
+0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SplitTransaction_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.consensus.BaseCoordinatedStateManager_java

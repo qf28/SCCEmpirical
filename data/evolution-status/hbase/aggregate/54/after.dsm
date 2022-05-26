@@ -1,0 +1,12 @@
+[Call,Typed,Import,Extend,Create,Use]
+5
+0 110001 100000 0 0
+0 0 110010 110010 100010
+0 110001 0 0 0
+110010 010001 0 0 0
+0 0 110000 0 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncSingleRequestRpcRetryingCaller_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncConnectionImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncRegionLocator_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncRpcRetryingCallerFactory_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncTableRegionLocatorImpl_java

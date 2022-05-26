@@ -1,0 +1,6 @@
+[Call,Import,Return,Use,Create,Contain]
+2
+0 111011
+010100 0
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.support.JavaOutputProcessor_java

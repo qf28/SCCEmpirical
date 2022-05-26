@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Throw,Create,Implement]
+2
+0 010000000
+010000000 0
+wicket-examples.src.java.library.BookDetails_java
+wicket-examples.src.java.library.EditBook_java

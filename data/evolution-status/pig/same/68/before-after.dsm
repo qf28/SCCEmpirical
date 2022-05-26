@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 0 00110 0
+0 0 0 11100
+11011 11100 0 0
+01000 11100 11011 0
+src.org.apache.pig.tools.pigstats.tez.TezVertexStats_java
+src.org.apache.pig.backend.hadoop.executionengine.tez.TezJob_java
+src.org.apache.pig.tools.pigstats.tez.TezDAGStats_java
+src.org.apache.pig.tools.pigstats.tez.TezPigScriptStats_java

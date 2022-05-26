@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Create,Implement]
+2
+0 011010000
+010000010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.flush.FlushTableSubprocedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure.flush.RegionServerFlushTableProcedureManager_java

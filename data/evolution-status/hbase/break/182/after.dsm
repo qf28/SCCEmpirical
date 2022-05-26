@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+4
+0 0 0 0
+0110010 0 0 0110000
+0 0 0 0110100
+0 0110110 0110010 0
+src.main.java.org.apache.hadoop.hbase.regionserver.PriorityCompactionQueue_java
+src.main.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java
+src.main.java.org.apache.hadoop.hbase.regionserver.MemStoreFlusher_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

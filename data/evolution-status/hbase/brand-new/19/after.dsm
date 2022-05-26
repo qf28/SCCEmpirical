@@ -1,0 +1,6 @@
+[Call,Typed,Extend]
+2
+0 100
+011 0
+src.java.org.apache.hadoop.hbase.util.Hash_java
+src.java.org.apache.hadoop.hbase.util.MurmurHash_java

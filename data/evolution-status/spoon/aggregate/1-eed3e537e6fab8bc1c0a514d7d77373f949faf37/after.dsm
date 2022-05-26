@@ -1,0 +1,6 @@
+[Call,Return,Import,Use,Create,Parameter,Contain]
+2
+0 0011011
+1011001 0
+src.main.java.spoon.internal.mavenlauncher.InheritanceModel_java
+src.main.java.spoon.MavenLauncher_java

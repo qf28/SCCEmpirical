@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Create,Use]
+3
+0 101000 0
+0 0 000101
+011110 010110 0
+wicket.src.java.wicket.markup.MarkupResourceStreamLookupResult_java
+wicket.src.java.wicket.markup.MarkupResourceStream_java
+wicket.src.java.wicket.MarkupContainer_java

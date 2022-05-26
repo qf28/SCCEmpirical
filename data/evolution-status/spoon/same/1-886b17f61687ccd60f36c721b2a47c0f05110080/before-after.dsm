@@ -1,0 +1,6 @@
+[Call,Import,Return,Create,Use,Implement,Parameter,Contain]
+2
+0 11010000
+11011001 0
+src.main.java.spoon.Launcher_java
+src.main.java.spoon.support.compiler.jdt.JDTBasedSpoonCompiler_java

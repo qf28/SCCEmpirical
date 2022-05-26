@@ -1,0 +1,10 @@
+[Call,Typed,Use,Create,Implement]
+4
+0 01000 0 0
+0 0 0 00100
+0 11100 0 10100
+11100 11110 00100 0
+src.java.org.apache.cassandra.gms.IEndpointStateChangeSubscriber_java
+src.java.org.apache.cassandra.gms.EndpointState_java
+src.java.org.apache.cassandra.gms.FailureDetector_java
+src.java.org.apache.cassandra.gms.Gossiper_java

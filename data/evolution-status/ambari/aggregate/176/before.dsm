@@ -1,0 +1,4 @@
+[Call,Typed,Import,Extend,Use,Create,Throw]
+1
+0
+ambari-server.src.main.java.org.apache.ambari.server.events.AlertDefinitionsUpdateEvent_java

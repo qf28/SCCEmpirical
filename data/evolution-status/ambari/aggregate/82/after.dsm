@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 100100
+000001 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.BlueprintConfigurationProcessor_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.UnitUpdater_java

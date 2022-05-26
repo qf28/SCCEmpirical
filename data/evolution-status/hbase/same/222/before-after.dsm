@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Create,Use]
+2
+0 001001
+110010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.bucket.BucketAllocator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.bucket.BucketCache_java

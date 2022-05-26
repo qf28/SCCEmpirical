@@ -1,0 +1,6 @@
+[Call,Create]
+2
+0 11
+11 0
+src.org.apache.pig.impl.util.avro.AvroBagWrapper_java
+src.org.apache.pig.impl.util.avro.AvroTupleWrapper_java

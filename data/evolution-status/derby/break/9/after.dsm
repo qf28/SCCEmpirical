@@ -1,0 +1,6 @@
+[Call]
+2
+0 1
+1 0
+java.testing.org.apache.derbyTesting.junit.TestConfiguration_java
+java.testing.org.apache.derbyTesting.junit.BaseJDBCTestCase_java

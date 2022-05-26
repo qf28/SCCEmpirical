@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Create,Use]
+3
+0 0 11111
+11100 0 01010
+0 01000 0
+java.engine.org.apache.derby.impl.sql.compile.AggregateNode_java
+java.engine.org.apache.derby.impl.sql.compile.StaticMethodCallNode_java
+java.engine.org.apache.derby.impl.sql.compile.UserAggregateDefinition_java

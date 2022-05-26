@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Implement]
+3
+0 0 111000
+101010 0 111000
+100010 111010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.hbck.HFileCorruptionChecker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.HBaseFsck_java

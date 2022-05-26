@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 010000
+111001 0
+java.engine.org.apache.derby.iapi.services.classfile.CONSTANT_Utf8_info_java
+java.engine.org.apache.derby.iapi.services.classfile.ClassHolder_java

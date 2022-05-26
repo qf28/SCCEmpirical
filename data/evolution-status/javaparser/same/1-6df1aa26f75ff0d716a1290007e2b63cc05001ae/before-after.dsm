@@ -1,0 +1,56 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+27
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100011001 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0100001000 0 0000010000 0 0100011001 0 0 0 0 0 0010000010 0 0 0 0 0 0100010000 0 0 1110001001 0
+0 0 0 0100001000 0 0 0 0 0010010000 0 0 0 0110010000 0 0 0100011000 0011000010 0 0100001000 0 0100001000 0 0 0 0 0 0
+0 0 0100001000 0 0 0 0 0 0 0110001000 0 0 0 0 0 0100011000 0111000000 0 0100001000 0 0 0100001000 0 0 0 0110001000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0
+0 1110010000 0 1110010000 0 0 0 0 0 0 0 1110010000 0 1110010000 0 0 0110000010 1110010000 1110010000 0 1110010000 0 0 0 0 0 0
+0 0100001000 0 0 0 0 0 0 0000010000 0 0 0 0 0100001000 0 0 0010000010 0 0 0 0 0 0100010000 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0100011001 0 0 0 0 0 0 0 0 0 0 0 0100010000 0 0 0110001000 0
+0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0100001000 0 0 0 0 0 0 0 0 0 0 0 0110001000 0
+0 1110010000 0 1110010000 0 0 0 0 0 0 0 0 0 1110010000 0 0 0110000011 1110010000 1110010000 0 1110010000 0 0 0 0 0110001001 0
+0 0100001000 0 0 0 0 0100011000 0 0 0 0 0 0 0100001000 0 0 0 0 0 0 0 0 0100010000 0 0 1111001001 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100011001 0 0010000010 0100001000 0 0100011000 0 0 0 0100010000 0 0110011000 0100010000
+0 0 0 0100001000 0110001000 0 0 0 0010010000 0110011001 0 0 0 0110001000 0 0 0110000011 0 0100001001 0 0100001000 1100000001 0 0 0 1100011000 0
+0 0100001000 0 0 0 0110010000 0100001000 0 0 0 0100011001 0 0 0 0 0 0010000010 0 0 0 0 0 0100010000 0 0 0111001000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100011000 0 0 0 0 0 0 0
+0 0 0100001000 0 0 0 0 0 0 0 0 0 0110010000 0 0 0 0111000000 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100010000 0 0
+0 0 0 0 0 0 0 0 0 0 0 0100011000 0 0 0100011001 0 0010000010 0 0 0100001000 0 0 0 0100010000 0 0110011000 0
+0 0 0100001000 0 0 0 0 0 0 0110001000 0 0 0 0 0 0 0111000010 0 0 0 0 0 0110010000 0 0 0110001000 0
+0 0 0 0 0 0 0 0 0 0 0 0100001000 0 0 0 0 0010000010 0100001000 0 0 0 0 0 0100010000 0 0 0100010000
+0 0 0100001000 0 0 0 0 0 0 0110001000 0 0 0110010000 0 0 0100011000 0111000001 0 0100001000 0 0 0100001000 0 0 0 0111011001 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100001000 0011000000 0 0 0 0 0 0 0 0 0110001000 0
+0 0100001000 0 0 0 0 0 0100001000 0 0 0 0 0 0100001000 0 0 0 0 0 0 0 0 0 0 0 0100001000 0
+0 0 0 0 0 0 0 0 0 0110001000 0 0100001000 0 0 0 0 0010000010 0100001000 0 0100001000 0 0 0 0 0 0110001000 0
+0 0 1110010000 0 0 0 1110010000 0 0 0 0 0 0 0 0 0 0000000010 0 1110010000 1110010000 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1110000001 0 0 0 0 0
+0100001000 0 0 0 0 0 0 0 0 0 0 0100001000 0 0 0 0 0 0100001000 0 0 0 0 0 0 0 0100001000 0
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistEnumDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserMethodDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.typesolvers.ReflectionTypeSolver_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ContextHelper_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionMethodDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionEnumDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.MyObjectProvider_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.SymbolSolver_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassAdapter_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistInterfaceDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFacade_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistTypeDeclarationAdapter_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserTypeParameter_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.core.resolution.Context_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserEnumDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistMethodDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserClassDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserTypeVariableDeclaration_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionFactory_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistUtils_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.core.resolution.ContextHelper_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.ReferenceTypeImpl_java
+java-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistFactory_java

@@ -1,0 +1,14 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+6
+0 0 0 0 011000100 010110011
+010010011 0 0 0 0 110010011
+010000011 0 0 0 0 010000010
+010101011 0 0 0 0 100010011
+001000000 0 0 0 0 011100011
+010010011 010001001 010010000 010001000 011000100 0
+javaparser-core.src.main.java.com.github.javaparser.ast.NodeList_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.DumpVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.EqualsVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.HasParentNode_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

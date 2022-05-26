@@ -1,0 +1,24 @@
+[Cast,Call,Typed,Import,Extend,Use]
+11
+0 0 0 0 0 0 0 001101 0 010100 010101
+0 0 010101 0 011001 010101 010101 001101 010001 010001 010001
+0 0 0 0 0 0 0 011100 0 0 0
+111101 010100 0 0 010000 0 0 011001 010001 0 010001
+0 010101 0 0 0 0 0 001101 000001 0 011001
+0 0 0 0 0 0 0 011100 0 0 0
+0 0 0 0 0 0 0 011100 0 0 0
+0 0 0 0 0 0 0 0 0 0 000101
+0 010100 0 010101 011000 0 0 011100 0 0 0
+001100 000001 0 010100 0 0 0 011101 0 0 010101
+001100 0 0 010000 011101 0 0 001001 010001 010101 0
+src.java.org.apache.cassandra.cql3.functions.UDFunction_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.tracing.TraceKeyspace_java
+src.java.org.apache.cassandra.schema.LegacySchemaTables_java
+src.java.org.apache.cassandra.db.Keyspace_java
+src.java.org.apache.cassandra.repair.SystemDistributedKeyspace_java
+src.java.org.apache.cassandra.auth.AuthKeyspace_java
+src.java.org.apache.cassandra.config.KSMetaData_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.config.Schema_java

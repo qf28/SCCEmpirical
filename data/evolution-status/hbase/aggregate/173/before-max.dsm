@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create]
+2
+0 1100
+0111 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java

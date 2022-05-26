@@ -1,0 +1,10 @@
+[Call,Typed,Import,Create,Implement]
+4
+0 0 11100 11110
+10100 0 10000 0
+0 00100 0 0
+11100 0 00001 0
+wicket.src.main.java.org.apache.wicket.Application_java
+wicket.src.main.java.org.apache.wicket.markup.html.JavascriptPackageResource_java
+wicket.src.main.java.org.apache.wicket.settings.IResourceSettings_java
+wicket.src.main.java.org.apache.wicket.settings.Settings_java

@@ -1,0 +1,46 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+22
+0 000000010 0 0 0 000000010 0 0 0 000000010 0 000000010 0 011000010 0 0 0 000000010 0 0 0 0
+010001100 0 0 0 0 0 0 0 010001100 000100100 0 0 0 010000010 0 0 0 0 0 0 001100000 0
+0 0 0 0 0 0 0 011000100 0 0 010000100 0 011000000 001000000 0 0 0 0 0 0 011100100 0
+0 0 001100100 0 0 0 0 001001000 0 0 0 0 0 0 0 0 0 0 0 0 001100000 0
+0 0 0 0 0 0 0 0 0 000000100 010000000 000000010 0 0 0 0 0 0 0 0 0 0
+010001100 0 0 0 0 0 0 0 010001100 000100100 0 0 0 010000010 0 0 0 000000010 0 0 001100000 0
+0 0 0 0 0 0 0 011001100 0 0 0 0 011000000 0 0 010000010 010000010 0 0 0 100100000 0
+0 0 001100000 0 0 0 0 0 0 0 0 0 0 010100010 0 0 0 0 0 0 0 0
+0 010000010 0 0 110000000 010000010 0 0 0 000000010 0 010000010 0 0 0 0 0 010000010 0 0 001100000 0
+010001100 0 0 0 0 0 0 0 010001100 0 0 0 0 0 0 0 0 0 0 0 001100000 0
+0 0 0 0 0 0 0 0 0 000000100 0 0 0 011000110 0 0 0 0 0 0 001100100 0
+010001100 0 0 0 111000000 0 0 0 010001100 000100100 0 0 0 010000010 0 0 0 0 0 0 001100000 0
+0 0 0 010000000 0 0 0 011100100 0 0 0 0 0 0 0 0 0 0 0 0 001100100 011000100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000100000 000100000
+0 0 001000000 0 0 0 0 001001000 0 0 0 0 0 000100000 0 0 0 0 0 0 100100000 0
+0 0 001100000 0 0 0 010001100 011000100 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 001100000 0 0 0 010001100 011000100 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+010001100 0 0 0 0 0 0 0 010001100 000100100 0 0 0 010000010 0 0 0 0 0 0 001100000 0
+0 0 001100000 0 011100000 0 0 011001000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 001100100 0 0 0 0 001001000 0 0 0 0 0 0 0 0 0 0 0 0 001100000 0
+0 0 0 010100000 110000000 0 0 001100000 0 0 0 0 0 011000100 0 0 0 0 0 0 0 010101001
+0 0 0 0 111000100 0 010000000 011000000 0 000000100 0 0 011000000 011000010 010000000 0 0 0 010000000 010000000 011100100 0
+src.java.org.apache.cassandra.cql3.AbstractMarker_java
+src.java.org.apache.cassandra.cql3.Lists_java
+src.java.org.apache.cassandra.cql3.selection.Selection_java
+src.java.org.apache.cassandra.cql3.selection.SimpleSelector_java
+src.java.org.apache.cassandra.db.marshal.UserType_java
+src.java.org.apache.cassandra.cql3.Sets_java
+src.java.org.apache.cassandra.cql3.selection.AbstractFunctionSelector_java
+src.java.org.apache.cassandra.cql3.selection.Selector_java
+src.java.org.apache.cassandra.cql3.Operation_java
+src.java.org.apache.cassandra.cql3.Constants_java
+src.java.org.apache.cassandra.cql3.Json_java
+src.java.org.apache.cassandra.cql3.UserTypes_java
+src.java.org.apache.cassandra.cql3.selection.SelectorFactories_java
+src.java.org.apache.cassandra.cql3.ColumnIdentifier_java
+src.java.org.apache.cassandra.cql3.selection.TermSelector_java
+src.java.org.apache.cassandra.cql3.selection.ScalarFunctionSelector_java
+src.java.org.apache.cassandra.cql3.selection.AggregateFunctionSelector_java
+src.java.org.apache.cassandra.cql3.Maps_java
+src.java.org.apache.cassandra.cql3.selection.FieldSelector_java
+src.java.org.apache.cassandra.cql3.selection.WritetimeOrTTLSelector_java
+src.java.org.apache.cassandra.config.ColumnDefinition_java
+src.java.org.apache.cassandra.cql3.selection.Selectable_java

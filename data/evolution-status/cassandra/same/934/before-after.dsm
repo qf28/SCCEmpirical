@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 10100000
+01100100 0 0
+01100100 10000010 0
+src.java.org.apache.cassandra.db.Directories_java
+src.java.org.apache.cassandra.db.lifecycle.LogAwareFileLister_java
+src.java.org.apache.cassandra.db.lifecycle.LifecycleTransaction_java

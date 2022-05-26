@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+4
+0 00100000000 0 0
+0 0 01000000100 01100100000
+0 01000010000 0 0
+01000010000 0 0 0
+src.main.java.org.eclipse.persistence.json.bind.internal.cdi.BeanManagerInstanceCreator_java
+src.main.java.org.eclipse.persistence.json.bind.internal.JsonBinding_java
+src.main.java.org.eclipse.persistence.json.bind.internal.JsonBindingBuilder_java
+src.main.java.org.eclipse.persistence.json.bind.internal.cdi.JsonbComponentInstanceCreatorFactory_java

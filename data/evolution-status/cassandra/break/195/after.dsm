@@ -1,0 +1,16 @@
+[Call,Typed,Create,Use]
+7
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+1010 1010 1010 1010 1010 0 1111
+0 0 0 0 0 0101 0
+contrib.stress.src.org.apache.cassandra.contrib.stress.operations.MultiGetter_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.operations.IndexedRangeSlicer_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.operations.Reader_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.operations.RangeSlicer_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.operations.Inserter_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.Stress_java
+contrib.stress.src.org.apache.cassandra.contrib.stress.Session_java

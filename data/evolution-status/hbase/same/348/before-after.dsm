@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+8
+0 0 0 11000000 0 0 0 01100000
+0 0 0 0 0 01100010 0 0
+0 0 0 11110100 01000010 0 0 01100100
+0 0 0 0 0 0 0 10000100
+0 0 01100100 0 0 0 0 01100000
+0 0 0 01010000 0 0 0 0
+0 11010100 01110000 0 0 0 0 01011100
+01100110 0 01100110 11100100 0 0 11010100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StorefileRefresherChore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.BaseLoadBalancer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.AnnotationReadingPriorityFunction_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.RegionLocationFinder_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

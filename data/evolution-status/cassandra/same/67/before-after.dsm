@@ -1,0 +1,6 @@
+[Call,Typed,Set,Import,Use,Create]
+2
+0 010011
+100000 0
+src.java.org.apache.cassandra.io.sstable.RowIndexedReader_java
+src.java.org.apache.cassandra.io.sstable.IndexSummary_java

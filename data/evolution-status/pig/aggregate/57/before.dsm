@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 01110010 0 0
+01000000 0 0 01110000 0 0
+src.org.apache.pig.PigServer_java
+src.org.apache.pig.tools.pigstats.PigStats_java
+src.org.apache.pig.tools.pigstats.PigStatsUtil_java
+src.org.apache.pig.tools.pigstats.ScriptState_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler_java
+src.org.apache.pig.Main_java

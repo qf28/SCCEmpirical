@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create,Use,Throw]
+2
+0 010100
+010010 0
+src.java.org.apache.cassandra.db.CommitLog_java
+src.java.org.apache.cassandra.db.CommitLogExecutorService_java

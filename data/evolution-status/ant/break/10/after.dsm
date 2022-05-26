@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 0
+01100000 0
+src.main.org.apache.tools.ant.taskdefs.Antlib_java
+src.main.org.apache.tools.ant.taskdefs.Definer_java

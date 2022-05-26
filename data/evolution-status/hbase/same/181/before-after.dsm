@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 011010
+111000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.compactions.StripeCompactionPolicy_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StripeStoreFlusher_java

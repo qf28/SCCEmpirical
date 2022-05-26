@@ -1,0 +1,8 @@
+[Import,Return,Use,Parameter,Contain]
+3
+0 0 01101
+01110 0 0
+01110 01110 0
+src.main.java.com.stripe.model.Customer_java
+src.main.java.com.stripe.model.PromotionCode_java
+src.main.java.com.stripe.model.Discount_java

@@ -1,0 +1,26 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+12
+0 000001000 0 0 001000000 0 0 000100000 0 0 0 0
+0 0 001000000 000001000 0 0 001000000 0 0 0 0 0
+0 0 0 001000000 001000000 0 0 0 0 000100100 0 001000000
+0 0 001000000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 001000000 0 0 0 0 0 001000000
+0 0 0 0 0 0 0 001100000 0 0 0 0
+0 001000000 0 000001000 0 0 0 0 0 0 0 0
+001100000 0 001100000 0 0 001100000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 001000000 011000010 0
+0 0 000100000 001100000 0 0 0 0 001100000 0 0 0
+0 0 0 0 0 0 0 0 010000000 011000100 0 0
+0 0 001000000 0 001000000 0 0 0 0 0 0 0
+java.engine.org.apache.derby.iapi.store.raw.LogicalUndoable_java
+java.engine.org.apache.derby.iapi.store.raw.Undoable_java
+java.engine.org.apache.derby.iapi.store.raw.Transaction_java
+java.engine.org.apache.derby.iapi.store.raw.Loggable_java
+java.engine.org.apache.derby.iapi.store.raw.ContainerHandle_java
+java.engine.org.apache.derby.iapi.store.raw.Page_java
+java.engine.org.apache.derby.iapi.store.raw.Compensation_java
+java.engine.org.apache.derby.iapi.store.access.conglomerate.LogicalUndo_java
+java.engine.org.apache.derby.iapi.store.access.BackingStoreHashtable_java
+java.engine.org.apache.derby.iapi.store.access.TransactionController_java
+java.engine.org.apache.derby.iapi.store.access.DiskHashtable_java
+java.engine.org.apache.derby.iapi.store.raw.LockingPolicy_java

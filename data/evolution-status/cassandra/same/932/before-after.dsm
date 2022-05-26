@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+5
+0 0 0 010001100 100000100
+0 0 0 010001100 100000100
+0 000000010 0 010001100 100000100
+010000010 010000010 010000010 0 000000010
+0 0 0 010001100 0
+src.java.org.apache.cassandra.cql3.Lists_java
+src.java.org.apache.cassandra.cql3.Maps_java
+src.java.org.apache.cassandra.cql3.Sets_java
+src.java.org.apache.cassandra.cql3.Operation_java
+src.java.org.apache.cassandra.cql3.Constants_java

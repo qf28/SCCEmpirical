@@ -1,0 +1,6 @@
+[Call,Typed,Import]
+2
+0 110
+110 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.WebApplication_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.protocol.http.WicketFilter_java

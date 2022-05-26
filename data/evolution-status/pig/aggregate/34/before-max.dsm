@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 001000000
+110000100 0
+src.org.apache.pig.experimental.logical.expression.LogicalExpressionVisitor_java
+src.org.apache.pig.experimental.logical.expression.ProjectExpression_java

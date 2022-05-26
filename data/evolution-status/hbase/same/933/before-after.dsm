@@ -1,0 +1,24 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+11
+0 0 0 0 0 0 0 0100101 0 0 0
+0 0 0 0 0 0 0 0100101 0 0 0
+0 0 0 0 0 0 0 0100101 0 0 0
+0 0 0 0 0 0 0110000 0 0 0 0
+0 0 0 0 0 0 0 0100101 0 0 0
+0101010 0101010 0101010 0 0101010 0 0101101 0111000 0 0 0101010
+0 0 0 0110010 0 1101001 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0100011 0
+0 0 0 0 0 0 0111000 0 0 0 0
+0 0 0 0 0 0 0 0 0001000 0 0
+0 0 0 0 0 0 0 0100101 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.replication.EnablePeerProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.replication.RemovePeerProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.replication.UpdatePeerConfigProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RemoteProcedureResultReporter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.replication.DisablePeerProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.replication.ModifyPeerProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.replication.regionserver.RefreshPeerCallable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.replication.RefreshPeerProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.replication.AddPeerProcedure_java

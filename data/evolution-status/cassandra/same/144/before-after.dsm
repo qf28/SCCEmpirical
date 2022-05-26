@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use]
+2
+0 00001
+11011 0
+src.java.org.apache.cassandra.locator.AbstractReplicationStrategy_java
+src.java.org.apache.cassandra.locator.NetworkTopologyStrategy_java

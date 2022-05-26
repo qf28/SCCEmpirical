@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Use]
+4
+0 1110 1001 1101
+0 0 0110 0
+1001 1110 0 0
+0 1110 1001 0
+java.engine.org.apache.derby.impl.sql.compile.ProjectRestrictNode_java
+java.engine.org.apache.derby.impl.sql.compile.PredicateList_java
+java.engine.org.apache.derby.impl.sql.compile.SelectNode_java
+java.engine.org.apache.derby.impl.sql.compile.UnionNode_java

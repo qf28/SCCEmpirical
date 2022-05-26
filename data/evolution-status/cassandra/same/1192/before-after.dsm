@@ -1,0 +1,6 @@
+[Call,Typed,Extend,Use]
+2
+0 1111
+1000 0
+src.java.org.apache.cassandra.db.marshal.ReversedType_java
+src.java.org.apache.cassandra.db.marshal.AbstractType_java

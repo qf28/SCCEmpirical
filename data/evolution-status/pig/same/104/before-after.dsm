@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0100001
+0100100 0
+src.org.apache.pig.data.BagFactory_java
+src.org.apache.pig.data.DefaultBagFactory_java

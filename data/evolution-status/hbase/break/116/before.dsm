@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 010000000
+111000000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.BufferedMutatorImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HTable_java

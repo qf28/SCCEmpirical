@@ -1,0 +1,12 @@
+[Cast,Call,Import,Extend,Use,Create,Implement]
+5
+0 0110100 0 0 0
+0010000 0 0010000 0010000 0010000
+0 0110100 0 0 0100010
+0 0110100 0100010 0 0
+0 0110100 0100010 0 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.MethodResolutionLogic_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistClassDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistEnumDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javassistmodel.JavassistInterfaceDeclaration_java

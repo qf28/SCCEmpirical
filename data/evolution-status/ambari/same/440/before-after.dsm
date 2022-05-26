@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1110
+1111 0
+ambari-server.src.main.java.org.apache.ambari.server.stack.MasterHostResolver_java
+ambari-server.src.main.java.org.apache.ambari.server.state.UpgradeContext_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Use,Create]
+4
+0 0 11110 0
+00100 0 01100 01100
+11111 00100 0 01100
+10110 0 0 0
+wicket.src.java.wicket.protocol.http.WebSession_java
+wicket.src.java.wicket.protocol.http.WicketServlet_java
+wicket.src.java.wicket.protocol.http.WebApplication_java
+wicket.src.java.wicket.protocol.http.RequestLogger_java

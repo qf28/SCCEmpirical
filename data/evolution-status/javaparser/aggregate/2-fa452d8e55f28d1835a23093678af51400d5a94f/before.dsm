@@ -1,0 +1,12 @@
+[Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+5
+0 100101000 100001000 0 0
+0 0 100001000 0 0
+100010000 0 0 100010000 100010000
+0 100101000 100001000 0 0
+0 100101000 100001000 0 0
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.MethodContext_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.AbstractJavaParserContext_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.JavaParserFactory_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.StatementContext_java
+src.main.java.me.tomassetti.symbolsolver.model.javaparser.ClassOrInterfaceDeclarationContext_java

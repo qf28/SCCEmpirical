@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain,Annotation]
+2
+0 01000110000
+01000000100 0
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.DeserializerBuilder_java
+src.main.java.org.eclipse.persistence.json.bind.internal.unmarshaller.ObjectDeserializer_java

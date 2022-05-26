@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create]
+3
+0 111110 0
+010000 0 010000
+010000 0 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.PrivateCellUtil_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.KeyValue_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.RawCell_java

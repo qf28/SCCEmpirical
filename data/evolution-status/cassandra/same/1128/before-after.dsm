@@ -1,0 +1,26 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+12
+0 0100000 0 1100010 0 0 0110010 0101010 0111000 0110010 0100010 0
+0110010 0 0100000 0 0 0 0110010 0101000 0 0 0 0
+0110010 0100010 0 0 0101010 0 0110010 0101010 0 0 0101010 0
+0111010 0 0 0 0 0 0 0 0 0100110 0 0
+0110000 0100010 0100010 0 0 0 0110010 0100010 0 0 0 0
+0010000 0100000 0 0 0 0 0 0 0 0110000 0111000 0
+0110010 0 0 0 0 0 0 0101010 0001010 0 0 0
+0110010 0100010 0 0 0110010 0 0111010 0 0111010 0 0 0000001
+0111010 0101000 0 0 0 0 0100000 0101000 0 0 0101010 0
+0111000 0 0 0 0 0 0 0 0 0 0 0
+0110010 0 0 0 0 0110001 0111010 0101010 0 0110000 0 0
+0110000 0 0 0 0 0 0100000 0 0 0 0 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.SystemTable_java
+src.java.org.apache.cassandra.db.DefsTable_java
+src.java.org.apache.cassandra.db.compaction.LeveledCompactionStrategy_java
+src.java.org.apache.cassandra.service.MigrationManager_java
+src.java.org.apache.cassandra.db.compaction.CompactionTask_java
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.index.SecondaryIndex_java
+src.java.org.apache.cassandra.db.compaction.AbstractCompactionStrategy_java
+src.java.org.apache.cassandra.db.compaction.CompactionManager_java
+src.java.org.apache.cassandra.db.TruncateVerbHandler_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 0
+010000 0
+src.org.apache.pig.parser.QueryParserUtils_java
+src.org.apache.pig.parser.LogicalPlanBuilder_java

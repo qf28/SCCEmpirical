@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Use,Create]
+4
+0 110010 111110 100000
+0 0 110000 100000
+110010 0 0 100010
+110010 011010 111010 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.io.sstable.SSTableReader_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.SystemKeyspace_java

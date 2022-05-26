@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Create,Use]
+3
+0 111001 0
+0 0 111000
+011000 100000 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler_java
+src.org.apache.pig.tools.pigstats.ScriptState_java
+src.org.apache.pig.tools.pigstats.PigStats_java

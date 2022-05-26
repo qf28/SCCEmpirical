@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Extend,Throw,Create,Use,Implement]
+9
+0 0 0 0 0 0 001000000 0 0
+000100001 0 0 0 0 0 011100100 0 011100000
+011000000 010100100 0 0 0 0 011000100 0 0
+0 0 0 0 001000000 001000000 001000000 001000000 0
+0 0 000000010 011000000 0 0 0 0 010010010
+0 0 000000010 011000000 0 0 0 0 010010010
+0 0 000000010 011000000 0 0 0 0 111000000
+0 0 000000010 011000000 0 0 0 0 010010010
+0 0 000000010 001000000 0 0 0 0 0
+wicket.src.java.wicket.util.diff.DiffAlgorithm_java
+wicket.src.java.wicket.util.diff.myers.MyersDiff_java
+wicket.src.java.wicket.util.diff.Diff_java
+wicket.src.java.wicket.util.diff.RevisionVisitor_java
+wicket.src.java.wicket.util.diff.DeleteDelta_java
+wicket.src.java.wicket.util.diff.AddDelta_java
+wicket.src.java.wicket.util.diff.Revision_java
+wicket.src.java.wicket.util.diff.ChangeDelta_java
+wicket.src.java.wicket.util.diff.Delta_java

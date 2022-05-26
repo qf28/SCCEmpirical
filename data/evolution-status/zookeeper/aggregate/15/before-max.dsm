@@ -1,0 +1,14 @@
+[Call,Typed,Import,Set,Extend,Use,Throw,Create,Implement]
+6
+0 0 100000010 110000010 100000010 100000010
+110101000 0 0 010000000 0 0
+110101000 0 0 010000000 0 0
+111000000 0 0 0 0 0
+110001000 100111000 0 0 0 0
+010001000 100111000 0 0 0 0
+src.java.main.org.apache.zookeeper.server.quorum.QuorumPeer_java
+src.java.main.org.apache.zookeeper.server.quorum.LearnerZooKeeperServer_java
+src.java.main.org.apache.zookeeper.server.quorum.LeaderZooKeeperServer_java
+src.java.main.org.apache.zookeeper.server.quorum.LocalPeerBean_java
+src.java.main.org.apache.zookeeper.server.quorum.FollowerZooKeeperServer_java
+src.java.main.org.apache.zookeeper.server.quorum.ObserverZooKeeperServer_java

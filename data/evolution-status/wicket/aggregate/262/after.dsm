@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Implement]
+2
+0 0001000
+0001001 0
+wicket-core.src.main.java.org.apache.wicket.IComponentAwareEventSink_java
+wicket-core.src.main.java.org.apache.wicket.behavior.Behavior_java

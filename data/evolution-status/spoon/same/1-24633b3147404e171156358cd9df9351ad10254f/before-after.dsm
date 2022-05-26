@@ -1,0 +1,6 @@
+[Call,Import,Use,Implement,Contain]
+2
+0 00100
+10101 0
+src.main.java.spoon.template.TemplateBuilder_java
+src.main.java.spoon.template.Substitution_java

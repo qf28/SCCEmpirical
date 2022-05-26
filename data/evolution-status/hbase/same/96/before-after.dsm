@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+2
+0 01100000
+11100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.TransitRegionStateProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.assignment.RegionRemoteProcedureBase_java

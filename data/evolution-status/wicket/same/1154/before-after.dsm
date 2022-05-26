@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+8
+0 001100000 0 0 0 0 0 0
+0 0 011000100 110100100 0 000000100 011000100 0
+0 111011111 0 0 0 0 010000000 010001100
+0 001100000 0 0 0 0 0 0
+0 001100000 0 0 0 0 0 0
+0 001000000 0 110100100 000101000 0 0 0
+011100011 001000000 0 0 0 0 0 0
+0 011010100 111000100 0 0 0 0 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.application.IComponentInstantiationListener_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Component_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.MarkupContainer_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.model.IComponentAssignedModel_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.behavior.AbstractBehavior_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.AttributeModifier_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Application_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.ComponentSourceEntry_java

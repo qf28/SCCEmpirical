@@ -1,0 +1,14 @@
+[Call,Typed,Import,Use,Create]
+6
+0 11010 0 10100 0 00110
+11010 0 0 10100 0 11100
+10110 0 0 0 0 0
+11110 0 11000 0 10001 11011
+0 0 0 10010 0 0
+11100 0 11001 0 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.commitlog.CommitLogHeader_java
+src.java.org.apache.cassandra.db.commitlog.CommitLog_java
+src.java.org.apache.cassandra.db.commitlog.CommitLogExecutorService_java
+src.java.org.apache.cassandra.db.commitlog.CommitLogSegment_java

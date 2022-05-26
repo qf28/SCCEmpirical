@@ -1,0 +1,6 @@
+[Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+2
+0 001000000
+001000000 0
+google-http-client.src.main.java.com.google.api.client.util.store.DataStoreFactory_java
+google-http-client.src.main.java.com.google.api.client.util.store.DataStore_java

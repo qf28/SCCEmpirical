@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+4
+0 000100100 0 0
+000101100 0 001100000 011000000
+000000100 000100100 0 010100000
+010000100 000000100 000100100 0
+src.org.apache.pig.tools.pigstats.PigStatsUtil_java
+src.org.apache.pig.tools.pigstats.mapreduce.MRPigStatsUtil_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.JobControlCompiler_java
+src.org.apache.pig.tools.pigstats.mapreduce.MRJobStats_java

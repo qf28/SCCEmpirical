@@ -1,0 +1,8 @@
+[Call,Import,Use]
+3
+0 0 111
+101 0 101
+110 110 0
+src.java.org.apache.cassandra.cql3.functions.Functions_java
+src.java.org.apache.cassandra.schema.LegacySchemaTables_java
+src.java.org.apache.cassandra.config.Schema_java

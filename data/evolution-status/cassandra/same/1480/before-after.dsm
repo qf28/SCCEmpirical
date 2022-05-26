@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 1001100 0
+0 0 1010000
+1010010 1110000 0
+src.java.org.apache.cassandra.db.compaction.writers.DefaultCompactionWriter_java
+src.java.org.apache.cassandra.db.compaction.writers.CompactionAwareWriter_java
+src.java.org.apache.cassandra.db.compaction.CompactionTask_java

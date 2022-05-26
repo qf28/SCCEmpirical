@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 11000 10010
+11000 0 0
+10000 11011 0
+controller.src.main.java.org.apache.ambari.controller.Blueprints_java
+controller.src.main.java.org.apache.ambari.controller.Cluster_java
+controller.src.main.java.org.apache.ambari.controller.Clusters_java

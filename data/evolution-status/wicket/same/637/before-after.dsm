@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use]
+3
+0 111000 011100
+001000 0 011111
+0 011100 0
+wicket-core.src.main.java.org.apache.wicket.RequestListenerInterface_java
+wicket-core.src.main.java.org.apache.wicket.Component_java
+wicket-core.src.main.java.org.apache.wicket.behavior.Behavior_java

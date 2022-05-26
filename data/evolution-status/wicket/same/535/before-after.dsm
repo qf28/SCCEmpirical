@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Implement]
+5
+0 0100100 0111000 0 0
+0 0 0111000 0 0
+0101010 0 0 0111100 0101010
+0 0 0111000 0 0
+0 0100100 0111000 0 0
+wicket-extensions.src.java.wicket.extensions.markup.html.form.palette.component.Selection_java
+wicket-extensions.src.java.wicket.extensions.markup.html.form.palette.component.AbstractOptions_java
+wicket-extensions.src.java.wicket.extensions.markup.html.form.palette.Palette_java
+wicket-extensions.src.java.wicket.extensions.markup.html.form.palette.component.Recorder_java
+wicket-extensions.src.java.wicket.extensions.markup.html.form.palette.component.Choices_java

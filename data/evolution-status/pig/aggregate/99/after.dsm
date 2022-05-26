@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+3
+0 0 01110000
+01010010 0 01110000
+0 11010010 0
+src.org.apache.pig.tools.pigstats.PigStatsUtil_java
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.MapReducePOStoreImpl_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.relationalOperators.POStore_java

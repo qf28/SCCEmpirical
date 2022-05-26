@@ -1,0 +1,6 @@
+[Call,Typed,Use]
+2
+0 111
+110 0
+hbase-protocol-shaded.src.main.java.org.apache.hadoop.hbase.shaded.com.google.protobuf.CodedInputStream_java
+hbase-protocol-shaded.src.main.java.org.apache.hadoop.hbase.shaded.com.google.protobuf.ByteString_java

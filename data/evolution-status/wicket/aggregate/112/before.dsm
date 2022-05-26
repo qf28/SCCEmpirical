@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+3
+0 0 0
+0 0 0
+0001000000 0 0
+wicket.src.main.java.wicket.settings.IMarkupSettings_java
+wicket.src.main.java.wicket.markup.html.WebMarkupContainerWithAssociatedMarkup_java
+wicket.src.main.java.wicket.markup.MarkupParser_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+4
+0 0100000 0 0100100
+0 0 0110000 0
+0 0110000 0 0100000
+0100000 0110110 0110000 0
+controller.src.main.java.org.apache.ambari.controller.Nodes_java
+controller.src.main.java.org.apache.ambari.controller.Cluster_java
+controller.src.main.java.org.apache.ambari.controller.Stacks_java
+controller.src.main.java.org.apache.ambari.controller.Clusters_java

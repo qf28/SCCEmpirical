@@ -1,0 +1,24 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+11
+0 0 0 0 0 0 0 0 0 0 0
+001000000 0 0 0 0 0 0 0 0 0 0
+111000101 0 0 0 110100100 010000100 0 0 0 010000000 0
+001000001 0 010000000 0 011000110 010000000 0 0 0 010000000 0
+001000001 0 010000000 0 0 010000000 0 0 0 010000000 0
+0 0 010000000 0 0 0 0 0 0 0 0
+001000000 0 0 010000010 0 0 0 0 000001100 0 0
+001000000 0 0 0 011000010 0 0 0 000001100 0 0
+001000000 001000001 0 0 011000100 0 0 0 0 0 0
+0 010000000 010000010 0 011100100 010000000 0 0 0 0 010000000
+0 001000000 0 0 0 0 000000010 000000010 0 0 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.ExtendedCell_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.ExtendedCellBuilder_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.PrivateCellUtil_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.IndividualBytesFieldCell_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.KeyValue_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.TagUtil_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.IndividualBytesFieldCellBuilder_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.KeyValueBuilder_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.ExtendedCellBuilderImpl_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.CellUtil_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.ExtendedCellBuilderFactory_java

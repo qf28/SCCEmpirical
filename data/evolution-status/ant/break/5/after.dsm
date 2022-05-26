@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 0
+00000010 0
+src.main.org.apache.tools.ant.taskdefs.optional.junit.JUnitTask_java
+src.main.org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner_java

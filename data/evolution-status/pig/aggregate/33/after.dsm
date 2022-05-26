@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+2
+0 0110010
+0100100 0
+src.org.apache.pig.impl.logicalLayer.RelationalOperator_java
+src.org.apache.pig.impl.logicalLayer.LOForEach_java

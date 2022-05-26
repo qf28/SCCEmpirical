@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+6
+0 0 0 010000100 0 0
+001000000 0 0 0 0 0
+001000000 0 0 0 0 0
+001000000 010000100 010000100 0 010000100 010000100
+001000000 0 0 0 0 0
+001000000 0 0 0 0 0
+wicket-extensions.src.java.wicket.extensions.wizard.Wizard_java
+wicket-extensions.src.java.wicket.extensions.wizard.FinishButton_java
+wicket-extensions.src.java.wicket.extensions.wizard.PreviousButton_java
+wicket-extensions.src.java.wicket.extensions.wizard.WizardButtonBar_java
+wicket-extensions.src.java.wicket.extensions.wizard.NextButton_java
+wicket-extensions.src.java.wicket.extensions.wizard.LastButton_java

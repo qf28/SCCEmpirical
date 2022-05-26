@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+9
+0 011100000 0 0 0 0 010000010 0 0
+010100010 0 011000000 010100100 0 0 0 0 0
+0 001000000 0 001000000 0 0 0 0 0
+0 0 011000000 0 0 0 0 0 0
+0 0 0 0 0 0 0 011000100 0
+0 011000010 001000001 011000010 0 0 0 010111100 100100100
+0 0 0 0 000100000 0 0 0 0
+0 0 0 0 0 110100100 0 0 0
+0 011100000 011100000 011100000 0 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.SplitWALProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.SplitWALManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterWalManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SplitWALCallable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.SplitWALRemoteProcedure_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.procedure.ServerCrashProcedure_java

@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Use,Create]
+3
+0 01000 0
+01000 0 0
+11001 11000 0
+src.main.org.apache.tools.ant.Target_java
+src.main.org.apache.tools.ant.Task_java
+src.main.org.apache.tools.ant.ProjectHelper_java

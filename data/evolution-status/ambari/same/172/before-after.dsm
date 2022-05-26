@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 11110
+11111 0
+ambari-server.src.main.java.org.apache.ambari.server.configuration.Configuration_java
+ambari-server.src.main.java.org.apache.ambari.server.security.encryption.CredentialProvider_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+3
+0 0 011100000
+000100100 0 0
+000100100 011100000 0
+ambari-server.src.main.java.org.apache.ambari.server.agent.stomp.TopologyHolder_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.STOMPComponentsDeleteHandler_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariManagementControllerImpl_java

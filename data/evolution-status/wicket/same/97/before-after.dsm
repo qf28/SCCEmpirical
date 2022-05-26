@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend]
+2
+0 1001
+0100 0
+wicket.src.main.java.org.apache.wicket.util.tester.WicketTester_java
+wicket.src.main.java.org.apache.wicket.util.tester.BaseWicketTester_java

@@ -1,0 +1,62 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+30
+0 0 0101000000 0 0 0 0 0 0000001000 0110011100 0 0101000100 0 0 0 0 0 0010000000 0010001000 0 0 0011001010 0 0 0 0011000000 0 0 0 0
+0 0 0110011000 0 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0001001000 0011001000 0100001010 0 0 0 0 0 0 0 0 0 0
+0 0100000100 0 0 0100000100 0 0100000100 0100000100 0 0 0 0 0 0100000100 0 0 0100000100 0011001000 0011001000 0111011000 0100000100 0 0 0 0 0 0100000100 0 0 0
+0 0 0100010000 0 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0011000000 0011001000 0101001010 0 0 0 0 0 0 0 0 0 0
+0 0 0100001000 0110010100 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0001001000 0011001000 0000001000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0100000100 0 0 0 0 0 0 0 0011001000 0 0000001010 0 0 0 0010000000 0 0 0 0100000100
+0 0 0100011000 0 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0001001000 0011001000 0100001010 0 0 0 0 0 0 0 0 0 0
+0 0 0100011000 0 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0001001000 0011001000 0100001010 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0010001000 0 0 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0 0 0 0 0
+0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0 0110001000 0010000000 0 0 0011000000 0 0 0 0 0 0 0100000000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0100111000 0 0 0 0 0 0011000000 0100001000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011001000 0 0 0 0 0 0000000010 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0101010010 0 0 0 0 0 0 0 0 0 0
+0 0 0110011000 0 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0001001000 0011001000 0100001010 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0110001000 0 0 0 0 0 0 0 0 0 0 0 0
+0100011000 0 0101000000 0 0 0001010000 0 0 0 0010000100 0 0 0 0 0 0 0 0110001000 0010000000 0011000000 0 0011000000 0 0 0 0 0 0 0 0
+0 0 0100001000 0110010100 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0001001000 0011001000 0000001000 0 0 0 0 0 0 0 0 0 0
+0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0100000000 0 0 0 0 0 0 0 0 0 0 0 0 0100000000 0
+0 0 0 0 0 0 0 0 0110000000 0110001000 0 0 0 0 0100000000 0 0 0000001000 0 0 0 0 0 0110001000 0 0 0 0111000100 0 0
+0 0 0 0 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0 0010001000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0100001000 0110010100 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0001001000 0011001000 0000001000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0
+0 0 0 0 0 0 0 0 0 0000001000 0111000100 0 0 0 0 0 0 0 0111001000 0 0 0 0 0 0111000100 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0010000000 0 0 0 0 0 0 0 0 0110001000 0 0 0 0100001000 0 0 0 0 0 1000001000 0
+0 0 0 0 0 0 0 0 0 0000001000 0 0 0100111001 0 0 0 0 0 0011001000 0100001000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0 0 0 0 0 0 0 0
+0 0 0100001000 0110010100 0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0001001000 0011001000 0000001000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011000000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0001010000 0 0 0 0110010100 0 0 0 0 0 0 0 0000001000 0010000000 0011000000 0 0011000000 0111000000 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0011001000 0 0 0 0 0 0000000010 0 0 0 0
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsCommandPreDefined_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.ThriftReader_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.PredefinedOperation_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlOperation_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlCounterGetter_java
+tools.stress.src.org.apache.cassandra.stress.operations.SampledOpDistributionFactory_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.ThriftCounterGetter_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.ThriftCounterAdder_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsKey_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsCommand_java
+tools.stress.src.org.apache.cassandra.stress.operations.userdefined.SchemaQuery_java
+tools.stress.src.org.apache.cassandra.stress.operations.FixedOpDistribution_java
+tools.stress.src.org.apache.cassandra.stress.operations.userdefined.SchemaStatement_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.ThriftInserter_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsMisc_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsCommandPreDefinedMixed_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlReader_java
+tools.stress.src.org.apache.cassandra.stress.settings.Command_java
+tools.stress.src.org.apache.cassandra.stress.settings.StressSettings_java
+tools.stress.src.org.apache.cassandra.stress.Operation_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlCounterAdder_java
+tools.stress.src.org.apache.cassandra.stress.operations.OpDistributionFactory_java
+tools.stress.src.org.apache.cassandra.stress.StressProfile_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsSchema_java
+tools.stress.src.org.apache.cassandra.stress.operations.userdefined.SchemaInsert_java
+tools.stress.src.org.apache.cassandra.stress.operations.OpDistribution_java
+tools.stress.src.org.apache.cassandra.stress.operations.predefined.CqlInserter_java
+tools.stress.src.org.apache.cassandra.stress.util.SmartThriftClient_java
+tools.stress.src.org.apache.cassandra.stress.settings.SettingsCommandUser_java
+tools.stress.src.org.apache.cassandra.stress.operations.SampledOpDistribution_java

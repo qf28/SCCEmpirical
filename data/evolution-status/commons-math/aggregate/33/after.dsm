@@ -1,0 +1,6 @@
+[Call,Create,Use]
+2
+0 100
+111 0
+src.main.java.org.apache.commons.math3.util.Combinations_java
+src.main.java.org.apache.commons.math3.util.CombinatoricsUtils_java

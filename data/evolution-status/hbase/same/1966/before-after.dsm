@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1010
+1011 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.replication.ReplicationPeerZKImpl_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.replication.ReplicationAdmin_java

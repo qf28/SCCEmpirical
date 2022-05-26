@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 00001
+11000 0
+java.engine.org.apache.derby.iapi.types.SqlXmlUtil_java
+java.engine.org.apache.derby.iapi.types.XML_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 10000
+11100 0
+src.org.apache.pig.backend.hadoop.executionengine.tez.TezJob_java
+src.org.apache.pig.backend.hadoop.executionengine.tez.TezSessionManager_java

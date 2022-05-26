@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 0100011011
+1100010000 0
+src.main.java.japa.parser.ASTParser_java
+src.main.java.japa.parser.ASTParserTokenManager_java

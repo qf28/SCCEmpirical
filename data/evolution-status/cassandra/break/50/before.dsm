@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+2
+0 001000000
+110001000 0
+tools.stress.src.org.apache.cassandra.stress.generate.PartitionIterator_java
+tools.stress.src.org.apache.cassandra.stress.Operation_java

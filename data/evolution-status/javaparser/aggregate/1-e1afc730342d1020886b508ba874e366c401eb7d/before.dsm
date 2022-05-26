@@ -1,0 +1,8 @@
+[Cast,Call,Return,Import,Extend,Create,Use,Parameter,Contain]
+3
+0 0 0
+0 0 110001100
+010000100 010001100 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.AstResolutionUtils_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserTypeParameter_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserConstructorDeclaration_java

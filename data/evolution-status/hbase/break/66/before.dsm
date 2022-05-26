@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Throw,Implement,Modify]
+2
+0 01100000000
+01000010000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.ZkSplitLogWorkerCoordination_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.ZkCoordinatedStateManager_java

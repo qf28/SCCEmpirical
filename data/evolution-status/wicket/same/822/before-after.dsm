@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Create,Use]
+3
+0 01010 0
+0 0 01010
+01000 0 0
+wicket-experimental.wicket-atmosphere.src.main.java.org.apache.wicket.atmosphere.EventBus_java
+wicket-experimental.wicket-atmosphere.src.main.java.org.apache.wicket.atmosphere.AtmosphereRequestMapper_java
+wicket-experimental.wicket-atmosphere.src.main.java.org.apache.wicket.atmosphere.AtmosphereRequestHandler_java

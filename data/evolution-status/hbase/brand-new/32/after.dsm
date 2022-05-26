@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement,Modify]
+3
+0 0110000000 0110000100
+0010000000 0 0
+0110001100 0010000000 0
+hbase-prefix-tree.src.main.java.org.apache.hbase.codec.prefixtree.encode.tokenize.TokenizerNode_java
+hbase-prefix-tree.src.main.java.org.apache.hbase.codec.prefixtree.encode.tokenize.TokenizerRowSearchResult_java
+hbase-prefix-tree.src.main.java.org.apache.hbase.codec.prefixtree.encode.tokenize.Tokenizer_java

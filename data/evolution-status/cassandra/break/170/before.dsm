@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 11000100
+01000000 0 0
+11000000 11000100 0
+src.java.org.apache.cassandra.transport.FrameCompressor_java
+src.java.org.apache.cassandra.transport.Connection_java
+src.java.org.apache.cassandra.transport.Frame_java

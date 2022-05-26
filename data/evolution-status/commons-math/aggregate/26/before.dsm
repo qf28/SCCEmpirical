@@ -1,0 +1,8 @@
+[Call,Import,Extend,Create]
+3
+0 0 0
+1001 0 0
+0 1110 0
+src.main.java.org.apache.commons.math3.geometry.partitioning.RegionFactory_java
+src.main.java.org.apache.commons.math3.geometry.partitioning.AbstractRegion_java
+src.main.java.org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet_java

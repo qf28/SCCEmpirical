@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 0 0 0 011000010 011000000 0
+011100010 0 0 0 010000000 011000000 010000000
+0 0 0 0 000000100 0 0
+0 0 0 0 111000000 0 0
+011100010 010000010 011000110 011000010 0 111000001 011101000
+001000000 0 0 0 0 0 0
+0 011000010 0 0 0 001000000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.AsyncProcess_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HTable_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HConnectionKey_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.ZooKeeperKeepAliveConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HConnectionManager_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.HConnection_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.client.MetaScanner_java

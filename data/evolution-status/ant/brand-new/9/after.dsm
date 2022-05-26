@@ -1,0 +1,22 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+10
+0 0 0 0 0 0 0 0 0 001000000
+0 0 0 0 001000000 0 0 0 0 0
+0 0 0 101000000 010000000 0 010000000 011000000 011001000 0
+0 0 0 0 001000000 0 001000000 001000000 0 0
+0 011001000 0 0 0 0 011000100 111001000 0 0
+0 0 0 0 001000000 0 0 0 0 0
+111000000 111000000 111000000 011000000 111001000 011000000 0 111000000 0 011001100
+0 0 011001000 0 011000000 0 000000100 0 0 0
+0 0 011000000 0 010000000 0 0 010000000 0 0
+0 0 0 011000000 011000000 0 001000000 011000000 0 0
+proposal.antfarm.core.org.apache.tools.ant.BuildListener_java
+proposal.antfarm.core.org.apache.tools.ant.Import_java
+proposal.antfarm.core.org.apache.tools.ant.TaskProxy_java
+proposal.antfarm.core.org.apache.tools.ant.Task_java
+proposal.antfarm.core.org.apache.tools.ant.Project_java
+proposal.antfarm.core.org.apache.tools.ant.Importer_java
+proposal.antfarm.core.org.apache.tools.ant.Workspace_java
+proposal.antfarm.core.org.apache.tools.ant.Target_java
+proposal.antfarm.core.org.apache.tools.ant.TaskData_java
+proposal.antfarm.core.org.apache.tools.ant.BuildEvent_java

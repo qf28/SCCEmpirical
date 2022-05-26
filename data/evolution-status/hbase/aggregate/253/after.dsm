@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Use,Create]
+3
+0 111000 111000
+0 0 110011
+001010 000110 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.AuthUtil_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.security.UserProvider_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.security.User_java

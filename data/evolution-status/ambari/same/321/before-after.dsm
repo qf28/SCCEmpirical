@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00010010
+00010000 0
+ambari-server.src.main.java.org.apache.ambari.server.security.SecurityFilter_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.AmbariServer_java

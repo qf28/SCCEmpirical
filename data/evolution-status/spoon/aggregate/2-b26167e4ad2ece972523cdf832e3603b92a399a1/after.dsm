@@ -1,0 +1,32 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+15
+0 0100110000 0 0 0 0 0 0 0 0 0 0 0100000000 0 0
+0 0 0110001000 0 0 0 0 0 0 0 0 0 0111010011 0110001000 0
+0110001000 0 0 0010000100 0 0110001000 0110001000 0100000000 0110001000 0110001000 0 0110001000 0111010010 0 0110001000
+0 0 0 0 0 0 0 0 0 0 0 0 0001000010 0 0
+0 0 0 0 0 0010110000 0 1110011000 0 0 0 0 0010000010 0 0
+0 0000010000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0100110000 0 0 0 0 0 0 0 0 0 0 0100000000 0 0
+0 0110001000 0 0 0110001000 0 0 0 0 0 0 0 0101000010 0 0010110000
+0 0100110000 0 0 0 0 0 0 0 0 0 0 0100000000 0 0
+0 0100110000 0 0 0 0 0 0 0 0 0 0 0100000000 0 0
+0 0 0110001000 0 0 0 0 0 0 0 0 0 0100000010 0100001000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0111010011 0 0
+0 0 0 0001000000 0 0 0 0001000000 0 0 0001000000 0 0 0 0
+0 0 0110011000 0101010011 0110001000 0 0 0101011001 0 0 0101011001 0 0001010111 0 0
+0 0000010000 0 0 0 0 0 0 0 0 0 0 0 0 0
+src.main.java.spoon.support.reflect.declaration.CtPackageExportImpl_java
+src.main.java.spoon.support.reflect.declaration.CtElementImpl_java
+src.main.java.spoon.support.DefaultCoreFactory_java
+src.main.java.spoon.reflect.factory.CoreFactory_java
+src.main.java.spoon.reflect.CtModelImpl_java
+src.main.java.spoon.support.reflect.declaration.CtPackageImpl_java
+src.main.java.spoon.support.reflect.declaration.CtUsedServiceImpl_java
+src.main.java.spoon.reflect.factory.ModuleFactory_java
+src.main.java.spoon.support.reflect.declaration.CtModuleRequirementImpl_java
+src.main.java.spoon.support.reflect.declaration.CtProvidedServiceImpl_java
+src.main.java.spoon.reflect.factory.TypeFactory_java
+src.main.java.spoon.support.reflect.cu.CompilationUnitImpl_java
+src.main.java.spoon.reflect.factory.Factory_java
+src.main.java.spoon.reflect.factory.FactoryImpl_java
+src.main.java.spoon.support.reflect.declaration.CtModuleImpl_java

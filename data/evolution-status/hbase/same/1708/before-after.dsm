@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 111000
+111001 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.balancer.BalancerChore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java

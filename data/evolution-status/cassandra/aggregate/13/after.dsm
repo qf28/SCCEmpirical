@@ -1,0 +1,26 @@
+[Call,Typed,Import,Create,Use,Implement]
+12
+0 0 111000 0 0 0 0 0 101100 111010 0 001000
+0 0 0 0 0 110110 0 010010 0 0 0 0
+0 100000 0 101010 110010 000010 001000 110010 0 0 101000 101000
+000100 0 111100 0 0 101000 0 0 0 0 0 101000
+0 100010 000010 101000 0 100110 0 110010 0 0 101000 101000
+0 100000 100000 101000 110000 0 0 110010 0 0 0 101000
+0 0 111000 110010 0 0 0 111000 101010 101100 0 101000
+0 0 100000 0 0 0 0 0 0 0 0 101000
+0 0 0 101000 0 0 0 0 0 0 0 0
+0 0 0 101010 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 101000
+0 0 111010 0 0 0 0 101000 0 0 0 0
+src.org.apache.cassandra.service.RangeVerbHandler_java
+src.org.apache.cassandra.db.MemtableManager_java
+src.org.apache.cassandra.db.Table_java
+src.org.apache.cassandra.service.StorageService_java
+src.org.apache.cassandra.db.ColumnFamilyStore_java
+src.org.apache.cassandra.db.Memtable_java
+src.org.apache.cassandra.service.CassandraServer_java
+src.org.apache.cassandra.db.ColumnFamily_java
+src.org.apache.cassandra.db.RangeReply_java
+src.org.apache.cassandra.db.RangeCommand_java
+src.org.apache.cassandra.io.SequenceFile_java
+src.org.apache.cassandra.config.DatabaseDescriptor_java

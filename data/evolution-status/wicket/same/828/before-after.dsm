@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00110000
+01010000 0
+wicket.src.main.java.org.apache.wicket.markup.resolver.ComponentResolvers_java
+wicket.src.main.java.org.apache.wicket.MarkupContainer_java

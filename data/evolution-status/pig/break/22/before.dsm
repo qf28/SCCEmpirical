@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0 0100000
+0 0 0100001 0
+0100001 0000100 0 0
+0 0110000 0 0
+src.org.apache.pig.data.DefaultTuple_java
+src.org.apache.pig.data.TupleFactory_java
+src.org.apache.pig.data.DefaultTupleFactory_java
+src.org.apache.pig.data.DataReaderWriter_java

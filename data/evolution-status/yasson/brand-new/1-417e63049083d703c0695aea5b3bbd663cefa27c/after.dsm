@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+2
+0 0001000000
+0000000100 0
+src.main.java.org.eclipse.persistence.json.bind.internal.JsonbParser_java
+src.main.java.org.eclipse.persistence.json.bind.internal.JsonbRiParser_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 1110000
+1010100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.metrics.MXBeanImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java

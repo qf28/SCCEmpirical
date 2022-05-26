@@ -1,0 +1,8 @@
+[Call,Typed,Extend,Create]
+3
+0 1010 1100
+0 0 1100
+1101 1010 0
+contrib.views.hive.src.main.java.org.apache.ambari.view.hive.client.DDLDelegator_java
+contrib.views.hive.src.main.java.org.apache.ambari.view.hive.client.HiveCall_java
+contrib.views.hive.src.main.java.org.apache.ambari.view.hive.client.Connection_java

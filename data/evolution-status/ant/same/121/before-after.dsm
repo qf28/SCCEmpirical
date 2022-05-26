@@ -1,0 +1,42 @@
+[Cast,Call,Typed,Import,Extend,Use,Throw,Create,Implement]
+20
+0 0 0 0 0 011000000 0 0 011000010 0 0 010001000 110001000 0 0 111011000 001000000 011001010 011000000 0
+0 0 0 0 0 0 0 010000000 0 0 0 0 0 0 0 0 011001010 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 010000001 0 0 010010000 011001000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011001000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011100000 0 0 011100001
+011000000 0 0 0 0 0 0 0 0 0 011001000 010001000 0 0 0 000001000 011000000 0 011000000 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000101000 0 0 0
+0 010000000 0 0 0 0 0 0 011001000 0 0 011001000 0 010000000 010000010 0 011001010 0 0 111000000
+0 0 0 0 011100000 0 0 0 0 0 0 0 0 0 0 111001010 011001000 111000000 0 011000000
+111100010 0 0 0 0 0 0 0 0 0 011110000 010101000 0 0 0 011101000 001101000 010100010 011100000 0
+0 0 0 110001000 0 0 0 0 0 0 0 0 111000000 0 0 0 011001000 0 0 0
+001000000 0 0 0 0 011000000 0 000001000 011001000 0 0 0 110001000 010000000 0 0 011001000 0 0 011000000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 001000000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 011001000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011000000 0 0 0
+011000010 0 0 0 0 0 0 0 011000000 0 0 0 0 0 0 0 000001000 011001010 0 0
+111001000 0 010000000 011000000 0 010000000 011101010 010000000 011001000 0 0 0 0 0 0 111001000 0 0 010000000 010000000
+0 0 0 0 0 011000000 0 0 0 011100000 0 010001000 110001000 0 0 110001000 011000000 0 0 010000000
+011000000 0 010000000 0 0 0 0 0 0 0 011001010 010001000 0 0 0 111001000 011001000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 011001000 0 0 0
+src.main.org.apache.tools.ant.UnknownElement_java
+src.main.org.apache.tools.ant.Diagnostics_java
+src.main.org.apache.tools.ant.TaskAdapter_java
+src.main.org.apache.tools.ant.AntClassLoader_java
+src.main.org.apache.tools.ant.property.LocalProperties_java
+src.main.org.apache.tools.ant.IntrospectionHelper_java
+src.main.org.apache.tools.ant.types.FilterSet_java
+src.main.org.apache.tools.ant.Main_java
+src.main.org.apache.tools.ant.Target_java
+src.main.org.apache.tools.ant.taskdefs.MacroDef_java
+src.main.org.apache.tools.ant.AntTypeDefinition_java
+src.main.org.apache.tools.ant.ProjectHelper_java
+src.main.org.apache.tools.ant.TypeAdapter_java
+src.main.org.apache.tools.ant.ProjectHelperRepository_java
+src.main.org.apache.tools.ant.DemuxOutputStream_java
+src.main.org.apache.tools.ant.Task_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.RuntimeConfigurable_java
+src.main.org.apache.tools.ant.ComponentHelper_java
+src.main.org.apache.tools.ant.PropertyHelper_java

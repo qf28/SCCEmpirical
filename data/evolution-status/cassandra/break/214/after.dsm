@@ -1,0 +1,12 @@
+[Call,Typed,Import,Use,Create]
+5
+0 0 11011 11010 11011
+0 0 0 11000 0
+0 11010 0 11010 0
+10000 0 0 0 0
+11000 0 0 01100 0
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.io.IteratingRow_java
+src.java.org.apache.cassandra.io.CompactionIterator_java
+src.java.org.apache.cassandra.io.SSTableReader_java
+src.java.org.apache.cassandra.db.Memtable_java

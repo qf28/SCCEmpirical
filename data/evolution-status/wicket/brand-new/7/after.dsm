@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create]
+2
+0 010001
+011001 0
+wicket-devutils.src.main.java.org.apache.wicket.devutils.diskstore.DebugDiskDataStore_java
+wicket-devutils.src.main.java.org.apache.wicket.devutils.diskstore.DebugPageManagerProvider_java

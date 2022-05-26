@@ -1,0 +1,20 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+9
+0 0 0111001000 0 0 0 0 0 0
+0 0 0110001000 0110000000 0 0011001000 0 0 0001000000
+0111001100 0101001000 0 1110001000 0111000000 1111011111 0 0100000000 1111001100
+0 0 0 0 0 0111001000 0 0 0
+0 0 0 0010000000 0 0 1000000000 0 1000001000
+0 0 0110001000 0110000000 0 0 0 0 0
+0 0 0 0110000000 0000000001 0 0 0 0
+0 0 0110001000 0010010000 0011000000 0 0 0 0
+0 0 0 0110000000 0000000001 0000001000 0 0 0
+src.java.org.apache.cassandra.metrics.ColumnFamilyMetrics_java
+src.java.org.apache.cassandra.service.CacheService_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.ColumnFamily_java
+src.java.org.apache.cassandra.db.filter.IDiskAtomFilter_java
+src.java.org.apache.cassandra.config.CFMetaData_java
+src.java.org.apache.cassandra.db.filter.NamesQueryFilter_java
+src.java.org.apache.cassandra.db.RowIteratorFactory_java
+src.java.org.apache.cassandra.db.filter.SliceQueryFilter_java

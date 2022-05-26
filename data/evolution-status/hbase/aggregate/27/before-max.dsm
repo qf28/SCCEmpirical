@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create]
+4
+0 110001 0 0
+0 0 0 101000
+101000 0 0 0
+0 0 101000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.HFileArchiveUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.backup.HFileArchiver_java

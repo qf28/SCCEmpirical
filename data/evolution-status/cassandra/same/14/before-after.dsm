@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0101000
+0111000 0
+src.java.org.apache.cassandra.db.compaction.writers.CompactionAwareWriter_java
+src.java.org.apache.cassandra.db.compaction.CompactionTask_java

@@ -1,0 +1,8 @@
+[Call,Import,Use]
+3
+0 011 011
+110 0 0
+110 100 0
+src.org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigHadoopLogger_java
+src.org.apache.pig.LoadFunc_java
+src.org.apache.pig.StoreFunc_java

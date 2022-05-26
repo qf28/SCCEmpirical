@@ -1,0 +1,6 @@
+[Call,Use,Create,Parameter]
+2
+0 1101
+1010 0
+src.main.java.org.eclipse.yasson.internal.serializer.UserDeserializerDeserializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.DeserializerBuilder_java

@@ -1,0 +1,8 @@
+[Call,Typed,Use,Create]
+3
+0 1101 1001
+1110 0 0
+0100 0 0
+src.java.org.apache.hadoop.hbase.master.HMaster_java
+src.java.org.apache.hadoop.hbase.master.RegionManager_java
+src.java.org.apache.hadoop.hbase.master.ChangeTableState_java

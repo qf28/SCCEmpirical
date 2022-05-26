@@ -1,0 +1,4 @@
+[Cast,Call,Typed,Import,Set,Create,Use]
+1
+0
+src.org.apache.pig.newplan.logical.optimizer.LogicalPlanPrinter_java

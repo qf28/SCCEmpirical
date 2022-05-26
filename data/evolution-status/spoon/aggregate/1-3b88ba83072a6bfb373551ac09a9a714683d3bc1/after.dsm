@@ -1,0 +1,12 @@
+[Call,Return,Import,Extend,Create,Use,Implement,Parameter,Contain]
+5
+0 100000001 100000010 001000101 0
+0 0 110010001 0 100010000
+0 110001011 0 0 0
+001001000 0 001000010 0 001001000
+0 000001001 100000010 001000101 0
+src.main.java.spoon.support.compiler.jdt.FactoryCompilerConfig_java
+src.main.java.spoon.support.compiler.jdt.JDTBasedSpoonCompiler_java
+src.main.java.spoon.support.compiler.jdt.JDTBatchCompiler_java
+src.main.java.spoon.SpoonModelBuilder_java
+src.main.java.spoon.support.compiler.jdt.FileCompilerConfig_java

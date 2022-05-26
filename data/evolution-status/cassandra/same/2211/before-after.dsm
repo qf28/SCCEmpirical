@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+4
+0 0 0 0100100
+0100001 0 0110000 0100001
+0 0 0 0110010
+0 0100000 0100000 0
+src.java.org.apache.cassandra.db.filter.IdentityQueryFilter_java
+src.java.org.apache.cassandra.db.filter.QueryFilter_java
+src.java.org.apache.cassandra.db.Memtable_java
+src.java.org.apache.cassandra.db.filter.SliceQueryFilter_java

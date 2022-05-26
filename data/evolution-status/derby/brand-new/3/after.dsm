@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 10100
+10100 0
+plugins.eclipse.org_apache_derby_ui.src.org.apache.derby.ui.decorate.DerbyIsRunningDecorator_java
+plugins.eclipse.org_apache_derby_ui.src.org.apache.derby.ui.util.DerbyServerUtils_java

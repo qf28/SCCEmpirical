@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0000001
+1111010 0
+src.java.org.apache.cassandra.db.marshal.UserType_java
+src.java.org.apache.cassandra.cql3.UserTypes_java

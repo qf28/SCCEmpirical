@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 0 0 010100000 0 0 0
+0 0 0 011000100 011000010 000000010 000000010
+0 0 0 011111100 0 0 0
+001100100 011000110 010000010 0 0 0 0
+0 010000000 0 0 0 0 0
+0 110000000 0 010000000 0 0 0
+0 0 0 0 0 010011100 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogSplitter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ReversedRegionScannerImpl_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.GetClosestRowBeforeTracker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ReversedStoreScanner_java

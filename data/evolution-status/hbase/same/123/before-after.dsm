@@ -1,0 +1,10 @@
+[Call,Typed,Import,Create,Use,Implement]
+4
+0 100000 0 0
+110110 0 110100 0
+0 0 0 100000
+0 100000 0 0
+src.java.org.apache.hadoop.hbase.HRegionServer_java
+src.java.org.apache.hadoop.hbase.LocalHBaseCluster_java
+src.java.org.apache.hadoop.hbase.HBaseAdmin_java
+src.java.org.apache.hadoop.hbase.HConnectionManager_java

@@ -1,0 +1,6 @@
+[Call,Create,Use]
+2
+0 111
+110 0
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.reflectionmodel.ReflectionClassDeclaration_java
+java-symbol-solver-core.src.main.java.me.tomassetti.symbolsolver.reflectionmodel.ReflectionMethodDeclaration_java

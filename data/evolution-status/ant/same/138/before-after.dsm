@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Extend,Throw,Create,Use,Implement]
+8
+0 011000100 011000100 011000100 010000100 111000000 011000100 010000100
+011000000 0 0 0 0 011000100 0 0
+011000000 0 0 0 0 0 0 0
+111000000 0 0 0 0 111000010 0 0
+001000000 0 0 0 0 0 0 0
+011000000 0 0 0 0 0 0 0
+011000000 0 0 0 0 0 0 0
+011000000 0 0 0 0 0 0 0
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.Frame_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.ComponentManager_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.CoreFileService_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.CoreExecService_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.CoreInputService_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.ExecutionContext_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.CoreDataService_java
+proposal.mutant.src.java.antcore.org.apache.ant.antcore.execution.CoreEventService_java

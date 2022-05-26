@@ -1,0 +1,6 @@
+[Cast,Call,Import,Create,Use]
+2
+0 11101
+00100 0
+src.main.java.spoon.support.template.SubstitutionVisitor_java
+src.main.java.spoon.template.AbstractTemplate_java

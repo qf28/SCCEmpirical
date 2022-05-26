@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 1101
+1010 0
+java.org_apache_derby_optionaltools.org.apache.derby.optional.lucene.LuceneSupport_java
+java.org_apache_derby_optionaltools.org.apache.derby.optional.lucene.LuceneQueryVTI_java

@@ -1,0 +1,10 @@
+[Call,Typed,Import,Create,Use,Implement]
+4
+0 0 110010 101010
+0 0 0 101000
+100010 0 0 101000
+110100 100100 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.dht.BootStrapper_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java

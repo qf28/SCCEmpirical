@@ -1,0 +1,10 @@
+[Call,Typed,Use,Create]
+4
+0 0 0 0
+1110 0 0 0
+0010 1000 0 0
+1111 1101 1100 0
+src.java.org.apache.cassandra.gms.EndpointState_java
+src.java.org.apache.cassandra.gms.GossipDigestSynMessage_java
+src.java.org.apache.cassandra.gms.GossipDigestAckMessage_java
+src.java.org.apache.cassandra.gms.Gossiper_java

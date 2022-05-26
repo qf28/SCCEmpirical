@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 0
+0 0
+ambari-server.src.main.java.org.apache.ambari.server.api.query.QueryImpl_java
+ambari-server.src.main.java.org.apache.ambari.server.api.resources.ResourceInstanceFactoryImpl_java

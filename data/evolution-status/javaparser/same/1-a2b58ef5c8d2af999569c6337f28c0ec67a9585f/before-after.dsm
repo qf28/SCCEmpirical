@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Parameter,Contain]
+2
+0 01111100
+11100111 0
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.Comment_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

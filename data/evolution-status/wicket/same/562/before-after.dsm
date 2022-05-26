@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+5
+0 0 01110000 0 0
+0 0 01110100 0 00110000
+01110100 00000011 0 00000001 00110000
+00110000 0 0 0 0
+0 0 00010000 0 0
+wicket.src.java.wicket.Localizer_java
+wicket.src.java.wicket.settings.IRequestCycleSettings_java
+wicket.src.java.wicket.settings.Settings_java
+wicket.src.java.wicket.settings.IMarkupSettings_java
+wicket.src.java.wicket.IResponseFilter_java

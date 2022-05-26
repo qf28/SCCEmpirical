@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Implement]
+3
+0 00100 00100
+00101 0 0
+00101 0 0
+controller.src.main.java.org.apache.ambari.datastore.PersistentDataStore_java
+controller.src.main.java.org.apache.ambari.datastore.impl.StaticDataStore_java
+controller.src.main.java.org.apache.ambari.datastore.impl.ZookeeperDS_java

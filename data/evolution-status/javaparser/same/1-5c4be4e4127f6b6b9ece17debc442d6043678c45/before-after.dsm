@@ -1,0 +1,24 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+11
+0 0 0 0 0 0 0010010000 0 0 0 0
+0 0 0 0 0100100000 0 0 0 0 0 0
+0 0 0 0 0 0 0010010000 0 0 0 0
+0 0010000100 0 0 0 0 0010010000 0 0100110000 0 0
+0 0 0 0 0 0 0 0 0 1101011001 0
+1111011011 0 0 0 0 0 0010010000 0 0 0 0
+0000010000 0 0000010000 0000010000 0 0000010000 0 0 0000010000 0 0
+0 0010000100 0 0 0 0 0010010000 0 0100110000 0 0
+0 0 0 0 0010000100 0 0010010000 0 0 0 1000010010
+0100001000 0 0 0100010010 0 0 0010010000 0100010010 0 0 0
+1100010010 0 0 0 0 0 0010010000 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.nodeTypes.NodeWithConstructors_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.VariableDeclarationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.nodeTypes.NodeWithMembers_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.CatchClause_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.TypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.FieldDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.CallableDeclaration_java

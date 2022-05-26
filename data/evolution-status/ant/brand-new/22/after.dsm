@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Throw,Create,Implement]
+3
+0 0 011000010
+0 0 011000010
+011000010 011000010 0
+proposal.mutant.src.java.cli.org.apache.ant.cli.xml.RefHandler_java
+proposal.mutant.src.java.cli.org.apache.ant.cli.xml.IncludeHandler_java
+proposal.mutant.src.java.cli.org.apache.ant.cli.xml.ProjectHandler_java

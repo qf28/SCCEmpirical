@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 11011
+11001 0
+src.java.org.apache.hadoop.hbase.master.HMaster_java
+src.java.org.apache.hadoop.hbase.master.RegionManager_java

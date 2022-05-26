@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01110000
+00010000 0
+wicket-core.src.main.java.org.apache.wicket.lambda.Lambdas_java
+wicket-core.src.main.java.org.apache.wicket.ajax.form.OnChangeAjaxBehavior_java

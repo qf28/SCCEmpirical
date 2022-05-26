@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Use,Create]
+2
+0 0101000
+0111000 0
+src.java.org.apache.cassandra.service.CacheService_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java

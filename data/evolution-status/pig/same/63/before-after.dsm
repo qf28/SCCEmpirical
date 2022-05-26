@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use]
+2
+0 01100
+01101 0
+src.org.apache.pig.impl.streaming.StreamingCommand_java
+src.org.apache.pig.impl.PigContext_java

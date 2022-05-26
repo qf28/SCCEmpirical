@@ -1,0 +1,6 @@
+[Call,Typed,Import,Throw,Create]
+2
+0 0
+11001 0
+java.client.org.apache.derby.client.am.SqlException_java
+java.client.org.apache.derby.client.am.SQLExceptionFactory_java

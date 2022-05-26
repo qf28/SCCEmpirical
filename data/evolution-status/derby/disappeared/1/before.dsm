@@ -1,0 +1,16 @@
+[Call,Typed,Import,Extend,Throw,Use]
+7
+0 0 0 0 010000 010000 0
+000100 0 0 010000 010000 0 0
+0 000100 0 010000 0 0 0
+0 0 0 0 010000 0 0
+010000 0 0 010000 0 0 0
+010000 010000 010000 0 0 0 010000
+0 0 0 0 010000 010000 0
+java.stubs.jdbc3.java.sql.Statement_java
+java.stubs.jdbc3.java.sql.PreparedStatement_java
+java.stubs.jdbc3.java.sql.CallableStatement_java
+java.stubs.jdbc3.java.sql.Array_java
+java.stubs.jdbc3.java.sql.ResultSet_java
+java.stubs.jdbc3.java.sql.Connection_java
+java.stubs.jdbc3.java.sql.DatabaseMetaData_java

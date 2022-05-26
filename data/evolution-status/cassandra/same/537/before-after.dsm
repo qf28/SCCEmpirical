@@ -1,0 +1,8 @@
+[Call,Typed,Import,Use,Create]
+3
+0 10000 0
+10001 0 10001
+0 10000 0
+src.java.org.apache.cassandra.db.filter.NamesQueryFilter_java
+src.java.org.apache.cassandra.db.filter.QueryFilter_java
+src.java.org.apache.cassandra.db.filter.SliceQueryFilter_java

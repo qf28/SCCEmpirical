@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Use,Create]
+2
+0 110001
+010110 0
+java.client.org.apache.derby.client.am.Clob_java
+java.client.org.apache.derby.client.am.ClobWriter_java

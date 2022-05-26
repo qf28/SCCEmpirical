@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01110000
+01110010 0
+wicket-core.src.main.java.org.apache.wicket.request.handler.logger.ResourceReferenceLogData_java
+wicket-core.src.main.java.org.apache.wicket.request.handler.resource.ResourceReferenceRequestHandler_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Modify]
+3
+0 011111101 0
+011100010 0 011000010
+0 011001110 0
+src.java.org.apache.cassandra.io.compress.CompressedSequentialWriter_java
+src.java.org.apache.cassandra.io.util.SequentialWriter_java
+src.java.org.apache.cassandra.io.util.ChecksummedSequentialWriter_java

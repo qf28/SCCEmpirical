@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create]
+2
+0 0111
+1111 0
+src.java.org.apache.commons.math.linear.RealVectorImpl_java
+src.java.org.apache.commons.math.linear.RealMatrixImpl_java

@@ -1,0 +1,46 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+22
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000010000 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0010010000 0110001000 0 0 0011000000 0 0100110000
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0010010000 0110001000 0011000000 0 0 0 0100110000
+0 0 0 0 0100100000 0 0 0 0 0 0 0000010000 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0000010000
+0 0 0 0 0 0 0 0 0011000000 0 0 0 0110000010 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0011000000 0010010000 0110001000 0 0 0 0 0100110000
+0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0010010000 0110001000 0 0011000000 0 0 0100110000
+0 0 0 0 0 0110010000 0 0 0 0110000010 0011000000 0 0 0110000010 0 0010010000 0110001000 0 0 0 1110010011 0
+0 0000000010 0000000010 0 0 0 0000000010 0000000010 0000000010 0 0 0000000010 0 0 0 0 0 0 0 0 0000000010 0
+0 0 0 0 0 0 0 0 0000010000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0011000000 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0010010000 0110001000 0 0 0 0 0100110000
+0 0 0 0 0 0 0 0 0010010010 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0000000010 0000000010 0 0 0 0000000010 0000000010 0000000010 0 0 0000000010 0 0 0 0 0 0 0 0 0000000010 0
+0 0 0 0 0100100000 0 0000010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0100011001 0 0 0100011001 0100001001 0 0 0 0 0 0100011001 0 0 0 0100011001 0 0 0100011001 0100011001 0100011001 0000010000 0000010000
+0 0100001011 0100001011 0 0 0 0100001011 0100001011 0100001011 0000000100 0 0100001011 0 0 0 0 0 0 0 0 0100001011 0000010010
+0 0 0000010000 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0100100000 0 0 0000010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0000010000 0 0 0100100000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0011000000 0 0 0 0 0 0 0 0 0110000010 0 0 0 0110000010 0 0010010000 0110001000 0 0 0 0 0000010010
+0 0 0 0 0011000000 0 0 0 0 0 0 0 0 0 0 0010010000 0110001000 0 0 0 0 0
+javaparser-core.src.main.java.com.github.javaparser.metamodel.ModuleDeclarationMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleUsesStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleOpensStmt_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.ModuleExportsStmtMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.ModuleStmtMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.JavaParser_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleRequiresStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleProvidesStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.GenericVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.CompilationUnitMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleExportsStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ParseStart_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.VoidVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.ModuleRequiresStmtMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.ModuleOpensStmtMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.ModuleProvidesStmtMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.ModuleUsesStmtMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.modules.ModuleStmt_java

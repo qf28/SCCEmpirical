@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Use,Create,Implement]
+4
+0 111111 011101 111000
+011000 0 0 111000
+011000 0 0 111100
+011000 011000 111001 0
+wicket.src.java.wicket.Session_java
+wicket.src.java.wicket.PageMap_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.Page_java

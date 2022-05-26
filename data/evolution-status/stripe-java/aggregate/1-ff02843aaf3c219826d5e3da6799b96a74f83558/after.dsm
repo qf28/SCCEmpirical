@@ -1,0 +1,6 @@
+[Call,Import,Extend,Create,Use]
+2
+0 01000
+10010 0
+src.main.java.com.stripe.model.ExpandableFieldSerializer_java
+src.main.java.com.stripe.model.StripeObject_java

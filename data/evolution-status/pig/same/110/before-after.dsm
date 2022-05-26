@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+4
+0 0 0 0111000
+0 0 0 0111000
+0 0 0 0111000
+0010000 0010000 0010000 0
+src.org.apache.pig.backend.local.executionengine.physicalLayer.relationalOperators.POSplit_java
+src.org.apache.pig.backend.local.executionengine.physicalLayer.relationalOperators.POCross_java
+src.org.apache.pig.backend.local.executionengine.physicalLayer.relationalOperators.POCogroup_java
+src.org.apache.pig.backend.hadoop.executionengine.physicalLayer.plans.PhyPlanVisitor_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 011110 0 0
+010001 0 000001 010000
+0 010010 0 0
+000110 010000 0 0
+src.java.org.apache.cassandra.dht.BootStrapper_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.service.TokenUpdateVerbHandler_java
+src.java.org.apache.cassandra.service.StorageLoadBalancer_java

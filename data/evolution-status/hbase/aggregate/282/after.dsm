@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1110
+1010 0
+hbase-server.src.test.java.org.apache.hadoop.hbase.master.assignment.AssignmentTestingUtil_java
+hbase-server.src.test.java.org.apache.hadoop.hbase.HBaseTestingUtility_java

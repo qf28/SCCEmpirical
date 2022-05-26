@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+3
+0 01000001 01000000
+01000000 0 0
+01000000 0 0
+hbase-common.src.main.java.org.apache.hadoop.hbase.PrivateCellUtil_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.TagUtil_java
+hbase-common.src.main.java.org.apache.hadoop.hbase.CellUtil_java

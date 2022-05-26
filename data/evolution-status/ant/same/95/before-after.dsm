@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Use,Create]
+4
+0 0 011010 0
+0 0 011010 0
+010000 111001 0 010000
+010000 0 011010 0
+src.main.org.apache.tools.ant.TaskAdapter_java
+src.main.org.apache.tools.ant.AntClassLoader_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.ComponentHelper_java

@@ -1,0 +1,22 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+10
+0 0010010 0 0 0 0 0 0 0 0110000
+0110100 0 0 0 0 0 0 0 1000001 0110000
+1000000 0010010 0 1100001 0 0 0 1000000 0 1100010
+0 0 1110010 0 0 0 0 1100011 0 1110000
+1110000 0 0 0 0 0 0 0 0 0110000
+0 0010010 0 0 0 0 0000010 0 0 0
+0 0 1010000 0 0 1100011 0 0 0 0
+0 0 1110010 0 1010000 0 0 0 0 0110000
+1111110 0 0 0 0 0 0 0 0 1110000
+0 0 0 0 0 0 1100011 0 0 0
+src.java.org.apache.cassandra.io.sstable.format.SSTableWriter_java
+src.java.org.apache.cassandra.io.sstable.format.big.BigFormat_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.compaction.CompactionStrategyManager_java
+src.java.org.apache.cassandra.io.sstable.SimpleSSTableMultiWriter_java
+src.java.org.apache.cassandra.db.lifecycle.LogFile_java
+src.java.org.apache.cassandra.db.lifecycle.LogTransaction_java
+src.java.org.apache.cassandra.db.compaction.AbstractCompactionStrategy_java
+src.java.org.apache.cassandra.io.sstable.format.big.BigTableWriter_java
+src.java.org.apache.cassandra.db.lifecycle.LifecycleTransaction_java

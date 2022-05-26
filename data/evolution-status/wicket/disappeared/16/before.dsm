@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 10000
+10001 0
+wicket-extensions.src.main.java.org.apache.wicket.extensions.markup.html.form.datetime.StyleDateConverter_java
+wicket-extensions.src.main.java.org.apache.wicket.extensions.markup.html.form.datetime.DateField_java

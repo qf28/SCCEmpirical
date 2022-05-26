@@ -1,0 +1,6 @@
+[Call,Typed,Import,Throw,Create,Use]
+2
+0 110000
+100010 0
+hbase-thrift.src.main.java.org.apache.hadoop.hbase.thrift.ThriftHttpServlet_java
+hbase-thrift.src.main.java.org.apache.hadoop.hbase.thrift.ThriftServerRunner_java

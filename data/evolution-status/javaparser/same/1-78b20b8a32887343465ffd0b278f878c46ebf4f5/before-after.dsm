@@ -1,0 +1,8 @@
+[Call,Import,Return,Use,Create,Parameter,Contain]
+3
+0 0100000 0
+0101000 0 1101111
+1101111 0 0
+javaparser-core.src.main.java.com.github.javaparser.Position_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.Range_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 00010100 0
+0 0 01110000
+01010000 0 0
+ambari-server.src.main.java.org.apache.ambari.server.orm.entities.StageEntity__java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.StageResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.orm.dao.StageDAO_java

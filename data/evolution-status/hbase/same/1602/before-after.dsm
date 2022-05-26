@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create]
+6
+0 0 01010000 0 0 01010010
+01010000 0 01110000 11000000 0 01100001
+00110010 0 0 0 0 0
+0 01100001 0 0 0 0
+01010000 0 01100010 0 0 00010010
+01010000 00000010 0 0 00010000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.wal.HLogSplitter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SplitLogWorker_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.SplitLogManager_java

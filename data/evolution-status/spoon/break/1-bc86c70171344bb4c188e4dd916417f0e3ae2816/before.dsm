@@ -1,0 +1,36 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+17
+0 0 0 0 0 0000001000 0 0 0 0 0 0100100000 0011000000 0 0 0 0
+0 0 0 0 0 0 0 0010000000 0 0 0 0 0010000000 0 0 0 0
+0 0 0 0 0 0 0 0010001000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0100100000 0 0 0 0 0 0 0100000000 0 0 0 0
+0110010000 0 0110010000 0110010000 0 0 0 0010001000 0 0010000100 0110010000 0110010000 0011001011 0 0 0110010000 0110010000
+0 0 0 0 0 0 0 0 0 0 0 0 0111001011 0 0 0 0
+0 0 0 0 0 0 0 0 0 0110000001 0 0 0110001011 0 0 0 0
+0 0111000001 0 0 0110010000 0 0 0 0110010000 0 0 0 0111010010 0110010000 0 0 0
+0 0010000100 0 0 0110010000 0 0100010001 0010001000 0 0 0 0 0111011011 0110010000 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0001000010 0 0 0 0
+0 0 0 0 0 0100101000 0 0010001000 0 0 0 0 0100000000 0 0 0 0
+0 0 0 0 0 0000001000 0 0 0 0 0 0 0 0 0 0100101000 0
+0 0010000000 0 0 0110011000 0 0 0 0 0101001011 0 0 0 0110011000 0111011001 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0011000001 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0110000010 0 0 0 0
+0 0 0 0 0 0100101000 0 0010001000 0 0 0 0 0100000000 0 0 0 0
+0 0 0 0 0 0 0 0010001000 0 0 0 0 0 0 0 0 0
+src.main.java.spoon.support.reflect.reference.CtAnnonTypeParameterReferenceImpl_java
+src.main.java.spoon.compiler.SpoonCompiler_java
+src.main.java.spoon.support.reflect.reference.CtFieldReferenceImpl_java
+src.main.java.spoon.support.reflect.reference.CtPackageReferenceImpl_java
+src.main.java.spoon.support.DefaultCoreFactory_java
+src.main.java.spoon.support.reflect.reference.CtReferenceImpl_java
+src.main.java.spoon.support.compiler.JDTTreeBuilder_java
+src.main.java.spoon.Spoon_java
+src.main.java.spoon.support.compiler.JDTCompiler_java
+src.main.java.spoon.reflect.CoreFactory_java
+src.main.java.spoon.support.reflect.reference.CtExecutableReferenceImpl_java
+src.main.java.spoon.support.reflect.reference.CtTypeParameterReferenceImpl_java
+src.main.java.spoon.reflect.Factory_java
+src.main.java.spoon.support.StandardEnvironment_java
+src.main.java.spoon.reflect.factory.TypeFactory_java
+src.main.java.spoon.support.reflect.reference.CtTypeReferenceImpl_java
+src.main.java.spoon.support.reflect.declaration.CtAnnotationImpl_java

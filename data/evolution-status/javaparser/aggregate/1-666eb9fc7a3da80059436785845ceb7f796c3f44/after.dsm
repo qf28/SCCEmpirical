@@ -1,0 +1,8 @@
+[Call,Import,Return,Use]
+3
+0 1101 0
+0 0 1111
+1001 0 0
+javaparser-core.src.main.java.com.github.javaparser.javadoc.description.JavadocInlineTag_java
+javaparser-core.src.main.java.com.github.javaparser.javadoc.JavadocParser_java
+javaparser-core.src.main.java.com.github.javaparser.javadoc.description.JavadocDescription_java

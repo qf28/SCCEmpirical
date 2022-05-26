@@ -1,0 +1,18 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use]
+8
+0 0 01100010 0 0 0 0 0
+0 0 11000010 0 01000100 0 0 01000000
+01100000 0 0 0 0 0 0 01000000
+0 0 0 0 01000100 0 0 01000000
+0 0 11000010 0 0 01000010 0 01000000
+0 0 11100010 01000010 0 0 0 01000000
+0 0 0 0 0 0 0 01000000
+0 01000010 01000010 01000010 0 0 01000011 0
+src.java.org.apache.commons.math.linear.RealVectorFormat_java
+src.java.org.apache.commons.math.linear.BlockRealMatrix_java
+src.java.org.apache.commons.math.linear.RealVectorImpl_java
+src.java.org.apache.commons.math.linear.Array2DRowRealMatrix_java
+src.java.org.apache.commons.math.linear.AbstractRealMatrix_java
+src.java.org.apache.commons.math.linear.LUDecompositionImpl_java
+src.java.org.apache.commons.math.linear.BigMatrixImpl_java
+src.java.org.apache.commons.math.linear.MatrixUtils_java

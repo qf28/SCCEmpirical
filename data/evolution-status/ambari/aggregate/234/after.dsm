@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01000000
+01100110 0
+ambari-server.src.main.java.org.apache.ambari.server.state.quicklinksprofile.FilterEvaluator_java
+ambari-server.src.main.java.org.apache.ambari.server.state.quicklinksprofile.DefaultQuickLinkVisibilityController_java

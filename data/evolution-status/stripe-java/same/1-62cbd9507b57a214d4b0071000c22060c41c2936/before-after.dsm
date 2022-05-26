@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+5
+0 0 000001000 000001011 0
+0 0 0 000010000 0
+0 000100001 0 000010000 000101011
+010000100 0 0 0 0
+0 0 0 000010000 0
+src.main.java.com.stripe.model.EventDataDeserializer_java
+src.main.java.com.stripe.model.LegalEntity_java
+src.main.java.com.stripe.model.Account_java
+src.main.java.com.stripe.model.StripeObject_java
+src.main.java.com.stripe.model.AccountPayoutSchedule_java

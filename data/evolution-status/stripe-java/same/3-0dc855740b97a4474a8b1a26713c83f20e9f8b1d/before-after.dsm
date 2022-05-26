@@ -1,0 +1,8 @@
+[Call,Return,Import,Use,Parameter,Contain]
+3
+0 0 010110
+0 0 000110
+010110 010110 0
+src.main.java.com.stripe.model.issuing.Dispute_java
+src.main.java.com.stripe.model.issuing.Authorization_java
+src.main.java.com.stripe.model.issuing.Transaction_java

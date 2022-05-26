@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Create]
+2
+0 01010
+01001 0
+src.java.org.apache.commons.math.distribution.DistributionFactoryImpl_java
+src.java.org.apache.commons.math.distribution.DistributionFactory_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Implement]
+2
+0 00110
+11110 0
+wicket.src.main.java.wicket.behavior.IBehavior_java
+wicket.src.main.java.wicket.Component_java

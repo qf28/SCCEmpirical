@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Create]
+2
+0 0100
+1111 0
+src.java.org.apache.commons.math.ode.nonstiff.AdamsBashforthStepInterpolator_java
+src.java.org.apache.commons.math.ode.nonstiff.AdamsBashforthIntegrator_java

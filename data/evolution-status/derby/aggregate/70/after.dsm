@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use]
+3
+0 0110001 0100111
+0010101 0 0101001
+0 0111000 0
+java.client.org.apache.derby.client.net.NetConnection_java
+java.client.org.apache.derby.client.net.NetXAResource_java
+java.client.org.apache.derby.client.am.Connection_java

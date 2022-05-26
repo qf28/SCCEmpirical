@@ -1,0 +1,6 @@
+[Import,Use]
+2
+0 11
+01 0
+src.java.org.apache.cassandra.db.Clustering_java
+src.java.org.apache.cassandra.db.AbstractBufferClusteringPrefix_java

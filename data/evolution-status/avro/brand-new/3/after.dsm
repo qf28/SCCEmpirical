@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 000001000 0
+000000010 0 000000010
+0 000001000 0
+lang.java.trevni.core.src.main.java.org.apache.trevni.NullChecksum_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.Checksum_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.Crc32Checksum_java

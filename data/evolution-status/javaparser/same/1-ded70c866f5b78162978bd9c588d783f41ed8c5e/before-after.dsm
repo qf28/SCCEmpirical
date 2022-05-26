@@ -1,0 +1,38 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+18
+0 0 0 0010010010 0 0 0 0 0 0 0 0 0 0 0 0 0111000010 0110100000
+0 0 0000010010 0 0 0 0 0 0101011011 0 0 0 0 0 0 0 0 0
+0111011011 0 0 0 0 0 0 0 0101011011 0 0 0 0 0 0 0 0 0110100000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0100100000
+0 0 0 0 0 0 0 0 0 0 0010000100 0 0 0 0 0 0 0110100000
+0100010011 0 0 0010010010 0 0 0 0 0110011011 0 0 0 0 0 0 0 0111011011 0100000000
+0100010011 0 0 0 0 0 0 0 0111011011 0 0 0 0 0 0 0 0111011011 0100000000
+0 0 0 0 0110010000 0 0 0 0 0 0 0 0 0 0 0 0 0100100000
+0 0 0 0 0 0 0 0 0 0 0 0 0010000100 0 0 0 0 0
+0 0 0 0010010010 0 0 0 0 0 0 0 0 0 0 0 0 0 0110100000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0010010000
+0 0 0 0 0 0 0 0 0000000010 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1010010000
+0 0 0 0 0 0 0 0 0 0 0 0 0010000100 0 0 0 0 0
+1110000011 1110000011 1110000011 1110000011 1110000011 1110000011 1110000011 1110000011 1110000011 1110000011 0 1110000011 0 1110000011 0 0 1110000011 0110000010
+0110011011 0110001011 0110011011 0110011010 0110001011 0110001011 0110001011 0110001010 0110001011 0110011011 0 0110001011 0 0110011011 0 0 0110001011 1110010011
+0 0 0 0 0 0 0 0 0 0 0010000100 0 0 0 0 0 0 0110100000
+0 0 0 0 0 0 0 0100010001 0 0 0 0 0 0 0110010000 0110001000 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.TryStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.CatchClause_java
+javaparser-core.src.main.java.com.github.javaparser.ast.ArrayBracketPair_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Name_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.MethodDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ConstructorDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.BlockStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.VariableDeclarator_java
+javaparser-core.src.main.java.com.github.javaparser.ast.nodeTypes.NodeWithIdentifier_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.ForeachStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.nodeTypes.NodeWithStatements_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.SwitchEntryStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.EqualsVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.SimpleName_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java

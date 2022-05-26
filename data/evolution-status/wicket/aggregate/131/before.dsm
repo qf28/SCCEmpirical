@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 0
+0 0
+wicket-core.src.main.java.org.apache.wicket.protocol.http.WebApplication_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.WebPage_java

@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+7
+0 0 0 0101010 0111010 0 0
+0 0 0 0 0 0 0101000
+0100000 0 0 0 0 1101000 0
+0100000 0 0 0 0 1111000 0
+0 0110010 0 0 0 0 0
+0111010 0 0101010 0101010 0 0 0110010
+0 0 0 0101010 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.quotas.MasterQuotaManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.namespace.NamespaceStateManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.DeleteTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.CreateTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.namespace.NamespaceAuditor_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.TableNamespaceManager_java

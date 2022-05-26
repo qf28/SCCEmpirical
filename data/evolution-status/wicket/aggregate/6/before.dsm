@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+7
+0 0 01100000 01100000 11100010 0 0
+00100000 0 0 0 00100000 0 0
+11101000 0 0 0 01100000 0 0
+01000000 0 0 0 01100000 0 0
+01100011 01100000 11101000 01000000 0 01010100 0
+00110000 00010001 0 0 00110000 0 11100100
+00110000 0 0 0 0 0 0
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.IPageVersionManager_java
+wicket.src.java.wicket.MarkupContainer_java
+wicket.src.java.wicket.RequestCycle_java
+wicket.src.java.wicket.Page_java
+wicket.src.java.wicket.version.undo.UndoPageVersionManager_java
+wicket.src.java.wicket.version.undo.ChangeList_java

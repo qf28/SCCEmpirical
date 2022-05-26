@@ -1,0 +1,14 @@
+[Call,Typed,Set,Extend,Create,Use]
+6
+0 0 110010 0 0 100000
+100100 0 0 0 0 100000
+110000 0 0 0 0 0
+0 110010 0 0 110010 0
+110100 0 0 0 0 0
+110001 110000 000001 100000 010000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Segment_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.MutableSegment_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SegmentScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SegmentFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.ImmutableSegment_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.AbstractMemStore_java

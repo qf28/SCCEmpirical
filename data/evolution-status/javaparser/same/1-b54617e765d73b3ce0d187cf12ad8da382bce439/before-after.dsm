@@ -1,0 +1,46 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+22
+0 0 0 0 0 0 0 0 0 0 0 0 110001100 0 0 0 0 0 0 0 0 011001000
+0 0 0 0 0 0 0 011001000 010011000 0 0 0 0 0 0 0 0 0 0 0 0 011001000
+0 0 0 0 0 0 0 0 010011000 0 0 011001000 0 0 0 0 0 010001000 0 0 0 0
+0 0 0 0 0 0 0 0 010011000 0 0 011001000 0 0 0 0 0 010001000 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010000100 0 0 0
+010001100 0 0 0 0 0 0 011001000 0 0 0 0 010000100 0 0 0 011000100 0 0 0 010001101 011001000
+0 0 0 0 0 0 0 011001000 010011000 0 0 0 0 0 0 0 0 0 0 0 0 011001000
+011000100 010000100 010000100 010000100 0 011000100 010000100 0 0 0 010000100 0 0 011000100 011000100 0 0 010000100 011000100 0 0 0
+0 0 0 0 0 0 0 011001000 0 0 0 0 0 0 0 0 0 0 0 0 0 011001000
+0 0 0 0 0 0 0 010001000 0 0 0 011001000 0 0 0 0 011000100 0 0 0 0 011001011
+0 0 0 0 0 0 0 0 010011000 0 0 011001001 0 0 0 0 0 010001000 0 0 0 0
+0 0 0 0 0 0 0 011001000 0 0 0 0 0 0 0 010100100 0 0 0 0 0 011001000
+010001100 0 0 0 0 0 0 011001000 0 0 0 0 0 0 0 0 0 0 0 010000100 0 011001000
+0 0 0 0 0 0 0 0 0 0 0 011001000 0 0 0 0 0 0 0 0 0 0
+010001100 0 0 0 0 0 0 011001000 0 0 0 0 010000100 0 0 0 011000100 0 0 0 010001101 011001000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010000100 0 0 011001000
+0 0 0 0 0 111001000 0 011001000 0 0 0 0 0 0 111001000 0 0 0 111001000 0 0 0
+0 0 0 0 0 0 0 011001000 010011000 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 010001100 0 0 011001000 0 0 0 0 010000100 0 0 010000100 011000100 0 0 0 010001101 011001000
+0 0 0 0 0 0 0 011001000 0 0 0 0 010001100 0 0 010001110 0 0 0 0 0 011001000
+0 0 0 0 0 0 0 011001000 0 0 0 0 0 0 010000100 010000100 011000100 0 010000100 0 0 0
+0 0 0 0 0 0 0 010001000 0 010001101 0 0 0 0 0 0 011101101 0 010000101 010000101 0 0
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserTypeParameter_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.SwitchEntryContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ForechStatementContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.ForStatementContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserEnumConstantDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserInterfaceDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.LambdaExprContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFactory_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.AbstractJavaParserContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.TypeExtractor_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.TryWithResourceContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserSymbolDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserMethodDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarators.VariableSymbolDeclarator_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserClassDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserFieldDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.resolution.SymbolSolver_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.contexts.StatementContext_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserEnumDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserAnonymousClassDeclaration_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.declarations.JavaParserTypeAdapter_java
+javaparser-symbol-solver-core.src.main.java.com.github.javaparser.symbolsolver.javaparsermodel.JavaParserFacade_java

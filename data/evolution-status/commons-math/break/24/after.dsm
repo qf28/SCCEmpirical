@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+7
+0 0 0010000 0010000 0010000 0 0
+0 0 0 0010000 0 0 0
+0 0 0 0 0010000 0 0
+0 0110100 0110000 0 0110000 0 0
+0010000 0 0010000 0 0 0 0
+0 0 0010000 0 0010000 0 0
+0 0 0110000 0 0 0 0
+src.main.java.org.apache.commons.math.geometry.partitioning.Region_java
+src.main.java.org.apache.commons.math.geometry.partitioning.BSPTreeVisitor_java
+src.main.java.org.apache.commons.math.geometry.partitioning.SubHyperplane_java
+src.main.java.org.apache.commons.math.geometry.partitioning.BSPTree_java
+src.main.java.org.apache.commons.math.geometry.partitioning.Hyperplane_java
+src.main.java.org.apache.commons.math.geometry.partitioning.Transform_java
+src.main.java.org.apache.commons.math.geometry.partitioning.Characterization_java

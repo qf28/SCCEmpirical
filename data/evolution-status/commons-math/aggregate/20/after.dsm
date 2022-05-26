@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement,Modify]
+2
+0 00010000000
+01110000000 0
+src.java.org.apache.commons.math.optimization.ConvergenceChecker_java
+src.java.org.apache.commons.math.optimization.DirectSearchOptimizer_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0100001
+0110000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.SnapshotManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.EnabledTableSnapshotHandler_java

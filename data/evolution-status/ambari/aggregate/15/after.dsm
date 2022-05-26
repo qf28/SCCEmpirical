@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 01110000
+01010010 0
+ambari-logsearch.ambari-logsearch-portal.src.main.java.org.apache.ambari.logsearch.dao.SolrAliasDao_java
+ambari-logsearch.ambari-logsearch-portal.src.main.java.org.apache.ambari.logsearch.dao.AuditSolrDao_java

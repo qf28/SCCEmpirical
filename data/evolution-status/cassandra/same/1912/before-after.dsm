@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 100000010
+010001010 0
+src.java.org.apache.cassandra.db.AbstractColumnContainer_java
+src.java.org.apache.cassandra.db.SuperColumn_java

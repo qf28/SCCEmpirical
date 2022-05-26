@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Set,Import,Extend,Create,Use,Implement,Modify]
+5
+0 0 0 1100000000 0110001000
+0110001000 0 1110001000 1110001000 0
+0 0 0 0110000000 0
+0100000000 0110000100 0110001000 0 0
+0110000000 0 0 0 0
+java.engine.org.apache.derby.impl.store.access.PropertyConglomerate_java
+java.engine.org.apache.derby.impl.store.access.RAMAccessManager_java
+java.engine.org.apache.derby.impl.store.access.RAMTransactionContext_java
+java.engine.org.apache.derby.impl.store.access.RAMTransaction_java
+java.engine.org.apache.derby.impl.store.access.PC_XenaVersion_java

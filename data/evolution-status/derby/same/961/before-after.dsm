@@ -1,0 +1,6 @@
+[Cast,Call,Typed]
+2
+0 111
+011 0
+java.engine.org.apache.derby.impl.store.raw.data.BaseContainer_java
+java.engine.org.apache.derby.impl.store.raw.data.BaseContainerHandle_java

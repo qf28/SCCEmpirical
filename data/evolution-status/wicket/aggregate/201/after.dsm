@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 00010000
+00111000 0
+wicket.src.main.java.org.apache.wicket.IEventDispatcher_java
+wicket.src.main.java.org.apache.wicket.settings.IFrameworkSettings_java

@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Extend,Use,Create,Implement]
+2
+0 0100010
+0111100 0
+src.mantissa.src.org.spaceroots.mantissa.geometry.Vector3D_java
+src.mantissa.src.org.spaceroots.mantissa.geometry.ImmutableVector3D_java

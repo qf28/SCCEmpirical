@@ -1,0 +1,20 @@
+[Cast,Call,Import,Return,Use,Create,Implement,Parameter,Contain]
+9
+0 011000010 0 001110010 011001000 0 0 0 0
+0 0 0 001110011 0 0 0 0 0
+0 0 0 010110111 0 0 0 0 0
+0 001100010 000100000 0 0 0 010100000 000100000 000100000
+0 011110011 0 010100110 0 0 0 0 0
+0 0 0 001000010 0 0 0 011010011 0
+0 0 0 010110111 0 0 0 0 0
+011111001 011110011 110000001 010110111 010011000 011110011 0 0 0
+0 0 0 010100110 0 0 0 010000000 0
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.usages.TypeParametersMap_java
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.declarations.TypeParameterDeclaration_java
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.usages.typesystem.Wildcard_java
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.usages.typesystem.Type_java
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.usages.typesystem.TypeParameter_java
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.declarations.TypeDeclaration_java
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.usages.typesystem.ArrayType_java
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.usages.typesystem.ReferenceType_java
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.usages.typesystem.PrimitiveType_java

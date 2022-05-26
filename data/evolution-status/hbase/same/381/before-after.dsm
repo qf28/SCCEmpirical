@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create]
+4
+0 1110001 1100110 0
+0 0 1110010 1110010
+1000001 0 0 0
+0 0 1110010 0
+src.main.java.org.apache.hadoop.hbase.master.HMasterCommandLine_java
+src.main.java.org.apache.hadoop.hbase.LocalHBaseCluster_java
+src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+src.main.java.org.apache.hadoop.hbase.util.JVMClusterUtil_java

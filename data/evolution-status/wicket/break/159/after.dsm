@@ -1,0 +1,6 @@
+[Extend,Use]
+2
+0 0
+11 0
+wicket-core.src.main.java.org.apache.wicket.resource.JQueryResourceReference_java
+wicket-core.src.main.java.org.apache.wicket.resource.DynamicJQueryResourceReference_java

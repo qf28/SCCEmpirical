@@ -1,0 +1,10 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+4
+0 0 0 111000100
+0 0 001000000 0
+0 111001000 0 111000100
+001000000 110000000 0 0
+src.main.java.org.apache.hadoop.hbase.util.CompoundBloomFilterWriter_java
+src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlock_java
+src.main.java.org.apache.hadoop.hbase.util.CompoundBloomFilter_java
+src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlockIndex_java

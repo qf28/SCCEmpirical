@@ -1,0 +1,6 @@
+[Call,Import,Extend]
+2
+0 100
+100 0
+src.org.apache.pig.impl.util.BagFormat_java
+src.org.apache.pig.impl.util.TupleFormat_java

@@ -1,0 +1,12 @@
+[Call,Typed,Extend,Use,Create]
+5
+0 10100 0 0 0
+10001 0 10001 10001 10001
+0 10100 0 0 0
+0 10100 0 0 0
+0 10100 0 0 0
+ambari-server.src.main.java.org.apache.ambari.server.controller.gsinstaller.GSInstallerHostComponentProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.gsinstaller.GSInstallerResourceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.gsinstaller.GSInstallerComponentProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.gsinstaller.GSInstallerServiceProvider_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.gsinstaller.GSInstallerHostProvider_java

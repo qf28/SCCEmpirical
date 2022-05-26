@@ -1,0 +1,6 @@
+[Call]
+2
+0 0
+1 0
+java.testing.org.apache.derbyTesting.junit.NetworkServerTestSetup_java
+java.testing.org.apache.derbyTesting.junit.Utilities_java

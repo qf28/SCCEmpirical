@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Implement]
+2
+0 00101
+00100 0
+src.main.java.org.apache.hadoop.hbase.client.coprocessor.LongColumnInterpreter_java
+src.main.java.org.apache.hadoop.hbase.coprocessor.ColumnInterpreter_java

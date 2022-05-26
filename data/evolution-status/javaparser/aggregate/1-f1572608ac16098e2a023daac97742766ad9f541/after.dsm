@@ -1,0 +1,6 @@
+[Return,Extend]
+2
+0 10
+01 0
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.declarations.TypeDeclaration_java
+java-symbol-solver-model.src.main.java.me.tomassetti.symbolsolver.model.declarations.EnumDeclaration_java

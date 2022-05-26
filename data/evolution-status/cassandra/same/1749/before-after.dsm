@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+5
+0 0110000000 0 0000000010 0
+0100000100 0 0100000100 0110000000 0
+0 0110001000 0 0100000000 0000010001
+0 0010000000 0 0 0
+0 0 0 0000000010 0
+src.java.org.apache.cassandra.db.commitlog.PeriodicCommitLogExecutorService_java
+src.java.org.apache.cassandra.db.commitlog.CommitLog_java
+src.java.org.apache.cassandra.db.commitlog.BatchCommitLogExecutorService_java
+src.java.org.apache.cassandra.db.commitlog.ICommitLogExecutorService_java
+src.java.org.apache.cassandra.db.commitlog.AbstractCommitLogExecutorService_java

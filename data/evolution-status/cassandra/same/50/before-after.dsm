@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0 1100100
+0 0 0110000
+1000000 1010110 0
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.metrics.DroppedMessageMetrics_java
+src.java.org.apache.cassandra.net.MessagingService_java

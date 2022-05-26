@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Throw,Create,Modify]
+2
+0 0100000000
+0010001000 0
+src.main.java.org.apache.commons.math.util.BigReal_java
+src.main.java.org.apache.commons.math.util.BigRealField_java

@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0 0110000
+0000001 0 1110000
+0 0010100 0
+src.java.org.apache.cassandra.service.reads.repair.ReadRepair_java
+src.java.org.apache.cassandra.service.reads.repair.NoopReadRepair_java
+src.java.org.apache.cassandra.service.reads.DigestResolver_java

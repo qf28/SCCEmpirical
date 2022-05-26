@@ -1,0 +1,6 @@
+[Call,Import,Create]
+2
+0 0
+101 0
+wicket-core.src.main.java.org.apache.wicket.markup.html.panel.PanelMarkupSourcingStrategy_java
+wicket-core.src.main.java.org.apache.wicket.markup.html.panel.Panel_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 0
+101010 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.procedure2.store.region.RegionProcedureStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java

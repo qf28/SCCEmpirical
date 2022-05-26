@@ -1,0 +1,20 @@
+[Call,Typed,Import,Create,Use,Implement]
+9
+0 110010 0 0 101010 101000 111100 101000 111000
+000010 0 0 0 101000 101000 111110 101000 0
+0 0 0 0 101010 0 0 0 0
+110000 0 110000 0 0 0 0 0 0
+111100 0 0 001100 0 0 0 101000 0
+0 0 0 0 0 0 010110 101000 110001
+0 0 0 0 101000 111110 0 101000 110000
+111010 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 010000 0 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.db.TouchMessage_java
+src.java.org.apache.cassandra.db.TouchVerbHandler_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.io.SequenceFile_java
+src.java.org.apache.cassandra.io.SSTable_java
+src.java.org.apache.cassandra.config.DatabaseDescriptor_java
+src.java.org.apache.cassandra.io.IFileReader_java

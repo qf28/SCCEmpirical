@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 01100110
+11000000 0
+src.main.org.apache.tools.ant.taskdefs.optional.junit.XMLResultAggregator_java
+src.main.org.apache.tools.ant.taskdefs.optional.junit.AggregateTransformer_java

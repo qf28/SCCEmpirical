@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Create,Use,Implement]
+3
+0 0 0
+11100100 0 0
+0 10100000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.CompoundBloomFilterWriter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.BloomFilterFactory_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.StoreFileWriter_java

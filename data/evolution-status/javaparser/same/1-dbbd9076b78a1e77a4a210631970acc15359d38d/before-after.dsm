@@ -1,0 +1,8 @@
+[Cast,Call,Import,Use,Create,Parameter,Contain]
+3
+0 0 0110100
+0 0 0110100
+0100111 0100111 0
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.SuperExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.ThisExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.visitor.CloneVisitor_java

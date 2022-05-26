@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+3
+0 0 0
+0 0 0
+01100000 01100000 0
+src.java.org.apache.cassandra.locator.TokenMetadata_java
+src.java.org.apache.cassandra.locator.IEndpointSnitch_java
+src.java.org.apache.cassandra.locator.AbstractReplicationStrategy_java

@@ -1,0 +1,10 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+4
+0 010100011 010101101 0
+0 0 0 010001000
+010101011 0 0 0
+0 0 010000010 0
+google-http-client.src.main.java.com.google.api.client.http.HttpRequest_java
+google-http-client.src.main.java.com.google.api.client.http.GenericUrl_java
+google-http-client.src.main.java.com.google.api.client.http.HttpResponse_java
+google-http-client.src.main.java.com.google.api.client.http.UrlEncodedParser_java

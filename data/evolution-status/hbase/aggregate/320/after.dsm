@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Create,Use]
+5
+0 0 0 0 010100
+011111 0 010100 0 011100
+0 011100 0 0 000100
+0 0 010100 0 0
+0 0 010100 011001 0
+src.main.java.org.apache.hadoop.hbase.master.LoadBalancer_java
+src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+src.main.java.org.apache.hadoop.hbase.util.FSUtils_java
+src.main.java.org.apache.hadoop.hbase.regionserver.StoreFile_java
+src.main.java.org.apache.hadoop.hbase.regionserver.HRegion_java

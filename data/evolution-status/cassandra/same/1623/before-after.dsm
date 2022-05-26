@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create]
+2
+0 010010
+111110 0
+src.java.org.apache.cassandra.index.sasi.disk.OnDiskBlock_java
+src.java.org.apache.cassandra.index.sasi.disk.OnDiskIndex_java

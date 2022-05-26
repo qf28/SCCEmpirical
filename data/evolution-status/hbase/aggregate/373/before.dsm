@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 0 0 0
+0 0 0 0
+1010000 1010000 0 1100100
+0 0 1100110 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.handler.AssignRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.handler.UnassignRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

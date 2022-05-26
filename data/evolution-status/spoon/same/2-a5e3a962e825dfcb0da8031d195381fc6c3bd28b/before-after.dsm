@@ -1,0 +1,6 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+2
+0 001000010
+001001011 0
+src.main.java.spoon.pattern.internal.node.ListOfNodes_java
+src.main.java.spoon.pattern.internal.DefaultGenerator_java

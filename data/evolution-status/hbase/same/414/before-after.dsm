@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 011000010
+011000100 0
+src.java.org.apache.hadoop.hbase.regionserver.MemcacheFlusher_java
+src.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java

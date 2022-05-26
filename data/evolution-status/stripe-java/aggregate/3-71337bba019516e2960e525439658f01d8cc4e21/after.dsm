@@ -1,0 +1,6 @@
+[Call,Return,Import,Extend,Use,Throw,Create,Parameter,Contain]
+2
+0 010010000
+000010010 0
+src.main.java.com.stripe.model.Customer_java
+src.main.java.com.stripe.model.CustomerCollection_java

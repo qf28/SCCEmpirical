@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use]
+2
+0 111000
+111000 0
+src.org.apache.pig.backend.hadoop.executionengine.tez.TezJob_java
+src.org.apache.pig.tools.pigstats.tez.TezPigScriptStats_java

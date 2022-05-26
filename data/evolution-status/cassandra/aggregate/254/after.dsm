@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create]
+2
+0 11110
+11101 0
+src.java.org.apache.cassandra.metrics.KeyspaceMetrics_java
+src.java.org.apache.cassandra.db.Keyspace_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 1010010
+1010010 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.batchlog.BatchlogManager_java

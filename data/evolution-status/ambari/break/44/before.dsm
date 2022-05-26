@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+3
+0 0110000 0
+0010100 0 0110100
+0 0110000 0
+ambari-server.src.main.java.org.apache.ambari.server.view.ViewSubResourceDefinition_java
+ambari-server.src.main.java.org.apache.ambari.server.view.ViewDefinition_java
+ambari-server.src.main.java.org.apache.ambari.server.view.ViewInstanceDefinition_java

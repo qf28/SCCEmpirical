@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Use,Create]
+2
+0 100010
+000010 0
+src.main.java.org.apache.commons.math.util.MathUtils_java
+src.main.java.org.apache.commons.math.util.FastMath_java

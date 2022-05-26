@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Create,Implement]
+4
+0 101010 101010 100010
+111000 0 0 0
+111000 0 0 0
+110000 0 0 0
+wicket-core.src.main.java.org.apache.wicket.Application_java
+wicket-core.src.main.java.org.apache.wicket.settings.def.FrameworkSettings_java
+wicket-core.src.main.java.org.apache.wicket.settings.def.StoreSettings_java
+wicket-core.src.main.java.org.apache.wicket.DefaultPageManagerProvider_java

@@ -1,0 +1,6 @@
+[Cast,Call,Import,Use,Parameter]
+2
+0 0
+11111 0
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.observing.PropagatingAstObserver_java

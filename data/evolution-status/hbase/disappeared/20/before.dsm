@@ -1,0 +1,42 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement,Modify]
+20
+0 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0001000100 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0101010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0001010000
+0100000010 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.TestRowData_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataComplexQualifiers_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataExerciseFInts_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataUrls_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataTrivial_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataRandomKeyValuesWithTags_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataEmpty_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataNumberStrings_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataDifferentTimestamps_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataUrlsExample_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataTrivialWithTags_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataSimple_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataSearchWithPrefix_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataQualifierByteOrdering_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataRandomKeyValues_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataSearcherRowMiss_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataSingleQualifier_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataDeeper_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.data.TestRowDataNub_java
+hbase-prefix-tree.src.test.java.org.apache.hadoop.hbase.codec.prefixtree.row.BaseTestRowData_java

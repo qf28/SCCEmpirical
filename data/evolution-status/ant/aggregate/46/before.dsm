@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+3
+0 0 0
+0 0 0
+0 01100010 0
+src.antidote.org.apache.tools.ant.gui.command.Command_java
+src.antidote.org.apache.tools.ant.gui.ActionManager_java
+src.antidote.org.apache.tools.ant.gui.AppContext_java

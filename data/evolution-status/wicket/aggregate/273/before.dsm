@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 0
+001000000 0
+wicket-core.src.main.java.org.apache.wicket.markup.parser.XmlTag_java
+wicket-core.src.main.java.org.apache.wicket.markup.parser.IXmlPullParser_java

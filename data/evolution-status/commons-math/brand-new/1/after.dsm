@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+2
+0 000001010
+010000100 0
+src.java.org.apache.commons.math.stat.descriptive.DescriptiveStatisticsImpl_java
+src.java.org.apache.commons.math.stat.descriptive.DescriptiveStatistics_java

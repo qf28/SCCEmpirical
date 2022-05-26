@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Use,Create]
+2
+0 0110001
+0110110 0
+src.org.apache.pig.impl.eval.EvalSpec_java
+src.org.apache.pig.impl.eval.CompositeEvalSpec_java

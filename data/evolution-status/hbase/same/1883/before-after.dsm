@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Create,Implement]
+2
+0 100000
+110000 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.ClusterStatus_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.ClusterMetricsBuilder_java

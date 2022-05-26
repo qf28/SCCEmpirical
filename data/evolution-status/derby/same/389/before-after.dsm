@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Use]
+3
+0 1111 1010
+0 0 1111
+0001 0 0
+java.engine.org.apache.derby.impl.sql.compile.FromSubquery_java
+java.engine.org.apache.derby.impl.sql.compile.SelectNode_java
+java.engine.org.apache.derby.impl.sql.compile.FromList_java

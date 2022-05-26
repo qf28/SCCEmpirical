@@ -1,0 +1,6 @@
+[Call,Typed,Extend]
+2
+0 0
+100 0
+ambari-server.src.main.java.org.apache.ambari.server.events.publishers.BufferedUpdateEventPublisher_java
+ambari-server.src.main.java.org.apache.ambari.server.events.publishers.STOMPUpdatePublisher_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Throw,Create,Implement]
+2
+0 001001000
+001000100 0
+ambari-server-spi.src.main.java.org.apache.ambari.spi.exceptions.UpgradeActionException_java
+ambari-server-spi.src.main.java.org.apache.ambari.spi.upgrade.UpgradeAction_java

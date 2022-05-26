@@ -1,0 +1,6 @@
+[Call,Import,Use]
+2
+0 100
+100 0
+src.java.org.apache.cassandra.streaming.StreamInManager_java
+src.java.org.apache.cassandra.streaming.StreamIn_java

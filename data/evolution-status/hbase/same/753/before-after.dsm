@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create]
+2
+0 1100
+1001 0
+hbase-client.src.main.java.org.apache.hadoop.hbase.ipc.NettyRpcDuplexHandler_java
+hbase-client.src.main.java.org.apache.hadoop.hbase.ipc.NettyRpcConnection_java

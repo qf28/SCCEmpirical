@@ -1,0 +1,6 @@
+[Call,Typed,Set,Create,Use,Modify]
+2
+0 000010
+100100 0
+java.engine.org.apache.derby.impl.services.cache.Clock_java
+java.engine.org.apache.derby.impl.services.cache.ClockFactory_java

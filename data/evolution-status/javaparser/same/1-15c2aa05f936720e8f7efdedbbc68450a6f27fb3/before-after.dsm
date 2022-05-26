@@ -1,0 +1,10 @@
+[Cast,Call,Return,Import,Extend,Create,Use,Parameter,Contain]
+4
+0 011001111 010010000 0
+0 0 111000111 0
+0 110000111 0 010000101
+010001111 011001111 010010000 0
+javaparser-core.src.main.java.com.github.javaparser.ast.PackageDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.NodeList_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 001100000 0
+110100100 0 111000100
+000100100 111011111 0
+wicket.src.java.wicket.model.ICompoundModel_java
+wicket.src.java.wicket.Component_java
+wicket.src.java.wicket.MarkupContainer_java

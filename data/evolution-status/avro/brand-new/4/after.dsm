@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+4
+0 0 000001000 0
+0 0 000001000 0
+000000010 000000010 0 000000010
+0 0 000001000 0
+lang.java.trevni.core.src.main.java.org.apache.trevni.SnappyCodec_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.NullCodec_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.Codec_java
+lang.java.trevni.core.src.main.java.org.apache.trevni.DeflateCodec_java

@@ -1,0 +1,6 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 00000010
+11000110 0
+src.java.org.apache.cassandra.utils.LegacyBloomFilter_java
+src.java.org.apache.cassandra.utils.LegacyBloomFilterSerializer_java

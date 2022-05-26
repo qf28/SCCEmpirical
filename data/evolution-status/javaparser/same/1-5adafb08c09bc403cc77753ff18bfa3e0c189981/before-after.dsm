@@ -1,0 +1,58 @@
+[Cast,Call,Return,Import,Extend,Create,Use,Parameter,Contain]
+28
+0 0 0 0 0 0 0 0 0 0 0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 000100000 0 0 0 010000000 0 0 0 0 011001100 0 010000110 0 0 0 0 0 0 0 0 011101111 010010100 0
+0 0 0 0 0 0 0 0 0 010110000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 010010110 0 0 0 0 0 010000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 010010000 0 010000000 0 0 0 0 0 0 0 011001111 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 010110000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 000100110 0 0 000100000 0 0 0 010000000 0 0 011001111 0 0 010000000 0 0 0 0 0 0 0 0 010010000 010101010 0 0
+010101000 000100000 0 0 0 0 010101000 0 0 0 0 0 0 110100111 0 0 0 0 0 010000100 0 0 0 0 0 0 0 0
+0 0 010101000 0 0 000100110 0 0 0 010110000 0 0 0 0 0 0 001100111 0 0 0 0 0 0 0 0 011101111 0 0
+0 0 000000110 0 0 000100000 0 0 0 010000000 0 0 0 0 0 0 010000000 0 0 0 0 0 0 0 0 011101111 010010100 0
+0 000100000 0 0 0 000100000 0 000100110 0 010000000 0 0 0 0 0 010010110 0 0 0 0 0 0 0 0 0 011101111 0 0
+0 0 0 0 0 0 101000000 0 0 010110000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 011001000 0 0 000100000 0 0 0 010000000 0 0 0 0 0 0 010010100 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 000100110 0 0 0 010110110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 001100110 0 0 0 010110000 0 0 0 0 0 0 0 0 0 0 0 0 0 110000100 0 0 0 0
+0 0 0 0 0 0 0 0 0 010110000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 000100000 0 0 011101111 000100000 0 0 0 010000100 010000111 000100110 0 0 0 010010000 0 0 0 0 0 0 0 0 0 011101111 000100111 0
+0 000100000 0 0 0 0 0 0 111101101 010010000 0 0 0 000100000 0 0 0 010101100 0 0 010001111 001000111 111101101 0 001100110 0 0 111101101
+0 0 0 0 0 000100110 0 0 0 010010000 0 0 0 0 0 0 0 011101111 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 010010000 0 0 0 0 0 0 0 011101111 0 0 0 0 0 0 0 0 0 0
+0 0 000100110 0 0 000100000 0 0 0 010000000 0 000100110 0 0 0 010000000 0 0 100000100 0 0 0 0 0 010010000 010101010 0 0
+0 0 0 0 0 010100110 0 0 0 010000000 0 0 0 0 0 0 011000000 0 0 0 0 0 0 0 0 0 010010100 0
+0 000100000 0 0 0 000100000 0 0 0 010100110 0 0 0 0 0 010010110 0 0 0 0 0 0 0 0 0 011101111 0 0
+0 0 0 0 0 0 0 0 0 010110000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010010000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 000100000 0 0 0 0 0 0 0 0 0 010000000 0 0 0 0 0 0 0 0 010010000 010101010 0 0
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.BlockComment_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.JavadocComment_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ClassOrInterfaceType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.Statement_java
+javaparser-core.src.main.java.com.github.javaparser.ast.stmt.BlockStmt_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.AnnotationExpr_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.LineComment_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Expression_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.Node_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.Parameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.TypeParameter_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.EnumConstantDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.comments.Comment_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.PrimitiveType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.BodyDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.Type_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.Name_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ConstructorDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java
+javaparser-core.src.main.java.com.github.javaparser.ast.PackageDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.ImportDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.ClassOrInterfaceDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ArrayType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.TypeDeclaration_java
+javaparser-core.src.main.java.com.github.javaparser.ast.expr.SimpleName_java
+javaparser-core.src.main.java.com.github.javaparser.ast.type.ReferenceType_java
+javaparser-core.src.main.java.com.github.javaparser.ast.body.AnnotationDeclaration_java

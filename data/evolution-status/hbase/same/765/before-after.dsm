@@ -1,0 +1,6 @@
+[Call,Typed,Use,Create]
+2
+0 1111
+1000 0
+src.java.org.apache.hadoop.hbase.regionserver.Store_java
+src.java.org.apache.hadoop.hbase.regionserver.MemStore_java

@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+4
+0 0110000 0100000 0
+0110010 0 0101101 0
+0 1101001 0 0110010
+0 0 0110000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterMobCompactionThread_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.CompactSplitThread_java

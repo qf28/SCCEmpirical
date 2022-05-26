@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+2
+0 0000010
+0100100 0
+lang.java.integration-test.test-custom-conversions.src.main.java.org.apache.avro.codegentest.FixedSizeStringLogicalType_java
+lang.java.integration-test.test-custom-conversions.src.main.java.org.apache.avro.codegentest.FixedSizeStringFactory_java

@@ -1,0 +1,8 @@
+[Cast,Call,Import,Return,Extend,Create,Use,Implement,Parameter,Contain]
+3
+0 0 0
+0100100000 0 0
+0 0 0
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractValueTypeSerializer_java
+src.main.java.org.eclipse.yasson.internal.serializer.ByteArrayBase64Serializer_java
+src.main.java.org.eclipse.yasson.model.ReflectionPropagation_java

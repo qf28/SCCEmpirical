@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 000000001 001000100
+001000000 0 001000000
+011000000 000000001 0
+src.java.org.apache.cassandra.dht.IPartitioner_java
+src.java.org.apache.cassandra.dht.RingPosition_java
+src.java.org.apache.cassandra.dht.Token_java

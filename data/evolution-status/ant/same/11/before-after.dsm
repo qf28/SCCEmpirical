@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Extend,Create,Use]
+5
+0 0 0110001 0 0111000
+0 0 0111001 0 0110001
+0110000 0 0 0100000 0111000
+0 0 0110001 0 0
+0 0100000 0011000 0 0
+src.main.org.apache.tools.ant.AntClassLoader_java
+src.main.org.apache.tools.ant.util.ResourceUtils_java
+src.main.org.apache.tools.ant.Project_java
+src.main.org.apache.tools.ant.PropertyHelper_java
+src.main.org.apache.tools.ant.util.FileUtils_java

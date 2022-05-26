@@ -1,0 +1,18 @@
+[Call,Typed,Import,Extend,Use,Create]
+8
+0 0 0 111000 110010 111010 0 0
+0 0 0 111010 0 101010 0 0
+0 0 0 110000 110010 101010 0 0
+0 0 0 0 101000 0 0 0
+111011 100010 100000 110010 0 101010 100010 100010
+0 0 0 0 011010 0 0 0
+0 0 0 0 100010 101010 0 0
+0 0 0 110000 101000 001010 0 0
+src.java.org.apache.cassandra.service.AntiEntropyService_java
+src.java.org.apache.cassandra.service.GCInspector_java
+src.java.org.apache.cassandra.service.StorageProxy_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.net.MessagingService_java
+src.java.org.apache.cassandra.service.StorageLoadBalancer_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

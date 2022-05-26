@@ -1,0 +1,42 @@
+[Cast,Call,Typed,Import,Set,Extend,Create,Use,Implement]
+20
+0 0 0 0 0 010000000 0 110100000 0 0 011100000 0 0 0 0 0 0 0 010001010 0
+0 0 0 0 0 010000000 0 110100000 0 0 011100000 0 0 0 0 0 0 0 010001010 0
+0 0 0 0 0 011100000 0 110100000 0 0 011100000 0 010000000 010000000 0 0 0 0 010001010 0
+0 0 0 0 0 0 0 011000010 0 0 0 0 010000000 010000000 011000000 0 010000000 0 0 0
+0 0 0 0 0 011100000 0 110100000 0 0 011100000 0 010000000 011100000 011100000 0 0 0 010001010 0
+0 0 0 0 0 0 0 110000000 0 0 011000000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 011100000 0 110100000 0 0 011100000 0 010000000 011100000 0 0 0 0 0 0
+010100100 010100100 010100100 111100110 010100100 011000100 010100100 0 011100100 010100100 001000001 010100100 011000100 011000100 011000000 010100100 011100100 010100000 010000000 011000100
+0 0 0 0 010001010 011100000 0 110100000 0 0 011100000 0 010000000 011100000 0 0 0 0 000000010 0
+0 0 0 0 0 011100000 0 110100000 0 0 011100000 0 0 0 0 0 0 0 010001010 0
+0 0 0 0 0 001000000 0 0 0 0 0 0 001000000 001000000 0 0 0 0 0 0
+0 0 0 0 0 0 0 110100000 0 0 0 0 010000000 011100000 011100000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 011000000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 111000000 010100100 011000000 0 011000100 011100100 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 011000000 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 110100000 0 0 001100000 0 010000000 011100000 011100000 0 0 0 0 0
+0 0 0 0 0 011100000 0 0 0 0 011100000 0 010000000 011100000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000100010 0 0 0
+0 0 0 0 0 0 0 0 0 0 011100000 0 010000000 010000000 0 0 0 0 0 0
+0 0 0 0 0 010000000 010100100 0 0 0 011000000 0 010000000 010000000 010000000 0 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.TableModifyFamilyHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.TableAddFamilyHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.ModifyTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.DeleteTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterFileSystem_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.CreateTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.TruncateTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.TableDeleteFamilyHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.DisableTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.TableStateManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.RegionStates_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.EnableTableHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.snapshot.SnapshotManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.ZKDataMigrator_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.TableEventHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.TableNamespaceManager_java

@@ -1,0 +1,14 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Throw,Implement]
+6
+0 0001000100 0 0111000100 0 0
+0111001100 0 0 0 0 0
+0001000000 0 0 0 0 0
+0 0 0 0 0 0111000100
+0001001000 0 0 0 0 0111000100
+0 0 0110000100 0 0110000100 0
+src.java.org.apache.hadoop.hbase.Shell_java
+src.java.org.apache.hadoop.hbase.hql.HQLSecurityManager_java
+src.java.org.apache.hadoop.hbase.hql.ExitCommand_java
+src.java.org.apache.hadoop.hbase.hql.HQLClient_java
+src.java.org.apache.hadoop.hbase.hql.SelectCommand_java
+src.java.org.apache.hadoop.hbase.hql.generated.HQLParser_java

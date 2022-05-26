@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 01100100 0 0
+0 0 0 00010100
+01100110 01100110 0 00010100
+01110100 01110100 01110110 0
+ambari-server.src.main.java.org.apache.ambari.server.state.StackInfo_java
+ambari-server.src.main.java.org.apache.ambari.server.state.ServiceInfo_java
+ambari-server.src.main.java.org.apache.ambari.server.api.util.StackExtensionHelper_java
+ambari-server.src.main.java.org.apache.ambari.server.api.services.AmbariMetaInfo_java

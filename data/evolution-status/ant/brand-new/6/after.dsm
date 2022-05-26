@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Implement]
+2
+0 11100000
+00010000 0
+src.antidote.org.apache.tools.ant.gui.command.NewElementCmd_java
+src.antidote.org.apache.tools.ant.gui.acs.ACSDtdDefinedElement_java

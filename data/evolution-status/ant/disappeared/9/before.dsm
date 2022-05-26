@@ -1,0 +1,8 @@
+[Call,Typed,Set,Throw,Use,Create]
+3
+0 110000 0
+110011 0 110001
+110000 110000 0
+src.main.com.ice.tar.TarBuffer_java
+src.main.com.ice.tar.TarArchive_java
+src.main.com.ice.tar.TarEntry_java

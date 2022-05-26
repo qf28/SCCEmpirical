@@ -1,0 +1,10 @@
+[Call,Typed,Import,Use,Create]
+4
+0 11101 0 11100
+0 0 0 11000
+0 0 0 11010
+00100 0 10000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.util.CompoundBloomFilter_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlockIndex_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.ChecksumUtil_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.io.hfile.HFileBlock_java

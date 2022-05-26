@@ -1,0 +1,6 @@
+[Call,Typed,Set,Import,Extend,Use,Create]
+2
+0 1010110
+1100001 0
+test.unit.org.apache.pig.test.MiniCluster_java
+test.unit.org.apache.pig.test.MiniGenericCluster_java

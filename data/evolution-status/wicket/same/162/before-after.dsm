@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 1001000
+0100000 0
+wicket.src.java.wicket.markup.html.HtmlHeaderContainer_java
+wicket.src.java.wicket.markup.html.WebMarkupContainer_java

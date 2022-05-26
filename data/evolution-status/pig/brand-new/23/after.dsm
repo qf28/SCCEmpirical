@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Extend,Create,Use,Throw,Implement]
+2
+0 000000001
+001000000 0
+contrib.penny.java.src.main.java.org.apache.pig.penny.LogicalLocation_java
+contrib.penny.java.src.main.java.org.apache.pig.penny.Location_java

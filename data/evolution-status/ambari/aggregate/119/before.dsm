@@ -1,0 +1,8 @@
+[Call,Typed,Import,Extend,Use,Create]
+3
+0 001000 0
+001000 0 0
+0 111001 0
+ambari-server.src.main.java.org.apache.ambari.server.api.services.views.ViewPermissionService_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.ViewPermissionResponse_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ViewPermissionResourceProvider_java

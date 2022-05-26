@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 10001
+10001 0
+wicket-core.src.test.java.org.apache.wicket.resource.aggregator.ResourceReferenceCirc1_java
+wicket-core.src.test.java.org.apache.wicket.resource.aggregator.ResourceReferenceCirc2_java

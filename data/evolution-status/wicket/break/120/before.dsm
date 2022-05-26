@@ -1,0 +1,10 @@
+[Call,Typed,Import,Extend,Use,Implement]
+4
+0 0 0 010000
+0 0 010000 0
+010000 010000 0 100000
+100000 0 110000 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.ISessionFactory_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.IRequestCycleFactory_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Application_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Session_java

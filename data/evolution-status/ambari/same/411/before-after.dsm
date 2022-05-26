@@ -1,0 +1,6 @@
+[Call,Typed,Import,Use,Implement]
+2
+0 00100
+00110 0
+ambari-server.src.main.java.org.apache.ambari.server.state.stack.upgrade.ConfigureTask_java
+ambari-server.src.main.java.org.apache.ambari.server.serveraction.upgrades.ConfigureAction_java

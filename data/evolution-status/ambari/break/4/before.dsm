@@ -1,0 +1,8 @@
+[Call,Typed,Import,Set,Extend,Use,Create,Implement]
+3
+0 0 00100100
+11100000 0 0
+0 11100000 0
+ambari-server.src.main.java.org.apache.ambari.server.notifications.dispatchers.EmailDispatcher_java
+ambari-server.src.main.java.org.apache.ambari.server.notifications.DispatchFactory_java
+ambari-server.src.main.java.org.apache.ambari.server.state.services.AlertNoticeDispatchService_java

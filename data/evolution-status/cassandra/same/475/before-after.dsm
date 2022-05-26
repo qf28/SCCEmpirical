@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Use,Implement]
+2
+0 110010
+011100 0
+src.java.org.apache.cassandra.cql3.CQL3Type_java
+src.java.org.apache.cassandra.db.marshal.AbstractType_java

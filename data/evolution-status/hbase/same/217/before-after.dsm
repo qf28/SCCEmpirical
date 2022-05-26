@@ -1,0 +1,6 @@
+[Call,Import,Use,Implement]
+2
+0 1000
+0010 0
+hbase-server.src.test.java.org.apache.hadoop.hbase.client.TestZKAsyncRegistry_java
+hbase-server.src.test.java.org.apache.hadoop.hbase.client.RegionReplicaTestHelper_java

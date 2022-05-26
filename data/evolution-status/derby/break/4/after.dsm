@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+5
+0 0110000 0 0 0
+0010000 0 0 0 0
+1111010 0111000 0 0 0
+1111110 0001101 1110110 0 1110110
+0001000 0001100 0000100 0110100 0
+java.engine.org.apache.derby.iapi.sql.dictionary.SPSDescriptor_java
+java.engine.org.apache.derby.iapi.sql.dictionary.DataDictionary_java
+java.engine.org.apache.derby.impl.sql.catalog.SYSSTATEMENTSRowFactory_java
+java.engine.org.apache.derby.impl.sql.catalog.DataDictionaryImpl_java
+java.engine.org.apache.derby.impl.sql.catalog.DD_Version_java

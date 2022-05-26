@@ -1,0 +1,12 @@
+[Cast,Call,Import,Return,Extend,Use,Create,Implement,Parameter,Contain]
+5
+0 0 0000100000 0011000000 0
+0 0 0 0 0011010011
+0001000000 0101000001 0 0110010011 0010000010
+0 0110010011 0111010011 0 0101010111
+0 0011000010 0 0001000000 0
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.ClassDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.TypeParameterDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.declarations.TypeDeclaration_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.ReferenceType_java
+java-symbol-solver-model.src.main.java.com.github.javaparser.symbolsolver.model.typesystem.Type_java

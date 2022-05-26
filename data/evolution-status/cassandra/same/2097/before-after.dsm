@@ -1,0 +1,6 @@
+[Call,Use,Implement]
+2
+0 110
+100 0
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

@@ -1,0 +1,12 @@
+[Cast,Call,Typed,Import,Use,Create]
+5
+0 011010 000100 011000 0
+010010 0 010100 0 010010
+011000 011000 0 0 010000
+010000 0 000010 0 000010
+011010 011000 0 011001 0
+src.java.org.apache.cassandra.db.Table_java
+src.java.org.apache.cassandra.db.ColumnFamilyStore_java
+src.java.org.apache.cassandra.service.StorageService_java
+src.java.org.apache.cassandra.db.RowMutation_java
+src.java.org.apache.cassandra.db.HintedHandOffManager_java

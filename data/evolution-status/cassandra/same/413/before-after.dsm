@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Use,Create,Implement]
+2
+0 1000010
+1100100 0
+src.java.org.apache.cassandra.db.SinglePartitionReadCommand_java
+src.java.org.apache.cassandra.service.pager.MultiPartitionPager_java

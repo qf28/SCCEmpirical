@@ -1,0 +1,6 @@
+[Call,Typed,Import,Extend,Create]
+2
+0 0
+10000 0
+src.java.org.apache.cassandra.utils.JVMStabilityInspector_java
+src.java.org.apache.cassandra.service.CassandraDaemon_java

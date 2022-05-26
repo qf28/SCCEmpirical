@@ -1,0 +1,10 @@
+[Call,Import,Return,Use,Create,Parameter,Contain]
+4
+0 0 0 0001000
+1001101 0 0 0
+0 0 0 0110000
+0110000 0101000 1101000 0
+javaparser-core.src.main.java.com.github.javaparser.metamodel.CompilationUnitMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.metamodel.JavaParserMetaModel_java
+javaparser-core.src.main.java.com.github.javaparser.JavaParser_java
+javaparser-core.src.main.java.com.github.javaparser.ast.CompilationUnit_java

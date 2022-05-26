@@ -1,0 +1,16 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+7
+0 010000010 011000010 011000000 011000010 010000010 0
+011000000 0 0 0 0 0 0
+0 0 0 0 010000000 0 0
+0 0 0 0 0 0 010100010
+0 0 011000000 011000000 0 0 0
+011000000 0 0 0 0 0 0
+011100000 0 0 000100000 011100000 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.UnAssignCallable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.RegionStateStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.RegionStates_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignCallable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.ServerShutdownHandler_java

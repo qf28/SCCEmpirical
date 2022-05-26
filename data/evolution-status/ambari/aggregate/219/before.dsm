@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Use,Create,Implement]
+2
+0 0101100
+0111100 0
+ambari-server.src.main.java.org.apache.ambari.server.events.listeners.tasks.TaskStatusListener_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.CalculatedStatus_java

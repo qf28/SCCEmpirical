@@ -1,0 +1,6 @@
+[Call,Typed,Import,Create,Implement]
+2
+0 11100
+01100 0
+jdk-1_4.wicket.src.main.java.org.apache.wicket.Localizer_java
+jdk-1_4.wicket.src.main.java.org.apache.wicket.settings.IResourceSettings_java

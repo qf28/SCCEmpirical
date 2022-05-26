@@ -1,0 +1,26 @@
+[Cast,Call,Typed,Set,Import,Extend,Use,Throw,Create,Modify]
+12
+0 0 0 0010101000 0010101000 0010101000 0 0101011000 0010000010 0 0 0
+1110100000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 1110001000 0 0111001000 0 0110001000 0 0 0 0111001000
+0 0 0100001000 0 0 0101011000 0 0110001000 0 0010000000 0 0
+0 0 0 0101011000 0 0100001000 0 0110000000 0 0 0 0110001000
+0 0 0111001000 0010001000 0 0 0 0110001000 0 0 0 0111000000
+0 0100001000 0 0 0 0 0 0 0 0 0110001000 0
+0 0 0 0110000000 0010000000 0111001000 0 0 0010000000 0010000010 0010000010 0
+0 0 0010001000 0 0 0 0 0110000000 0 0 0 0
+0 0101011001 0 0 0 0 0 0 0 0 0 0
+0 0101011001 0 0 0 0 0100000010 0 0 0 0 0
+0 0100000000 0 0 0 0 0 0 0 0110000000 0110000000 0
+java.client.org.apache.derby.client.net.NetConnection_java
+java.client.org.apache.derby.client.am.Lob_java
+java.client.org.apache.derby.client.am.ResultSet_java
+java.client.org.apache.derby.client.am.PreparedStatement_java
+java.client.org.apache.derby.client.am.CallableStatement_java
+java.client.org.apache.derby.client.am.Statement_java
+java.client.org.apache.derby.client.am.ClobWriter_java
+java.client.org.apache.derby.client.am.Connection_java
+java.client.org.apache.derby.client.am.SectionManager_java
+java.client.org.apache.derby.client.am.Blob_java
+java.client.org.apache.derby.client.am.Clob_java
+java.client.org.apache.derby.client.am.Cursor_java

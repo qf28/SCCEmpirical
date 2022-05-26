@@ -1,0 +1,10 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Implement]
+4
+0 00100000 0 0
+01100000 0 0 0
+01100000 0 0 0
+0 0 01010010 0
+ambari-server.src.main.java.org.apache.ambari.server.topology.ClusterTopology_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.AmbariContext_java
+ambari-server.src.main.java.org.apache.ambari.server.topology.RequiredPasswordValidator_java
+ambari-server.src.main.java.org.apache.ambari.server.controller.internal.ProvisionClusterRequest_java

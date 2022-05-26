@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+2
+0 001000000
+001000000 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.KeyValueScanner_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.Store_java

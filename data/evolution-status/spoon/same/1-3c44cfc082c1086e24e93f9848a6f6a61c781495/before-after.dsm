@@ -1,0 +1,6 @@
+[Call,Import,Use,Contain]
+2
+0 1011
+1100 0
+src.main.java.spoon.metamodel.Metamodel_java
+src.main.java.spoon.metamodel.MetamodelProperty_java

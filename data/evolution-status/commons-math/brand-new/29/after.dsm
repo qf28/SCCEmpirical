@@ -1,0 +1,8 @@
+[Cast,Call,Typed,Import,Extend,Use,Create,Throw]
+3
+0 01100010 0
+11100010 0 01000010
+00100000 11100010 0
+src.main.java.org.apache.commons.math.geometry.euclidean.threeD.Line_java
+src.main.java.org.apache.commons.math.geometry.euclidean.threeD.Plane_java
+src.main.java.org.apache.commons.math.geometry.euclidean.threeD.PolyhedronsSet_java

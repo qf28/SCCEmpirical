@@ -1,0 +1,6 @@
+[Call,Typed,Set,Import,Extend,Use,Implement]
+2
+0 0001000
+0101000 0
+src.main.org.apache.tools.ant.taskdefs.Javac_java
+src.main.org.apache.tools.ant.taskdefs.compilers.CompilerAdapter_java

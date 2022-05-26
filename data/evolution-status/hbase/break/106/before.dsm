@@ -1,0 +1,46 @@
+[Cast,Call,Typed,Import,Set,Extend,Use,Create,Implement]
+22
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000100000 0 0 0
+0 0 0 010101000 0 0 011000100 0 010000000 0 0 0 0 010000000 0 010000000 011000000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 011100000 011100000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 010100010 011000100 0 010000000 0 011100000 0 0 0 0 0 0 0 010100010 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 011100000 0 0 010000000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 010000000 0 0 0 0 0
+0 111100110 0 011100000 0 0 0 0 010111100 0 0 0 0 011000010 0 011000010 011000000 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 011100000 0 0 0 0 0 0 0 0 0
+0 0 0 011000110 0 0 110100100 0 0 0 111100000 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 011100000 0 000100000 011100000 0 0 0 0 0
+001000000 0 0 0 0 0 0 0 0 0 0 001000000 001000000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 000100000
+0 0 0 0 0 0 0 0 0 0 0 0 0 001100000 0 0 0 0 0 0 0 0
+011100000 0 010100010 0 010100010 011000010 0 0 0 0 111100000 011100000 001100000 0 111100010 011000000 011000010 010000010 0 110100000 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 001000001 011100000 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 110000100 0 110100100 010100010 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 011000000 0 0 0 0 0 0 0 0 0 011000000 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 011000000 0 0 0 0 0 0 0 0
+011100000 0 0 0 0 0 0 0 110000000 0 110100000 0 0 0 0 0 0 0 0 0 0 011100010
+001000001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 010001000 0 0 0 0 001100000 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 000000100 0 110100000 011100000 0 0 0 0 0 0 0 0 0 0
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.RegionMergeCoordination_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.MasterRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.OpenedRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RSRpcServices_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.ClosedRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.RegionStateStore_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.HMaster_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.handler.OpenRegionHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.HRegionServer_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.handler.ServerShutdownHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.BaseCoordinatedStateManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.SplitTransactionCoordination_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.OpenRegionCoordination_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignmentManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.ZkOpenRegionCoordination_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.ServerManager_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.RegionStates_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.master.AssignCallable_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.RegionMergeTransaction_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.coordination.ZkRegionMergeCoordination_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.handler.OpenMetaHandler_java
+hbase-server.src.main.java.org.apache.hadoop.hbase.regionserver.SplitTransaction_java

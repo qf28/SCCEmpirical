@@ -1,0 +1,14 @@
+[Call,Typed,Import,Extend,Create,Use]
+6
+0 110010 100000 0 0 0
+0 0 0 0 100000 0
+110011 0 0 110010 0 110010
+0 0 0 0 100000 0
+0 0 100000 0 0 0
+0 0 100010 110010 100000 0
+src.java.org.apache.hadoop.hbase.HRegionServer_java
+src.java.org.apache.hadoop.hbase.HTable_java
+src.java.org.apache.hadoop.hbase.LocalHBaseCluster_java
+src.java.org.apache.hadoop.hbase.HBaseAdmin_java
+src.java.org.apache.hadoop.hbase.HConnectionManager_java
+src.java.org.apache.hadoop.hbase.HMaster_java

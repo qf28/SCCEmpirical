@@ -1,0 +1,8 @@
+[Call,Import,Return,Extend,Use,Create,Parameter,Contain]
+3
+0 0 10001000
+0 0 11001000
+10000101 01000000 0
+src.main.java.org.eclipse.yasson.internal.VariableTypeInheritanceSearch_java
+src.main.java.org.eclipse.yasson.internal.serializer.AbstractItem_java
+src.main.java.org.eclipse.yasson.internal.ReflectionUtils_java

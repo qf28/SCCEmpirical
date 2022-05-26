@@ -1,0 +1,6 @@
+[Cast,Call,Typed,Import,Create,Use,Implement]
+2
+0 0110000
+0010000 0
+jdk-1_4.wicket.src.test.java.org.apache.wicket.util.io.PageA_java
+jdk-1_4.wicket.src.test.java.org.apache.wicket.util.io.PageB_java
